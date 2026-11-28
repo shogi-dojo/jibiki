@@ -1,0 +1,143 @@
+#+TITLE: モカ
+#+JMDICT_ID: 2490080
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: モカ
+#+ROMAJI: moka
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-25
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-2490080-001
+:PROPERTIES:
+:TEXT: モカ
+:NO_KANJI: false
+:END:
+
+* Sense s-2490080-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 45cbe8d9b8a6578929805b8f33b24b4a2daa9222eb747dab10a53acb37747053
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- mocha
+** Ukrainian glosses
+*** uk-s-2490080-001-001
+:PROPERTIES:
+:END:
+- text :: мокко (сорт кави або кавовий напій із шоколадом)
+** Learner notes
+*** note-s-2490080-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник іншомовного походження (від англ. mocha, за назвою порту Моха в Ємені). Позначає як сорт арабіки з легким шоколадно-фруктовим відтінком, так і кавовий напій із додаванням шоколаду чи какао (カフェモカ).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2490080-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 喫茶店でモカを注文した。
+- READING :: きっさてんでもかをちゅうもんした。
+- UK :: У кав'ярні я замовив мокко.
+- FOCUS :: モカ
+*** ex-2490080-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 香り豊かなモカの豆を毎朝挽いて飲んでいる。
+- READING :: かおりゆたかなもかのまめをまいあさひいてのんでいる。
+- UK :: Щоранку я мелю ароматні зерна мокко й п'ю каву.
+- FOCUS :: モカ
+*** ex-2490080-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 甘さとほろ苦さが調和したカフェモカは、モカ特有の風味を楽しみたい人に好まれている。
+- READING :: あまさとほろにがさがちょうわしたかふぇもかは、もかとくゆうのふうみをたのしみたいひとにこのまれている。
+- UK :: Кафе-мокко, у якому поєднано солодкість і легку гірчинку, полюбляють ті, хто хоче відчути характерний смак сорту мокко.
+- FOCUS :: モカ
+
+* Sense s-2490080-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 8b2648055d1ccaa429a62bda8f6b948227e3a144bf18735bbfaa7f8085831c60
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2490080-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Mocca
+*** en-s-2490080-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Mokka (Kaffeesorte; sehr starker Kaffee)
+*** en-s-2490080-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Mokka (Hafenort in Jemen)
+** Ukrainian glosses
+
+* Sense s-2490080-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 5250d350fa99c8932868d73375e55dcee11e6afdd57117431ffcdb8474ef8aea
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2490080-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ((англ.) mocha) кофе мокко
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2490080-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2490080-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 2
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-25
+:END:
+- reading :: モカ

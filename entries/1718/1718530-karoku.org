@@ -1,0 +1,160 @@
+#+TITLE: 家禄
+#+JMDICT_ID: 1718530
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かろく
+#+ROMAJI: karoku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-25
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1718530-001
+:PROPERTIES:
+:TEXT: 家禄
+:END:
+** Reading rd-1718530-001
+:PROPERTIES:
+:TEXT: かろく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1718530-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: d9f26d4a03fb9c38cfa7d4e7ec094c57a24d35c033a56d76c5897b6259ed69b0
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- hist
+** English glosses
+- hereditary stipend
+** Ukrainian glosses
+*** uk-s-1718530-001-001
+:PROPERTIES:
+:END:
+- text :: спадкова платня самурая; родове жалування
+** Learner notes
+*** note-s-1718530-001-001
+:PROPERTIES:
+:END:
+- UK :: Історичний термін періоду Едо для позначення спадкового утримання (зазвичай у рисових мірах 石), яке самурайський рід отримував від шьоґунату або володаря хан за службу. Утворюється з 家 (рід, дім) та 禄 (платня, винагорода).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1718530-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 先祖代々の家禄を受け継ぎました。
+- READING :: せんぞだいだいのかろくをうけつぎました。
+- UK :: Він успадкував родове жалування предків.
+- FOCUS :: 家禄
+*** ex-1718530-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 明治維新の後、武士の家禄制度は廃止された。
+- READING :: めいじいしんのあと、ぶしのかろくせいどははいしされた。
+- UK :: Після реставрації Мейджі систему спадкової самурайської платні було скасовано.
+- FOCUS :: 家禄
+*** ex-1718530-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 功績が認められた武士は、藩主から加増されてより高い家禄を得ることもあった。
+- READING :: こうせきがみとめられたぶしは、はんしゅからかぞうされてよりたかいかろくをえることもあった。
+- UK :: Самураї, чиї заслуги визнавав володар хан, іноді отримували надбавку й вище спадкове утримання.
+- FOCUS :: 家禄
+
+* Sense s-1718530-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: c71c99cfd96e4b4bef5b6c1677e36fd3654b5de83a00d405868b4f11f948d487
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1718530-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: erbliches Gehalt
+*** en-s-1718530-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: erbliches Lehen
+** Ukrainian glosses
+
+* Sense s-1718530-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: c1b7bc47bd42aa9ff3b676da5b16eeb510be981aac65b92891f35c68aa284193
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1718530-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (ист.) наследственное жалованье, жалованье, присвоенное роду
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1718530-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1718530-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-25
+:END:
+- reading :: かろく
+** Accent accent-rd-1718530-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1718530-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-25
+:END:
+- reading :: かろく

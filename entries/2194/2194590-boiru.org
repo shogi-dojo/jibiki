@@ -1,0 +1,137 @@
+#+TITLE: ボイル
+#+JMDICT_ID: 2194590
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ボイル
+#+ROMAJI: boiru
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-2194590-001
+:PROPERTIES:
+:TEXT: ボイル
+:NO_KANJI: false
+:END:
+
+* Sense s-2194590-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 46b4d01fe1997e2e36d3a8297c1450c704ccc42187b970da0a8a41271ac4d75c
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- boiling (something)
+** Ukrainian glosses
+*** uk-s-2194590-001-001
+:PROPERTIES:
+:END:
+- text :: варіння, відварювання, бланшування
+** Learner notes
+*** note-s-2194590-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник і перехідне дієслово на する, запозичене з англійської (boil). У кулінарії позначає відварювання морепродуктів, овочів чи яєць у киплячій воді або продукт, уже готовий після такого варіння (наприклад, ボイルえび).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2194590-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: このエビはすでにボイルしてある。
+- READING :: このえびはすでにぼいるしてある。
+- UK :: Ці креветки вже відварені.
+- FOCUS :: ボイル
+*** ex-2194590-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: ソーセージを軽くボイルしてから、朝食の皿に盛り付けた。
+- READING :: そーせーじをかるくぼいるしてから、ちょうしょくのさらにもりつけた。
+- UK :: Я злегка відварив сосиски, а потім виклав їх на тарілку до сніданку.
+- FOCUS :: ボイル
+*** ex-2194590-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: カニは新鮮なうちに塩水で手早くボイルすると、うま味を逃さずにおいしく仕上がる。
+- READING :: かにはしんせんなうちにしおみずでてばやくぼいるすると、うまみをのがさずにおいしくしあがる。
+- UK :: Якщо швидко відварити краба в підсоленій воді, поки він свіжий, м'ясо збереже насичений смак і вийде дуже смачним.
+- FOCUS :: ボイル
+
+* Sense s-2194590-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 9eca0f73bfcf39986e4bf37d59de6a2b255d81ab1189f99c899f7a969200f32a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2194590-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {cul.} koken
+*** en-s-2194590-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aan de kook brengen
+** Ukrainian glosses
+
+* Sense s-2194590-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: ac2f4ce7cc72fb6e36d47385700f04663beeed1b17fd14f0cbc288f7bf92911b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2194590-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kochen
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2194590-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2194590-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: ボイル

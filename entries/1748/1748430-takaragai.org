@@ -1,0 +1,169 @@
+#+TITLE: 宝貝
+#+JMDICT_ID: 1748430
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: たからがい
+#+ROMAJI: takaragai
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1748430-001
+:PROPERTIES:
+:TEXT: 宝貝
+:END:
+** Reading rd-1748430-001
+:PROPERTIES:
+:TEXT: たからがい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+** Reading rd-1748430-002
+:PROPERTIES:
+:TEXT: タカラガイ
+:NO_KANJI: true
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1748430-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 8e9d7491dffa6034e31a1be2ecfcfeb98150c06a643650e1c754386dad96e5d5
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- uk
+** English glosses
+- cowrie
+- cowry
+** Ukrainian glosses
+*** uk-s-1748430-001-001
+:PROPERTIES:
+:END:
+- text :: каурі; ципрея; мушля каурі
+** Learner notes
+*** note-s-1748430-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник на позначення морських черевоногих молюсків родини ципреєвих (Cypraeidae) та їхніх блискучих мушель. Назва пов'язана з тим, що в давнину такі мушлі слугували грошима (宝 — скарб, 貝 — мушля); на письмі часто вживається запис канаю (タカラガイ).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1748430-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 砂浜で美しい宝貝を拾った。
+- READING :: すなはまでうつくしいたからがいをひろった。
+- UK :: На піщаному березі я підібрав гарну мушлю каурі.
+- FOCUS :: 宝貝
+*** ex-1748430-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 博物館の展示で、かつて貨幣として使われたタカラガイを見た。
+- READING :: はくぶつかんのてんじで、かつてかへいとしてつかわれたたからがいをみた。
+- UK :: На виставці в музеї я побачив мушлі каурі, які колись використовували як гроші.
+- FOCUS :: タカラガイ
+*** ex-1748430-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 南の島の浅瀬には、つややかな殻を持つ宝貝が多く生息している。
+- READING :: みなみのしまのあさせには、つややかなからをもつたからがいがおおくせいそくしている。
+- UK :: На мілководді південних островів мешкає чимало каурі з глянцевими мушлями.
+- FOCUS :: 宝貝
+
+* Sense s-1748430-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 494a39e59e26c9ce067aeb7645edc2ad07676c7f539200482c9406781483a17b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1748430-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kaurischnecke
+*** en-s-1748430-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kaurimuschel
+** Ukrainian glosses
+
+* Sense s-1748430-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: ef3749ef5be8ea7d1f426a553bda645926b1c2aade3810a21b28662449c77af7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1748430-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ципреи, Cypraeidae (брюхоногие моллюски)
+** Ukrainian glosses
+
+* Sense s-1748430-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 6a4766bd436fc4ea5d8042303d4f59e51e475d969f5dc5f4d666483be2188f67
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1748430-004-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kauri
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1748430-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1748430-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: たからがい

@@ -1,0 +1,173 @@
+#+TITLE: アパルトヘイト
+#+JMDICT_ID: 1017820
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: アパルトヘイト
+#+ROMAJI: aparutoheito
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-25
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-1017820-001
+:PROPERTIES:
+:TEXT: アパルトヘイト
+:NO_KANJI: false
+:END:
+*** Priorities
+- gai2
+
+* Sense s-1017820-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 95d1d6f3d8633bb7196f599a9b1f14ad957acc5e7365be20d1af4592232c10e3
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Language sources
+**** Language source ls-s-1017820-001-001
+:PROPERTIES:
+:LANG: afr
+:TYPE: full
+:WASEI: false
+:END:
+- text ::
+** English glosses
+- apartheid
+** Ukrainian glosses
+*** uk-s-1017820-001-001
+:PROPERTIES:
+:END:
+- text :: апартеїд
+** Learner notes
+*** note-s-1017820-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник іншомовного походження (від африкаанс apartheid — «роздільність, окреме проживання»). Позначає офіційну державну політику расової сегрегації та дискримінації, що діяла в Південно-Африканській Республіці у другій половині двадцятого століття; вживається в історичних і суспільно-політичних текстах, зокрема у висловах на кшталт アパルトヘイト政策 («політика апартеїду»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1017820-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 歴史の授業でアパルトヘイトを学んだ。
+- READING :: れきしのじゅぎょうであぱるとへいとをまなんだ。
+- UK :: На уроці історії ми вивчали апартеїд.
+- FOCUS :: アパルトヘイト
+*** ex-1017820-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 長年の国際的な批判を受け、アパルトヘイト体制はついに廃止された。
+- READING :: ながねんのこくさいてきなひはんをうけ、あぱるとへいとたいせいはついにはいしされた。
+- UK :: Під тиском багаторічної міжнародної критики режим апартеїду зрештою було скасовано.
+- FOCUS :: アパルトヘイト
+*** ex-1017820-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: この博物館では、アパルトヘイトに反対して闘った人々の貴重な記録や写真が展示されている。
+- READING :: このはくぶつかんでは、あぱるとへいとにはんたいしてたたかったひとびとのきちょうなきろくやしゃしんがてんじされている。
+- UK :: У цьому музеї експонуються цінні записи та фотографії людей, які боролися проти апартеїду.
+- FOCUS :: アパルトヘイト
+
+* Sense s-1017820-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 352a70e98e63bf83f213bc09b788df245ac5f19fff2fdc99acf00d04fb556dc2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1017820-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: apartheid
+** Ukrainian glosses
+
+* Sense s-1017820-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 1c17233cfa0774dc6ad5ec79059deb2664f6a05d5345aeb39f478b14a5cf8abe
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1017820-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Apartheid
+** Ukrainian glosses
+
+* Sense s-1017820-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: cc16baef328d5dbb0009fa951a53fdafb7f63525e3180d86e255154a347d02b3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1017820-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ((англ.) apartheid) апартеид
+** Ukrainian glosses
+
+* Sense s-1017820-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: d6d2dff17686402d276d716444a082c00a62df67441e8f3ac37e72b1ec4d0f89
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1017820-005-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: apartheid
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1017820-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1017820-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 7
+:DROP_AFTER: 5
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-25
+:END:
+- reading :: アパルトヘイト

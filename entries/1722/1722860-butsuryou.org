@@ -1,0 +1,164 @@
+#+TITLE: 物量
+#+JMDICT_ID: 1722860
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ぶつりょう
+#+ROMAJI: butsuryou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1722860-001
+:PROPERTIES:
+:TEXT: 物量
+:END:
+*** Priorities
+- news2
+- nf37
+** Reading rd-1722860-001
+:PROPERTIES:
+:TEXT: ぶつりょう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf37
+
+* Sense s-1722860-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: a4a41dc1503ed359af5ab86c54fc6e21034a2df9cb07b486883bcbb5b41aa2d5
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- amount of material resources
+** Ukrainian glosses
+*** uk-s-1722860-001-001
+:PROPERTIES:
+:END:
+- text :: кількість матеріальних ресурсів; обсяг вантажів чи запасів
+** Learner notes
+*** note-s-1722860-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник (від 物 — річ, матеріали та 量 — кількість), що позначає сукупний обсяг матеріальних засобів, товарів або вантажів. Часто трапляється в економіці, логістиці та військовій справі у висловах 物量にものを言わせる (брати кількістю ресурсів) або 物量で圧倒する.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1722860-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この倉庫には毎日のように膨大な物量が届く。
+- READING :: このそうこにはまいにちのようにぼうだいなぶつりょうがとどく。
+- UK :: До цього складу мало не щодня надходить величезний обсяг вантажів.
+- FOCUS :: 物量
+*** ex-1722860-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 年末年始のセールでは、配送センターが扱う物量が一気に増える。
+- READING :: ねんまつねんしのせーるでは、はいそうせんたーがあつかうぶつりょうがいっきにふえる。
+- UK :: Під час новорічно-різдвяних розпродажів обсяг вантажів, який обробляють сортувальні центри, різко зростає.
+- FOCUS :: 物量
+*** ex-1722860-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 戦局が長期化するにつれ、豊富な物量を背景にした補給力の差が勝敗を左右するようになった。
+- READING :: せんきょくがちょうきかするにつれ、ほうふなぶつりょうをはいけいにしたほきゅうりょくのさがしょうはいをさゆうするようになった。
+- UK :: У міру затягування бойових дій результат дедалі більше залежав від різниці в спроможностях постачання, заснованих на багатстві матеріальних ресурсів.
+- FOCUS :: 物量
+
+* Sense s-1722860-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 76d93d5eefb8e821987509647fde9d9d8fbf15a698dbb83cd400b92898d85b84
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1722860-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Menge an Gütern
+*** en-s-1722860-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Menge an Ressourcen
+** Ukrainian glosses
+
+* Sense s-1722860-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 669eb35a81c1f151d2e57b3a634a9936cd6faa48151db8642aeaba92328f9feb
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1722860-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: количество материалов, материальные ресурсы
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1722860-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1722860-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: ぶつりょう
+** Accent accent-rd-1722860-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1722860-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 2
+:PATTERN: nakadaka
+:MORA_PATTERN: LHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: ぶつりょう

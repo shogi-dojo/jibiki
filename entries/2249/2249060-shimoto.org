@@ -1,0 +1,167 @@
+#+TITLE: 笞
+#+JMDICT_ID: 2249060
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: しもと
+#+ROMAJI: shimoto
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2249060-001
+:PROPERTIES:
+:TEXT: 笞
+:END:
+** Written form wf-2249060-002
+:PROPERTIES:
+:TEXT: 楚
+:END:
+** Reading rd-2249060-001
+:PROPERTIES:
+:TEXT: しもと
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2249060-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 99215d17e09ae181bfe4a145692b203af0f54adf3acaad0878043fbf67cf2c7c
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- arch
+- uk
+** English glosses
+- scourge
+- whip
+- switch
+** Ukrainian glosses
+*** uk-s-2249060-001-001
+:PROPERTIES:
+:END:
+- text :: різка; хлист; лозина для покарання
+** Learner notes
+*** note-s-2249060-001-001
+:PROPERTIES:
+:END:
+- UK :: Застаріле слово, що позначає тонкий гнучкий прут або батіг, яким у давнину карали порушників чи підганяли коней (у текстах часто пишеться абеткою як しもと, а в історичному законодавстві 律令 термін 笞刑 означає тілесне покарання палицями).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2249060-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 歴史の本で、昔の人が笞を使ったことを知った。
+- READING :: れきしのほんで、むかしのひとがしもとをつかったことをしった。
+- UK :: З книжки з історії я дізнався, що в давнину для покарань використовували різку.
+- FOCUS :: 笞
+*** ex-2249060-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 厳しい時代には、罪人に対してしもとによる罰が与えられた。
+- READING :: きびしいじだいには、ざいにんにたいしてしもとによるばつがあたえられた。
+- UK :: У суворі часи злочинців карали шмаганням лозиною.
+- FOCUS :: しもと
+*** ex-2249060-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 古代の法典には、罪の軽重に応じて笞で打つ回数が細かく定められていた。
+- READING :: こだいのほうてんには、つみのけいじゅうにおうじてしもとでうつかいすうがこまかくさだめられていた。
+- UK :: У стародавніх кодексах відповідно до тяжкості провини докладно визначалася кількість ударів різкою.
+- FOCUS :: 笞
+
+* Sense s-2249060-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 916f84c98daae6556bc8519f257d931c8eabcab9e9c43393d90d87313f85a37c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2249060-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Rute
+*** en-s-2249060-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Stock (um Kriminelle als Bestrafung zu schlagen)
+** Ukrainian glosses
+
+* Sense s-2249060-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 35279c0d18f5c3eea047615257cb3b42495f0f561450747e11c8b1a05340f50e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2249060-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: розга
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2249060-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2249060-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 3
+:PATTERN: odaka
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: しもと
+** Accent accent-rd-2249060-001-002
+:PROPERTIES:
+:TARGET_ID: rd-2249060-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: しもと

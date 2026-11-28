@@ -1,0 +1,168 @@
+#+TITLE: なで肩
+#+JMDICT_ID: 1673810
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: なでがた
+#+ROMAJI: nadegata
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1673810-001
+:PROPERTIES:
+:TEXT: なで肩
+:END:
+** Written form wf-1673810-002
+:PROPERTIES:
+:TEXT: 撫で肩
+:END:
+** Written form wf-1673810-003
+:PROPERTIES:
+:TEXT: 撫肩
+:END:
+*** Information
+- sK
+** Reading rd-1673810-001
+:PROPERTIES:
+:TEXT: なでがた
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1673810-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 60aedfb52cd705da0d7b53273041b513ba60e6af1855e791215ada19c3283834
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- sloping shoulders
+** Ukrainian glosses
+*** uk-s-1673810-001-001
+:PROPERTIES:
+:END:
+- text :: покаті плечі; спадисті плечі
+** Learner notes
+*** note-s-1673810-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник на позначення лінії плечей, що плавно спускаються вниз від шиї (на противагу いかり肩 — широким, рівним або припіднятим плечам). У Японії вважається, що на такій поставі особливо гарно сидить традиційне кімоно.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1673810-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 私はなで肩なので、かばんのひもがすぐ落ちる。
+- READING :: わたしはなでがたなので、かばんのひもがすぐおちる。
+- UK :: У мене покаті плечі, тому ремінець сумки постійно сповзає.
+- FOCUS :: なで肩
+*** ex-1673810-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: なで肩の人は和服を着たときのシルエットが美しく見えると言われる。
+- READING :: なでがたのひとはわふくをきたときのしるえっとがうつくしくみえるといわれる。
+- UK :: Кажуть, що на людях зі спадистими плечима традиційний японський одяг утворює особливо витончений силует.
+- FOCUS :: なで肩
+*** ex-1673810-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 彼女は自分のなで肩を気にしていたが、肩パッドの入ったジャケットを選べばすっきりと着こなせた。
+- READING :: かのじょはじぶんのなでがたをきにしていたが、かたぱっどのはいったじゃけっとをえらべばすっきりときこなせた。
+- UK :: Вона комплексувала через свої покаті плечі, але піджак із підплічниками одразу робив її поставу зібраною та стильною.
+- FOCUS :: なで肩
+
+* Sense s-1673810-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 5b393c0e73fb663d773574a63027b2fd8dc8414a545c1f22e7c06067daa9c574
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1673810-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hängende Schultern
+*** en-s-1673810-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: leicht abfallende Schultern
+** Ukrainian glosses
+
+* Sense s-1673810-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 82f19ecd3c1e394eade660be4a46552b11a7cd65741ce468f467b1c1c68ae898
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1673810-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: покатые плечи
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1673810-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1673810-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: なでがた
+** Accent accent-rd-1673810-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1673810-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 2
+:PATTERN: nakadaka
+:MORA_PATTERN: LHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: なでがた

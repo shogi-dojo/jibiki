@@ -1,0 +1,166 @@
+#+TITLE: 地声
+#+JMDICT_ID: 1607840
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: じごえ
+#+ROMAJI: jigoe
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1607840-001
+:PROPERTIES:
+:TEXT: 地声
+:END:
+** Reading rd-1607840-001
+:PROPERTIES:
+:TEXT: じごえ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1607840-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 20721b281b80f2446e86bf4aea9ee7800770e7bf4d117eccb7274ebb8442bcf9
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- one's natural voice
+- one's normal speaking voice
+** Ukrainian glosses
+*** uk-s-1607840-001-001
+:PROPERTIES:
+:END:
+- text :: природний голос; звичний голос (без прикрас і фальцету)
+** Learner notes
+*** note-s-1607840-001-001
+:PROPERTIES:
+:END:
+- UK :: Побутовий іменник (地 «природна основа» + 声 «голос»), що позначає звичайний тембр і висоту голосу, яким людина говорить у повсякденні, на відміну від удаваного чи зміненого голосу (作り声).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1607840-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 電話に出たら、彼女の低い地声が聞こえた。
+- READING :: でんわにでたら、かのじょのひくいじごえがきこえた。
+- UK :: Коли вона взяла слухавку, я почув її низький природний голос.
+- FOCUS :: 地声
+*** ex-1607840-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 合唱の練習では、裏声ではなくしっかりした地声で歌うように指導された。
+- READING :: がっしょうのれんしゅうでは、うらごえではなくしっかりしたじごえでうたうようにしどうされた。
+- UK :: На репетиції хору нам порадили співати впевненим грудним голосом, а не фальцетом.
+- FOCUS :: 地声
+*** ex-1607840-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 普段は控えめな印象だが、緊張が解けて地声で笑い始めると場の空気が一気に和む。
+- READING :: ふだんはひかえめないんしょうだが、きんちょうがとけてじごえでわらいはじめるとばのくうきがいっきになごむ。
+- UK :: Зазвичай вона здається стриманою, але щойно напруга спадає і вона починає сміятися своїм природним голосом, атмосфера одразу теплішає.
+- FOCUS :: 地声
+
+* Sense s-1607840-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: ff1e2df76b65ee00a67aabdd27a0e1730c8df92caf9ffd82aca614e13a58ae7d
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- chest voice
+- modal voice
+** Ukrainian glosses
+*** uk-s-1607840-002-001
+:PROPERTIES:
+:END:
+- text :: грудний голос; натуральний співочий голос
+** Learner notes
+*** note-s-1607840-002-001
+:PROPERTIES:
+:END:
+- UK :: Вокальний і фонетичний термін на позначення звучання у природному грудному регістрі (без переходу на фальцет — 裏声).
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1607840-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 44859822661eef070ad066410cd2f3dee044433468b3a9aaa08657a47a9a1135
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1607840-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: natürliche Stimme
+*** en-s-1607840-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: angeborene Stimme
+** Ukrainian glosses
+
+* Sense s-1607840-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: afa4ebb65e0741cfd473c682ebd63398609268bfd892ef25286554960f442858
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1607840-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: свой голос, природный (естественный) голос
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1607840-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1607840-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: じごえ

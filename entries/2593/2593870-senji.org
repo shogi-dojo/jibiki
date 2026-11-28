@@ -1,0 +1,142 @@
+#+TITLE: 宣旨
+#+JMDICT_ID: 2593870
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: せんじ
+#+ROMAJI: senji
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2593870-001
+:PROPERTIES:
+:TEXT: 宣旨
+:END:
+** Reading rd-2593870-001
+:PROPERTIES:
+:TEXT: せんじ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+** Reading rd-2593870-002
+:PROPERTIES:
+:TEXT: ぜじ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Information
+- ok
+
+* Sense s-2593870-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 185523ec95f80cb21f9b01c5f1957aeb61940ee8ed758568db7f3e6fd1191b97
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- written imperial order (late Heian period)
+** Ukrainian glosses
+*** uk-s-2593870-001-001
+:PROPERTIES:
+:END:
+- text :: імператорський указ; письмова постанова двору
+** Learner notes
+*** note-s-2593870-001-001
+:PROPERTIES:
+:END:
+- UK :: Історичний іменник, що позначає письмове розпорядження імператора в Японії, передусім у період Хейан (передавалося через урядовців без складання урочистого едикту 詔勅). Слово також має традиційне читання ぜじ і вживається в історичних джерелах, наприклад 宣旨を下す (видати імператорський указ).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2593870-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 都に新しい宣旨が届いた。
+- READING :: みやこにあたらしいせんじがとどいた。
+- UK :: До столиці надійшов новий імператорський указ.
+- FOCUS :: 宣旨
+*** ex-2593870-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 朝廷はその武将を追討する宣旨を下した。
+- READING :: ちょうていはそのぶしょうをついとうするせんじをくだした。
+- UK :: Імператорський двір видав указ про каральний похід проти того воєначальника.
+- FOCUS :: 宣旨
+*** ex-2593870-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 平安時代の古文書には、地方の荘園に関する宣旨が多く残っている。
+- READING :: へいあんじだいのこもんじょには、ちほうのしょうえんにかんするせんじがおおくのこっている。
+- UK :: У давніх документах періоду Хейан збереглося чимало імператорських постанов щодо провінційних маєтків.
+- FOCUS :: 宣旨
+
+* Sense s-2593870-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 991425ee9fd088b1359f9aa26cf0aa7dffb64ef6c0e05029a735446c69063c5e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2593870-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kaiserlicher Erlass
+** Ukrainian glosses
+
+* Sense s-2593870-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: ad258fde4ea734ef802d96b81d33ab7fbd5aa944d2b01037f6ec13ab60c664d5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2593870-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (уст.) повеление императора
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2593870-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2593870-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: せんじ

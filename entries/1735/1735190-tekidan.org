@@ -1,0 +1,141 @@
+#+TITLE: 敵弾
+#+JMDICT_ID: 1735190
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: てきだん
+#+ROMAJI: tekidan
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1735190-001
+:PROPERTIES:
+:TEXT: 敵弾
+:END:
+** Reading rd-1735190-001
+:PROPERTIES:
+:TEXT: てきだん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1735190-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 80e97b9d6cb5b64ced442573216f6f26f439d999a190d661c2c8e52d42181515
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- enemy bullet
+** Ukrainian glosses
+*** uk-s-1735190-001-001
+:PROPERTIES:
+:END:
+- text :: ворожа куля; ворожий снаряд
+** Learner notes
+*** note-s-1735190-001-001
+:PROPERTIES:
+:END:
+- UK :: Книжний і публіцистичний військовий іменник, утворений поєднанням морфем 敵 (ворог, супротивник) та 弾 (куля, набій, снаряд). Уживається у воєнних звітах та історичних оповідях у сполученнях на зразок 敵弾に倒れる (полягти від ворожої кулі) та 敵弾を避ける (ухилятися від ворожого вогню).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1735190-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 兵士は敵弾に当たって倒れた。
+- READING :: へいしはてきだんにあたってたおれた。
+- UK :: Солдат упав, уражений ворожою кулею.
+- FOCUS :: 敵弾
+*** ex-1735190-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 隊長は敵弾をくぐり抜けて味方の陣地へ戻った。
+- READING :: たいちょうはてきだんをくぐりぬけてみかたのじんちへもどった。
+- UK :: Командир прорвався крізь ворожий обстріл і повернувся на позиції своїх.
+- FOCUS :: 敵弾
+*** ex-1735190-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 激しい銃撃戦の中で、彼は仲間をかばいながら敵弾を浴びて重傷を負った。
+- READING :: はげしいじゅうげきせんのなかで、かれはなかまをかばいながらてきだんをあびてじゅうしょうをおった。
+- UK :: Під час запеклої перестрілки він, прикриваючи побратимів, потрапив під ворожі кулі й зазнав тяжкого поранення.
+- FOCUS :: 敵弾
+
+* Sense s-1735190-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: fcd2f0d0fdde93c2d03c71a0ca81e06a6d25be32b15485862f0f18b03da03c53
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1735190-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: feindliche Kugel
+*** en-s-1735190-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: feindliches Geschoss
+** Ukrainian glosses
+
+* Sense s-1735190-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 4532ef842b38668ab906eedf4f3be89749512dd87ad17ca82b2711445ccc2408
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1735190-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: вражеская пуля; снаряды (пули) противника
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1735190-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1735190-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: てきだん

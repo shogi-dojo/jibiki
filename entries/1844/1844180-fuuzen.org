@@ -1,0 +1,173 @@
+#+TITLE: 風前
+#+JMDICT_ID: 1844180
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ふうぜん
+#+ROMAJI: fuuzen
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1844180-001
+:PROPERTIES:
+:TEXT: 風前
+:END:
+*** Priorities
+- news2
+- nf37
+** Reading rd-1844180-001
+:PROPERTIES:
+:TEXT: ふうぜん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf37
+
+* Sense s-1844180-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 660ff2c65e9452b698b1a8391e7759ee87a5abb51cad56bff4ffa3269908bf60
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- where the wind blows
+** Ukrainian glosses
+*** uk-s-1844180-001-001
+:PROPERTIES:
+:END:
+- text :: місце на вітрі; під поривами вітру
+** Learner notes
+*** note-s-1844180-001-001
+:PROPERTIES:
+:END:
+- UK :: Книжний іменник, який сам по собі вживається рідко й майже завжди входить до фразеологізму 風前の灯 («вогник на вітрі»), що описує вкрай небезпечний, хисткий стан, на волосині від загибелі чи зникнення.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1844180-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: その会社の経営は風前の灯だ。
+- READING :: そのかいしゃのけいえいはふうぜんのともしびだ。
+- UK :: Справи цієї компанії тримаються на волосині.
+- FOCUS :: 風前
+*** ex-1844180-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 主力選手がけがで離脱し、チームの優勝は風前の灯となった。
+- READING :: しゅりょくせんしゅがけがでりだつし、ちーむのゆうしょうはふうぜんのともしびとなった。
+- UK :: Через травму провідного гравця шанси команди на перемогу стали зовсім примарними.
+- FOCUS :: 風前
+*** ex-1844180-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 長引く不況と後継者不足により、伝統ある老舗の存続は風前の灯となっている。
+- READING :: ながびくふきょうとこうけいしゃぶそくにより、でんとうあるしにせのそんぞくはふうぜんのともしびとなっている。
+- UK :: Через тривалий спад і брак наступників існування давньої родинної крамниці опинилося під загрозою зникнення.
+- FOCUS :: 風前
+
+* Sense s-1844180-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 35c6735aa4454c44fc92cb9ebd513d61cd7d3650eb4196cc4e475d07309e9f04
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1844180-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: winderige plaats
+*** en-s-1844180-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: plaats waar het waait
+*** en-s-1844180-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {meton.} wind
+** Ukrainian glosses
+
+* Sense s-1844180-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: b2b008d13270a956de652002141c3b0809a0d415cb083322d4a02e96cb017606
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1844180-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ein dem Wind ausgesetzter Ort
+** Ukrainian glosses
+
+* Sense s-1844180-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 14beca66d29e289de43476d169e1b8228820bc5f5c7c08aba4c151ee9f3be093
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1844180-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (связ.:) 風前の灯(灯火) огонь на ветру (тж. обр. о чём-л. неверном, ненадёжном)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1844180-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1844180-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: ふうぜん

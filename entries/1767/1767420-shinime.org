@@ -1,0 +1,145 @@
+#+TITLE: 死に目
+#+JMDICT_ID: 1767420
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: しにめ
+#+ROMAJI: shinime
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1767420-001
+:PROPERTIES:
+:TEXT: 死に目
+:END:
+** Written form wf-1767420-002
+:PROPERTIES:
+:TEXT: 死目
+:END:
+** Reading rd-1767420-001
+:PROPERTIES:
+:TEXT: しにめ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1767420-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: d5cc9b427d78d8e766a96024b4dd7cb39e1a83ca48955a290218c335a251bf07
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- moment of death
+** Ukrainian glosses
+*** uk-s-1767420-001-001
+:PROPERTIES:
+:END:
+- text :: останні хвилини життя, мить смерті
+** Learner notes
+*** note-s-1767420-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник. Зазвичай уживається в сталому виразі 死に目に会う / 死に目に遭う («застати когось живим перед смертю», «попрощатися в останні хвилини»), часто в заперечній формі (死に目に会えない).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1767420-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 祖母の死に目に会えました。
+- READING :: そぼのしにめにあえました。
+- UK :: Я встиг попрощатися з бабусею в її останні хвилини.
+- FOCUS :: 死に目
+*** ex-1767420-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 電車が遅れたせいで、恩師の死に目に間に合わなかった。
+- READING :: でんしゃがおくれたせいで、おんしのしにめにまにあわなかった。
+- UK :: Через затримку поїзда я не встиг застати свого вчителя живим.
+- FOCUS :: 死に目
+*** ex-1767420-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 遠く離れた地で暮らしていたため、親の死に目に会えなかったことを今も悔やんでいる。
+- READING :: とおくはなれたちでくらしていたため、おやのしにめにあえなかったことをいまもくやんでいる。
+- UK :: Оскільки він жив далеко, то досі шкодує, що не зміг бути поруч із батьками в мить їхньої смерті.
+- FOCUS :: 死に目
+
+* Sense s-1767420-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 94545977e9085d65951faaf821a5c49eb7c234ba0ec0005a569559bcbfd9f482
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1767420-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: letzte Stunde
+*** en-s-1767420-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Todesstunde
+** Ukrainian glosses
+
+* Sense s-1767420-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 7566733eb089de2430f6b54466052799ff6b9b00d3f2a53a7a076ef4d893c444
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1767420-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: момент смерти
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1767420-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1767420-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: しにめ

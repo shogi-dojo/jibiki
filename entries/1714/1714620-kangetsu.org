@@ -1,0 +1,142 @@
+#+TITLE: 寒月
+#+JMDICT_ID: 1714620
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かんげつ
+#+ROMAJI: kangetsu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1714620-001
+:PROPERTIES:
+:TEXT: 寒月
+:END:
+** Reading rd-1714620-001
+:PROPERTIES:
+:TEXT: かんげつ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1714620-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 85552550a527f551aa14d007bbdf9dd908c1eea434dad7336857f95841601ae1
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- wintry moon
+- a winter month
+** Ukrainian glosses
+*** uk-s-1714620-001-001
+:PROPERTIES:
+:END:
+- text :: зимовий місяць (на небі); холодний зимовий місяць (також як пора року)
+** Learner notes
+*** note-s-1714620-001-001
+:PROPERTIES:
+:END:
+- UK :: Поетичний і книжний іменник, утворений із 寒 («холодний, зимовий») і 月 («місяць»). У класичній поезії 俳句 є традиційним сезонним словом (季語) зими, що передає образ ясного, морозного місяця в чистому нічному небі.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1714620-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 冬の空に寒月が浮かんでいる。
+- READING :: ふゆのそらにかんげつがうかんでいる。
+- UK :: На зимовому небі світить холодний місяць.
+- FOCUS :: 寒月
+*** ex-1714620-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 凍りつくような夜、屋根の上に白い寒月が輝いていた。
+- READING :: こおりつくようなよる、やねのうえにしろいかんげつがかがやいていた。
+- UK :: Морозної ночі над дахом сяяв блідий зимовий місяць.
+- FOCUS :: 寒月
+*** ex-1714620-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 木枯らしがやんだ静かな深夜、澄み切った空を照らす寒月を眺めて句を詠んだ。
+- READING :: こがらしがやんだしずかなしんや、すみきったそらをてらすかんげつをながめてくをよんだ。
+- UK :: Тихої опівночі, коли вщух холодний вітер, він склав вірш, милуючись зимовим місяцем у прозорому небі.
+- FOCUS :: 寒月
+
+* Sense s-1714620-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 1550f9f1d8088e4036c004ef10233e4fd14b2f80b0b5bb8ed204df9e6a5f7f38
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1714620-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Wintermond
+*** en-s-1714620-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kalter, klarer Mond
+** Ukrainian glosses
+
+* Sense s-1714620-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 88c9646c7d5603375282c3ceb66fc9b350224775563496c7e1daff43d5e49098
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1714620-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (кн.) луна зимой
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1714620-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1714620-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: かんげつ

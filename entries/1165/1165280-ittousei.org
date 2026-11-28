@@ -1,0 +1,183 @@
+#+TITLE: 一等星
+#+JMDICT_ID: 1165280
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: いっとうせい
+#+ROMAJI: ittousei
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1165280-001
+:PROPERTIES:
+:TEXT: 一等星
+:END:
+** Written form wf-1165280-002
+:PROPERTIES:
+:TEXT: １等星
+:END:
+** Reading rd-1165280-001
+:PROPERTIES:
+:TEXT: いっとうせい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1165280-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 4aecc05b2c65c06963281041b4009787b5a636828f65a5c76f7c72a1af42e7ff
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- astron
+** English glosses
+- first magnitude star
+** Ukrainian glosses
+*** uk-s-1165280-001-001
+:PROPERTIES:
+:END:
+- text :: зірка першої величини
+** Learner notes
+*** note-s-1165280-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, астрономічний термін. Позначає найяскравіші зорі на нічному небі, видима зоряна величина яких становить приблизно від мінус півтора до півтора (наприклад, Вега або Альтаїр).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1165280-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 夜空に一等星が光っています。
+- READING :: よぞらにいっとうせいがひかっています。
+- UK :: На нічному небі сяє зірка першої величини.
+- FOCUS :: 一等星
+*** ex-1165280-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 夏の大三角を形作る三つの星は、どれも明るい一等星だ。
+- READING :: なつのだいさんかくをかたちづくるみっつのほしは、どれもあかるいいっとうせいだ。
+- UK :: Усі три зорі, що утворюють Літній трикутник, є яскравими зірками першої величини.
+- FOCUS :: 一等星
+*** ex-1165280-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 都会の明かりから離れた山頂では、一等星だけでなく無数の淡い星々までくっきりと見える。
+- READING :: とかいのあかりからはなれたさんちょうでは、いっとうせいだけでなくむすうのあわいほしぼしまでくっきりとみえる。
+- UK :: На вершині гори, далеко від міських вогнів, чітко видно не лише зірки першої величини, а й безліч тьмяніших зір.
+- FOCUS :: 一等星
+
+* Sense s-1165280-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 508a9594b6454c8eec2a03f1f82ed3381f30e5b2defc02b78fa64f68ff3f8c1d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1165280-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {astron.} ster van magnitude 1
+** Ukrainian glosses
+
+* Sense s-1165280-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 69bd5da8f3c393413b81c3c00f88c852b2a6a31ed48a21b90a7de1ffa8eea9f7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1165280-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Stern 1. Größe
+*** en-s-1165280-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Stern erster Größe
+** Ukrainian glosses
+
+* Sense s-1165280-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: aa1945b05d84a1016ecbca8d705277f4abd849a037eae145d501448f04c46179
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1165280-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (астр.) звезда первой величины
+** Ukrainian glosses
+
+* Sense s-1165280-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 1e393ffbeae8bce3435f44d1701313e2659650b4a6f724853525d65cdfc3013a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1165280-005-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: estrella de primera magnitud
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1165280-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1165280-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: いっとうせい

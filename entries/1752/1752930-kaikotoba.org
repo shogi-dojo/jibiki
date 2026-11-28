@@ -1,0 +1,165 @@
+#+TITLE: 買い言葉
+#+JMDICT_ID: 1752930
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かいことば
+#+ROMAJI: kaikotoba
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1752930-001
+:PROPERTIES:
+:TEXT: 買い言葉
+:END:
+** Written form wf-1752930-002
+:PROPERTIES:
+:TEXT: 買いことば
+:END:
+*** Information
+- sK
+** Written form wf-1752930-003
+:PROPERTIES:
+:TEXT: 買言葉
+:END:
+*** Information
+- sK
+** Reading rd-1752930-001
+:PROPERTIES:
+:TEXT: かいことば
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1752930-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: bb206bac4075dc51650766ac7e9321a4e2e985c9e70eac2df0efbe0ad1ef8d72
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Cross-references
+- 売り言葉に買い言葉
+** English glosses
+- retort (to an insult, jeer, etc.)
+** Ukrainian glosses
+*** uk-s-1752930-001-001
+:PROPERTIES:
+:END:
+- text :: різка відповідь; відсіч (на образу, провокацію)
+** Learner notes
+*** note-s-1752930-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, що здебільшого вживається в прислів'ї 売り言葉に買い言葉 (за зухвале слово — гостра відсіч, тобто «як гукнеш, так і відгукнеться»). Утворено від основи дієслова 買う (купувати, приймати на свій карб) та 言葉 (слово).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1752930-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 売り言葉に買い言葉になってしまった。
+- READING :: うりことばにかいことばになってしまった。
+- UK :: Сварка спалахнула через гостру відповідь на образу.
+- FOCUS :: 買い言葉
+*** ex-1752930-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 相手の挑発に買い言葉で返すのはよくない。
+- READING :: あいてのちょうはつにかいことばでかえすのはよくない。
+- UK :: Не варто відповідати різким словом на провокацію співрозмовника.
+- FOCUS :: 買い言葉
+*** ex-1752930-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 売り言葉に買い言葉で言い争いになり、会議が止まってしまった。
+- READING :: うりことばにかいことばでいいあらそいになり、かいぎがとまってしまった。
+- UK :: Через взаємні образи зчинилася сварка, і нарада зупинилася.
+- FOCUS :: 買い言葉
+
+* Sense s-1752930-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 1b571782992391eeadd5648f25e2866b879ca0ce7e07504466a06958274ce209
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1752930-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Beschimpfung als Antwort auf eine Beschimpfung
+** Ukrainian glosses
+
+* Sense s-1752930-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 30f778bfe70069767a29cf843c3f7b8664648ad4f8b040cff6ed0e9a5b52248d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1752930-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: szemet szemért fogat fogért
+** Ukrainian glosses
+
+* Sense s-1752930-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 8b5831707bd747494511c934837cc619c64fa32f6fc992271cb6d13da82ceb62
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1752930-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (см.) うりことば
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1752930-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1752930-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: かいことば

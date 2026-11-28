@@ -1,0 +1,147 @@
+#+TITLE: 身幅
+#+JMDICT_ID: 1604680
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: みはば
+#+ROMAJI: mihaba
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-25
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1604680-001
+:PROPERTIES:
+:TEXT: 身幅
+:END:
+** Written form wf-1604680-002
+:PROPERTIES:
+:TEXT: 身巾
+:END:
+*** Information
+- oK
+** Reading rd-1604680-001
+:PROPERTIES:
+:TEXT: みはば
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1604680-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 1db7264dc6ccfd06cda45cc90f604be9fecba63c0bee97c5e8331da564345fde
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- width of a garment
+** Ukrainian glosses
+*** uk-s-1604680-001-001
+:PROPERTIES:
+:END:
+- text :: ширина одягу (у грудях або талії); обхват стану крою
+** Learner notes
+*** note-s-1604680-001-001
+:PROPERTIES:
+:END:
+- UK :: Кравецький і швейний іменник (також трапляється написання 身巾). У сучасному одязі позначає ширину виробу від одного бічного шва до іншого під пахвами, а в традиційному кімоно — ширину передньої та задньої пілочок тканини.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1604680-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: このシャツは身幅が広くて着やすい。
+- READING :: このしゃつはみはばがひろくてきやすい。
+- UK :: Ця сорочка має вільну ширину, тому її зручно носити.
+- FOCUS :: 身幅
+*** ex-1604680-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: インターネットでコートを買うときは、着丈だけでなく身幅の寸法も確認すべきだ。
+- READING :: いんたーねっとでこーとをかうときは、きたけだけでなくみはばのすんぽうもかくにんすべきだ。
+- UK :: Купуючи пальто в інтернеті, варто перевірити не лише довжину виробу, а й ширину в грудях.
+- FOCUS :: 身幅
+*** ex-1604680-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 体型の変化に合わせて着物を仕立て直す際に、身幅を少し広げる調整をお願いした。
+- READING :: たいけいのへんかにあわせてきものをしたてなおすさいに、みはばをすこしひろげるちょうせいをおねがいした。
+- UK :: Коли я віддавала кімоно на перешиття через зміну фігури, то попросила трохи розширити його в стані.
+- FOCUS :: 身幅
+
+* Sense s-1604680-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 5250741491e50fd51d24e077d38af98e9cf255b27c75f4458ee0121e76b5833f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1604680-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Breite (eine Kleides)
+** Ukrainian glosses
+
+* Sense s-1604680-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: b4122eb5e7139ae5f10bb081e8497b5322d9db3bedca41b4ebaf9d6bc0ff54cf
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1604680-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) ширина платья (одежды)
+*** en-s-1604680-003-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) значение, вес (кого-л. (в обществе)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1604680-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1604680-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-25
+:END:
+- reading :: みはば

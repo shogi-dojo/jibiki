@@ -1,0 +1,158 @@
+#+TITLE: 苦楽
+#+JMDICT_ID: 1244430
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: くらく
+#+ROMAJI: kuraku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-25
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1244430-001
+:PROPERTIES:
+:TEXT: 苦楽
+:END:
+*** Priorities
+- news2
+- nf31
+** Reading rd-1244430-001
+:PROPERTIES:
+:TEXT: くらく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf31
+
+* Sense s-1244430-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: bee005ecf697c3db84bb54064f703c67ff34c90c20a93749c88314814297410c
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- pleasure and pain
+- joys and sorrows
+** Ukrainian glosses
+*** uk-s-1244430-001-001
+:PROPERTIES:
+:END:
+- text :: радощі й прикрощі, горе й щастя, біда й радість
+** Learner notes
+*** note-s-1244430-001-001
+:PROPERTIES:
+:END:
+- UK :: Антонімічна пара з 苦 (страждання, труднощі) та 楽 (радість, задоволення). Дуже часто вживається у сталому вислові 苦楽を共にする (ділити разом і горе, і радість).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1244430-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 人生には苦楽がつきものだ。
+- READING :: じんせいにはくらくがつきものだ。
+- UK :: У житті радощі й прикрощі завжди йдуть поруч.
+- FOCUS :: 苦楽
+*** ex-1244430-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 同じ目標に向かって苦楽を共にした仲間は、一生の宝だ。
+- READING :: おなじもくひょうにむかってくらくをともにしたなかまは、いっしょうのたからだ。
+- UK :: Товариші, з якими разом ділив і знегоди, і радощі на шляху до спільної мети, — скарб на все життя.
+- FOCUS :: 苦楽
+*** ex-1244430-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 長い競技生活の中で味わった数々の苦楽が、今の彼女を支えている。
+- READING :: ながいきょうぎせいかつのなかであじわったかずかずのくらくが、いまのかのじょをささえている。
+- UK :: Усі радощі й труднощі, пережиті за довгу спортивну кар'єру, сьогодні підтримують її.
+- FOCUS :: 苦楽
+
+* Sense s-1244430-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 78480c4cab9fd89ce86bda6d01e985677b897898fa66e8a838ad5a5638507e5b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1244430-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Freud und Leid
+** Ukrainian glosses
+
+* Sense s-1244430-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 6d906af1408ffa7f148b706cb9f102805fce144151a51353bae3e549e3da8d2d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1244430-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: горе и радость, печали и радости
+** Ukrainian glosses
+
+* Sense s-1244430-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 591300b1660525b050dda411546d5d09807217708e70711ac20473e71998f503
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1244430-004-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: penas y alegrías
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1244430-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1244430-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-25
+:END:
+- reading :: くらく

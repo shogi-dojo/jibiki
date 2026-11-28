@@ -1,0 +1,141 @@
+#+TITLE: 軍楽隊
+#+JMDICT_ID: 1247790
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ぐんがくたい
+#+ROMAJI: gungakutai
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1247790-001
+:PROPERTIES:
+:TEXT: 軍楽隊
+:END:
+** Reading rd-1247790-001
+:PROPERTIES:
+:TEXT: ぐんがくたい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1247790-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 095b9e34716caa89b6c067ae93549b6f5b61ca74e9376fb9df8ce4685b2a9454
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- military or naval band
+** Ukrainian glosses
+*** uk-s-1247790-001-001
+:PROPERTIES:
+:END:
+- text :: військовий оркестр
+** Learner notes
+*** note-s-1247790-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений зі складників 軍 (армія, військо), 楽 (музика) і 隊 (загін). Позначає штатний оркестр сухопутних військ або військово-морського флоту, що супроводжує паради, урочисті церемонії й державні заходи.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1247790-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: パレードで軍楽隊が演奏している。
+- READING :: ぱれーどでぐんがくたいがえんそうしている。
+- UK :: На параді грає військовий оркестр.
+- FOCUS :: 軍楽隊
+*** ex-1247790-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 国の記念式典に合わせて、軍楽隊が行進曲を奏でた。
+- READING :: くにのきねんしきてんにあわせて、ぐんがくたいがこうしんきょくをかなでた。
+- UK :: Під час державної урочистої церемонії військовий оркестр виконав марш.
+- FOCUS :: 軍楽隊
+*** ex-1247790-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 海外からの賓客を迎える歓迎行事では、華やかな軍楽隊の演奏が場を引き立てる。
+- READING :: かいがいからのひんきゃくをむかえるかんげいぎょうじでは、はなやかなぐんがくたいのえんそうがばをひきたてる。
+- UK :: На урочистих заходах із зустрічі іноземних поважних гостей яскрава гра військового оркестру надає події особливої урочистості.
+- FOCUS :: 軍楽隊
+
+* Sense s-1247790-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 64a1a663f05d044c83e566b35d7b337ec220e20c5dd369efe679858b6880ced7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1247790-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Militärkapelle
+*** en-s-1247790-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Musikkorps
+** Ukrainian glosses
+
+* Sense s-1247790-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 32764fab863d1748f65207ecac54a71df5b9615454803f5c061bb52c52539cfe
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1247790-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: военный оркестр
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1247790-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1247790-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: ぐんがくたい

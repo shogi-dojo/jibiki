@@ -1,0 +1,173 @@
+#+TITLE: 内助
+#+JMDICT_ID: 1458480
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ないじょ
+#+ROMAJI: naijo
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1458480-001
+:PROPERTIES:
+:TEXT: 内助
+:END:
+*** Priorities
+- news2
+- nf35
+** Reading rd-1458480-001
+:PROPERTIES:
+:TEXT: ないじょ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf35
+
+* Sense s-1458480-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: ebf6b8c97bcd3d589fb62b7b31f2a90a2a547b4c47752db01617a9ffe0958162
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- wife's help
+** Ukrainian glosses
+*** uk-s-1458480-001-001
+:PROPERTIES:
+:END:
+- text :: підтримка дружини; домашня допомога дружини
+** Learner notes
+*** note-s-1458480-001-001
+:PROPERTIES:
+:END:
+- UK :: Книжний іменник (内 «дім, родина» + 助 «допомога»), що означає тиху, але вагому підтримку чоловікові в справах або кар'єрі з боку дружини. Найчастіше вживається у сталому виразі 内助の功 («заслуга вірної підтримки дружини»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1458480-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 彼は妻の内助に感謝している。
+- READING :: かれはつまのないじょにかんしゃしている。
+- UK :: Він вдячний дружині за її підтримку.
+- FOCUS :: 内助
+*** ex-1458480-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 社長の成功は夫人の内助の功によるところが大きい。
+- READING :: しゃちょうのせいこうはふじんのないじょのこうによるところがおおきい。
+- UK :: Успіх директора великою мірою завдячує підтримці його дружини.
+- FOCUS :: 内助
+*** ex-1458480-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 困難な時代を乗り越えられたのは、陰で支え続けた妻の内助があったからこそだ。
+- READING :: こんなんなじだいをのりこえられたのは、かげでささえつづけたつまのないじょがあったからこそだ。
+- UK :: Подолати скрутні часи вдалося саме завдяки підтримці дружини, яка невтомно допомагала в усьому.
+- FOCUS :: 内助
+
+* Sense s-1458480-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: fdac045e197aeb848e5e0a3acb178dd5a110530b3935c74d0fe5d1a40f7c8f42
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1458480-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hulp
+*** en-s-1458480-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bijstand door een echtgenote
+** Ukrainian glosses
+
+* Sense s-1458480-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: fde6c7baef4d3be116d9884d13d450c10b8dc7efc2c946500b7f531da33eb586
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1458480-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: die treue Unterstützung durch die Ehefrau
+*** en-s-1458480-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: die Hilfe von Seiten der Ehefrau
+** Ukrainian glosses
+
+* Sense s-1458480-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 5afd46fd4ac761200fde32393c3e1717be0eaa39e89e9aee0230596a564682e8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1458480-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (кн.) помощь жены
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1458480-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1458480-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: ないじょ

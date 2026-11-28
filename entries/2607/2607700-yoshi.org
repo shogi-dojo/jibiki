@@ -1,0 +1,155 @@
+#+TITLE: 縦し
+#+JMDICT_ID: 2607700
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: よし
+#+ROMAJI: yoshi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-25
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2607700-001
+:PROPERTIES:
+:TEXT: 縦し
+:END:
+** Written form wf-2607700-002
+:PROPERTIES:
+:TEXT: 縦
+:END:
+** Reading rd-2607700-001
+:PROPERTIES:
+:TEXT: よし
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2607700-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 82dc40a2d9d8c484f4b72672bfdf805582679baa2ce6374661ae89287d5477cf
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- adv
+*** Miscellaneous and register
+- uk
+** English glosses
+- even if
+** Ukrainian glosses
+*** uk-s-2607700-001-001
+:PROPERTIES:
+:END:
+- text :: навіть якщо; хоча б і
+** Learner notes
+*** note-s-2607700-001-001
+:PROPERTIES:
+:END:
+- UK :: Прислівник допусту, який зазвичай записується каною (よし) і вживається на початку речення у поєднанні з умовними формами на кшталт ～ても, ～としても або ～ようとも. Має книжний або піднесений відтінок і підкреслює готовність діяти попри гіпотетичну перешкоду.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2607700-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: よし雨が降っても、試合は行われる。
+- READING :: よしあめがふっても、しあいはおこなわれる。
+- UK :: Навіть якщо піде дощ, матч відбудеться.
+- FOCUS :: よし
+*** ex-2607700-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: よし失敗したとしても、挑戦する価値はある。
+- READING :: よししっぱいしたとしても、ちょうせんするかちはある。
+- UK :: Навіть якщо зазнаєш невдачі, спробувати все одно варто.
+- FOCUS :: よし
+*** ex-2607700-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: よし周囲に反対されようとも、決めた方針は変えないつもりだ。
+- READING :: よししゅういにはんたいされようとも、きめたほうしんはかえないつもりだ。
+- UK :: Навіть якщо оточення буде проти, я не збираюся змінювати обраний курс.
+- FOCUS :: よし
+
+* Sense s-2607700-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 672d1b383ae5829788122e3b49a0c7c23296b45c103466f9cf139b0ae48710c1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2607700-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: selbst wenn
+*** en-s-2607700-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: wenn es so sein sollte
+*** en-s-2607700-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: angenommen, es wäre so
+** Ukrainian glosses
+
+* Sense s-2607700-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 930d438bdf228b5de1e79e7d9912c316c374ea49f5be9d844ac4f997c0784763
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2607700-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (см.) よしや
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2607700-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2607700-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 2
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-25
+:END:
+- reading :: よし

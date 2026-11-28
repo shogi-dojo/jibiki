@@ -1,0 +1,191 @@
+#+TITLE: 市価
+#+JMDICT_ID: 1308140
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: しか
+#+ROMAJI: shika
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-25
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1308140-001
+:PROPERTIES:
+:TEXT: 市価
+:END:
+*** Priorities
+- news2
+- nf33
+** Reading rd-1308140-001
+:PROPERTIES:
+:TEXT: しか
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf33
+
+* Sense s-1308140-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: c6754ffc749209a70b2800f90e254b0709355ad495d033cba1af916b5125f171
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- market price
+- current price
+** Ukrainian glosses
+*** uk-s-1308140-001-001
+:PROPERTIES:
+:END:
+- text :: ринкова ціна; поточна ціна; ринковий курс
+** Learner notes
+*** note-s-1308140-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений із 市 (ринок) та 価 (ціна, вартість), який позначає актуальну ціну товару або цінних паперів на ринку. Часто трапляється в економічних і юридичних текстах у виразах 市価より安い (дешевше за ринкову ціну) чи 市価で売る (продавати за ринковою ціною).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1308140-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この品は市価より安いです。
+- READING :: このしなはしかよりやすいです。
+- UK :: Цей товар дешевший за ринкову ціну.
+- FOCUS :: 市価
+*** ex-1308140-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 古い美術品は、専門家に市価を調べてもらうことにした。
+- READING :: ふるいびじゅつひんは、せんもんかにしかをしらべてもらうことにした。
+- UK :: Щодо старовинних творів мистецтва вирішили попросити фахівця з'ясувати їхню ринкову вартість.
+- FOCUS :: 市価
+*** ex-1308140-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 希少価値が高まったことで、その限定品の市価は発売当初の数倍に跳ね上がった。
+- READING :: きしょうかちがたかまったことで、そのげんていひんのしかははつばいとうしょのすうばいにはねあがった。
+- UK :: Через зростання рідкісності ринкова ціна того лімітованого виробу підскочила в кілька разів порівняно з початком продажів.
+- FOCUS :: 市価
+
+* Sense s-1308140-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: c8ba554955f9ac4d790ede62d58f7410a9371aaafd9511c95e28ed233b20ba22
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1308140-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Marktpreis
+** Ukrainian glosses
+
+* Sense s-1308140-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: a8f2975bc84be8d2010c2c1dee93fc9a95b923f7d80641b630030f7803a3572a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1308140-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: рыночная цена; курс (акций и т. п.)
+*** en-s-1308140-003-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～で} по рыночной цене; по сегодняшнему курсу
+** Ukrainian glosses
+
+* Sense s-1308140-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 5afd0de2134c9e2212bd6f730b9e3db9ff3517a720b173f3af9887e9801f594a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1308140-004-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: precio de mercado
+*** en-s-1308140-004-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: precio actual
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1308140-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1308140-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 2
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-25
+:END:
+- reading :: しか
+** Accent accent-rd-1308140-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1308140-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 2
+:DROP_AFTER: 2
+:PATTERN: odaka
+:MORA_PATTERN: LH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-25
+:END:
+- reading :: しか

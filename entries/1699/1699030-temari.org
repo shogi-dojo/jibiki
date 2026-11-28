@@ -1,0 +1,166 @@
+#+TITLE: 手毬
+#+JMDICT_ID: 1699030
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: てまり
+#+ROMAJI: temari
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-25
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1699030-001
+:PROPERTIES:
+:TEXT: 手毬
+:END:
+** Written form wf-1699030-002
+:PROPERTIES:
+:TEXT: 手鞠
+:END:
+** Written form wf-1699030-003
+:PROPERTIES:
+:TEXT: 手まり
+:END:
+** Reading rd-1699030-001
+:PROPERTIES:
+:TEXT: てまり
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1699030-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 260e034d3e63017e485fb47a8da5c271899193fa0160d97c13ec0fd4ec4928f6
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- traditional Japanese handball (game)
+** Ukrainian glosses
+*** uk-s-1699030-001-001
+:PROPERTIES:
+:END:
+- text :: темарі (традиційний японський гаптований м'яч і дитяча гра з ним)
+** Learner notes
+*** note-s-1699030-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений від 手 (рука) та 毬 (м'яч). Позначає традиційний японський декоративний м'яч, обплетений різнокольоровими шовковими нитками, а також старовинну гру в підбивання такого м'яча рукою під пісню (手毬歌).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1699030-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: お正月に着物で手毬をついて遊びました。
+- READING :: おしょうがつにきものでてまりをついてあそびました。
+- UK :: На Новий рік ми в кімоно бавилися, підбиваючи традиційний м'ячик темарі.
+- FOCUS :: 手毬
+*** ex-1699030-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 祖母の部屋には、鮮やかな絹糸でかがられた手毬が飾られている。
+- READING :: そぼのへやには、あざやかなきぬいとでかがられたてまりがかざられている。
+- UK :: У кімнаті бабусі стоять декоративні м'ячики темарі, вишиті яскравими шовковими нитками.
+- FOCUS :: 手毬
+*** ex-1699030-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: かつて女の子たちの遊び道具だった手毬は、現在では美しい伝統工芸品として海外でも人気がある。
+- READING :: かつておんなのこたちのあそびどうぐだったてまりは、げんざいではうつくしいでんとうこうげいひんとしてかいがいでもにんきがある。
+- UK :: М'ячики темарі, які колись були іграшкою для дівчаток, нині популярні й за кордоном як витончені вироби традиційного ремесла.
+- FOCUS :: 手毬
+
+* Sense s-1699030-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 9d1dd033214ffb2863830b4d4229e2fc6adbc4e56942c6e803bbf70ea5f8e2f7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1699030-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: traditioneller japanischer Handball
+** Ukrainian glosses
+
+* Sense s-1699030-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 87c91e16e53e8eb0ab337b350b41597c0cad332b80a74ee64c0d125ca67f07c9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1699030-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) мяч
+*** en-s-1699030-003-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) (спорт.) гандбол
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1699030-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1699030-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-25
+:END:
+- reading :: てまり
+** Accent accent-rd-1699030-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1699030-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-25
+:END:
+- reading :: てまり

@@ -1,0 +1,163 @@
+#+TITLE: 商事会社
+#+JMDICT_ID: 1347070
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: しょうじがいしゃ
+#+ROMAJI: shoujigaisha
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1347070-001
+:PROPERTIES:
+:TEXT: 商事会社
+:END:
+*** Priorities
+- news2
+- nf31
+** Reading rd-1347070-001
+:PROPERTIES:
+:TEXT: しょうじがいしゃ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf31
+
+* Sense s-1347070-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: ffb28c903a2c8724666371a9ab9f9448af5d9aa3ffe1beb5372f84dbd2094ac8
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- commercial company
+** Ukrainian glosses
+*** uk-s-1347070-001-001
+:PROPERTIES:
+:END:
+- text :: торгова компанія; комерційна фірма; торговий дім
+** Learner notes
+*** note-s-1347070-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, складений із 商事 («торговельні справи, комерція») та 会社 («компанія», з озвонченням かいしゃ → がいしゃ). Позначає підприємство, що спеціалізується на оптовій торгівлі, посередництві, експорті та імпорті широкого спектра товарів (подібно до 商社).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1347070-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 兄は大きな商事会社で働いています。
+- READING :: あにはおおきなしょうじがいしゃではたらいています。
+- UK :: Старший брат працює у великій торговій компанії.
+- FOCUS :: 商事会社
+*** ex-1347070-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 大学時代に語学を学んだ彼女は、卒業後に海外取引の多い商事会社へ就職した。
+- READING :: だいがくじだいにごがくをまなんだかのじょは、そつぎょうごにかいがいとりひきのおおいしょうじがいしゃへしゅうしょくした。
+- UK :: Вивчивши іноземні мови в університеті, після випуску вона влаштувалася до торгової компанії з великим обсягом закордонних операцій.
+- FOCUS :: 商事会社
+*** ex-1347070-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 国際的な商事会社は、資源の調達から物流や販売網の構築まで幅広い分野を担っている。
+- READING :: こくさいてきなしょうじがいしゃは、しげんのちょうたつからぶつりゅうやはんばいもうのこうちくまではばひろいぶんやをになっている。
+- UK :: Міжнародні торгові доми охоплюють широкий спектр завдань — від постачання ресурсів до організації логістики та мереж збуту.
+- FOCUS :: 商事会社
+
+* Sense s-1347070-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: a0155c42b077f983dbaf24d2903f79b4d03d20e73f2a59cd9d7b1218c800e4fb
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1347070-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gewerbliches Unternehmen
+*** en-s-1347070-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Handelsgesellschaft
+*** en-s-1347070-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kaufmännisches Unternehmen
+*** en-s-1347070-002-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Handelsfirma
+** Ukrainian glosses
+
+* Sense s-1347070-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 6ab13123d192f413322f0f2a2348130eef5d5c8af14deb94bfab89c7a039caa8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1347070-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: торговая компания (фирма)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1347070-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1347070-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 4
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: しょうじがいしゃ

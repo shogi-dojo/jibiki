@@ -1,0 +1,190 @@
+#+TITLE: 薬用
+#+JMDICT_ID: 1796580
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: やくよう
+#+ROMAJI: yakuyou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1796580-001
+:PROPERTIES:
+:TEXT: 薬用
+:END:
+*** Priorities
+- news2
+- nf25
+** Reading rd-1796580-001
+:PROPERTIES:
+:TEXT: やくよう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf25
+
+* Sense s-1796580-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 92a95a7e267ab1fc837ec957039e8a0df29bf05ed1f0955cf5f772a3e365ea46
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- adj-no
+** English glosses
+- medicinal use
+** Ukrainian glosses
+*** uk-s-1796580-001-001
+:PROPERTIES:
+:END:
+- text :: лікувальне застосування; лікувальний, лікарський
+** Learner notes
+*** note-s-1796580-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник і прикметник з часткою の (薬用の). Утворено з канджі 薬 (ліки) та 用 (використання, призначення). Найчастіше поєднується з назвами засобів гігієни й догляду, що містять лікувальні або профілактичні складники, наприклад 薬用せっけん (лікувальне мило) чи 薬用ハンドクリーム (лікувальний крем для рук).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1796580-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 薬用のせっけんを買いました。
+- READING :: やくようのせっけんをかいました。
+- UK :: Я купив лікувальне мило.
+- FOCUS :: 薬用
+*** ex-1796580-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 冬になると、薬用リップクリームを手放せない。
+- READING :: ふゆになると、やくようりっぷくりーむをてばなせない。
+- UK :: Коли настає зима, я не можу обійтися без лікувального бальзаму для губ.
+- FOCUS :: 薬用
+*** ex-1796580-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 薬用植物の栽培は、古くからこの地域の重要な産業の一つであった。
+- READING :: やくようしょくぶつのさいばいは、ふるくからこのちいきのじゅうようなさんぎょうのひとつであった。
+- UK :: Вирощування лікарських рослин здавна було однією з важливих галузей господарства цього регіону.
+- FOCUS :: 薬用
+
+* Sense s-1796580-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 5ad270b3daccf367c3f946d776d72ed480f37dec5c36c222f8bec50c5b013363
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1796580-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: medicinaal gebruik
+*** en-s-1796580-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gebruik als geneesmiddel
+** Ukrainian glosses
+
+* Sense s-1796580-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 9bf274d7400b9c27eb22cc9563efc994e14be8cfb79735faef9efd897a35e075
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1796580-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: medizinisch
+*** en-s-1796580-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Medizin…
+*** en-s-1796580-003-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Heil…
+*** en-s-1796580-003-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: medizinische Verwendung
+** Ukrainian glosses
+
+* Sense s-1796580-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 26078d95b809b25b2117cfc1db58369db56a67ed85ddf6ff4a0a1a22ff1a8e4c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1796580-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: : {～[の]} лекарственный; лечебный
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1796580-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1796580-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: やくよう

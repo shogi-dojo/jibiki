@@ -1,0 +1,159 @@
+#+TITLE: 共同出資
+#+JMDICT_ID: 1933280
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: きょうどうしゅっし
+#+ROMAJI: kyoudoushusshi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1933280-001
+:PROPERTIES:
+:TEXT: 共同出資
+:END:
+** Reading rd-1933280-001
+:PROPERTIES:
+:TEXT: きょうどうしゅっし
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1933280-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 17414bcc827b3795cbf24c43095545700cb861a5a42808768deb8d0fb6ea8fac
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- joint investment
+** Ukrainian glosses
+*** uk-s-1933280-001-001
+:PROPERTIES:
+:END:
+- text :: спільне інвестування, спільне фінансування, пайова участь
+** Learner notes
+*** note-s-1933280-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник (також уживається із する). Економічний і діловий термін, утворений поєднанням 共同 (спільний) та 出資 (вкладення капіталу); позначає об'єднання коштів кількох компаній або осіб для запуску проєкту чи створення підприємства.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1933280-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 二社で共同出資を決めました。
+- READING :: にしゃできょうどうしゅっしをきめました。
+- UK :: Дві компанії вирішили здійснити спільне інвестування.
+- FOCUS :: 共同出資
+*** ex-1933280-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: この新会社は、地元の銀行と商社の共同出資によって設立された。
+- READING :: このしんがいしゃは、じもとのぎんこうとしょうしゃのきょうどうしゅっしによってせつりつされた。
+- UK :: Цю нову компанію заснували шляхом спільного інвестування місцевого банку й торговельного дому.
+- FOCUS :: 共同出資
+*** ex-1933280-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 巨額の開発費とリスクを分散させるため、複数のメーカーが共同出資で新工場を建設することになった。
+- READING :: きょがくのかいはつひとりすくをぶんさんさせるため、ふくすうのめーかーがきょうどうしゅっしでしんこうじょうをけんせつすることになった。
+- UK :: Щоб розподілити величезні витрати на розробку та ризики, кілька виробників вирішили спільно профінансувати будівництво нового заводу.
+- FOCUS :: 共同出資
+
+* Sense s-1933280-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: bcf7d8b3d5fa13bc0d7881e918e8019e93d68d63d54fa6b22bdcffb564ed0e04
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1933280-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gemeinsame Finanzierung
+** Ukrainian glosses
+
+* Sense s-1933280-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: d4cc9b1af4bc8cd56fb53e1804a170a8cdb86d14d4fd5a626bc7820dfc5c6a1e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1933280-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: совместные вложения [капиталов]; объединение фондов
+*** en-s-1933280-003-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} делать совместные вложения; объединять фонды
+** Ukrainian glosses
+
+* Sense s-1933280-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 9a5e91b4908405a3bd6af4b462458c5d9db68363002438dd5c64ba917a81126f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1933280-004-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: inversión colectiva
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1933280-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1933280-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 7
+:DROP_AFTER: 5
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: きょうどうしゅっし

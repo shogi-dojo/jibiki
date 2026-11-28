@@ -1,0 +1,175 @@
+#+TITLE: 適性検査
+#+JMDICT_ID: 1734980
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: てきせいけんさ
+#+ROMAJI: tekiseikensa
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1734980-001
+:PROPERTIES:
+:TEXT: 適性検査
+:END:
+*** Priorities
+- news2
+- nf40
+** Reading rd-1734980-001
+:PROPERTIES:
+:TEXT: てきせいけんさ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf40
+
+* Sense s-1734980-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 777b00ba1b9067c691312bbce8bd8bb8b4d1cd1d8b67cf10c97d197601c396fe
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- aptitude test
+** Ukrainian glosses
+*** uk-s-1734980-001-001
+:PROPERTIES:
+:END:
+- text :: тест на професійну придатність; перевірка здібностей
+** Learner notes
+*** note-s-1734980-001-001
+:PROPERTIES:
+:END:
+- UK :: Складний іменник з 適性 (схильність, придатність) та 検査 (перевірка, обстеження). Позначає тестування під час працевлаштування, вступу до навчального закладу або складання іспиту на водійські права для оцінки здібностей і психологічних якостей.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1734980-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 来週、会社の適性検査を受ける予定だ。
+- READING :: らいしゅう、かいしゃのてきせいけんさをうけるよていだ。
+- UK :: Наступного тижня я планую проходити тест на профпридатність у компанії.
+- FOCUS :: 適性検査
+*** ex-1734980-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 運転免許を取得する前に、視力や反応を見る適性検査がある。
+- READING :: うんてんめんきょをしゅとくするまえに、しりょくやはんのうをみるてきせいけんさがある。
+- UK :: Перед отриманням водійського посвідчення проводять перевірку придатності, де оцінюють зір і швидкість реакції.
+- FOCUS :: 適性検査
+*** ex-1734980-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 採用試験の一次選考では、筆記テストに加えて性格を測る適性検査が実施された。
+- READING :: さいようしけんのいちじせんこうでは、ひっきてすとにくわえてせいかくをはかるてきせいけんさがじっしされた。
+- UK :: На першому етапі відбору на роботу, окрім письмового іспиту, провели також тестування особистісних якостей.
+- FOCUS :: 適性検査
+
+* Sense s-1734980-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 580e979fbf1feebee043a06e4179c3ba28142bb3b5407bd367f999344e34a0f9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1734980-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Eignungstest
+** Ukrainian glosses
+
+* Sense s-1734980-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 6e5053c0d1c8c66f4e02fb6674e191ad12bb55eb28b94c47edcdddd25ff2f7d9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1734980-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: alkalmassági vizsga
+** Ukrainian glosses
+
+* Sense s-1734980-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 9fa58993658ccd5500c3c4e043ef4d09d1203e6ee1dc08c0fa7026858d2386fb
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1734980-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: проверочное испытание (напр. к занятию должности)
+** Ukrainian glosses
+
+* Sense s-1734980-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: a2d3011bd95769a53e02d1026f9a30d6c70a852ce67a57af28f6177a73feeb83
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1734980-005-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: anlagsprov
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1734980-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1734980-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 7
+:DROP_AFTER: 5
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: てきせいけんさ

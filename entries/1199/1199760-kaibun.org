@@ -1,0 +1,213 @@
+#+TITLE: 回文
+#+JMDICT_ID: 1199760
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かいぶん
+#+ROMAJI: kaibun
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1199760-001
+:PROPERTIES:
+:TEXT: 回文
+:END:
+** Written form wf-1199760-002
+:PROPERTIES:
+:TEXT: 廻文
+:END:
+** Reading rd-1199760-001
+:PROPERTIES:
+:TEXT: かいぶん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1199760-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 9d1708dbd18f3ab3a022edf8cc2822bbdee85fbf9f400021fdec81cb885fc194
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- circular (document)
+- circulating letter
+** Ukrainian glosses
+*** uk-s-1199760-001-001
+:PROPERTIES:
+:END:
+- text :: циркуляр; обіжний лист
+** Learner notes
+*** note-s-1199760-001-001
+:PROPERTIES:
+:END:
+- UK :: Книжний та офіційний іменник, утворений із 回 (передавати по колу) та 文 (текст, лист). Позначає службовий лист або повідомлення, що розсилається багатьом адресатам чи передається по черзі.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1199760-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 役場からの回文を近所の家に届けました。
+- READING :: やくばからのかいぶんをきんじょのいえにとどけました。
+- UK :: Я передав обіжне повідомлення від управи сусіднім будинкам.
+- FOCUS :: 回文
+*** ex-1199760-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 「しんぶんし」は上から読んでも下から読んでも同じになる有名な回文です。
+- READING :: 「しんぶんし」はうえからよんでもしたからよんでもおなじになるゆうめいなかいぶんです。
+- UK :: Слово «шімбунші» — це відомий паліндром, який читається однаково як спереду, так і ззаду.
+- FOCUS :: 回文
+*** ex-1199760-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 会議の日程変更を知らせる回文が、すべての部署に回覧されました。
+- READING :: かいぎのにっていへんこうをしらせるかいぶんが、すべてのぶしょにかいらんされました。
+- UK :: Обіжний лист із повідомленням про зміну дати наради передали для ознайомлення в усі відділи.
+- FOCUS :: 回文
+
+* Sense s-1199760-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: fc10c2084e15e39a9319c4aebddcaee194822ac4eb4671cf83992dfce0e6b1bc
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- palindrome
+** Ukrainian glosses
+*** uk-s-1199760-002-001
+:PROPERTIES:
+:END:
+- text :: паліндром
+** Learner notes
+*** note-s-1199760-002-001
+:PROPERTIES:
+:END:
+- UK :: Слово, фраза або вірш, що однаково читаються з початку й із кінця (в японській мові за складами кана, наприклад 「しんぶんし」 або 「たけやぶやけた」).
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1199760-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 6c60a2fac8a7bbc8f8e14f752f32ad5be2abbedf104472e534448b8530c65605
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1199760-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Rundbrief
+*** en-s-1199760-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Zirkular
+** Ukrainian glosses
+
+* Sense s-1199760-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: a5c5545c2d124bfbf52828b29d7438c02cf7439ca1b016f03104943805b45bad
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1199760-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Palindrom (Ausdruck, der von vorn wie von hinten gelesen identisch lautet)
+** Ukrainian glosses
+
+* Sense s-1199760-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: f32bd423616de3a3086b57e6f4ede9c6c91fc000120b055296716de481670c24
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1199760-005-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: oda-vissza értelmes mondat
+*** en-s-1199760-005-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: oda-vissza értelmes szó
+** Ukrainian glosses
+
+* Sense s-1199760-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 1b77178398ad1c9cab1b1be09fb9c0213f2e6f514d5bdbd01771a7e5c618b94d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1199760-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: циркуляр, циркулярное письмо
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1199760-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1199760-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: かいぶん

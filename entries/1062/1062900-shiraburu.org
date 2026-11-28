@@ -1,0 +1,165 @@
+#+TITLE: シラブル
+#+JMDICT_ID: 1062900
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: シラブル
+#+ROMAJI: shiraburu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-1062900-001
+:PROPERTIES:
+:TEXT: シラブル
+:NO_KANJI: false
+:END:
+
+* Sense s-1062900-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: d172fee8aa9b1fbbca6ad4ef80e0cc7d579b9cdbbc93852a2a9f0014bc08279a
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Cross-references
+- 音節・おんせつ
+** English glosses
+- syllable
+** Ukrainian glosses
+*** uk-s-1062900-001-001
+:PROPERTIES:
+:END:
+- text :: склад (у фонетиці)
+** Learner notes
+*** note-s-1062900-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник іншомовного походження від англійського syllable. Вживається у мовознавстві та навчанні іноземних мов для позначення фонетичного складу, на відміну від японської мори (モーラ) чи питомого терміна 音節.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1062900-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この単語は三つのシラブルがある。
+- READING :: このたんごはみっつのしらぶるがある。
+- UK :: У цьому слові три склади.
+- FOCUS :: シラブル
+*** ex-1062900-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 英語の発音を学ぶとき、シラブルの数え方を意識すると分かりやすい。
+- READING :: えいごのはつおんをまなぶとき、しらぶるのかぞえかたをいしきするとわかりやすい。
+- UK :: Під час вивчення англійської вимови легше орієнтуватися, якщо звертати увагу на поділ на склади.
+- FOCUS :: シラブル
+*** ex-1062900-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 日本語は拍を単位として数えるため、英語のシラブルとはリズムの捉え方が異なる。
+- READING :: にほんごははくをたんいとしてかぞえるため、えいごのしらぶるとはりずむのとらえかたがことなる。
+- UK :: Оскільки в японській мові одиницею ритму є мора, сприйняття ритму відрізняється від англійського складу.
+- FOCUS :: シラブル
+
+* Sense s-1062900-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 68a7a5ce6fc89e8048693979939cc38cc10e61372d5e04c6984429c85f5e75e6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1062900-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Silbe
+** Ukrainian glosses
+
+* Sense s-1062900-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: d569170c229152a4275bddbbab050211e2577dad9005cbea944554fc31f38a2e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1062900-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: szótag
+** Ukrainian glosses
+
+* Sense s-1062900-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: d8698fb6af0dcabece6ca1b3979512bb715a82eae597dc3381eef10843e6598d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1062900-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ((англ.) syllable) слог
+** Ukrainian glosses
+
+* Sense s-1062900-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: bc456a40bf52607c7881c210f9c064e8862cf69ff4c7f0b47143a675224d2206
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1062900-005-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: stavelse
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1062900-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1062900-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: シラブル

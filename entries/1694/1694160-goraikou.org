@@ -1,0 +1,138 @@
+#+TITLE: 御来光
+#+JMDICT_ID: 1694160
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ごらいこう
+#+ROMAJI: goraikou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1694160-001
+:PROPERTIES:
+:TEXT: 御来光
+:END:
+** Written form wf-1694160-002
+:PROPERTIES:
+:TEXT: ご来光
+:END:
+** Reading rd-1694160-001
+:PROPERTIES:
+:TEXT: ごらいこう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1694160-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: fe30ca55922c6c628ba8eeec61912519a2e3703d1954a24dd8366ccc1aab01ec
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- sunrise viewed from the top of a high mountain
+- the rising sun
+** Ukrainian glosses
+*** uk-s-1694160-001-001
+:PROPERTIES:
+:END:
+- text :: схід сонця з вершини високої гори; вранішнє сонце над горами
+** Learner notes
+*** note-s-1694160-001-001
+:PROPERTIES:
+:END:
+- UK :: Почесний іменник із префіксом 御; первісно вживався в релігійному сенсі як сяйво будди, що сходить назустріч вірянам, а в сучасному вжитку позначає урочистий схід сонця, який альпіністи спостерігають із гірської вершини (особливо на горі Фуджі). Часто вживається з дієсловом 拝む («вклонятися, милуватися»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1694160-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 山の頂上から御来光を見ました。
+- READING :: やまのちょうじょうからごらいこうをみました。
+- UK :: Я побачив схід сонця з вершини гори.
+- FOCUS :: 御来光
+*** ex-1694160-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 富士山に登る人の多くは、美しい御来光を拝むために夜中に出発する。
+- READING :: ふじさんにのぼるひとのおおくは、うつくしいごらいこうをおがむためにやちゅうにしゅっぱつする。
+- UK :: Багато хто з тих, хто підіймається на гору Фуджі, вирушає серед ночі, щоб помилуватися прекрасним сходом сонця з вершини.
+- FOCUS :: 御来光
+*** ex-1694160-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 雲海の間から金色の光が差し込み、待ちわびた登山客は思わず御来光に手を合わせた。
+- READING :: うんかいのあいだからきんいろのひかりがさしこみ、まちわびたとざんきゃくはおもわずごらいこうにてをあわせた。
+- UK :: Крізь море хмар пробилося золотисте світло, і альпіністи, які так чекали на цю мить, мимоволі склали долоні перед вранішнім сонцем.
+- FOCUS :: 御来光
+
+* Sense s-1694160-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 4552361e7f4d68eb5de641591145f0990cb6c478cf992e0744ba7cebc0e072da
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1694160-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Sonnenaufgang (von einem hohen Berggipfel betrachtet)
+** Ukrainian glosses
+
+* Sense s-1694160-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 7042cc29524e583d3c4b62528062a0eba507dd6bb0e49e674d5beaaa1df0b8a8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1694160-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: вид солнечного восхода с высокой горы
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1694160-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1694160-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: ごらいこう

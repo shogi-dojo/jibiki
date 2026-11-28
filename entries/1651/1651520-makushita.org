@@ -1,0 +1,160 @@
+#+TITLE: 幕下
+#+JMDICT_ID: 1651520
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: まくした
+#+ROMAJI: makushita
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-25
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1651520-001
+:PROPERTIES:
+:TEXT: 幕下
+:END:
+*** Priorities
+- news1
+- nf15
+** Reading rd-1651520-001
+:PROPERTIES:
+:TEXT: まくした
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf15
+
+* Sense s-1651520-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: b07c826d13b8347f720257971a2b9d459dfa9abbb427131640b2370906126bc5
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- sumo
+** English glosses
+- third highest division
+- wrestlers of the third highest division
+** Ukrainian glosses
+*** uk-s-1651520-001-001
+:PROPERTIES:
+:END:
+- text :: макушіта (третій за рангом дивізіон у сумо); борець дивізіону макушіта
+** Learner notes
+*** note-s-1651520-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник зі сфери сумо. Позначає дивізіон, що стоїть одразу нижче елітних розрядів 幕内 та 十両, а також борців, які виступають у цьому дивізіоні й зазвичай ще не отримують щомісячної платні.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1651520-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 兄は幕下の力士だ。
+- READING :: あにはまくしたのりきしだ。
+- UK :: Старший брат — борець дивізіону макушіта.
+- FOCUS :: 幕下
+*** ex-1651520-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 今場所、彼は幕下で全勝優勝を果たした。
+- READING :: こんばしょ、かれはまくしたでぜんしょうゆうしょうをはたした。
+- UK :: На цьому турнірі він здобув беззаперечну перемогу в дивізіоні макушіта, вигравши всі сутички.
+- FOCUS :: 幕下
+*** ex-1651520-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 幕下上位で好成績を残せば、来場所の十両昇進が見えてくる。
+- READING :: まくしたじょういでこうせいせきをのこせば、らいばしょのじゅうりょうしょうしんがみえてくる。
+- UK :: Якщо показати гарний результат у верхній частині дивізіону макушіта, на наступному турнірі стане реальним підвищення до джюрьо.
+- FOCUS :: 幕下
+
+* Sense s-1651520-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 100a41fab42ba739af04fd05e036a3a966af153ba1eb374f6dd3c00838d40a7e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1651520-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {sumō-jargon} makushita-divisie {op twee na hoogste divisie in het sumoworstelen; komt tussen de jūryō- en sandanme-divisies in}
+** Ukrainian glosses
+
+* Sense s-1651520-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 77f5ea344866ace3d30777cada69e41e266d6910ecc11b0099517452bd54158c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1651520-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Makushita (Sumō-Ringer unter den zehn Ryō)
+** Ukrainian glosses
+
+* Sense s-1651520-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: fec3acd389a9ea3263710c9175a0d124cf9edc6b556c8b2862cdf61b6305fac8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1651520-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: борец второго разряда (в сумо)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1651520-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1651520-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-25
+:END:
+- reading :: まくした

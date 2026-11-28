@@ -1,0 +1,192 @@
+#+TITLE: 水柱
+#+JMDICT_ID: 1371860
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: みずばしら
+#+ROMAJI: mizubashira
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1371860-001
+:PROPERTIES:
+:TEXT: 水柱
+:END:
+** Reading rd-1371860-001
+:PROPERTIES:
+:TEXT: みずばしら
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+** Reading rd-1371860-002
+:PROPERTIES:
+:TEXT: すいちゅう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1371860-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: e347588d1f340f17e74bcb5e8aff4ea5fb3ce29f703bbbdf7173e3aea2d4cb8d
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- column of water
+- water column
+** Ukrainian glosses
+*** uk-s-1371860-001-001
+:PROPERTIES:
+:END:
+- text :: водяний стовп
+** Learner notes
+*** note-s-1371860-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, що позначає потужний вертикальний струмінь або стовп води, який підіймається вгору від вибуху, удару, прориву труби чи смерчу (читається як みずばしら; читання すいちゅう уживається в гідравліці для вимірювання тиску). Типова сполука — 水柱が上がる / 立つ (здіймається водяний стовп).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1371860-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 池に大きな石を投げると、高い水柱が上がった。
+- READING :: いけにおおきないしをなげると、たかいみずばしらがあがった。
+- UK :: Коли у ставок кинули великий камінь, здійнявся високий водяний стовп.
+- FOCUS :: 水柱
+*** ex-1371860-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 花火大会のフィナーレでは、湖面から何本もの水柱が勢いよく噴き出した。
+- READING :: はなびたいかいのふぃなーれでは、こめんからなんぼんものみずばしらがいきおいよくふきだした。
+- UK :: У фіналі свята феєрверків із поверхні озера стрімко вдарило вгору кілька водяних стовпів.
+- FOCUS :: 水柱
+*** ex-1371860-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 道路の下で水道管が破裂し、アスファルトを突き破って激しい水柱が立った。
+- READING :: どうろのしたですいどうかんがはれつし、あすふぁるとをつきやぶってはげしいみずばしらがたった。
+- UK :: Під дорогою прорвало водогін, і крізь асфальт вирвався потужний стовп води.
+- FOCUS :: 水柱
+
+* Sense s-1371860-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: c8f8fdc5af96ed88baec484a37004292f5ca23d83de28f394f8d586703055a6b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1371860-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Wassersäule
+*** en-s-1371860-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Wassersäule
+*** en-s-1371860-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Wasserstrahl
+** Ukrainian glosses
+
+* Sense s-1371860-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: ec49f86c0d35b57c3a31dde08805f5d5fd004305de90fa004e85475b871172e9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1371860-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: водяной столб
+** Ukrainian glosses
+
+* Sense s-1371860-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 75bf4ebd8ebb38c22bcd8b30491c335b510345b96c19e0223ff2bda2c0e2a95d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1371860-004-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: skydrag
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1371860-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1371860-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: みずばしら
+** Accent accent-rd-1371860-002-001
+:PROPERTIES:
+:TARGET_ID: rd-1371860-002
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: すいちゅう

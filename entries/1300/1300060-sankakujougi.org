@@ -1,0 +1,160 @@
+#+TITLE: 三角定規
+#+JMDICT_ID: 1300060
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: さんかくじょうぎ
+#+ROMAJI: sankakujougi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-25
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1300060-001
+:PROPERTIES:
+:TEXT: 三角定規
+:END:
+** Reading rd-1300060-001
+:PROPERTIES:
+:TEXT: さんかくじょうぎ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1300060-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: f2eb735cff9dcd5b89d0c99755cbdd424050c74aadf477b3dbec7a3d5d4ec435
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- triangles (used in mechanical drawing)
+- set square
+** Ukrainian glosses
+*** uk-s-1300060-001-001
+:PROPERTIES:
+:END:
+- text :: креслярський трикутник; косинець
+** Learner notes
+*** note-s-1300060-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник на позначення трикутної лінійки для креслення прямих кутів і паралельних ліній, яка зазвичай продається парою з різними кутами. Складене слово з 三角 («трикутник») і 定規 («лінійка»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1300060-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 筆箱に三角定規を入れる。
+- READING :: ふでばこにさんかくじょうぎをいれる。
+- UK :: Покласти креслярський трикутник до пенала.
+- FOCUS :: 三角定規
+*** ex-1300060-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 算数の授業で三角定規を使って垂直な線を引いた。
+- READING :: さんすうのじゅぎょうでさんかくじょうぎをつかってすいちょくなせんをひいた。
+- UK :: На уроці арифметики я накреслив перпендикулярну лінію за допомогою косинця.
+- FOCUS :: 三角定規
+*** ex-1300060-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 二枚の三角定規を組み合わせれば、平行線やさまざまな角度を正確に作図することができる。
+- READING :: にまいのさんかくじょうぎをくみあわせれば、へいこうせんやさまざまなかくどをせいかくにさくずすることができる。
+- UK :: Якщо поєднати два креслярські трикутники, можна точно побудувати паралельні прямі й різні кути.
+- FOCUS :: 三角定規
+
+* Sense s-1300060-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: ccb4e9c4d35a99a8a6a8f47618902906e2b1bd27c0d40cd4e6a49ea459284412
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1300060-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tekendriehoek
+** Ukrainian glosses
+
+* Sense s-1300060-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: dfadcb57549587489e1562b6999a7a63e6562f781b46a931a7cf6a5bf55ee396
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1300060-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Zeichendreieck
+*** en-s-1300060-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Geodreieck
+** Ukrainian glosses
+
+* Sense s-1300060-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 66f05b9a3c56cf0dffbb77c172a78c36f745592ab633a5217535a09fd90122e5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1300060-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: угольник
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1300060-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1300060-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 7
+:DROP_AFTER: 5
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-25
+:END:
+- reading :: さんかくじょうぎ

@@ -1,0 +1,150 @@
+#+TITLE: 見劣り
+#+JMDICT_ID: 1260160
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: みおとり
+#+ROMAJI: miotori
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1260160-001
+:PROPERTIES:
+:TEXT: 見劣り
+:END:
+*** Priorities
+- news2
+- nf46
+** Reading rd-1260160-001
+:PROPERTIES:
+:TEXT: みおとり
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf46
+
+* Sense s-1260160-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 16dc0847b553452652a8ab28c5170819912ab7e3744ee054cf480c91cebe3504
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vi
+** English glosses
+- unfavourable comparison
+- unfavorable comparison
+** Ukrainian glosses
+*** uk-s-1260160-001-001
+:PROPERTIES:
+:END:
+- text :: гірший вигляд (у порівнянні); програш при зіставленні
+** Learner notes
+*** note-s-1260160-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник та неперехідне дієслово із する (見劣りする, також 見劣りがする — виглядати гірше, поступатися при порівнянні). Означає, що річ або людина видається менш привабливою чи якісною поруч з іншим зразком.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1260160-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この絵は本物に比べると見劣りします。
+- READING :: このえはほんものにくらべるとみおとりします。
+- UK :: Ця картина виглядає гірше порівняно з оригіналом.
+- FOCUS :: 見劣り
+*** ex-1260160-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 安い材料で作ったわりには、高価な製品と比べても見劣りしません。
+- READING :: やすいざいりょうでつくったわりには、こうかなせいひんとくらべてもみおとりしません。
+- UK :: Попри те що виріб виготовлено з недорогих матеріалів, він не поступається дорогим зразкам.
+- FOCUS :: 見劣り
+*** ex-1260160-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 経験豊富な先輩の発表を聞いた後では、自分の準備不足による見劣りが気になりました。
+- READING :: けいけんほうふなせんぱいのはっぴょうをきいたあとでは、じぶんのじゅんびぶそくによるみおとりがきになりました。
+- UK :: Після виступу досвідченого старшого колеги мені стало ніяково через те, що мій власний виступ програвав через брак підготовки.
+- FOCUS :: 見劣り
+
+* Sense s-1260160-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 21850098dbeb6136e879096bc25b8e7741ff3b0d92ab1d365be4be58b8eb1580
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1260160-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Schlechteraussehen
+*** en-s-1260160-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Nachstehen
+** Ukrainian glosses
+
+* Sense s-1260160-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: dc7bfe9e8dc6b8d0afe277689a1f80152bd3e6e30b8b059728eba9a76921c740
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1260160-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: : {～がする} казаться хуже, проигрывать (при сравнении)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1260160-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1260160-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: みおとり

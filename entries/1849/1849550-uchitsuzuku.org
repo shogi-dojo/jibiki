@@ -1,0 +1,172 @@
+#+TITLE: 打ち続く
+#+JMDICT_ID: 1849550
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: うちつづく
+#+ROMAJI: uchitsuzuku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-25
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1849550-001
+:PROPERTIES:
+:TEXT: 打ち続く
+:END:
+** Written form wf-1849550-002
+:PROPERTIES:
+:TEXT: 打続く
+:END:
+** Written form wf-1849550-003
+:PROPERTIES:
+:TEXT: うち続く
+:END:
+** Written form wf-1849550-004
+:PROPERTIES:
+:TEXT: 打ちつづく
+:END:
+** Reading rd-1849550-001
+:PROPERTIES:
+:TEXT: うちつづく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1849550-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: d78a0d2a5383e2abdd725856ff5cebc6488445b41fb40f91f411123eea6173a4
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5k
+- vi
+** English glosses
+- to continue for a long time
+- to undergo a repeated series
+** Ukrainian glosses
+*** uk-s-1849550-001-001
+:PROPERTIES:
+:END:
+- text :: тягнутися без упину, тривати довго; іти низкою (одне за одним)
+** Learner notes
+*** note-s-1849550-001-001
+:PROPERTIES:
+:END:
+- UK :: Неперехідне дієслово 5-го ряду на -く, книжне слово. Префікс 打ち- підсилює тривалість і безперервність дії дієслова 続く. Часто вживається перед іменником як означення (打ち続く不況 — затяжна криза, 打ち続く不幸 — низка нещасть).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1849550-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 不幸が打ち続く。
+- READING :: ふこうがうちつづく。
+- UK :: Нещастя йдуть одне за одним.
+- FOCUS :: 打ち続く
+*** ex-1849550-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 打ち続く大雨で川の増水が心配されている。
+- READING :: うちつづくおおあめでかわのぞうすいがしんぱいされている。
+- UK :: Через безперервні зливи є побоювання щодо підйому води в річці.
+- FOCUS :: 打ち続く
+*** ex-1849550-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 長引く戦乱と打ち続く飢饉によって、人々の暮らしは厳しさを増した。
+- READING :: ながびくせんらんとうちつづくききんによって、ひとびとのくらしはきびしさをました。
+- UK :: Через затяжні війни й безперервні неврожаї життя людей ставало дедалі важчим.
+- FOCUS :: 打ち続く
+
+* Sense s-1849550-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 18253eddd178b6424b7c8c722c6741620be433d512b89626952064fa47fa92ce
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1849550-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nacheinander passieren
+*** en-s-1849550-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lange andauern
+** Ukrainian glosses
+
+* Sense s-1849550-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 2c8ccd01393a0c62c3accf81f6ca6812fbfa5e081e6fa7dd25213c9ecaff70a9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1849550-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: продолжиться, длиться; следовать один за другим; (как опред.) длительный, продолжительный
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1849550-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1849550-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-25
+:END:
+- reading :: うちつづく
+** Accent accent-rd-1849550-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1849550-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 4
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-25
+:END:
+- reading :: うちつづく

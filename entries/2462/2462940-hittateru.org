@@ -1,0 +1,152 @@
+#+TITLE: 引っ立てる
+#+JMDICT_ID: 2462940
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ひったてる
+#+ROMAJI: hittateru
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2462940-001
+:PROPERTIES:
+:TEXT: 引っ立てる
+:END:
+** Reading rd-2462940-001
+:PROPERTIES:
+:TEXT: ひったてる
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2462940-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 70364fc0a0093890c20b6ad2af876df2538a0bc89d8a6e912a29073c81deb82f
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v1
+- vt
+** English glosses
+- to march (someone) off (e.g. to the police station)
+- to lead away
+- to take away
+** Ukrainian glosses
+*** uk-s-2462940-001-001
+:PROPERTIES:
+:END:
+- text :: відвести силоміць; повести під вартою; притягти (до поліції, суду)
+** Learner notes
+*** note-s-2462940-001-001
+:PROPERTIES:
+:END:
+- UK :: Перехідне дієслово другої дієвідміни (ічідан) із підсилювальним префіксом 引っ- (від 引く «тягти» + 立てる «підіймати, вести»). Описує примусове виведення або доставлення когось (наприклад, порушника до відділку чи суду); зазвичай вживається в художніх або історичних текстах.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2462940-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 警官が犯人を交番へ引っ立てる。
+- READING :: けいかんがはんにんをこうばんへひったてる。
+- UK :: Поліцейський силоміць веде злочинця до відділку.
+- FOCUS :: 引っ立てる
+*** ex-2462940-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 騒ぎを起こした男は、警備員に両腕をつかまれて外へ引っ立てられた。
+- READING :: さわぎをおこしたおとこは、けいびいんにりょううでをつかまれてそとへひったてられた。
+- UK :: Чоловіка, який зчинив галас, охоронці схопили за обидві руки й вивели геть.
+- FOCUS :: 引っ立てられた
+*** ex-2462940-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 時代劇では、捕らえられた悪党が奉行所の前まで引っ立てられていく場面がよく描かれる。
+- READING :: じだいげきでは、とらえられたあくとうがぶぎょうしょのまえまでひったてられていくばめんがよくえがかれる。
+- UK :: В історичних драмах часто показують сцени, де схопленого негідника ведуть під вартою до резиденції судді.
+- FOCUS :: 引っ立てられて
+
+* Sense s-2462940-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 94322b5a9eb7b2a5674217a38868154ea1af5b9dbe573505eb91aa33dbc1af3a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2462940-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: abführen
+*** en-s-2462940-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: festnehmen
+*** en-s-2462940-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: in Haft bringen
+** Ukrainian glosses
+
+* Sense s-2462940-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: eb64d9f16b1029301cc4124844fc919099cd65c1d885ef49f54c4dfe5f555b57
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2462940-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: уводить
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2462940-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2462940-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 4
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: ひったてる

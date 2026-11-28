@@ -1,0 +1,151 @@
+#+TITLE: 天動説
+#+JMDICT_ID: 1440040
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: てんどうせつ
+#+ROMAJI: tendousetsu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1440040-001
+:PROPERTIES:
+:TEXT: 天動説
+:END:
+*** Priorities
+- news2
+- nf46
+** Reading rd-1440040-001
+:PROPERTIES:
+:TEXT: てんどうせつ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf46
+
+* Sense s-1440040-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: f2cea8b89c0523f00e8c4e0f494605827ae8ffe6cdfe4f5e63c7e4821a5c5492
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Cross-references
+- 地動説
+** English glosses
+- Ptolemaic theory
+- geocentric model
+- geocentrism
+** Ukrainian glosses
+*** uk-s-1440040-001-001
+:PROPERTIES:
+:END:
+- text :: геоцентрична теорія; геоцентризм; система Птолемея
+** Learner notes
+*** note-s-1440040-001-001
+:PROPERTIES:
+:END:
+- UK :: Астрономічний та історико-науковий термін (буквально «теорія руху небес»), що позначає давнє уявлення про нерухому Землю в центрі Всесвіту, довкола якої обертаються Сонце, Місяць, планети й зорі. Становить антонімічну пару до 地動説 (геліоцентрична теорія).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1440040-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 昔の人は天動説を信じていた。
+- READING :: むかしのひとはてんどうせつをしんじていた。
+- UK :: У давнину люди вірили в геоцентричну теорію.
+- FOCUS :: 天動説
+*** ex-1440040-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 天動説では、太陽や星が地球のまわりを回っていると考えられていた。
+- READING :: てんどうせつでは、たいようやほしがちきゅうのまわりをまわっているとかんがえられていた。
+- UK :: Згідно з геоцентричною моделлю вважалося, що Сонце й зорі обертаються навколо Землі.
+- FOCUS :: 天動説
+*** ex-1440040-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: コペルニクスやガリレオの研究によって、長く主流だった天動説は次第に覆された。
+- READING :: こぺるにくすやがりれおのけんきゅうによって、ながくしゅりゅうだったてんどうせつはしだいにくつがえされた。
+- UK :: Завдяки дослідженням Коперника та Галілея геоцентричну теорію, яка довго панувала, поступово спростували.
+- FOCUS :: 天動説
+
+* Sense s-1440040-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: f6d6fa6bec063df7585fdddf89357c0ffae61177dcb91eccfe9bdabeeeeafc2b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1440040-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ptolemäisches Weltbild
+*** en-s-1440040-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: geozentrisches Weltsystem
+** Ukrainian glosses
+
+* Sense s-1440040-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 992362494ad4bc2f3e4cde1560b213e96432ee520c10462d8a0797790faa8d0e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1440040-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (астр.) геоцентрическая теория
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1440040-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1440040-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: てんどうせつ

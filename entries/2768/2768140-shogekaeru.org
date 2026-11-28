@@ -1,0 +1,172 @@
+#+TITLE: しょげ返る
+#+JMDICT_ID: 2768140
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: しょげかえる
+#+ROMAJI: shogekaeru
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2768140-001
+:PROPERTIES:
+:TEXT: しょげ返る
+:END:
+** Written form wf-2768140-002
+:PROPERTIES:
+:TEXT: 悄気返る
+:END:
+*** Information
+- ateji
+- rK
+** Reading rd-2768140-001
+:PROPERTIES:
+:TEXT: しょげかえる
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2768140-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 035db7ac07da29dd9a2d6281b2d5712f800466082a8095b356446b97418f6b42
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5r
+- vi
+** English glosses
+- to be dispirited
+- to be dejected
+- to lose heart
+- to become discouraged
+- to be crestfallen
+- to be utterly disheartened
+- to be despondent
+** Ukrainian glosses
+*** uk-s-2768140-001-001
+:PROPERTIES:
+:END:
+- text :: зовсім занепасти духом; похнюпитися; зневіритися
+** Learner notes
+*** note-s-2768140-001-001
+:PROPERTIES:
+:END:
+- UK :: Неперехідне дієслово п'ятиступеневої дієвідміни (五段活用), що виражає глибоке пригнічення, розчарування або втрату бадьорості після невдачі чи догани. Утворене поєднанням дієслова しょげる (хнюпитися, журитися) та підсилювального компонента 返る (цілком, до краю).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2768140-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: テストに失敗して、彼はすっかりしょげ返ってしまいました。
+- READING :: てすとにしっぱいして、かれはすっかりしょげかえってしまいました。
+- UK :: Проваливши тест, він зовсім похнюпився.
+- FOCUS :: しょげ返っ
+*** ex-2768140-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: せっかく作った料理をこぼしてしまい、子どもがしょげ返っている。
+- READING :: せっかくつくったりょうりをこぼしてしまい、こどもがしょげかえっている。
+- UK :: Розливши страву, яку так старанно готувала, дитина зовсім зажурилася.
+- FOCUS :: しょげ返っ
+*** ex-2768140-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 何度挑戦しても結果が出ずしょげ返る部下を見て、先輩は温かい励ましの言葉をかけた。
+- READING :: なんどちょうせんしてもけっかがでずしょげかえるぶかをみて、せんぱいはあたたかいはげましのことばをかけた。
+- UK :: Побачивши підлеглого, який зовсім занепав духом через постійні невдачі попри всі зусилля, старший колега підтримав його теплими словами.
+- FOCUS :: しょげ返る
+
+* Sense s-2768140-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 00d6010b2d62e6218ef4221c9cb085fad4606df1c43a707dfd863176af99bd02
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2768140-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tief enttäuscht sein
+*** en-s-2768140-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tief deprimiert sein
+** Ukrainian glosses
+
+* Sense s-2768140-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 736553d9279477fc4bac4d61cd3f29f256f3c5a066ae40893fac5850162ebc42
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2768140-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: прийти в полное уныние, совсем пасть духом
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2768140-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2768140-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: しょげかえる
+** Accent accent-rd-2768140-001-002
+:PROPERTIES:
+:TARGET_ID: rd-2768140-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: しょげかえる

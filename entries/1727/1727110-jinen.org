@@ -1,0 +1,176 @@
+#+TITLE: 腎炎
+#+JMDICT_ID: 1727110
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: じんえん
+#+ROMAJI: jinen
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1727110-001
+:PROPERTIES:
+:TEXT: 腎炎
+:END:
+*** Priorities
+- news2
+- nf47
+** Reading rd-1727110-001
+:PROPERTIES:
+:TEXT: じんえん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf47
+
+* Sense s-1727110-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: b4e6f821da198f23ad8815202459c034ae36ce4fc5442e3e3acb3d9d7b8e9ebb
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- med
+** English glosses
+- nephritis
+- inflammation of the kidneys
+** Ukrainian glosses
+*** uk-s-1727110-001-001
+:PROPERTIES:
+:END:
+- text :: нефрит; запалення нирок
+** Learner notes
+*** note-s-1727110-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, медичний термін; складається з 腎 (нирка) та 炎 (запалення). Позначає запальне захворювання нирок, яке буває гострим (急性腎炎) або хронічним (慢性腎炎) і виявляється зокрема за аналізом сечі.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1727110-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 祖父は腎炎の治療のために入院している。
+- READING :: そふはじんえんのちりょうのためににゅういんしている。
+- UK :: Дідусь лежить у лікарні на лікуванні від нефриту.
+- FOCUS :: 腎炎
+*** ex-1727110-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 健康診断で異常が見つかり、詳しい検査の結果、軽い腎炎と診断された。
+- READING :: けんこうしんだんでいじょうがみつかり、くわしいけんさのけっか、かるいじんえんとしんだんされた。
+- UK :: Під час медогляду виявили відхилення, і після детального обстеження діагностували легку форму нефриту.
+- FOCUS :: 腎炎
+*** ex-1727110-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 急性腎炎は初期の症状が分かりにくいこともあるため、むくみや倦怠感が続くときは早めの受診が大切だ。
+- READING :: きゅうせいじんえんはしょきのしょうじょうがわかりにくいこともあるため、むくみやけんたいかんがつづくときははやめのじゅしんがたいせつだ。
+- UK :: Оскільки початкові симптоми гострого нефриту бувають малопомітними, за тривалих набряків і слабкості важливо вчасно звернутися до лікаря.
+- FOCUS :: 腎炎
+
+* Sense s-1727110-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 403880feb81cbe4789653668ff1b5389b04b03f9bee921b5a2d64235508aaf12
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1727110-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {geneesk.} nierontsteking
+*** en-s-1727110-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nefritis
+** Ukrainian glosses
+
+* Sense s-1727110-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 5ed5d2490f0586ffa5d4ad15cc431f8758ca9a3b2ec3461d16f3951a2ca40bb3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1727110-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Nierenentzündung
+*** en-s-1727110-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Nephritis
+** Ukrainian glosses
+
+* Sense s-1727110-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 49d58e72341d4546797abd552c27d049d5ad83a796fce1572b464cd38bf5f393
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1727110-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: воспаление почек, нефрит
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1727110-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1727110-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: じんえん

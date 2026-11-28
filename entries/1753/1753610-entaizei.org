@@ -1,0 +1,161 @@
+#+TITLE: 延滞税
+#+JMDICT_ID: 1753610
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: えんたいぜい
+#+ROMAJI: entaizei
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-25
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1753610-001
+:PROPERTIES:
+:TEXT: 延滞税
+:END:
+** Reading rd-1753610-001
+:PROPERTIES:
+:TEXT: えんたいぜい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1753610-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 75c04e4344afee021469b48a9ce235d840f1cef612164ac70dd3d7bec1db7f0d
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- taxes in arrears
+- delinquent tax
+- overdue tax
+** Ukrainian glosses
+*** uk-s-1753610-001-001
+:PROPERTIES:
+:END:
+- text :: прострочений податок; податок із простроченим терміном сплати; пеня за прострочення податку
+** Learner notes
+*** note-s-1753610-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник на позначення податку, не сплаченого у встановлений строк, або додаткового нарахування за прострочення його сплати. Складається з 延滞 (затримка, прострочення) та 税 (податок); вживається в податковому та фінансовому контексті, зокрема у виразі 延滞税がかかる (нараховується пеня за прострочення податку).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1753610-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 延滞税を払いました。
+- READING :: えんたいぜいをはらいました。
+- UK :: Я сплатив прострочений податок.
+- FOCUS :: 延滞税
+*** ex-1753610-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 支払いが遅れると、延滞税がかかります。
+- READING :: しはらいがおくれると、えんたいぜいがかかります。
+- UK :: Якщо затримати оплату, нарахують пеню за прострочення податку.
+- FOCUS :: 延滞税
+*** ex-1753610-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 申告期限を過ぎたため、本税に加えて延滞税も納めなければならなくなった。
+- READING :: しんこくきげんをすぎたため、ほんぜいにくわえてえんたいぜいもおさめなければならなくなった。
+- UK :: Через пропущений строк подання декларації довелося сплатити не лише основний податок, а й пеню за прострочення.
+- FOCUS :: 延滞税
+
+* Sense s-1753610-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: b199549927aa4efda5a14d3bb203e18170bfa77965222ef69e3a9020fdd57508
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1753610-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Säumniszuschlag
+*** en-s-1753610-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Säumnissteuer
+** Ukrainian glosses
+
+* Sense s-1753610-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 7ccfa96ef90cb8aefc9c30038c658b2de48fe38862cef3db05dcd390525a7f2b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1753610-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: просроченный налог
+** Ukrainian glosses
+
+* Sense s-1753610-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 149f79aad77c16d739c5a75b4d5ad70c4d9edcf8a7e19be2beeb6814985d9aeb
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1753610-004-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tasas en atrasos
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1753610-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1753610-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-25
+:END:
+- reading :: えんたいぜい

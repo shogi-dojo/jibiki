@@ -1,0 +1,216 @@
+#+TITLE: 銑鉄
+#+JMDICT_ID: 1392450
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: せんてつ
+#+ROMAJI: sentetsu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-25
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1392450-001
+:PROPERTIES:
+:TEXT: 銑鉄
+:END:
+*** Priorities
+- news2
+- nf41
+- spec2
+** Reading rd-1392450-001
+:PROPERTIES:
+:TEXT: せんてつ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf41
+- spec2
+** Reading rd-1392450-002
+:PROPERTIES:
+:TEXT: ずくてつ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1392450-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: e05d261cace56ebd3b85fa9fee7861cde3507e2b961d83b4a86aa1dd1506f0d6
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- pig iron
+** Ukrainian glosses
+*** uk-s-1392450-001-001
+:PROPERTIES:
+:END:
+- text :: переробний чавун; доменний чавун
+** Learner notes
+*** note-s-1392450-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, металургійний термін. Позначає сирий високовуглецевий сплав заліза, виплавлений із руди в доменній печі для подальшої переробки на сталь або чавунні вироби; має також застаріле читання ずくてつ.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1392450-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 高炉で鉄鉱石から銑鉄を作る。
+- READING :: こうろでてっこうせきからせんてつをつくる。
+- UK :: У доменній печі із залізної руди виплавляють чавун.
+- FOCUS :: 銑鉄
+*** ex-1392450-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 製鉄所では、溶けた銑鉄を次の工程へ運んで鋼に精錬する。
+- READING :: せいてつしょでは、とけたせんてつをつぎのこうていへはこんではがねにせいれんする。
+- UK :: На металургійному заводі розплавлений чавун передають на наступний етап для виплавки сталі.
+- FOCUS :: 銑鉄
+*** ex-1392450-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 原料の純度や炉の温度によって、取り出される銑鉄の品質は大きく左右される。
+- READING :: げんりょうのじゅんどやろのおんどによって、とりだされるせんてつのひんしつはおおきくさゆうされる。
+- UK :: Якість одержаного доменного чавуну значною мірою залежить від чистоти сировини та температури в печі.
+- FOCUS :: 銑鉄
+
+* Sense s-1392450-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: e316b6e30d6f80aeb8e3101c1f737f4e0c599be4e056a4e7b8215816b5a64d68
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1392450-002-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fonte
+** Ukrainian glosses
+
+* Sense s-1392450-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 8a6a6b7bcf92e2b3834b36ff84a8a7af1e0f5f01d315dda3fb15a97c19cb5ec6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1392450-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Roheisen (volkstümliche Bez.)
+*** en-s-1392450-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Roheisen
+** Ukrainian glosses
+
+* Sense s-1392450-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 00ee1799de406548558958aa0ced9baf8b1254d5547bf0adea61d5ca61c1a151
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1392450-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: чугун в чушках (болванках)
+*** en-s-1392450-004-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: чугун в чушках (в штыках)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1392450-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1392450-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-25
+:END:
+- reading :: せんてつ
+** Accent accent-rd-1392450-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1392450-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-25
+:END:
+- reading :: せんてつ
+** Accent accent-rd-1392450-002-001
+:PROPERTIES:
+:TARGET_ID: rd-1392450-002
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-25
+:END:
+- reading :: ずくてつ

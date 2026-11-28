@@ -1,0 +1,214 @@
+#+TITLE: 零余子
+#+JMDICT_ID: 2423140
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: むかご
+#+ROMAJI: mukago
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2423140-001
+:PROPERTIES:
+:TEXT: 零余子
+:END:
+** Reading rd-2423140-001
+:PROPERTIES:
+:TEXT: むかご
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Information
+- gikun
+** Reading rd-2423140-002
+:PROPERTIES:
+:TEXT: ぬかご
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Information
+- gikun
+** Reading rd-2423140-003
+:PROPERTIES:
+:TEXT: れいよし
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Information
+- rk
+** Reading rd-2423140-004
+:PROPERTIES:
+:TEXT: ムカゴ
+:NO_KANJI: true
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2423140-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 0e98c45bbf958e5c57b91c31ba1a7894d0b16e37cf8e0edea5a06728e12c44b1
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- uk
+** English glosses
+- bulbil (esp. of a Japanese yam)
+- propagule
+- brood bud
+** Ukrainian glosses
+*** uk-s-2423140-001-001
+:PROPERTIES:
+:END:
+- text :: повітряна бульбочка (зокрема японського ямсу); виводкова брунька
+** Learner notes
+*** note-s-2423140-001-001
+:PROPERTIES:
+:END:
+- UK :: Ботанічний та кулінарний іменник, що зазвичай пишеться каною (むかご або ムカゴ; ієрогліфічний запис 零余子 трапляється рідше). Позначає дрібні їстівні бульбочки, які виростають у пазухах листків дикого ямсу (山芋) і використовуються в японській кухні, зокрема для приготування страви むかごご飯.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2423140-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 秋にむかごご飯を作りました。
+- READING :: あきにむかごごはんをつくりました。
+- UK :: Восени я приготував рис із бульбочками ямсу.
+- FOCUS :: むかご
+*** ex-2423140-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 山道で山芋のつるについたむかごを見つけた。
+- READING :: やまみちでやまいものつるについたむかごをみつけた。
+- UK :: На гірській стежці я знайшов бульбочки на пагоні дикого ямсу.
+- FOCUS :: むかご
+*** ex-2423140-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 採れたてのむかごを塩ゆでにすると、ほくほくとした食感と素朴な風味が楽しめる。
+- READING :: とれたてのむかごをしおゆでにすると、ほくほくとしたしょっかんとそぼくなふうみがたのしめる。
+- UK :: Якщо свіжозібрані бульбочки ямсу відварити в підсоленій воді, можна насолодитися їхньою розсипчастою текстурою та простим природним смаком.
+- FOCUS :: むかご
+
+* Sense s-2423140-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 6c28a79c1d93c2073af118b6498f6d6647a30a318d29b636b530d0e349407c72
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2423140-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Ranke
+*** en-s-2423140-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kartoffelranke
+** Ukrainian glosses
+
+* Sense s-2423140-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: bcc8baf0c4ee53fbfb4ae2c5c87e72076eaf49399f8fcb7aa1b8f583bebdd9ca
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2423140-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (см.) むかご
+*** en-s-2423140-003-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (бот.) бульбочка, луковичка
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2423140-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2423140-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: むかご
+** Accent accent-rd-2423140-002-001
+:PROPERTIES:
+:TARGET_ID: rd-2423140-002
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: ぬかご
+** Accent accent-rd-2423140-003-001
+:PROPERTIES:
+:TARGET_ID: rd-2423140-003
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: れいよし

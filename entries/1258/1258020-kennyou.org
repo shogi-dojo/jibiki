@@ -1,0 +1,177 @@
+#+TITLE: 検尿
+#+JMDICT_ID: 1258020
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: けんにょう
+#+ROMAJI: kennyou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1258020-001
+:PROPERTIES:
+:TEXT: 検尿
+:END:
+** Reading rd-1258020-001
+:PROPERTIES:
+:TEXT: けんにょう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1258020-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: c59e9bc05614608eaa82b47cf12b89633c31a77a5e54de9c36b95e48cfa14b46
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vi
+** English glosses
+- urinalysis
+** Ukrainian glosses
+*** uk-s-1258020-001-001
+:PROPERTIES:
+:END:
+- text :: аналіз сечі
+** Learner notes
+*** note-s-1258020-001-001
+:PROPERTIES:
+:END:
+- UK :: Медичний іменник та неперехідне する-дієслово (утворене від 検 — перевіряти й 尿 — сеча). Позначає лабораторне дослідження сечі або саму процедуру здачі цього аналізу під час медогляду.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1258020-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 明日、学校で検尿があります。
+- READING :: あした、がっこうでけんにょうがあります。
+- UK :: Завтра в школі буде аналіз сечі.
+- FOCUS :: 検尿
+*** ex-1258020-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 健康診断では毎年必ず検尿と血液検査を行う。
+- READING :: けんこうしんだんではまいとしかならずけんにょうとけつえきけんさをおこなう。
+- UK :: Під час щорічного медогляду обов'язково роблять аналіз сечі та аналіз крові.
+- FOCUS :: 検尿
+*** ex-1258020-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 体調がすぐれなかったため、念のため病院を受診して検尿を受けた。
+- READING :: たいちょうがすぐれなかったため、ねんのためびょういんをじゅしんしてけんにょうをうけた。
+- UK :: Оскільки я почувався недобре, то про всяк випадок звернувся до лікарні й здав аналіз сечі.
+- FOCUS :: 検尿
+
+* Sense s-1258020-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 54c0713d6a2e13ae21a288803f157c20368ae43a31ab5f0bf894bf452f3addf8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1258020-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Urinuntersuchung
+*** en-s-1258020-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Harnuntersuchung
+*** en-s-1258020-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Urin untersuchen
+** Ukrainian glosses
+
+* Sense s-1258020-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 700c1c533f7c7598682c12a9f01e501a8b8d28da6206f9fe0e1aff9b022373b1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1258020-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vizeletvizsgálat
+** Ukrainian glosses
+
+* Sense s-1258020-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: cde4c9a39bc5ffc990cf22ace827d1f825c7b248737b059071a6ef3e7137ebe2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1258020-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: анализ мочи
+*** en-s-1258020-004-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} делать анализ мочи
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1258020-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1258020-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: けんにょう

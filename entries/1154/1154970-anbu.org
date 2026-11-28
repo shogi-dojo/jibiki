@@ -1,0 +1,152 @@
+#+TITLE: 鞍部
+#+JMDICT_ID: 1154970
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: あんぶ
+#+ROMAJI: anbu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1154970-001
+:PROPERTIES:
+:TEXT: 鞍部
+:END:
+** Reading rd-1154970-001
+:PROPERTIES:
+:TEXT: あんぶ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1154970-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: aa64dc281721f531b60f6fdbb1d1f203c3fe6be2cf705741cf779d2a46cc5de0
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- col
+- saddle between mountains
+** Ukrainian glosses
+*** uk-s-1154970-001-001
+:PROPERTIES:
+:END:
+- text :: сідловина; гірський перевал
+** Learner notes
+*** note-s-1154970-001-001
+:PROPERTIES:
+:END:
+- UK :: Географічний та альпіністський термін, утворений із 鞍 («сідло») та 部 («частина»). Позначає зниження на гірському хребті між двома вершинами, яке за формою нагадує сідло; синонім у розмовній мові альпіністів — コル.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1154970-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 二つの山の間の鞍部を通りました。
+- READING :: ふたつのやまのあいだのあんぶをとおりました。
+- UK :: Ми пройшли сідловиною між двома горами.
+- FOCUS :: 鞍部
+*** ex-1154970-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 登山道は急な尾根を越えた後、風当たりの弱い鞍部へと下っている。
+- READING :: とざんどうはきゅうなおねをこえたあと、かぜあたりのよわいあんぶへとくだっている。
+- UK :: Гірська стежка після крутого гребеня спускається до сідловини, захищеної від сильного вітру.
+- FOCUS :: 鞍部
+*** ex-1154970-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 地図の等高線を読み取ると、この鞍部が谷から稜線へ抜ける最も安全な経路だと分かる。
+- READING :: ちずのとうこうせんをよみとると、このあんぶがたにからりょうせんへぬけるもっともあんぜんなけいろだとわかる。
+- UK :: Якщо прочитати горизонталі на мапі, стає зрозуміло, що ця сідловина — найбезпечніший шлях із долини на гірський хребет.
+- FOCUS :: 鞍部
+
+* Sense s-1154970-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 2a241f967afc0c2ef5a6dea67e6aae31434f6cd44ab4648a796cf397f57d4c92
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1154970-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Bergsattel
+** Ukrainian glosses
+
+* Sense s-1154970-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 3d32a6fe78e15d1405714bbc8e4896ea5b748295f07d9e412780cd3c1db92dae
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1154970-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (геогр.) седловина
+** Ukrainian glosses
+
+* Sense s-1154970-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 8a6de25d24a92319c65070b8fcf208fc3fca719104b3f82d5b1af03a4064714f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1154970-004-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (figurado) silla (de montar) entre montañas
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1154970-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1154970-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: あんぶ

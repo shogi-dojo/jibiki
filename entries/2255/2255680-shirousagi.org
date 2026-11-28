@@ -1,0 +1,123 @@
+#+TITLE: 白兎
+#+JMDICT_ID: 2255680
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: しろうさぎ
+#+ROMAJI: shirousagi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2255680-001
+:PROPERTIES:
+:TEXT: 白兎
+:END:
+** Reading rd-2255680-001
+:PROPERTIES:
+:TEXT: しろうさぎ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2255680-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: b1a98b354590e8d9ffbb5be4a0bdb92b20c4a875d468eb9e652cdb7223a60d31
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- white rabbit
+** Ukrainian glosses
+*** uk-s-2255680-001-001
+:PROPERTIES:
+:END:
+- text :: білий кролик; білий заєць
+** Learner notes
+*** note-s-2255680-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений поєднанням основи прикметника 白 (білий) та 兎 (заєць, кролик). У японській культурі слово добре відоме зокрема завдяки давньому міфу «Білий заєць з Інаби» (因幡の白兎), де трапляється як розмовне читання しろうさぎ, так і урочисто-літературне はくと.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2255680-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 庭に小さな白兎がいます。
+- READING :: にわにちいさなしろうさぎがいます。
+- UK :: У саду сидить маленький білий кролик.
+- FOCUS :: 白兎
+*** ex-2255680-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 子どもたちは動物園でふわふわした白兎をなでました。
+- READING :: こどもたちはどうぶつえんでふわふわしたしろうさぎをなでました。
+- UK :: Діти в зоопарку гладили пухнастого білого кролика.
+- FOCUS :: 白兎
+*** ex-2255680-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 神話に登場する白兎の話は、日本の古い書物にも記されています。
+- READING :: しんわにとうじょうするしろうさぎのはなしは、にほんのふるいしょもつにもしるされています。
+- UK :: Історія про білого зайця, що фігурує в міфі, записана також у давніх японських хроніках.
+- FOCUS :: 白兎
+
+* Sense s-2255680-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: a2fd367c1731506e34e1ef612662f1abaac8d743ef2f8db5c1c7ebf8791b89e6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2255680-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Schneehase
+*** en-s-2255680-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: weißes Kaninchen
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2255680-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2255680-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: しろうさぎ

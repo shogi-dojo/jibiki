@@ -1,0 +1,141 @@
+#+TITLE: 比丘
+#+JMDICT_ID: 1621910
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: びく
+#+ROMAJI: biku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1621910-001
+:PROPERTIES:
+:TEXT: 比丘
+:END:
+** Reading rd-1621910-001
+:PROPERTIES:
+:TEXT: びく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1621910-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 5c6933834c91be18c2a3b75d9a6b8a3711ad728f231ca0f491981ba70c0d393c
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Language sources
+**** Language source ls-s-1621910-001-001
+:PROPERTIES:
+:LANG: san
+:TYPE: full
+:WASEI: false
+:END:
+- text :: bhiksu
+** English glosses
+- bhikkhu (fully ordained Buddhist monk)
+** Ukrainian glosses
+*** uk-s-1621910-001-001
+:PROPERTIES:
+:END:
+- text :: бгікшу; буддійський чернець
+** Learner notes
+*** note-s-1621910-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник буддійської термінології, фонетична передача санскритського слова bhikṣu («чернець, що живе з подаяння й присвятив себе духовній практиці»). Позначає повністю висвяченого ченця, тоді як черницю називають 比丘尼.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1621910-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 寺に多くの比丘が集まった。
+- READING :: てらにおおくのびくがあつまった。
+- UK :: У храмі зібралося багато буддійських ченців.
+- FOCUS :: 比丘
+*** ex-1621910-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 早朝から比丘たちが静かにお経を唱える声が境内に響いている。
+- READING :: そうちょうからびくたちがしずかにおきょうをとなえるこえがけいだいにひびいている。
+- UK :: З раннього ранку на території храму лунають голоси ченців, які тихо читають сутри.
+- FOCUS :: 比丘
+*** ex-1621910-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 戒律を重んじる比丘は、質素な衣をまとって各地を巡りながら修行を続けた。
+- READING :: かいりつをおもんじるびくは、しっそなころもをまとってかくちをめぐりながらしゅぎょうをつづけた。
+- UK :: Дотримуючись чернечих приписів, бгікшу в скромному вбранні мандрували різними краями та продовжували духовну практику.
+- FOCUS :: 比丘
+
+* Sense s-1621910-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: c356ecd23b51f5d0854a260b4bb6b23ca7d710918e4e57a78beefb877741c3e7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1621910-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: buddhistischer Mönch
+** Ukrainian glosses
+
+* Sense s-1621910-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 58947ef9c5e8c1b28028ee1af1d3cee62d3a80b049928ecc1439c11b3ce95823
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1621910-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ((санскр.) bhiksu) буддийский монах
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1621910-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1621910-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 2
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: びく

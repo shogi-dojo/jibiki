@@ -1,0 +1,161 @@
+#+TITLE: ポマード
+#+JMDICT_ID: 2063180
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ポマード
+#+ROMAJI: pomaado
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-2063180-001
+:PROPERTIES:
+:TEXT: ポマード
+:NO_KANJI: false
+:END:
+
+* Sense s-2063180-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 26a6d632967d1130ca0e18f2be4ac8afae5488722c5e3f9161b9436b221c5e0c
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- pomade
+** Ukrainian glosses
+*** uk-s-2063180-001-001
+:PROPERTIES:
+:END:
+- text :: помада для волосся, бріолін
+** Learner notes
+*** note-s-2063180-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, запозичений із англійської або французької (pomade / pommade). Позначає густий ароматизований засіб на основі олії чи воску для фіксації та надання блиску чоловічій зачісці.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2063180-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 祖父はいつも髪にポマードをつけている。
+- READING :: そふはいつもかみにぽまーどをつけている。
+- UK :: Мій дідусь завжди наносить на волосся помаду для укладання.
+- FOCUS :: ポマード
+*** ex-2063180-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 理髪店に入ると、懐かしいポマードの香りが漂っていた。
+- READING :: りはつてんにはいると、なつかしいぽまーどのかおりがただよっていた。
+- UK :: Коли я зайшов до перукарні, там витав ностальгійний аромат помади для волосся.
+- FOCUS :: ポマード
+*** ex-2063180-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 舞台に立つ俳優は、強い照明の下でも髪型が崩れないようにポマードでしっかり整えた。
+- READING :: ぶたいにたつはいゆうは、つよいしょうめいのしたでもかみがたがくずれないようにぽまーどでしっかりととのえた。
+- UK :: Актор, який виходив на сцену, ретельно вклав волосся помадою, щоб зачіска не розпалася навіть під яскравими софітами.
+- FOCUS :: ポマード
+
+* Sense s-2063180-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 698e561d81a91f37a212896c46e89165c6379788327bda9663ee853888bc36a1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2063180-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pommade
+*** en-s-2063180-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: haarcrème
+** Ukrainian glosses
+
+* Sense s-2063180-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: a2116534bf118b539a5ff4c66c503ff515f68633509e7060950a662843b8d8e5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2063180-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Brillantine
+*** en-s-2063180-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Pomade
+** Ukrainian glosses
+
+* Sense s-2063180-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: b9d1159b18e425e0533318563f6a95210c01b1524cc83d8a88afabb1e654145c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2063180-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ((англ.) pomade) помада
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2063180-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2063180-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 2
+:PATTERN: nakadaka
+:MORA_PATTERN: LHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: ポマード

@@ -1,0 +1,169 @@
+#+TITLE: 竜宮
+#+JMDICT_ID: 1552960
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: りゅうぐう
+#+ROMAJI: ryuuguu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1552960-001
+:PROPERTIES:
+:TEXT: 竜宮
+:END:
+*** Priorities
+- news2
+- nf47
+** Written form wf-1552960-002
+:PROPERTIES:
+:TEXT: 龍宮
+:END:
+** Reading rd-1552960-001
+:PROPERTIES:
+:TEXT: りゅうぐう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf47
+
+* Sense s-1552960-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: c10eb5ecd9f09d2222745e78e220e3ce28241f298a308c23f0627ef32efd2a31
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- Palace of the Dragon King
+*** en-s-1552960-001-002
+:PROPERTIES:
+:LANG: eng
+:TYPE: expl
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: palace from the story of Urashima Tarō (said to be located at the bottom of the sea)
+** Ukrainian glosses
+*** uk-s-1552960-001-001
+:PROPERTIES:
+:END:
+- text :: Палац Морського Дракона; Рюґу
+** Learner notes
+*** note-s-1552960-001-001
+:PROPERTIES:
+:END:
+- UK :: Міфологічний підводний палац бога морів, широко відомий з японської народної казки про рибалку 浦島太郎 (Урашіма Таро). У тексті часто трапляється в складеній формі 竜宮城 (замок Рюґу) і символізує чарівний, розкішний світ поза часом.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1552960-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 昔話では、亀が浦島太郎を竜宮へ案内する。
+- READING :: むかしばなしでは、かめがうらしまたろうをりゅうぐうへあんないする。
+- UK :: У народній казці черепаха відводить Урашіму Таро до Палацу Морського Дракона.
+- FOCUS :: 竜宮
+*** ex-1552960-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 珊瑚が輝く海の底は、まるで竜宮のような景色だった。
+- READING :: さんごがかがやくうみのそこは、まるでりゅうぐうのようなけしきだった。
+- UK :: Морське дно, де сяяли корали, нагадувало краєвид із Палацу Морського Дракона.
+- FOCUS :: 竜宮
+*** ex-1552960-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 漁師たちは古くから、海の向こうに竜宮があると語り継いできた。
+- READING :: りょうしたちはふるくから、うみのむこうにりゅうぐうがあるとかたりついできた。
+- UK :: Рибалки здавна передавали з покоління в покоління перекази про те, що за морем існує палац Рюґу.
+- FOCUS :: 竜宮
+
+* Sense s-1552960-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 9ee1d4adae01a15522bf444321376efdcc93b8e05554503bd755a34d7d4a7843
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1552960-002-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Palais du Dragon
+** Ukrainian glosses
+
+* Sense s-1552960-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 82de55cbb96047617ebad17086372ee700dd97a7941dfcfc99dcd50001c2f205
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1552960-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Palast des Drachenkönigs (am Grund des Meeres)
+** Ukrainian glosses
+
+* Sense s-1552960-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 4a694af013861e7dc7dabe6473cc9ca15896919204569e3e51078afedc0c0d1b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1552960-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (миф.) дворец морского дракона
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1552960-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1552960-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: りゅうぐう

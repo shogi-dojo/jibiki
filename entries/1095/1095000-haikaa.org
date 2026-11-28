@@ -1,0 +1,163 @@
+#+TITLE: ハイカー
+#+JMDICT_ID: 1095000
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ハイカー
+#+ROMAJI: haikaa
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-1095000-001
+:PROPERTIES:
+:TEXT: ハイカー
+:NO_KANJI: false
+:END:
+*** Priorities
+- gai1
+
+* Sense s-1095000-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 4d1b26315e5f8d1e34fc39f6e44a6bab0e326e24012e26ea727752a45402a949
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- hiker
+** Ukrainian glosses
+*** uk-s-1095000-001-001
+:PROPERTIES:
+:END:
+- text :: піший турист; мандрівник пішки; хайкер
+** Learner notes
+*** note-s-1095000-001-001
+:PROPERTIES:
+:END:
+- UK :: Запозичений іменник (від англ. hiker), що позначає любителя піших прогулянок і походів на природі, особливо гірськими стежками або туристичними маршрутами (ハイキング). Уживається переважно щодо одноденних або нескладних походів на відміну від професійних альпіністів (登山家).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1095000-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 秋になるとこの山にはハイカーが多い。
+- READING :: あきになるとこのやまにははいかーがおおい。
+- UK :: Восени на цій горі буває багато піших туристів.
+- FOCUS :: ハイカー
+*** ex-1095000-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 朝早くから多くのハイカーが山頂を目指して歩いていた。
+- READING :: あさはやくからおおくのはいかーがさんちょうをめざしてあるいていた。
+- UK :: Із самого ранку чимало піших туристів прямувало до вершини гори.
+- FOCUS :: ハイカー
+*** ex-1095000-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 整備された遊歩道沿いの休憩所は、週末に訪れる家族連れのハイカーでにぎわっている。
+- READING :: せいびされたゆうほどうぞいのきゅうけいじょは、しゅうまつにおとずれるかぞくづれのはいかーでにぎわっている。
+- UK :: Місце відпочинку вздовж облаштованої пішохідної стежки у вихідні заповнене сім'ями піших туристів.
+- FOCUS :: ハイカー
+
+* Sense s-1095000-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: c98430ccd8b9f0d7b5a28b7292f01be65660c0dc0b03f8e098e5922978fcf768
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1095000-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Wanderer
+** Ukrainian glosses
+
+* Sense s-1095000-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: cebd778f611a08b083a0a1753cfc10fede424c9048e6c751607c6067059d0bc6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1095000-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kiránduló
+*** en-s-1095000-003-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: természetjáró
+*** en-s-1095000-003-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: turista
+** Ukrainian glosses
+
+* Sense s-1095000-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 25ebf20fd6541e9c5bd42703f18a3d8648a12e4802ad6d649520ea224557f2a5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1095000-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ((амер.) hiker) пеший турист
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1095000-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1095000-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: ハイカー

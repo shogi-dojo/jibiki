@@ -1,0 +1,169 @@
+#+TITLE: 演説会
+#+JMDICT_ID: 2575680
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: えんぜつかい
+#+ROMAJI: enzetsukai
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-25
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2575680-001
+:PROPERTIES:
+:TEXT: 演説会
+:END:
+** Reading rd-2575680-001
+:PROPERTIES:
+:TEXT: えんぜつかい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2575680-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 18e59ff05064c50dfafc329730682546fded3ffb9fe035bb475ccd88f2c261f0
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- speech meeting
+- assembly to hear a speech
+** Ukrainian glosses
+*** uk-s-2575680-001-001
+:PROPERTIES:
+:END:
+- text :: збори для промов, мітинг, вечір виступів
+** Learner notes
+*** note-s-2575680-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник. Складається з 演説 (публічна промова) і 会 (збори, зустріч). Позначає захід, на якому політики, громадські діячі чи кандидати виступають із промовами перед аудиторією (наприклад, 個人演説会 — передвиборчий виступ).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2575680-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 演説会に参加する。
+- READING :: えんぜつかいにさんかする。
+- UK :: Взяти участь у зборах із промовами.
+- FOCUS :: 演説会
+*** ex-2575680-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 選挙を前に、駅前の広場で大きな演説会が開かれた。
+- READING :: せんきょをまえに、えきまえのひろばでおおきなえんぜつかいがひらかれた。
+- UK :: Напередодні виборів на площі перед станцією відбувся великий передвиборчий мітинг.
+- FOCUS :: 演説会
+*** ex-2575680-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 市民ホールで行われた演説会には、候補者の主張を聞こうと多くの聴衆が集まった。
+- READING :: しみんほーるでおこなわれたえんぜつかいには、こうほしゃのしゅちょうをきこうとおおくのちょうしゅうがあつまった。
+- UK :: На зустріч із виступами в міській залі зібралося чимало слухачів, щоб почути позицію кандидатів.
+- FOCUS :: 演説会
+
+* Sense s-2575680-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: ccef61a6bd67bac2b9abe224affdf4857b49ff848d14e39b58bb3a08f0b6b628
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2575680-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bijeenkomst voor een toespraak
+** Ukrainian glosses
+
+* Sense s-2575680-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: e158e632cd72d7e5b5d6f5024bd05a9b7ebbe8ef08f1e480de0e87f179354b73
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2575680-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Vortragsversammlung
+** Ukrainian glosses
+
+* Sense s-2575680-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: aa701c1341483e608cbd214c0537265a89d6bbdd120ae4afd2069dc62ea248c9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2575680-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: вечер выступлений (политических деятелей, писателей и т. п.)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2575680-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2575680-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 4
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-25
+:END:
+- reading :: えんぜつかい
+** Accent accent-rd-2575680-001-002
+:PROPERTIES:
+:TARGET_ID: rd-2575680-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-25
+:END:
+- reading :: えんぜつかい

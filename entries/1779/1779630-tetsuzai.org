@@ -1,0 +1,158 @@
+#+TITLE: 鉄剤
+#+JMDICT_ID: 1779630
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: てつざい
+#+ROMAJI: tetsuzai
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1779630-001
+:PROPERTIES:
+:TEXT: 鉄剤
+:END:
+** Reading rd-1779630-001
+:PROPERTIES:
+:TEXT: てつざい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1779630-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: ce0ad3c83616594f624683c48f149b64c5b9c014ca06cbae7d04b7d0e58140dc
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- (medicinal) iron preparations
+** Ukrainian glosses
+*** uk-s-1779630-001-001
+:PROPERTIES:
+:END:
+- text :: препарат заліза
+** Learner notes
+*** note-s-1779630-001-001
+:PROPERTIES:
+:END:
+- UK :: Медичний іменник, утворений з 鉄 (залізо) та суфікса 剤 (лікарський засіб, препарат). Позначає таблетки, сиропи чи розчини для ін'єкцій, які призначають для підвищення рівня гемоглобіну та лікування залізодефіцитної анемії.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1779630-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 貧血を治すために、毎日鉄剤を飲んでいる。
+- READING :: ひんけつをなおすために、まいにちてつざいをのんでいる。
+- UK :: Щоб вилікувати анемію, я щодня приймаю препарат заліза.
+- FOCUS :: 鉄剤
+*** ex-1779630-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 医師から処方された鉄剤を飲み始めて、ようやくめまいが治まった。
+- READING :: いしからしょほうされたてつざいをのみはじめて、ようやくめまいがおさまった。
+- UK :: Коли я почала приймати призначений лікарем препарат заліза, запаморочення нарешті минуло.
+- FOCUS :: 鉄剤
+*** ex-1779630-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 鉄剤は胃に負担がかかることがあるため、食後に服用するよう指示される場合が多い。
+- READING :: てつざいはいにふたんがかかることがあるため、しょくごにふくようするようしじされるばあいがおおい。
+- UK :: Оскільки препарати заліза іноді подразнюють шлунок, їх зазвичай радять приймати після їди.
+- FOCUS :: 鉄剤
+
+* Sense s-1779630-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: ffbe7cf1ddfa58095e36056f8ce65e0d2d17f488726f207daec2634905483ec9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1779630-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Eisenpräparat
+*** en-s-1779630-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Eisenmittel
+** Ukrainian glosses
+
+* Sense s-1779630-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 9d00ab0e2665c0f29e3f6d67cfa27840a91486672bbb21045bc276949e204e28
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1779630-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (мед.) железо; железистые воды; лекарство, содержащее железо
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1779630-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1779630-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 2
+:PATTERN: nakadaka
+:MORA_PATTERN: LHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: てつざい
+** Accent accent-rd-1779630-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1779630-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: てつざい

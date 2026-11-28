@@ -1,0 +1,173 @@
+#+TITLE: 飛行艇
+#+JMDICT_ID: 1689870
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ひこうてい
+#+ROMAJI: hikoutei
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1689870-001
+:PROPERTIES:
+:TEXT: 飛行艇
+:END:
+*** Priorities
+- news2
+- nf47
+** Reading rd-1689870-001
+:PROPERTIES:
+:TEXT: ひこうてい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf47
+
+* Sense s-1689870-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: e290f7b3edcbe203363d698cb4504af35c841af1397c45c07201035b4ba64871
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- flying boat
+** Ukrainian glosses
+*** uk-s-1689870-001-001
+:PROPERTIES:
+:END:
+- text :: літаючий човен; гідролітак із фюзеляжем-човном
+** Learner notes
+*** note-s-1689870-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений із 飛行 (політ) і 艇 (судно, човен). Позначає тип гідролітака, чий корпус має форму човна й дозволяє злітати безпосередньо з поверхні води та сідати на неї.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1689870-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 海の上から大きな飛行艇が飛び立ちました。
+- READING :: うみのうえからおおきなひこうていがとびたちました。
+- UK :: З поверхні моря злетів великий літаючий човен.
+- FOCUS :: 飛行艇
+*** ex-1689870-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 救難用の飛行艇が離島へ急行しました。
+- READING :: きゅうなんようのひこうていがりとうへきゅうこうしました。
+- UK :: Рятувальний літаючий човен терміново вирушив на віддалений острів.
+- FOCUS :: 飛行艇
+*** ex-1689870-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 波の高い海面でも離着水できる飛行艇は、海洋パトロールや災害支援に活用されています。
+- READING :: なみのたかいかいめんでもりちゃくすいできるひこうていは、かいようぱとろーるやさいがいしえんにかつようされています。
+- UK :: Літаючі човни, здатні злітати й сідати на воду навіть за високих хвиль, залучають до морського патрулювання та допомоги під час лих.
+- FOCUS :: 飛行艇
+
+* Sense s-1689870-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: e97957c8ce1f39adc37f1951f2c4f218ab61ee69e6b2c016f4ed41090b8b24ee
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1689870-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vliegboot
+*** en-s-1689870-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: watervliegtuig
+** Ukrainian glosses
+
+* Sense s-1689870-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 2a826931299a2725d7f51a737f9e192f04dc2b58614a8d453b9302a36066c330
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1689870-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Wasserflugzeug
+*** en-s-1689870-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Flugboot
+** Ukrainian glosses
+
+* Sense s-1689870-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 3982dbec5909a5283761e4e03ecb2f8ccf876533e9016a093583cdd6eecaea8c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1689870-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: летающая лодка
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1689870-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1689870-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: ひこうてい

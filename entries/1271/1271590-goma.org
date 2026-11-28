@@ -1,0 +1,160 @@
+#+TITLE: 護摩
+#+JMDICT_ID: 1271590
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ごま
+#+ROMAJI: goma
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1271590-001
+:PROPERTIES:
+:TEXT: 護摩
+:END:
+** Reading rd-1271590-001
+:PROPERTIES:
+:TEXT: ごま
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1271590-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 2e3e6e5da232fc7dfb193de15f6efbe6bf8bd915819ab4dbe5ac30bfab807092
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- Buddh
+** English glosses
+- homa
+*** en-s-1271590-001-002
+:PROPERTIES:
+:LANG: eng
+:TYPE: expl
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Buddhist rite of burning wooden sticks to ask a deity for blessings
+** Ukrainian glosses
+*** uk-s-1271590-001-001
+:PROPERTIES:
+:END:
+- text :: ґома (буддійський обряд священного вогню); вогняне жертвоприношення
+** Learner notes
+*** note-s-1271590-001-001
+:PROPERTIES:
+:END:
+- UK :: Буддійський термін (іменник), запозичений із санскриту (homa) — ритуальне спалювання дерев'яних табличок 護摩木 (ґомаґі) у вогні під час молитви про благословення й очищення. Характерний для шкіл езотеричного буддизму; типові звороти — 護摩を焚く або 護摩を上げる (здійснювати обряд священного вогню).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1271590-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: お寺で護摩を見学しました。
+- READING :: おてらでごまをけんがくしました。
+- UK :: Я подивився в храмі на обряд священного вогню.
+- FOCUS :: 護摩
+*** ex-1271590-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 新年には無病息災を願って護摩を焚く人が多い。
+- READING :: しんねんにはむびょうそくさいをねがってごまをたくひとがおおい。
+- UK :: На Новий рік багато людей замовляють обряд священного вогню з молитвою про здоров'я.
+- FOCUS :: 護摩
+*** ex-1271590-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 山あいの不動堂では、毎月決まった日に僧侶が力強い読経とともに護摩を上げている。
+- READING :: やまあいのふどうどうでは、まいつききまったひにそうりょがちからづよいどきょうとともにごまをあげている。
+- UK :: У гірському храмі Фудо ченці щомісяця в певний день здійснюють обряд ґома під могутнє читання сутр.
+- FOCUS :: 護摩
+
+* Sense s-1271590-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: bb8519042b8c891ac428a81348a557b635f6d5a5d74e9707e9aaaba38a3cebe7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1271590-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zur Anrufung Buddhas dienendes Feuer (im esoterischen Buddhismus)
+** Ukrainian glosses
+
+* Sense s-1271590-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 90900fe796e727cd8a67defa8a459223737b030b0c53ad536f66a240c432af03
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1271590-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ((санскр.) Homa) священный огонь
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1271590-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1271590-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 2
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: ごま
+** Accent accent-rd-1271590-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1271590-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 2
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: ごま

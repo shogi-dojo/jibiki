@@ -1,0 +1,142 @@
+#+TITLE: 本宅
+#+JMDICT_ID: 1822730
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ほんたく
+#+ROMAJI: hontaku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1822730-001
+:PROPERTIES:
+:TEXT: 本宅
+:END:
+** Reading rd-1822730-001
+:PROPERTIES:
+:TEXT: ほんたく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1822730-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 710305eb98c930cd5e322927385c111f59201f78a3439a360725f66c2bd0d6d2
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- one's principal residence
+- main home
+** Ukrainian glosses
+*** uk-s-1822730-001-001
+:PROPERTIES:
+:END:
+- text :: основний дім, головна оселя, постійне помешкання
+** Learner notes
+*** note-s-1822730-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник. Уживається на позначення головного, постійного будинку сім'ї або власника на противагу заміській віллі чи дачі (別宅, 別荘) або тимчасовому житлу.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1822730-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 夏以外は東京の本宅に住んでいます。
+- READING :: なついがいはとうきょうのほんたくにすんでいます。
+- UK :: Окрім літа, вони мешкають у своєму основному домі в Токіо.
+- FOCUS :: 本宅
+*** ex-1822730-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 別荘の掃除を終えて、週末には本宅へ戻る予定だ。
+- READING :: べっそうのそうじをおえて、しゅうまつにはほんたくへもどるよていだ。
+- UK :: Закінчивши прибирання на дачі, на вихідних планую повернутися до основного дому.
+- FOCUS :: 本宅
+*** ex-1822730-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 代々受け継がれてきた本宅は老朽化が進み、大規模な改修工事が必要になった。
+- READING :: だいだいうけつがれてきたほんたくはろうきゅうかがすすみ、だいきぼなかいしゅうこうじがひつようになった。
+- UK :: Головний родинний дім, який передавався з покоління в покоління, занепав, тож знадобився масштабний капітальний ремонт.
+- FOCUS :: 本宅
+
+* Sense s-1822730-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: b38f67e91975659b3ecf6fdbc124ad27c75e8e127c65abdcdfc343b7260f70db
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1822730-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Hauptwohnsitz
+*** en-s-1822730-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Domizil
+** Ukrainian glosses
+
+* Sense s-1822730-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 33ace38c77aa69a80b258f000bc969b4de133d3488c9767dee3aba97f733be7d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1822730-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: постоянное местожительство; городская квартира (в противоположность даче)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1822730-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1822730-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: ほんたく

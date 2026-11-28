@@ -1,0 +1,135 @@
+#+TITLE: 資金難
+#+JMDICT_ID: 2414010
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: しきんなん
+#+ROMAJI: shikinnan
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2414010-001
+:PROPERTIES:
+:TEXT: 資金難
+:END:
+** Reading rd-2414010-001
+:PROPERTIES:
+:TEXT: しきんなん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2414010-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 44ed4177acf0d882f9a380161ef8da5058c05479bd376696cb5d4c7edc006424
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- shortage of capital
+- lack of funds
+- cash flow problem
+** Ukrainian glosses
+*** uk-s-2414010-001-001
+:PROPERTIES:
+:END:
+- text :: брак коштів; нестача капіталу; фінансові труднощі
+** Learner notes
+*** note-s-2414010-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений із 資金 («кошти, капітал») та суфікса 難 («трудність, дефіцит»). Вживається в ділових та новинних текстах, часто у словосполученнях 資金難に陥る («опинитися в скруті через брак коштів») або 資金難で倒産する («збанкрутувати через нестачу фінансування»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2414010-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: その会社は資金難で困っています。
+- READING :: そのかいしゃはしきんなんでこまっています。
+- UK :: Та компанія потерпає через брак коштів.
+- FOCUS :: 資金難
+*** ex-2414010-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 売上の減少が続き、商店街の老舗が深刻な資金難に陥った。
+- READING :: うりあげのげんしょうがつづき、しょうてんがいのしにせがしんこくなしきんなんにおちいった。
+- UK :: Через тривале падіння продажів давня крамниця на торговій вулиці опинилася в серйозній фінансовій скруті.
+- FOCUS :: 資金難
+*** ex-2414010-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 新事業の立ち上げにあたり、初期の資金難を乗り越えるために銀行から融資を受けた。
+- READING :: しんじぎょうのたちあげにあたり、しょきのしきんなんをのりこえるためにぎんこうからゆうしをうけた。
+- UK :: Розпочинаючи нову справу, ми отримали банківський кредит, щоб подолати початковий брак капіталу.
+- FOCUS :: 資金難
+
+* Sense s-2414010-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: cd9674fe1a0b92706d8b7b3eca731b4b8dcb408608d6beefb2408ea045cf32ff
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2414010-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kapitalmangel
+** Ukrainian glosses
+
+* Sense s-2414010-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: d9a34c65fcf2ebe82043a8271bb23cb893b96417a74a4401a6b09382eb34d11a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2414010-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: финансовые затруднения; недостаток капитала
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2414010-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2414010-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 2
+:PATTERN: nakadaka
+:MORA_PATTERN: LHLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: しきんなん

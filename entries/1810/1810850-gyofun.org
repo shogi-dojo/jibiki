@@ -1,0 +1,133 @@
+#+TITLE: 魚粉
+#+JMDICT_ID: 1810850
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ぎょふん
+#+ROMAJI: gyofun
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1810850-001
+:PROPERTIES:
+:TEXT: 魚粉
+:END:
+** Reading rd-1810850-001
+:PROPERTIES:
+:TEXT: ぎょふん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1810850-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 8c90d3d0b97e90cab7d2e69a9211a96cddf90a5c04ccc0cf65248d12c27a42df
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- fish meal
+** Ukrainian glosses
+*** uk-s-1810850-001-001
+:PROPERTIES:
+:END:
+- text :: рибне борошно
+** Learner notes
+*** note-s-1810850-001-001
+:PROPERTIES:
+:END:
+- UK :: Спеціальний і господарський іменник, що поєднує основи 魚 («риба») та 粉 («порошок, борошно»). Позначає висушений і подрібнений рибний продукт, який застосовують у тваринництві як кормову добавку, в аквакультурі або як органічне добриво.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1810850-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この肥料には魚粉が含まれています。
+- READING :: このひりょうにはぎょふんがふくまれています。
+- UK :: Це добриво містить рибне борошно.
+- FOCUS :: 魚粉
+*** ex-1810850-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 養殖場のえさとして、良質な魚粉が使われている。
+- READING :: ようしょくじょうのえさとして、りょうしつなぎょふんがつかわれている。
+- UK :: У рибному господарстві як корм використовують якісне рибне борошно.
+- FOCUS :: 魚粉
+*** ex-1810850-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 魚粉の価格が高騰したため、養鶏農家は代替の飼料を探している。
+- READING :: ぎょふんのかかくがこうとうしたため、ようけいのうかはだいたいのしりょうをさがしている。
+- UK :: Через різке зростання цін на рибне борошно птахівницькі ферми шукають альтернативні корми.
+- FOCUS :: 魚粉
+
+* Sense s-1810850-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 554faf66277f08f1b93c20832b1029dc6e172e2d4ae719a35be5e14c2b404550
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1810850-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Fischmehl
+** Ukrainian glosses
+
+* Sense s-1810850-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 1422476c509d75ff0d763b33f184cdd460c7faa059f7dee21b6378a23e0a97df
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1810850-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: рыбная мука
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1810850-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1810850-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: ぎょふん

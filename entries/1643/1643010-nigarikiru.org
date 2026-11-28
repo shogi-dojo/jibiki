@@ -1,0 +1,163 @@
+#+TITLE: 苦り切る
+#+JMDICT_ID: 1643010
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: にがりきる
+#+ROMAJI: nigarikiru
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1643010-001
+:PROPERTIES:
+:TEXT: 苦り切る
+:END:
+*** Priorities
+- news2
+- nf40
+** Written form wf-1643010-002
+:PROPERTIES:
+:TEXT: 苦りきる
+:END:
+** Reading rd-1643010-001
+:PROPERTIES:
+:TEXT: にがりきる
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf40
+
+* Sense s-1643010-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 639061faae1744383c54fff792152c36d749ea11ae1659214675fe58f1fb55a6
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5r
+- vi
+** English glosses
+- to look sour
+- to look disgusted
+- to scowl
+- to frown
+** Ukrainian glosses
+*** uk-s-1643010-001-001
+:PROPERTIES:
+:END:
+- text :: скривитися з досади; нахмуритися; мати похмурий або невдоволений вигляд
+** Learner notes
+*** note-s-1643010-001-001
+:PROPERTIES:
+:END:
+- UK :: Неперехідне дієслово першого класу (ґодан на -る), утворене від основи дієслова 苦る (морщитися, кривитися) та підсилювального 切る (робити щось до краю). Найчастіше вживається у формах минулого чи тривалого стану на зразок 苦り切った顔 (невдоволене, скривлене обличчя).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1643010-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 父はその知らせを聞いて苦り切った顔をした。
+- READING :: ちちはそのしらせをきいてにがりきったかおをした。
+- UK :: Почувши цю новину, батько зробив невдоволене обличчя.
+- FOCUS :: 苦り切った
+*** ex-1643010-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 部下のミスを報告された課長は、黙ったまま苦り切っていた。
+- READING :: ぶかのみすをほうこくされたかちょうは、だまったままにがりきっていた。
+- UK :: Начальник відділу, якому доповіли про помилку підлеглого, мовчки сидів із похмурим і досадливим виглядом.
+- FOCUS :: 苦り切っていた
+*** ex-1643010-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 何度注意しても態度を改めない若者を見て、ベテランの職人は思わず苦り切るほかなかった。
+- READING :: なんどちゅういしてもたいどをあらためないわかものをみて、べてらんのしょくにんはおもわずにがりきるほかなかった。
+- UK :: Дивлячись на молодика, який попри численні зауваження не змінював поведінки, досвідчений майстер мимоволі лише похмуро скривився.
+- FOCUS :: 苦り切る
+
+* Sense s-1643010-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 40ce6126c945c45256fb7f3cea610e7fe3722942b2d8ae2b285d5c01d8fe3fd5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1643010-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verbittert sein
+*** en-s-1643010-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ein saures Gesicht machen
+*** en-s-1643010-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sauer reagieren
+** Ukrainian glosses
+
+* Sense s-1643010-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: cf544b745f3906477243462b4bfbca164f722139fc367ad62f3ef54e1c19423f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1643010-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: выглядеть расстроенным (опечаленным)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1643010-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1643010-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 4
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: にがりきる

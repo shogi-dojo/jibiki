@@ -1,0 +1,177 @@
+#+TITLE: 譲葉
+#+JMDICT_ID: 1841020
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ゆずりは
+#+ROMAJI: yuzuriha
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1841020-001
+:PROPERTIES:
+:TEXT: 譲葉
+:END:
+** Written form wf-1841020-002
+:PROPERTIES:
+:TEXT: 交譲木
+:END:
+*** Information
+- rK
+** Written form wf-1841020-003
+:PROPERTIES:
+:TEXT: 楪
+:END:
+*** Information
+- rK
+** Written form wf-1841020-004
+:PROPERTIES:
+:TEXT: 譲り葉
+:END:
+*** Information
+- sK
+** Reading rd-1841020-001
+:PROPERTIES:
+:TEXT: ゆずりは
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+** Reading rd-1841020-002
+:PROPERTIES:
+:TEXT: ユズリハ
+:NO_KANJI: true
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1841020-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 093d0e4ef053136f0af423f85403538197f59ac5a094301eb67ce95ed5bc2bcf
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- uk
+** English glosses
+- false daphne (Daphniphyllum macropodum)
+- yuzuriha
+** Ukrainian glosses
+*** uk-s-1841020-001-001
+:PROPERTIES:
+:END:
+- text :: вовчелистник великоногий (Daphniphyllum macropodum); юдзуріха
+** Learner notes
+*** note-s-1841020-001-001
+:PROPERTIES:
+:END:
+- UK :: Назва японського вічнозеленого дерева, чиє нове листя виростає перед опаданням старого. Через цю особливість рослина символізує спадкоємність поколінь і використовується в новорічних прикрасах (正月飾り); зазвичай записується каною ゆずりは або ユズリハ.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1841020-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 庭の隅に譲葉の木が植えてある。
+- READING :: にわのすみにゆずりはのきがうえてある。
+- UK :: У кутку саду посаджене дерево вовчелистника.
+- FOCUS :: 譲葉
+*** ex-1841020-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 日本では正月の飾りに譲葉の葉を用いる習慣がある。
+- READING :: にほんではしょうがつのかざりにゆずりはのはをもちいるしゅうかんがある。
+- UK :: У Японії існує звичай використовувати листя юдзуріхи в новорічних прикрасах.
+- FOCUS :: 譲葉
+*** ex-1841020-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 古い葉が新しい葉に場所を譲ってから落ちるため、譲葉は家系が絶えない象徴として尊ばれてきた。
+- READING :: ふるいはがあたらしいはにばしょをゆずってからおちるため、ゆずりははかけいがたえないしょうちょうとしてとうとばれてきた。
+- UK :: Оскільки старе листя опадає лише після того, як поступиться місцем новому, юдзуріху здавна шанують як символ неперервності роду.
+- FOCUS :: 譲葉
+
+* Sense s-1841020-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: d851065ffa2f882384657fcd5bb51aa566b8dbd18670c23ab35d379b943951f3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1841020-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Yuzuriha
+*** en-s-1841020-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Chinesischer Scheinlorbeer
+*** en-s-1841020-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Daphniphyllum macropodum
+** Ukrainian glosses
+
+* Sense s-1841020-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 54c5e08889e33ced7973454a092ec1638d2264c265d9a3993e63e1910ff3de19
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1841020-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: дафнифиллум, Daphniphyllum macropodum (Miq. (небольшое вечнозелёное деревцо)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1841020-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1841020-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: ゆずりは

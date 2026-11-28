@@ -1,0 +1,136 @@
+#+TITLE: ろくろ首
+#+JMDICT_ID: 2565520
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ろくろくび
+#+ROMAJI: rokurokubi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2565520-001
+:PROPERTIES:
+:TEXT: ろくろ首
+:END:
+** Written form wf-2565520-002
+:PROPERTIES:
+:TEXT: 轆轤首
+:END:
+** Reading rd-2565520-001
+:PROPERTIES:
+:TEXT: ろくろくび
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2565520-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: d4b8d8b6de044cfd119e78a85f6ebd79384c403eb70c8e46e76188d7bb3cfc20
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- rokurokubi
+- long-neck woman
+*** en-s-2565520-001-003
+:PROPERTIES:
+:LANG: eng
+:TYPE: expl
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: monstrous person (often a woman) with a neck that can expand and contract (in Japanese folklore)
+** Ukrainian glosses
+*** uk-s-2565520-001-001
+:PROPERTIES:
+:END:
+- text :: рокурокубі (фольклорна істота з довгою шиєю)
+** Learner notes
+*** note-s-2565520-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник із японського фольклору, назва містичної істоти (妖怪), зазвичай у подобі жінки, чия шия може неймовірно витягуватися. Перша частина слова походить від назви гончарного круга чи коловорота (ろくろ).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2565520-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 昔話にろくろ首が出てくる。
+- READING :: むかしばなしにろくろくびがでてくる。
+- UK :: У народній казці з'являється рокурокубі.
+- FOCUS :: ろくろ首
+*** ex-2565520-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 子どもたちは夏の夜にろくろ首の絵を見て驚いていた。
+- READING :: こどもたちはなつのよるにろくろくびのえをみておどろいていた。
+- UK :: Літнього вечора діти з подивом розглядали малюнок рокурокубі.
+- FOCUS :: ろくろ首
+*** ex-2565520-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 江戸時代の怪談集には、昼間は普通の人と変わらない姿で暮らすろくろ首の話が多く収められている。
+- READING :: えどじだいのかいだんしゅうには、ひるまはふつうのひととかわらないすがたでくらすろくろくびのはなしがおおくおさめられている。
+- UK :: У збірках страшних оповідань доби Едо зібрано чимало історій про рокурокубі, які вдень живуть під виглядом звичайних людей.
+- FOCUS :: ろくろ首
+
+* Sense s-2565520-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: e386f7c0c472a95ff546bbf1c29ff3131ea9a281d909456ed2063c138eeb9419
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2565520-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Langhalsmonster
+*** en-s-2565520-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: langhalsiges Ungeheuer
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2565520-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2565520-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: ろくろくび

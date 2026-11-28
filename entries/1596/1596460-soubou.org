@@ -1,0 +1,137 @@
+#+TITLE: 僧坊
+#+JMDICT_ID: 1596460
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: そうぼう
+#+ROMAJI: soubou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1596460-001
+:PROPERTIES:
+:TEXT: 僧坊
+:END:
+** Written form wf-1596460-002
+:PROPERTIES:
+:TEXT: 僧房
+:END:
+** Reading rd-1596460-001
+:PROPERTIES:
+:TEXT: そうぼう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1596460-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: b2119532df44010b3c7a949efe728ab6995634a589ab59ccf1c5d4285509cad3
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- priests' temple quarters
+** Ukrainian glosses
+*** uk-s-1596460-001-001
+:PROPERTIES:
+:END:
+- text :: чернечі келії, житлові приміщення монахів при буддійському храмі
+** Learner notes
+*** note-s-1596460-001-001
+:PROPERTIES:
+:END:
+- UK :: Буддійський та архітектурний термін, утворений із канджі 僧 (монах, чернець) та 坊 (приміщення, обитель; також трапляється написання 僧房). Позначає житловий корпус або окремі кімнати на території монастиря, де мешкають і навчаються ченці.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1596460-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: お寺の境内に僧坊があります。
+- READING :: おてらのけいだいにそうぼうがあります。
+- UK :: На території храму розташовані чернечі келії.
+- FOCUS :: 僧坊
+*** ex-1596460-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 朝早く、僧坊から読経の声が静かに聞こえてきた。
+- READING :: あさはやく、そうぼうからどきょうのこえがしずかにきこえてきた。
+- UK :: Рано-вранці з чернечих приміщень тихо долинав спів сутр.
+- FOCUS :: 僧坊
+*** ex-1596460-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 奈良の古い寺院では、かつて多くの修行僧が共同生活を送っていた僧坊の遺構を見学できる。
+- READING :: ならのふるいじいんでは、かつておおくのしゅぎょうそうがきょうどうせいかつをおくっていたそうぼうのいこうをけんがくできる。
+- UK :: У давніх храмах Нари можна оглянути залишки чернечих житлових корпусів, де колись жили громадою численні монахи-послушники.
+- FOCUS :: 僧坊
+
+* Sense s-1596460-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 0df7149ea42156fc7fa910242821a982cf2e01596f1dd5fc1ad8afcb161886e7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1596460-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Mönchsunterkunft
+** Ukrainian glosses
+
+* Sense s-1596460-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 111882ed786075aa002849415d2f82eeaefc7517d087f36af06df8526f112e8d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1596460-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (буд.) монашеские помещения [при храме], жилая пристройка [при храме], кельи
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1596460-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1596460-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: そうぼう

@@ -1,0 +1,304 @@
+#+TITLE: 微分
+#+JMDICT_ID: 1486140
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: びぶん
+#+ROMAJI: bibun
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-25
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1486140-001
+:PROPERTIES:
+:TEXT: 微分
+:END:
+** Reading rd-1486140-001
+:PROPERTIES:
+:TEXT: びぶん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1486140-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 90cffb0409031e4664bfdc0e424a6df69adf4f5bb025b263f536632029b39109
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+*** Fields
+- math
+** English glosses
+- differentiation
+** Ukrainian glosses
+*** uk-s-1486140-001-001
+:PROPERTIES:
+:END:
+- text :: диференціювання
+** Learner notes
+*** note-s-1486140-001-001
+:PROPERTIES:
+:END:
+- UK :: Математичний термін (букв. «дрібне ділення»), що позначає операцію знаходження похідної або диференціала функції; у поєднанні з する означає «диференціювати», антонім до 積分 (інтегрування).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1486140-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 高校の数学で微分を習った。
+- READING :: こうこうのすうがくでびぶんをならった。
+- UK :: У старшій школі на уроках математики ми вивчали диференціювання.
+- FOCUS :: 微分
+*** ex-1486140-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: この関数を時間で微分すると、速度が求められる。
+- READING :: このかんすうをじかんでびぶんすると、そくどがもとめられる。
+- UK :: Якщо продиференціювати цю функцію за часом, можна знайти швидкість.
+- FOCUS :: 微分
+*** ex-1486140-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 変化の割合を正確に捉えるため、微分と積分の考え方が物理学で広く使われている。
+- READING :: へんかのわりあいをせいかくにとらえるため、びぶんとせきぶんのかんがえかたがぶつりがくでひろくつかわれている。
+- UK :: Щоб точно описати швидкість зміни величин, поняття диференціювання та інтегрування широко застосовують у фізиці.
+- FOCUS :: 微分
+
+* Sense s-1486140-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 6f6e93f2bf7d733cdae41d8f32a1223e35187606e677b5e2be65da1517339cc0
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- math
+** English glosses
+- differential
+- derivative
+** Ukrainian glosses
+*** uk-s-1486140-002-001
+:PROPERTIES:
+:END:
+- text :: диференціал; похідна
+** Learner notes
+*** note-s-1486140-002-001
+:PROPERTIES:
+:END:
+- UK :: Позначає сам диференціал чи похідну функцію, а також розділ математичного аналізу в сполученні з суміжними термінами на кшталт 微分方程式 (диференціальне рівняння).
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1486140-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 48198e5fe95c55b426ce046f1ce56f665990e4589d74e263cb32f3b998c7263e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1486140-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {wisk.} differentiëren
+*** en-s-1486140-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {wisk.} differentiaalrekening
+** Ukrainian glosses
+
+* Sense s-1486140-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: fbb88eae2beea0659b3be186bb6bee4404298137f4c7e39e60874914471c59b7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1486140-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: differenzieren
+*** en-s-1486140-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Differenzial
+*** en-s-1486140-004-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Differential
+*** en-s-1486140-004-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Differenzialrechnung
+*** en-s-1486140-004-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Differentialrechnung
+** Ukrainian glosses
+
+* Sense s-1486140-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 5a4df70ef0a5fd5a4f3976ccc2bd316a64167938236841508662d326df1d2e0e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1486140-005-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: derivál
+*** en-s-1486140-005-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: differenciálhányados
+*** en-s-1486140-005-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: differenciálmű
+*** en-s-1486140-005-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kiegyenlítőmű
+*** en-s-1486140-005-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: megkülönböztető
+** Ukrainian glosses
+
+* Sense s-1486140-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: beb69678b8fe3ac7131576198bb98f7b544887aa13a083cb3d2b1f2da83a0b39
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1486140-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (мат.) дифференциал; дифференцирование
+*** en-s-1486140-006-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～[の]} дифференциальный
+*** en-s-1486140-006-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} производить дифференциальное исчисление
+** Ukrainian glosses
+
+* Sense s-1486140-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 9acd81f8976698d8a664260121b9d8cd6d18fe6d00a070a2d8648c2cc36c9dfe
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1486140-007-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: differentialkalkyl
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1486140-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1486140-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-25
+:END:
+- reading :: びぶん

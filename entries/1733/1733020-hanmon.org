@@ -1,0 +1,184 @@
+#+TITLE: 斑紋
+#+JMDICT_ID: 1733020
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: はんもん
+#+ROMAJI: hanmon
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1733020-001
+:PROPERTIES:
+:TEXT: 斑紋
+:END:
+** Written form wf-1733020-002
+:PROPERTIES:
+:TEXT: 斑文
+:END:
+*** Information
+- rK
+** Reading rd-1733020-001
+:PROPERTIES:
+:TEXT: はんもん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1733020-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: af688fa0d4297eb24c9cc716a2fa141b6c83ce020c2a8ffae0f412491f9e1f5a
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- spots
+- speckles
+- spotted pattern
+- mottled pattern
+** Ukrainian glosses
+*** uk-s-1733020-001-001
+:PROPERTIES:
+:END:
+- text :: плями; цятки; плямистий візерунок; крапчастість
+** Learner notes
+*** note-s-1733020-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений з 斑 (пляма, рябизна) та 紋 (візерунок, узор). Зазвичай вживається в біологічному чи описовому контексті щодо забарвлення шкіри, хутра, крил комах або пір'я; рідше пишеться як 斑文.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1733020-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この蝶の羽には美しい斑紋があります。
+- READING :: このちょうのはねにはうつくしいはんもんがあります。
+- UK :: На крилах цього метелика є гарні плями.
+- FOCUS :: 斑紋
+*** ex-1733020-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: ヒョウの毛皮には特徴的な黒い斑紋が並んでいます。
+- READING :: ひょうのけがわにはとくちょうてきなくろいはんもんがならんでいます。
+- UK :: На хутрі леопарда розташовані характерні чорні плями.
+- FOCUS :: 斑紋
+*** ex-1733020-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 同じ種類の魚でも、生息する環境によって体表の斑紋の濃さが異なることがあります。
+- READING :: おなじしゅるいのさかなでも、せいそくするかんきょうによってたいひょうのはんもんのこさがことなることがあります。
+- UK :: Навіть у риб одного виду інтенсивність плям на поверхні тіла може різнитися залежно від середовища проживання.
+- FOCUS :: 斑紋
+
+* Sense s-1733020-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 56f977f2f0ba1e90671737258bc6d5068cf0a21a096c132bcd6117f2153eeab4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1733020-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Fleck
+*** en-s-1733020-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Flecken
+** Ukrainian glosses
+
+* Sense s-1733020-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: e2fc4192a676b7c6777502f82b356ab0bc92135a194feeb4612462a2fcd6aa85
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1733020-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: пятно; пятнышко, крапинка
+*** en-s-1733020-003-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～のある} в крапинках, крапчатый
+** Ukrainian glosses
+
+* Sense s-1733020-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 204110eddb7d580157343eac419b6d03c2d8f175525bf59f9f723ce9a743b0a7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1733020-004-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pinta
+*** en-s-1733020-004-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mota
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1733020-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1733020-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: はんもん

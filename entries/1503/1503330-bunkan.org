@@ -1,0 +1,178 @@
+#+TITLE: 分館
+#+JMDICT_ID: 1503330
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ぶんかん
+#+ROMAJI: bunkan
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1503330-001
+:PROPERTIES:
+:TEXT: 分館
+:END:
+** Reading rd-1503330-001
+:PROPERTIES:
+:TEXT: ぶんかん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1503330-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 9d328d844bb49f264cafe046c6adafad917abb90c3945f0c4b11a94e553a3cc0
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- annex (to a building)
+- annexe
+** Ukrainian glosses
+*** uk-s-1503330-001-001
+:PROPERTIES:
+:END:
+- text :: філія, відділення (бібліотеки, музею тощо); флігель, прибудований корпус
+** Learner notes
+*** note-s-1503330-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений із канджі 分 (ділити, відокремлювати) та 館 (будівля, павільйон, заклад). Позначає окремий корпус або філіал культурного, освітнього чи адміністративного закладу (пор. 本館 — головний корпус), наприклад 図書館の分館 (філія бібліотеки) чи 美術館の分館 (філія художнього музею).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1503330-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 駅の近くに図書館の分館があります。
+- READING :: えきのちかくにとしょかんのぶんかんがあります。
+- UK :: Неподалік вокзалу є філія бібліотеки.
+- FOCUS :: 分館
+*** ex-1503330-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 本館の改修工事の間、展示は分館で行われることになった。
+- READING :: ほんかんのかいしゅうこうじのあいだ、てんじはぶんかんでおこなわれることになった。
+- UK :: На час ремонтних робіт у головному корпусі виставку вирішили проводити у філії.
+- FOCUS :: 分館
+*** ex-1503330-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 市民の利便性を高めるため、市内の各地域に公民館や博物館の分館が整備されている。
+- READING :: しみんのりべんせいをたかめるため、しないのかくちいきにこうみんかんやはくぶつかんのぶんかんがせいびされている。
+- UK :: Щоб підвищити зручність для мешканців, у різних районах міста облаштовують філії громадських центрів і музеїв.
+- FOCUS :: 分館
+
+* Sense s-1503330-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: c330596774ef15622c7bfb734941414e5cfc000529364046085317d61218252a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1503330-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Nebengebäude
+** Ukrainian glosses
+
+* Sense s-1503330-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: d16118c0ae5d1f16f17c098b2cef2ca1e5f90162d752c14d56413d5210ba3cde
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1503330-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: függelék
+*** en-s-1503330-003-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pótlás
+** Ukrainian glosses
+
+* Sense s-1503330-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 12c614eb4f42433dd83cdbc0c44163e4302d5e20ffcbac15fc82f1168e8b40eb
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1503330-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: отделение (учреждения, напр. консульства)
+** Ukrainian glosses
+
+* Sense s-1503330-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 34154bfd9fea3821d5d65eed4cd9e574e6d432a360392534cefbcfd5e026c7ef
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1503330-005-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: annex
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1503330-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1503330-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: ぶんかん

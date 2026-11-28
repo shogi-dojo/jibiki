@@ -1,0 +1,172 @@
+#+TITLE: 御真影
+#+JMDICT_ID: 1694420
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ごしんえい
+#+ROMAJI: goshinei
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1694420-001
+:PROPERTIES:
+:TEXT: 御真影
+:END:
+** Written form wf-1694420-002
+:PROPERTIES:
+:TEXT: ご真影
+:END:
+** Reading rd-1694420-001
+:PROPERTIES:
+:TEXT: ごしんえい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1694420-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: c5c1690845d39ec9cf372fe3c68ae932b6cd4753515c6bd62757292182742442
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- hist
+** English glosses
+- imperial portrait
+*** en-s-1694420-001-002
+:PROPERTIES:
+:LANG: eng
+:TYPE: expl
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: photograph of the incumbent Emperor and Empress distributed to schools between 1890 and the end of the Second World War
+** Ukrainian glosses
+*** uk-s-1694420-001-001
+:PROPERTIES:
+:END:
+- text :: імператорський портрет; офіційна світлина імператора та імператриці (іст.)
+** Learner notes
+*** note-s-1694420-001-001
+:PROPERTIES:
+:END:
+- UK :: Історичний термін періоду від епохи Мейджі до кінця Другої світової війни, що позначав офіційні портретні світлини імператора та імператриці, які розсилали до шкіл і державних установ для урочистого зберігання та вшанування.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1694420-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 資料館に昔の御真影が展示されています。
+- READING :: しりょうかんにむかしのごしんえいがてんじされています。
+- UK :: У музеї виставлено старовинний імператорський портрет.
+- FOCUS :: 御真影
+*** ex-1694420-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 戦前の学校では、御真影を納める特別な場所が設けられていた。
+- READING :: せんぜんのがっこうでは、ごしんえいをおさめるとくべつなばしょがもうけられていた。
+- UK :: У довоєнних школах облаштовували спеціальне місце для зберігання імператорських портретів.
+- FOCUS :: 御真影
+*** ex-1694420-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 近代史の授業で、式典の際に御真影へ礼拝を行っていた時代背景を学んだ。
+- READING :: きんだいしのじゅぎょうで、しきてんのさいにごしんえいへれいはいをおこなっていたじだいはいけいをまなんだ。
+- UK :: На уроці новітньої історії ми вивчали історичні обставини доби, коли під час урочистостей уклонялися перед імператорським портретом.
+- FOCUS :: 御真影
+
+* Sense s-1694420-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 7f689d8da8720c82fca9f3be6bc96016aaa1e37ea5d7b4ff7d254fa85fb85ef4
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- hon
+** English glosses
+- portrait or photo of a person of high rank
+** Ukrainian glosses
+*** uk-s-1694420-002-001
+:PROPERTIES:
+:END:
+- text :: портрет або світлина високоповажної особи (поч.)
+** Learner notes
+*** note-s-1694420-002-001
+:PROPERTIES:
+:END:
+- UK :: Шанобливий іменник, що позначає зображення чи фотографію особи високого рангу (наприклад, аристократа, духовного наставника або голови роду); поєднує почесний префікс 御 зі словом 真影 («справжній образ, портрет»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1694420-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: a001fb9d889c1e868c0e024f80c30c4ff634ba65108de85f844d7207da4b3ab1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1694420-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kaiserbildnis
+** Ukrainian glosses
+
+* Sense s-1694420-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 8a900ea5bf311efb73b85d58fa53524c256474f10d034786a236958f64713fd3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1694420-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: портрет императора
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1694420-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1694420-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: ごしんえい

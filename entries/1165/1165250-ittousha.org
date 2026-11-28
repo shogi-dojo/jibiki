@@ -1,0 +1,181 @@
+#+TITLE: 一等車
+#+JMDICT_ID: 1165250
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: いっとうしゃ
+#+ROMAJI: ittousha
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1165250-001
+:PROPERTIES:
+:TEXT: 一等車
+:END:
+** Written form wf-1165250-002
+:PROPERTIES:
+:TEXT: １等車
+:END:
+** Reading rd-1165250-001
+:PROPERTIES:
+:TEXT: いっとうしゃ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1165250-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 9f6f229be129068633b7b86e851aab7de9a438ce347742a51ed05e9ab195f1f5
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- first-class carriage (coach)
+** Ukrainian glosses
+*** uk-s-1165250-001-001
+:PROPERTIES:
+:END:
+- text :: вагон першого класу
+** Learner notes
+*** note-s-1165250-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник. Утворений від 一等 (перший клас, найвищий розряд) та 車 (вагон); позначає пасажирський вагон підвищеного комфорту в залізничних поїздах (у Японії історично передував сучасному グリーン車).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1165250-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 旅行で一等車に乗りました。
+- READING :: りょこうでいっとうしゃにのりました。
+- UK :: Під час подорожі я їхав у вагоні першого класу.
+- FOCUS :: 一等車
+*** ex-1165250-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: ヨーロッパを横断する長距離列車では、一等車の座席が広々としている。
+- READING :: よーろっぱをおうだんするちょうきょりれっしゃでは、いっとうしゃのざせきがひろびろとしている。
+- UK :: У поїздах далекого прямування, що перетинають Європу, місця у вагонах першого класу дуже просторі.
+- FOCUS :: 一等車
+*** ex-1165250-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: かつての特急列車に連結されていた一等車は、当時の富裕層にとって憧れの移動空間だった。
+- READING :: かつてのとっきゅうれっしゃにれんけつされていたいっとうしゃは、とうじのふゆうそうにとってあこがれのいどうくうかんだった。
+- UK :: Вагон першого класу, що колись чіпляли до експресів, був омріяним простором для подорожей серед тодішньої еліти.
+- FOCUS :: 一等車
+
+* Sense s-1165250-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 46dad02cd42f08b4f062ebf86a57b1bd026d66e9f410cd1ebf85d388e1bd4790
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1165250-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: eersteklaswagon
+** Ukrainian glosses
+
+* Sense s-1165250-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 58849ccfdd7c4dbe19b91893c9bcd363c1664fd1bdbe06b1625ba4042a785088
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1165250-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Wagen der ersten Klasse (seit 1969 in Japan gurīn・shaグリーン車)
+** Ukrainian glosses
+
+* Sense s-1165250-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: b682bda36e23ec453ade3dc93b403e5e7c353813b5fffe881de4646bc2742f90
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1165250-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: вагон первого класса
+** Ukrainian glosses
+
+* Sense s-1165250-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: ebb0e98ccffc0c812e8decb20e10e0c3ea59e1940be7f3a6c9583971b43c0cc0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1165250-005-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: carro de primera clase (vagón)
+*** en-s-1165250-005-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: transporte de primera clase (coche)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1165250-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1165250-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: いっとうしゃ

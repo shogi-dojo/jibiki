@@ -1,0 +1,158 @@
+#+TITLE: 税源
+#+JMDICT_ID: 1802650
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ぜいげん
+#+ROMAJI: zeigen
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1802650-001
+:PROPERTIES:
+:TEXT: 税源
+:END:
+*** Priorities
+- news2
+- nf36
+** Reading rd-1802650-001
+:PROPERTIES:
+:TEXT: ぜいげん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf36
+
+* Sense s-1802650-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: b51063d8cc5a6b7d0922a1c6bdeb1133d765543b20e475fadd328c2412514dec
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- tax source
+- source of taxation revenue
+- taxable item
+** Ukrainian glosses
+*** uk-s-1802650-001-001
+:PROPERTIES:
+:END:
+- text :: джерело податкових надходжень; податкова база; об'єкт оподаткування
+** Learner notes
+*** note-s-1802650-001-001
+:PROPERTIES:
+:END:
+- UK :: Економічний і фінансовий іменник, що означає джерело доходів бюджету від податків або об'єкт, який підлягає оподаткуванню. Часто вживається в дискусіях про державний і місцеві бюджети, зокрема у словосполученнях 税源の移譲 (передача податкових джерел) та 税源の確保 (забезпечення джерел оподаткування).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1802650-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 地方の税源を増やす必要がある。
+- READING :: ちほうのぜいげんをふやすひつようがある。
+- UK :: Потрібно розширити місцеві джерела податкових надходжень.
+- FOCUS :: 税源
+*** ex-1802650-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 人口が減ると、自治体の税源も細ってしまう。
+- READING :: じんこうがへると、じちたいのぜいげんもほそってしまう。
+- UK :: Коли населення скорочується, податкова база муніципалітетів також слабшає.
+- FOCUS :: 税源
+*** ex-1802650-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 国と地方の役割分担を見直し、税源の移譲について議論が続けられている。
+- READING :: くにとちほうのやくわりぶんたんをみなおし、ぜいげんのいじょうについてぎろんがつづけられている。
+- UK :: Тривають обговорення щодо передачі податкових джерел із переглядом розподілу повноважень між державою та регіонами.
+- FOCUS :: 税源
+
+* Sense s-1802650-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: dee95a31440ec18c6b7ad754c814c758ded0b17b203ffc6614eaec31223bbcc6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1802650-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Steuerquelle
+** Ukrainian glosses
+
+* Sense s-1802650-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: e2305f103d0859deb506056c2d946b0ec83513bae8f6caaa795b4e73e74ba37f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1802650-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: источники налоговых поступлений
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1802650-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1802650-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: ぜいげん
+** Accent accent-rd-1802650-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1802650-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: ぜいげん

@@ -1,0 +1,142 @@
+#+TITLE: 天主
+#+JMDICT_ID: 1439290
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: てんしゅ
+#+ROMAJI: tenshu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1439290-001
+:PROPERTIES:
+:TEXT: 天主
+:END:
+** Reading rd-1439290-001
+:PROPERTIES:
+:TEXT: てんしゅ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1439290-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: f15ef6f50de386284c5935de30296a28a75d28f221750a78c12e45a9f48136a3
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- Lord of Heaven
+- God
+** Ukrainian glosses
+*** uk-s-1439290-001-001
+:PROPERTIES:
+:END:
+- text :: Господь Небесний; Всевишній
+** Learner notes
+*** note-s-1439290-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник зі складників 天 (небо) та 主 (володар, господар), уведений християнськими місіонерами у шістнадцятому столітті для перекладу поняття Бога. Збереглося в назвах на кшталт 天主堂 (католицький храм) і в історичному слові 天主教 (католицизм).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1439290-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 人々は静かに祈りを捧げ、天主に感謝した。
+- READING :: ひとびとはしずかにいのりをささげ、てんしゅにかんしゃした。
+- UK :: Люди тихо помолилися й подякували Господу.
+- FOCUS :: 天主
+*** ex-1439290-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 長崎には、十九世紀に建てられた美しい天主堂が今も残っている。
+- READING :: ながさきには、じゅうきゅうせいきにたてられたうつくしいてんしゅどうがいまものこっている。
+- UK :: У Наґасакі й досі зберігся гарний католицький собор, збудований у дев'ятнадцятому столітті.
+- FOCUS :: 天主
+*** ex-1439290-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 禁教の時代にも、信者たちは天主への信仰を密かに守り続けた。
+- READING :: きんきょうのじだいにも、しんじゃたちはてんしゅへのしんこうをひそかにまもりつづけた。
+- UK :: Навіть у часи заборони християнства віряни потай зберігали віру в Господа Небесного.
+- FOCUS :: 天主
+
+* Sense s-1439290-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 4d911a024b6655c2614bd85d4927b26052188eb2942133eff1825a48b3a6c0c8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1439290-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Gott
+*** en-s-1439290-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Herr des Himmels
+** Ukrainian glosses
+
+* Sense s-1439290-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 5253987a41827930de68a930d7e1417908a8cfb60bd32fc2e46aaa3087f05120
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1439290-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: господь
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1439290-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1439290-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: てんしゅ

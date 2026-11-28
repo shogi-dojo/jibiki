@@ -1,0 +1,160 @@
+#+TITLE: 勇名
+#+JMDICT_ID: 1539910
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ゆうめい
+#+ROMAJI: yuumei
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-25
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1539910-001
+:PROPERTIES:
+:TEXT: 勇名
+:END:
+** Reading rd-1539910-001
+:PROPERTIES:
+:TEXT: ゆうめい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1539910-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 6de6ee7373a1d317d0c79dde4270b9d2970687e406ba158a61d4afdcda71f08b
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- fame (for one's bravery)
+- great renown
+** Ukrainian glosses
+*** uk-s-1539910-001-001
+:PROPERTIES:
+:END:
+- text :: слава (за хоробрість); гучна слава
+** Learner notes
+*** note-s-1539910-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник книжного стилю. Поєднує кандзі 勇 («хоробрість, відвага») та 名 («ім'я, слава») і позначає широку відомість, здобуту мужністю й подвигами; типово вживається у зворотах 勇名を馳せる та 勇名を轟かす («уславитися»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1539910-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: その騎士は勇名を知られていた。
+- READING :: そのきしはゆうめいをしられていた。
+- UK :: Той лицар був відомий своєю хоробрістю.
+- FOCUS :: 勇名
+*** ex-1539910-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 彼は数々の戦いで勇名を馳せた武将だ。
+- READING :: かれはかずかずのたたかいでゆうめいをはせたぶしょうだ。
+- UK :: Він — полководець, який уславився відвагою в численних битвах.
+- FOCUS :: 勇名
+*** ex-1539910-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 若くして勇名を轟かせたその隊長の話は、今も語り継がれている。
+- READING :: わかくしてゆうめいをとどろかせたそのたいちょうのはなしは、いまもかたりつがれている。
+- UK :: Історію про того командира, який ще замолоду прогримів своєю мужністю, переповідають і досі.
+- FOCUS :: 勇名
+
+* Sense s-1539910-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 78aeba3391ac151cf057f2e2f8dd4c7fbec7707e898f7e361f065b1e8e344095
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1539910-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Berühmtheit als Held
+*** en-s-1539910-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Ruf der Tapferkeit
+** Ukrainian glosses
+
+* Sense s-1539910-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 61a6eab2260a6b2bbd10a7e262e1b991f231fdd836d9a82545024debd71f0492
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1539910-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hír
+** Ukrainian glosses
+
+* Sense s-1539910-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 136682b14185901ded003a39762228d69e93a85b7b9f5c6127b987eeb1b19d55
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1539910-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (кн.) широкая известность, слава
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1539910-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1539910-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-25
+:END:
+- reading :: ゆうめい

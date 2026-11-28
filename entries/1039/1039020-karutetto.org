@@ -1,0 +1,186 @@
+#+TITLE: カルテット
+#+JMDICT_ID: 1039020
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: カルテット
+#+ROMAJI: karutetto
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-25
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-1039020-001
+:PROPERTIES:
+:TEXT: カルテット
+:NO_KANJI: false
+:END:
+*** Priorities
+- gai1
+** Reading rd-1039020-002
+:PROPERTIES:
+:TEXT: クァルテット
+:NO_KANJI: false
+:END:
+** Reading rd-1039020-003
+:PROPERTIES:
+:TEXT: クワルテット
+:NO_KANJI: false
+:END:
+*** Information
+- sk
+
+* Sense s-1039020-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 706473b8165b2053d8e7b70f3005080cd7a6091eba3c678d4771c6e1445d5d33
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- music
+*** Language sources
+**** Language source ls-s-1039020-001-001
+:PROPERTIES:
+:LANG: ita
+:TYPE: full
+:WASEI: false
+:END:
+- text :: quartetto
+** English glosses
+- quartet
+** Ukrainian glosses
+*** uk-s-1039020-001-001
+:PROPERTIES:
+:END:
+- text :: квартет
+** Learner notes
+*** note-s-1039020-001-001
+:PROPERTIES:
+:END:
+- UK :: Музичний термін, запозичений з італійської мови (quartetto), що позначає ансамбль із чотирьох виконавців або музичний твір для чотирьох інструментів чи голосів (наприклад, 弦楽カルテット — струнний квартет). У розширеному вжитку може також означати згуртовану четвірку людей.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1039020-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 四人でカルテットを組みました。
+- READING :: よにんでかるてっとをくみました。
+- UK :: Ми вчотирьох створили квартет.
+- FOCUS :: カルテット
+*** ex-1039020-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 今夜のコンサートでは、有名な弦楽カルテットが演奏する。
+- READING :: こんやのこんさーとでは、ゆうめいなげんがくかるてっとがえんそうする。
+- UK :: На сьогоднішньому концерті виступатиме відомий струнний квартет.
+- FOCUS :: カルテット
+*** ex-1039020-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 息の合ったカルテットの演奏がホール全体に響き渡り、客席から大きな拍手が送られた。
+- READING :: いきのあったかるてっとのえんそうがほーるぜんたいにひびきわたり、きゃくせきからおおきなはくしゅがおくられた。
+- UK :: Злагоджена гра квартету лунала по всій залі, і слухачі нагородили музикантів гучними оплесками.
+- FOCUS :: カルテット
+
+* Sense s-1039020-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 19a8c7c4bcfee40a6a1d99eb52598a36f3b80efd0a45ba809fe8113523f6a0cf
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1039020-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Quartett
+** Ukrainian glosses
+
+* Sense s-1039020-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 3c08b893dab267bade237b34b3b7d820e59bf6a7284a6532d0da0ecc4ccfbe50
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1039020-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ((фр.) quartette) (муз.) квартет
+** Ukrainian glosses
+
+* Sense s-1039020-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 3a26d95e7b8dc526ea10e2873bf5b1de2f9e15cbbd2c341897a79a902c82327f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1039020-004-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: cuarteto (ita: quartetto)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1039020-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1039020-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-25
+:END:
+- reading :: カルテット
+** Accent accent-rd-1039020-002-001
+:PROPERTIES:
+:TARGET_ID: rd-1039020-002
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-25
+:END:
+- reading :: クァルテット

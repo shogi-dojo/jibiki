@@ -1,0 +1,163 @@
+#+TITLE: 全市
+#+JMDICT_ID: 1395280
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ぜんし
+#+ROMAJI: zenshi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1395280-001
+:PROPERTIES:
+:TEXT: 全市
+:END:
+*** Priorities
+- news2
+- nf38
+** Reading rd-1395280-001
+:PROPERTIES:
+:TEXT: ぜんし
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf38
+
+* Sense s-1395280-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 823b49bc40e06e5c822bad6b8482f03671e4c700f75b5114955cffbe6a95da80
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- the whole city
+** Ukrainian glosses
+*** uk-s-1395280-001-001
+:PROPERTIES:
+:END:
+- text :: усе місто; ціле місто
+** Learner notes
+*** note-s-1395280-001-001
+:PROPERTIES:
+:END:
+- UK :: Складний іменник (全 — «увесь», 市 — «місто»), що позначає всю територію або всіх мешканців одного міста. Часто виступає означенням чи додатком у зворотах на кшталт 全市を挙げて («силами всього міста») або 全市に広がる («поширитися на все місто»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1395280-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 昨日、全市で大きなお祭りが行われた。
+- READING :: きのう、ぜんしでおおきなおまつりがおこなわれた。
+- UK :: Учора по всьому місту відбувалося велике свято.
+- FOCUS :: 全市
+*** ex-1395280-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 停電の影響が全市に広がり、交通機関にも遅れが出た。
+- READING :: ていでんのえいきょうがぜんしにひろがり、こうつうきかんにもおくれがでた。
+- UK :: Наслідки вимкнення електроенергії охопили все місто, спричинивши затримки в роботі транспорту.
+- FOCUS :: 全市
+*** ex-1395280-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 災害からの復興を目指し、全市を挙げて支援活動に取り組んでいる。
+- READING :: さいがいからのふっこうをめざし、ぜんしをあげてしえんかつどうにとりくんでいる。
+- UK :: Прагнучи відновитися після стихійного лиха, мешканці об'єдналися всім містом для надання допомоги.
+- FOCUS :: 全市
+
+* Sense s-1395280-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: d41b5aa084df24555512744a7d4fbf4f1bfd0dcb80a25df2b7b8d8acfd4f4ada
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- all the cities
+- every city
+** Ukrainian glosses
+*** uk-s-1395280-002-001
+:PROPERTIES:
+:END:
+- text :: усі міста; кожне місто
+** Learner notes
+*** note-s-1395280-002-001
+:PROPERTIES:
+:END:
+- UK :: У контексті адміністративного поділу префектури чи країни може позначати сукупність усіх муніципалітетів зі статусом міста (наприклад, 全市の調査 — «опитування в усіх містах»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1395280-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 9868a9b2ab113f1828f9b1d4e66f3a20b4755031187b723eb06acb7b8267f504
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1395280-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: die ganze Stadt
+** Ukrainian glosses
+
+* Sense s-1395280-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: c758bd004a5c463709a64c73249300e9f22454ea8c9633a43e33260bd5ace1ad
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1395280-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: весь (целый) город
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1395280-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1395280-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: ぜんし

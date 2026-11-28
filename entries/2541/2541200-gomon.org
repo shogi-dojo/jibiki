@@ -1,0 +1,121 @@
+#+TITLE: 御紋
+#+JMDICT_ID: 2541200
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ごもん
+#+ROMAJI: gomon
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2541200-001
+:PROPERTIES:
+:TEXT: 御紋
+:END:
+** Written form wf-2541200-002
+:PROPERTIES:
+:TEXT: ご紋
+:END:
+** Reading rd-2541200-001
+:PROPERTIES:
+:TEXT: ごもん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2541200-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 386e203bfc2c325809c4dc2adc4619a2a745be730cd0094bdeccf6451959900a
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- hon
+** English glosses
+- crest (of a noble family)
+** Ukrainian glosses
+*** uk-s-2541200-001-001
+:PROPERTIES:
+:END:
+- text :: родовий герб (шляхетного роду); імператорський герб
+** Learner notes
+*** note-s-2541200-001-001
+:PROPERTIES:
+:END:
+- UK :: Шанобливий іменник, утворений із гоноративного префікса 御 (ご) та 紋 (герб, родовий знак 家紋). Уживається з повагою щодо емблеми чи герба імператорської родини, роду шьоґунів або іншої знатної династії, зокрема 菊の御紋 (імператорський герб хризантеми) та 葵の御紋 (герб роду Токуґава).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2541200-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 着物に美しい御紋が入っています。
+- READING :: きものにうつくしいごもんがはいっています。
+- UK :: На кімоно вишитий гарний родовий герб.
+- FOCUS :: 御紋
+*** ex-2541200-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 神社の幕には、皇室ゆかりの菊の御紋が染め抜かれていた。
+- READING :: じんじゃのまくには、こうしつゆかりのきくのごもんがそめぬかれていた。
+- UK :: На завісі святилища був зображений герб імператорської родини у вигляді хризантеми.
+- FOCUS :: 御紋
+*** ex-2541200-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 時代劇では、将軍家の御紋が入った印籠を見せると悪人たちが一斉にひれ伏す場面がよくある。
+- READING :: じだいげきでは、しょうぐんけのごもんがはいったいんろうをみせるとあくにんたちがいっせいにひれふすばめんがよくある。
+- UK :: У японських історичних драмах часто буває сцена, де лиходії миттю падають ниць, побачивши коробочку інро з гербом дому шьоґуна.
+- FOCUS :: 御紋
+
+* Sense s-2541200-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: b089eeab29375f8f50f4ca9b9ed02719c070a01dbb05013ffe74597a56ba903f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2541200-002-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: императорский герб
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2541200-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2541200-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 2
+:PATTERN: nakadaka
+:MORA_PATTERN: LHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: ごもん

@@ -1,0 +1,142 @@
+#+TITLE: 無担保
+#+JMDICT_ID: 1530580
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: むたんぽ
+#+ROMAJI: mutanpo
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-25
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1530580-001
+:PROPERTIES:
+:TEXT: 無担保
+:END:
+** Reading rd-1530580-001
+:PROPERTIES:
+:TEXT: むたんぽ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1530580-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: ad480b79197f2f7c7204eb5344c3625a3e54698bfc24d10fd6db3549c7e9b5ee
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- adj-no
+- n
+** English glosses
+- unsecured (loan)
+** Ukrainian glosses
+*** uk-s-1530580-001-001
+:PROPERTIES:
+:END:
+- text :: беззаставний; без забезпечення
+** Learner notes
+*** note-s-1530580-001-001
+:PROPERTIES:
+:END:
+- UK :: Фінансово-економічний іменник і но-прикметник (無担保の, 無担保で), утворений із префікса 無 (без) та 担保 (застава). Уживається переважно щодо кредитів і позик, які надаються без застави майна чи поручительства.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1530580-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: その銀行では無担保でお金を借りられます。
+- READING :: そのぎんこうではむたんぽでおかねをかりられます。
+- UK :: У тому банку можна взяти позику без застави.
+- FOCUS :: 無担保
+*** ex-1530580-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 無担保のローンは手続きが早い反面、金利が高く設定されやすい。
+- READING :: むたんぽのろーんはてつづきがはやいはんめん、きんりがたかくせっていされやすい。
+- UK :: Беззаставний кредит оформлюється швидше, проте ставка за ним зазвичай вища.
+- FOCUS :: 無担保
+*** ex-1530580-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 新規に事業を始める人のために、自治体と連携した無担保の融資制度が用意されている。
+- READING :: しんきにじぎょうをはじめるひとのために、じちたいとれんけいしたむたんぽのゆうしせいどがよういされている。
+- UK :: Для підприємців, які започатковують нову справу, діє програма беззаставного кредитування у співпраці з місцевою владою.
+- FOCUS :: 無担保
+
+* Sense s-1530580-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: c029e9e5c7f6974c897bdc720ca38bcdeab4e61e54345efbe92b26698a1c797b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1530580-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ohne Sicherheit
+*** en-s-1530580-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ohne Pfand
+** Ukrainian glosses
+
+* Sense s-1530580-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: a78e40142e3860b805d41a89e12f31b9aaa7b19f1817fc7a3ab66f729b048383
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1530580-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: : {～で} без залога, без [дополнительного] обеспечения
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1530580-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1530580-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 2
+:PATTERN: nakadaka
+:MORA_PATTERN: LHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-25
+:END:
+- reading :: むたんぽ

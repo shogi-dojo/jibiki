@@ -1,0 +1,187 @@
+#+TITLE: 百分率
+#+JMDICT_ID: 1488450
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ひゃくぶんりつ
+#+ROMAJI: hyakubunritsu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1488450-001
+:PROPERTIES:
+:TEXT: 百分率
+:END:
+** Reading rd-1488450-001
+:PROPERTIES:
+:TEXT: ひゃくぶんりつ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1488450-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: e5fa3caed643f04b1fed0df4060c79a91fb48087ddc33d2d22432192382e47d1
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- percentage
+** Ukrainian glosses
+*** uk-s-1488450-001-001
+:PROPERTIES:
+:END:
+- text :: відсоткове співвідношення; відсоток; процент
+** Learner notes
+*** note-s-1488450-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник математичної та статистичної термінології, утворений із 百分 («поділ на сто частин») і 率 («частка, коефіцієнт»). У повсякденній мові замість нього частіше кажуть パーセント.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1488450-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 出席者の百分率を求める。
+- READING :: しゅっせきしゃのひゃくぶんりつをもとめる。
+- UK :: Обчислити відсоток присутніх.
+- FOCUS :: 百分率
+*** ex-1488450-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: グラフを見ると、全体の百分率がひと目で分かるようになっている。
+- READING :: ぐらふをみると、ぜんたいのひゃくぶんりつがひとめでわかるようになっている。
+- UK :: Глянувши на графік, можна одразу побачити відсоткове співвідношення всього загалу.
+- FOCUS :: 百分率
+*** ex-1488450-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: アンケートの集計結果を比較しやすくするため、回答数を百分率に換算して表にまとめた。
+- READING :: あんけーとのしゅうけいけっかをひかくしやすくするため、かいとうすうをひゃくぶんりつにかんざんしてひょうにまとめた。
+- UK :: Щоб було легше порівнювати підсумки опитування, кількість відповідей перевели у відсотки й звели в таблицю.
+- FOCUS :: 百分率
+
+* Sense s-1488450-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 53497c2240c302ea2678a6f2fe6bf2c0abd016c9741b14955644b1e335bbc0ee
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1488450-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: percentage
+** Ukrainian glosses
+
+* Sense s-1488450-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 2c240ce506679cf3aeb977ac8d771260aea5ab6e81917aa8eefc204d753c2031
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1488450-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Prozentsatz
+** Ukrainian glosses
+
+* Sense s-1488450-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 58b8a298a5742de318f796be12f7e7434e265337bf04a6c9a828bb75cf5ba913
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1488450-004-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: százalék
+** Ukrainian glosses
+
+* Sense s-1488450-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: b888d72f6475bfd7099b35430b2fcf2463fdbfb14980cade65ca390ae24709c1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1488450-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: процентное отношение (содержание)
+** Ukrainian glosses
+
+* Sense s-1488450-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 1b857d8730e2770a7c72c05fdf838d3416d97be4c7bb846acc40c8033d6c6806
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1488450-006-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: procenthalt
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1488450-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1488450-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: ひゃくぶんりつ

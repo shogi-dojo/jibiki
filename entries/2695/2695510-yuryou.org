@@ -1,0 +1,133 @@
+#+TITLE: 湯量
+#+JMDICT_ID: 2695510
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ゆりょう
+#+ROMAJI: yuryou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2695510-001
+:PROPERTIES:
+:TEXT: 湯量
+:END:
+** Reading rd-2695510-001
+:PROPERTIES:
+:TEXT: ゆりょう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2695510-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 6f6f249959cdafd6b9f993a50e2cf3d0676ebccbf8c10f9b10bfae76ab99bc18
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- quantity of hot spring water
+** Ukrainian glosses
+*** uk-s-2695510-001-001
+:PROPERTIES:
+:END:
+- text :: дебіт гарячого джерела; об'єм (кількість) гарячої води
+** Learner notes
+*** note-s-2695510-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений із 湯 (гаряча вода, вода термального джерела) та 量 (кількість, обсяг). Переважно вживається щодо термальних джерел онсен (温泉), позначаючи потужність виходу води за певний час (наприклад, 湯量が豊富 — багатий на термальну воду), хоча може стосуватися й кількості гарячої води у ванні.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2695510-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この温泉は湯量が多いです。
+- READING :: このおんせんはゆりょうがおおいです。
+- UK :: Це термальне джерело має великий дебіт води.
+- FOCUS :: 湯量
+*** ex-2695510-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 宿の露天風呂は湯量が豊富で、いつも新鮮なお湯があふれている。
+- READING :: やどのろてんぶろはゆりょうがほうふで、いつもしんせんなおゆがあふれている。
+- UK :: Відкрита купальня в готелі має щедрий приплив води, тож у ній завжди вирує свіжа термальна вода.
+- FOCUS :: 湯量
+*** ex-2695510-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 地下水のくみ上げが増えた影響で、近年はこの地域の源泉の湯量が減少しているという。
+- READING :: ちかすいのくみあげがふえたえいきょうで、きんねんはこのちいきのげんせんのゆりょうがげんしょうしているという。
+- UK :: Кажуть, що через збільшення відкачування підземних вод останніми роками об'єм води в місцевих термальних джерелах зменшується.
+- FOCUS :: 湯量
+
+* Sense s-2695510-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: a561dd61f3a26443da642524a4167607cf9715126e763743a15ce8343d8f452f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2695510-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Menge an heißem Wasser (das aus einer heißen Quelle kommt)
+** Ukrainian glosses
+
+* Sense s-2695510-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 85702f57f1c0e0c072dd46c232668bda9c6e82d7386b52e06b63b50e2ed6cbcf
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2695510-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: дебит горячего источника
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2695510-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2695510-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: ゆりょう

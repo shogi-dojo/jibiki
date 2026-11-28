@@ -1,0 +1,115 @@
+#+TITLE: 隣地
+#+JMDICT_ID: 2413050
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: りんち
+#+ROMAJI: rinchi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2413050-001
+:PROPERTIES:
+:TEXT: 隣地
+:END:
+** Reading rd-2413050-001
+:PROPERTIES:
+:TEXT: りんち
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2413050-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 3ef41421a9e46ad16fbf6b84f55f52157642a944f889e6f21feb8a15798de916
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- adjoining land
+** Ukrainian glosses
+*** uk-s-2413050-001-001
+:PROPERTIES:
+:END:
+- text :: суміжна ділянка; прилегла земля; сусідня територія
+** Learner notes
+*** note-s-2413050-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник книжно-офіційного та юридичного стилю, що складається з 隣 (сусідній) і 地 (земля, ділянка). Поширений у документах щодо нерухомості, будівництва й межування землі (наприклад, 隣地境界 — межа суміжної ділянки).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2413050-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 家の隣地に新しい公園ができました。
+- READING :: いえのりんちにあたらしいこうえんができました。
+- UK :: На сусідній з будинком ділянці з'явився новий парк.
+- FOCUS :: 隣地
+*** ex-2413050-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 建物を建てる前に、隣地との境界線を確認した。
+- READING :: たてものをたてるまえに、りんちとのきょうかいせんをかくにんした。
+- UK :: Перед зведенням будівлі ми перевірили межу із суміжною ділянкою.
+- FOCUS :: 隣地
+*** ex-2413050-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 工場の拡張に伴い、会社は隣地を買い取って倉庫を増設する方針を固めた。
+- READING :: こうじょうのかくちょうにともない、かいしゃはりんちをかいとってそうこをぞうせつするほうしんをかためた。
+- UK :: У зв'язку з розширенням заводу компанія вирішила викупити прилеглу земельну ділянку й добудувати склад.
+- FOCUS :: 隣地
+
+* Sense s-2413050-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 1abf33f61a6c2f66a99521112fd0024c32c60acafb201766c881581eda9dd874
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2413050-002-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (кн.) соседняя (прилегающая) местность
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2413050-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2413050-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: りんち

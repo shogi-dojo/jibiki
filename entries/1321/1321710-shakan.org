@@ -1,0 +1,158 @@
+#+TITLE: 舎監
+#+JMDICT_ID: 1321710
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: しゃかん
+#+ROMAJI: shakan
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1321710-001
+:PROPERTIES:
+:TEXT: 舎監
+:END:
+** Reading rd-1321710-001
+:PROPERTIES:
+:TEXT: しゃかん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1321710-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 04961638287b627390e0eda6e5d1739cfe6f339fd7ce3a7281f15e0e46378853
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- dormitory dean
+** Ukrainian glosses
+*** uk-s-1321710-001-001
+:PROPERTIES:
+:END:
+- text :: комендант гуртожитку; вихователь інтернату
+** Learner notes
+*** note-s-1321710-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений із 舎 (житлова будівля, гуртожиток) та 監 (наглядати, контролювати). Позначає викладача або посадовця, що відповідає за порядок, побут і виховання в шкільному чи студентському гуртожитку.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1321710-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 寮のルールについて舎監に相談しました。
+- READING :: りょうのるーるについてしゃかんにそうだんしました。
+- UK :: Я порадився з комендантом гуртожитку щодо правил проживання.
+- FOCUS :: 舎監
+*** ex-1321710-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 厳しい舎監の目を盗んで、学生たちは夜遅くまで話していました。
+- READING :: きびしいしゃかんのめをぬすんで、がくせいたちはよるおそくまではなしていました。
+- UK :: Потай від суворого коменданта студенти розмовляли до пізньої ночі.
+- FOCUS :: 舎監
+*** ex-1321710-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 寄宿舎の生活指導を担う舎監は、生徒たちの相談相手としても重要な役割を果たしています。
+- READING :: きしゅくしゃのせいかつしどうをになうしゃかんは、せいとたちのそうだんあいてとしてもじゅうようなやくわりをはたしています。
+- UK :: Вихователь інтернату, який відповідає за налагодження побуту, також відіграє важливу роль як наставник, до якого учні можуть звернутися по пораду.
+- FOCUS :: 舎監
+
+* Sense s-1321710-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: e5692e5def99b85bc28e19fa5da88225b5e2479317a07f245804c47ee9b840e4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1321710-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Heimleiter
+*** en-s-1321710-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Heimvater
+** Ukrainian glosses
+
+* Sense s-1321710-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 8173140db87229c8d724d70598d8430d6f673c1cd731391be7a2bfa9daa5d913
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1321710-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: инспектор [закрытого] учебного заведения; надзиратель спального корпуса; комендант общежития
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1321710-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1321710-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: しゃかん
+** Accent accent-rd-1321710-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1321710-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: しゃかん

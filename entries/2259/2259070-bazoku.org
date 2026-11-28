@@ -1,0 +1,161 @@
+#+TITLE: 馬賊
+#+JMDICT_ID: 2259070
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ばぞく
+#+ROMAJI: bazoku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-25
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2259070-001
+:PROPERTIES:
+:TEXT: 馬賊
+:END:
+** Reading rd-2259070-001
+:PROPERTIES:
+:TEXT: ばぞく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2259070-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: d70bec105a5ab3278961226109e9b665263663e86b2d67dfdfe778a5709d0b76
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- hist
+** English glosses
+- mounted bandit (esp. in north-east China from the end of the Qing dynasty)
+** Ukrainian glosses
+*** uk-s-2259070-001-001
+:PROPERTIES:
+:END:
+- text :: кінний розбійник; озброєний вершник-бандит (у Маньчжурії)
+** Learner notes
+*** note-s-2259070-001-001
+:PROPERTIES:
+:END:
+- UK :: Історичний термін, що позначає кінні розбійницькі загони, які діяли переважно на північному сході Китаю (у Маньчжурії) з кінця династії Цін до першої половини двадцятого століття. Утворюється з 馬 (кінь) та 賊 (розбійник).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2259070-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 昔、この地方には馬賊がいました。
+- READING :: むかし、このちほうにはばぞくがいました。
+- UK :: Колись у цих краях орудували кінні розбійники.
+- FOCUS :: 馬賊
+*** ex-2259070-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 村人たちは馬賊の襲撃に備えて見張りを立てた。
+- READING :: むらびとたちはばぞくのしゅうげきにそなえてみはりをたてた。
+- UK :: Селяни виставили варту на випадок нападу кінних бандитів.
+- FOCUS :: 馬賊
+*** ex-2259070-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: その歴史小説には、清朝末期の満洲で暗躍した馬賊の姿が生々しく描かれている。
+- READING :: そのれきししょうせつには、しんちょうまっきのまんしゅうであんやくしたばぞくのすがたがなまなましくえがかれている。
+- UK :: У цьому історичному романі яскраво змальовано кінних розбійників, які діяли в Маньчжурії наприкінці правління династії Цін.
+- FOCUS :: 馬賊
+
+* Sense s-2259070-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 03ed796ecad84fa3df29bbb8d2a1aac1f696f9b9e2e50cc2fd1f65a7d7a6474e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2259070-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bereden rover
+*** en-s-2259070-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bandieten te paard
+** Ukrainian glosses
+
+* Sense s-2259070-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: c1473bf40c52c8280b674ab629477df3d13649f637a02143c5ed059f29f1d6de
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2259070-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: berittener Bandit
+** Ukrainian glosses
+
+* Sense s-2259070-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 7c068782787b1e4d60eea220485bec58f0c8dec48867a0277c87b32a80fccd0c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2259070-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: бандиты, хунхузы
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2259070-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2259070-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-25
+:END:
+- reading :: ばぞく

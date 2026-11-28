@@ -1,0 +1,220 @@
+#+TITLE: 諸手
+#+JMDICT_ID: 2839967
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: もろて
+#+ROMAJI: morote
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-25
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2839967-001
+:PROPERTIES:
+:TEXT: 諸手
+:END:
+** Written form wf-2839967-002
+:PROPERTIES:
+:TEXT: もろ手
+:END:
+** Written form wf-2839967-003
+:PROPERTIES:
+:TEXT: 双手
+:END:
+** Written form wf-2839967-004
+:PROPERTIES:
+:TEXT: 両手
+:END:
+** Reading rd-2839967-001
+:PROPERTIES:
+:TEXT: もろて
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+** Reading rd-2839967-002
+:PROPERTIES:
+:TEXT: もろで
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+** Reading rd-2839967-003
+:PROPERTIES:
+:TEXT: そうしゅ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- 双手
+
+* Sense s-2839967-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: a577ac51f394079d1e040b9e1907874ccc2297eb976162982dde21ff9a677f74
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Cross-references
+- 両手・1
+** English glosses
+- both hands
+** Ukrainian glosses
+*** uk-s-2839967-001-001
+:PROPERTIES:
+:END:
+- text :: обидві руки
+** Learner notes
+*** note-s-2839967-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, книжний або виразний синонім звичайного слова 両手 (りょうて). Часто трапляється у висловах 諸手を挙げて (піднявши обидві руки, тобто палко підтримувати чи вітати) та в описах бойових мистецтв або спорту.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2839967-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 諸手でボールを受ける。
+- READING :: もろてでぼーるをうける。
+- UK :: Ловити м'яч обома руками.
+- FOCUS :: 諸手
+*** ex-2839967-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: その提案に諸手を挙げて賛成した。
+- READING :: そのていあんにもろてをあげてさんせいした。
+- UK :: Я обома руками підтримав цю пропозицію.
+- FOCUS :: 諸手
+*** ex-2839967-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 重たい木箱を諸手でしっかりと抱えて運んだ。
+- READING :: おもたいきばこをもろてでしっかりとかかえてはこんだ。
+- UK :: Він поніс важку дерев'яну скриню, міцно тримаючи її обома руками.
+- FOCUS :: 諸手
+
+* Sense s-2839967-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 25a79a7faffaf8c65b1834909370c3858ebb4b59c369f2ff940187a4616c247b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2839967-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: beide Hände
+** Ukrainian glosses
+
+* Sense s-2839967-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 2a7051a5717cdc1a772ea17dbbe2ce05a38799ccd66c196b565596fa0b672704
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2839967-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: elismerően
+*** en-s-2839967-003-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: helyeslően
+*** en-s-2839967-003-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: jóváhagyólag
+** Ukrainian glosses
+
+* Sense s-2839967-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: cc98f9c5c1d87a91a3d33d4491ec4ff6206f0ad99ec40247b9127e81ed79eeb9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2839967-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (кн.) обе руки
+*** en-s-2839967-004-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: обе руки
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2839967-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2839967-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-25
+:END:
+- reading :: もろて
+** Accent accent-rd-2839967-003-001
+:PROPERTIES:
+:TARGET_ID: rd-2839967-003
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-25
+:END:
+- reading :: そうしゅ

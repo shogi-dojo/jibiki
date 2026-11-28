@@ -1,0 +1,147 @@
+#+TITLE: 花冷え
+#+JMDICT_ID: 1195090
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: はなびえ
+#+ROMAJI: hanabie
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1195090-001
+:PROPERTIES:
+:TEXT: 花冷え
+:END:
+*** Priorities
+- news2
+- nf46
+** Reading rd-1195090-001
+:PROPERTIES:
+:TEXT: はなびえ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf46
+
+* Sense s-1195090-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 88a5ea7928557b26ade2af8d1d637bc2f15cd44935a97ef6c18861c2ef473c26
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- chilly spring weather
+** Ukrainian glosses
+*** uk-s-1195090-001-001
+:PROPERTIES:
+:END:
+- text :: весняне похолодання; прохолодні дні під час цвітіння сакури
+** Learner notes
+*** note-s-1195090-001-001
+:PROPERTIES:
+:END:
+- UK :: Сезонний іменник (кіґо весни в поезії хайку), утворений з 花 («квіти сакури») та 冷え («похолодання»). Описує несподіване повернення прохолодної погоди в пору, коли сакура вже розквітла.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1195090-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 今日は花冷えでとても寒いです。
+- READING :: きょうははなびえでとてもさむいです。
+- UK :: Сьогодні через весняне похолодання дуже холодно.
+- FOCUS :: 花冷え
+*** ex-1195090-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 花冷えの朝は暖かい上着が必要になります。
+- READING :: はなびえのあさはあたたかいうわぎがひつようになります。
+- UK :: Прохолодного весняного ранку під час цвітіння сакури знадобиться теплий верхній одяг.
+- FOCUS :: 花冷え
+*** ex-1195090-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 満開の桜を見に出かけたものの、思いがけない花冷えに見舞われて早めに帰宅した。
+- READING :: まんかいのさくらをみにでかけたものの、おもいがけないはなびえにみまわれてはやめにきたくした。
+- UK :: Хоча ми й вибралися помилуватися квітучою сакурою, нас застало несподіване весняне похолодання, тож ми повернулися додому раніше.
+- FOCUS :: 花冷え
+
+* Sense s-1195090-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 82d9e6d78f1e90ff31ce85d716fa1b4d08a685c4300d5e8faa8b57fc9f28ba60
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1195090-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kälteeinbruch zur Zeit der Kirschblüten
+*** en-s-1195090-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Eisheilige
+** Ukrainian glosses
+
+* Sense s-1195090-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 8cbbfa0f4a0e89fd6733df0a0c01424d7be1205c08d64d800287f70e35f4202c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1195090-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: холодные дни во время цветения вишни
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1195090-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1195090-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: はなびえ

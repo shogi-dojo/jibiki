@@ -1,0 +1,178 @@
+#+TITLE: 異国人
+#+JMDICT_ID: 2421030
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: いこくじん
+#+ROMAJI: ikokujin
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2421030-001
+:PROPERTIES:
+:TEXT: 異国人
+:END:
+** Reading rd-2421030-001
+:PROPERTIES:
+:TEXT: いこくじん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2421030-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 1bc991b3c48fc865fdfdd57d83084010b9dcfa75f55efb6fff730dbed8eca6fa
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- foreigner
+- stranger
+- outsider
+- alien
+** Ukrainian glosses
+*** uk-s-2421030-001-001
+:PROPERTIES:
+:END:
+- text :: чужоземець, чужоземка; іноземець, іноземка
+** Learner notes
+*** note-s-2421030-001-001
+:PROPERTIES:
+:END:
+- UK :: Книжний і дещо піднесений чи історичний іменник (異国 «чужа країна» + 人 «людина»), що означає вихідця з іншої країни, чужинця. На відміну від буденних слів 外国人 або 外国の人, слово 異国人 частіше вживається в історичних описах, художній літературі або для передачі відчуття культурної віддаленості й екзотики.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2421030-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 港町に異国人がやって来た。
+- READING :: みなとまちにいこくじんがやってきた。
+- UK :: До портового міста прибули чужоземці.
+- FOCUS :: 異国人
+*** ex-2421030-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 鎖国の時代には、長崎の出島以外で異国人の姿を見ることはめったになかった。
+- READING :: さこくのじだいには、ながさきのでじまいがいでいこくじんのすがたをみることはめったになかった。
+- UK :: В епоху ізоляції за межами Деджіми в Наґасакі вкрай рідко можна було побачити іноземців.
+- FOCUS :: 異国人
+*** ex-2421030-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 遠い土地から来た異国人の旅人は、珍しい楽器を奏でて村人たちを驚かせた。
+- READING :: とおいとちからきたいこくじんのたびびとは、めずらしいがっきをかなでてむらびとたちをおどろかせた。
+- UK :: Мандрівний чужоземець із далеких країв здивував селян грою на незвичному музичному інструменті.
+- FOCUS :: 異国人
+
+* Sense s-2421030-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 145a043ec4cbc8f2d75d2fab2ffa7fe5ce30e16274d4b1ff7f14c3152b8e8784
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2421030-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vreemdeling
+*** en-s-2421030-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: buitenlander
+*** en-s-2421030-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: barbaar
+*** en-s-2421030-002-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: uitlander
+** Ukrainian glosses
+
+* Sense s-2421030-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: bc9c559e8a3d18913e1bff24b490ad3a217b30671504be506b916ec449435642
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2421030-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Fremder
+** Ukrainian glosses
+
+* Sense s-2421030-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: de4730f56634a6f9c6f863be613349bf9d04f66fb7fe5148b27fa14509428954
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2421030-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: чужеземец, иностранец, иностранка
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2421030-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2421030-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: いこくじん

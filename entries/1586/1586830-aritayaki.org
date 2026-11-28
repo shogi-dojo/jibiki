@@ -1,0 +1,147 @@
+#+TITLE: 有田焼
+#+JMDICT_ID: 1586830
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ありたやき
+#+ROMAJI: aritayaki
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-25
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1586830-001
+:PROPERTIES:
+:TEXT: 有田焼
+:END:
+** Written form wf-1586830-002
+:PROPERTIES:
+:TEXT: 有田焼き
+:END:
+*** Information
+- io
+** Reading rd-1586830-001
+:PROPERTIES:
+:TEXT: ありたやき
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1586830-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: e833aa75cd5bee2a577ef238dfd0f614939bfbd13a1d2dfcb2614e8f69dbf562
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- Arita ware (porcelain)
+** Ukrainian glosses
+*** uk-s-1586830-001-001
+:PROPERTIES:
+:END:
+- text :: порцеляна Аріта; кераміка Аріта (аріта-які)
+** Learner notes
+*** note-s-1586830-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений від топоніма 有田 (Аріта, місто в префектурі Саґа) та 焼 (випал, керамічний виріб). Позначає традиційну японську порцеляну, відому своєю міцністю, витонченим розписом та історією виробництва з початку сімнадцятого століття.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1586830-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 旅行のお土産に有田焼のお皿を買いました。
+- READING :: りょこうのおみやげにありたやきのおさらをかいました。
+- UK :: Я купив тарілку з порцеляни Аріта як сувенір із подорожі.
+- FOCUS :: 有田焼
+*** ex-1586830-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: このお茶碗は繊細な絵付けが美しい有田焼です。
+- READING :: このおちゃわんはせんさいなえつけがうつくしいありたやきです。
+- UK :: Ця чаша для чаю — виріб із порцеляни Аріта з витонченим розписом.
+- FOCUS :: 有田焼
+*** ex-1586830-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 佐賀県で作られる有田焼は、江戸時代からヨーロッパへも輸出され、高い評価を受けてきた。
+- READING :: さがけんでつくられるありたやきは、えどじだいからよーろっぱへもゆしゅつされ、たかいひょうかをうけてきた。
+- UK :: Порцеляна Аріта, яку виготовляють у префектурі Саґа, ще з періоду Едо експортувалася до Європи й здобула високе визнання.
+- FOCUS :: 有田焼
+
+* Sense s-1586830-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: ec10aa01dfd616d70f7b862a53dd634949fedad4e10013a7304343c0d174d396
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1586830-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Arita-Porzellan
+*** en-s-1586830-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Imari-Porzellan (nach im 17. Jhd. aus Korea eingeführter Technik hergestellt; aus Arita, Saga-ken)
+** Ukrainian glosses
+
+* Sense s-1586830-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 4691a34823b8e7260ad629235cf3fdbf45a0df648f221d58b89bdfec50af2de4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1586830-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: фарфор Арита (отличающийся прочностью; центр его производства  г. Арита в преф. Сага)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1586830-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1586830-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-25
+:END:
+- reading :: ありたやき

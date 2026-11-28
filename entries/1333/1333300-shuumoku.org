@@ -1,0 +1,174 @@
+#+TITLE: 衆目
+#+JMDICT_ID: 1333300
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: しゅうもく
+#+ROMAJI: shuumoku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-25
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1333300-001
+:PROPERTIES:
+:TEXT: 衆目
+:END:
+*** Priorities
+- news2
+- nf43
+** Reading rd-1333300-001
+:PROPERTIES:
+:TEXT: しゅうもく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf43
+
+* Sense s-1333300-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 5f46576be0d5ded27318b807e61ec0df3558c1debb825659b12b5dc9cea39c66
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- all eyes
+- public attention
+** Ukrainian glosses
+*** uk-s-1333300-001-001
+:PROPERTIES:
+:END:
+- text :: увага загалу, погляди всіх; громадська думка
+** Learner notes
+*** note-s-1333300-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник книжного стилю, утворений із 衆 («множина людей, народ») та 目 («око, погляд»). Вживається в сталих висловах на кшталт 衆目が集まる («привертати загальну увагу»), 衆目の見るところ («на загальну думку, як усі бачать») та 衆目の一致するところ («те, у чому сходяться погляди всіх»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1333300-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 彼の活躍に衆目が集まった。
+- READING :: かれのかつやくにしゅうもくがあつまった。
+- UK :: Його успіхи привернули загальну увагу.
+- FOCUS :: 衆目
+*** ex-1333300-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 彼女が次の代表に選ばれるのは、衆目の一致するところだ。
+- READING :: かのじょがつぎのだいひょうにえらばれるのは、しゅうもくのいっちするところだ。
+- UK :: Усі одностайні в тому, що наступною представницею оберуть саме її.
+- FOCUS :: 衆目
+*** ex-1333300-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: この政策が失敗に終わったことは、誰の目にも明らかであり、衆目の見るところである。
+- READING :: このせいさくがしっぱいにおわったことは、だれのめにもあきらかであり、しゅうもくのみるところである。
+- UK :: Те, що ця політика зазнала невдачі, очевидно кожному і є загальновизнаним фактом.
+- FOCUS :: 衆目
+
+* Sense s-1333300-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 7ee8f767d0debce4f6dd6a4ff01175408188d1fae249d2ba436621efaf5e301e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1333300-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aller ogen
+*** en-s-1333300-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: algemene aandacht
+*** en-s-1333300-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: publieke belangstelling
+** Ukrainian glosses
+
+* Sense s-1333300-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 1f258aca66bfd4398e5e42e2c01161b0db291c4be91e6d434cc20ce17409ca2a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1333300-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: öffentliche Aufmerksamkeit
+** Ukrainian glosses
+
+* Sense s-1333300-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 27e6058556f2241eab2dc53449d5edd9d0b621c610214c3828a3981dfc8125d7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1333300-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: взгляды всех, общее внимание
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1333300-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1333300-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-25
+:END:
+- reading :: しゅうもく

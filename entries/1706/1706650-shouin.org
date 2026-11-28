@@ -1,0 +1,148 @@
+#+TITLE: 勝因
+#+JMDICT_ID: 1706650
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: しょういん
+#+ROMAJI: shouin
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-25
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1706650-001
+:PROPERTIES:
+:TEXT: 勝因
+:END:
+*** Priorities
+- news1
+- nf17
+** Reading rd-1706650-001
+:PROPERTIES:
+:TEXT: しょういん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf17
+
+* Sense s-1706650-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: fbf39e8f44065c17e22214dcc008fe8c1cdc3f78a12a6a7938e23b6d4fb8ca2c
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- cause of victory
+- reason for (one's) success
+** Ukrainian glosses
+*** uk-s-1706650-001-001
+:PROPERTIES:
+:END:
+- text :: причина перемоги, запорука успіху
+** Learner notes
+*** note-s-1706650-001-001
+:PROPERTIES:
+:END:
+- UK :: Книжний іменник, складений із 勝 (перемога) та 因 (причина), антонім до 敗因 (причина поразки). Часто вживається у спортивній аналітиці, політиці та бізнесі.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1706650-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: チームの勝因は強い団結力だ。
+- READING :: ちーむのしょういんはつよいだんけつりょくだ。
+- UK :: Запорука перемоги команди — у міцній згуртованості.
+- FOCUS :: 勝因
+*** ex-1706650-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 監督は試合後の会見で、今日の勝因について語った。
+- READING :: かんとくはしあいごのかいけんで、きょうのしょういんについてかたった。
+- UK :: На післяматчевій пресконференції тренер розповів про причину сьогоднішньої перемоги.
+- FOCUS :: 勝因
+*** ex-1706650-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 序盤の厳しい局面で冷静さを保てたことが、最大の勝因だったと言える。
+- READING :: じょばんのきびしいきょくめんでれいせいさをたもてたことが、さいだいのしょういんだったといえる。
+- UK :: Можна сказати, що головною причиною перемоги стало вміння зберегти холоднокровність у скрутній ситуації на початку гри.
+- FOCUS :: 勝因
+
+* Sense s-1706650-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 08bdeb310941fc7b2e3dc0acfe63cc4d581b4544887409a1287bbd5733af370d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1706650-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Ursache für einen Sieg
+*** en-s-1706650-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Erfolgsursache
+** Ukrainian glosses
+
+* Sense s-1706650-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 4a399fee2e2b3e9dcc9147b96a436376256b79ca2246199c45c26b03c5add59f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1706650-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (кн.) причина победы
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1706650-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1706650-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-25
+:END:
+- reading :: しょういん

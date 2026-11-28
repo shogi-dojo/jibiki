@@ -1,0 +1,152 @@
+#+TITLE: 蔀
+#+JMDICT_ID: 2553490
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: しとみ
+#+ROMAJI: shitomi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-25
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2553490-001
+:PROPERTIES:
+:TEXT: 蔀
+:END:
+** Reading rd-2553490-001
+:PROPERTIES:
+:TEXT: しとみ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2553490-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: b27f48df896b84eb663ffca783472e7d4f952cbc0868e35352010093c155913a
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- archit
+** English glosses
+- latticed shutters (in traditional Japanese and Chinese architecture)
+** Ukrainian glosses
+*** uk-s-2553490-001-001
+:PROPERTIES:
+:END:
+- text :: шітомі (підйомні решітчасті віконниці в традиційній архітектурі)
+** Learner notes
+*** note-s-2553490-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, архітектурний термін (також 蔀戸 — しとみど). Дерев’яна решітчаста панель зі зворотною обшивкою, яку в давній японській палацовій і храмовій архітектурі підвішували на петлях і піднімали назовні для захисту від сонця та дощу.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2553490-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 朝に蔀を上げる。
+- READING :: あさにしとみをあげる。
+- UK :: Вранці підняти віконниці шітомі.
+- FOCUS :: 蔀
+*** ex-2553490-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 平安時代の屋敷には、外の風を取り込むための蔀があった。
+- READING :: へいあんじだいのやしきには、そとのかぜをとりこむためのしとみがあった。
+- UK :: У маєтках періоду Хейан були підйомні віконниці шітомі, які відкривали для провітрювання.
+- FOCUS :: 蔀
+*** ex-2553490-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 古い神社を訪れると、本殿の周囲に重厚な木製の蔀が並んでいるのが見られる。
+- READING :: ふるいじんじゃをおとずれると、ほんでんのしゅういにじゅうこうなもくせいのしとみがならんでいるのがみられる。
+- UK :: Якщо відвідати стародавнє святилище, можна побачити масивні дерев'яні віконниці шітомі, що тягнуться довкола головної споруди.
+- FOCUS :: 蔀
+
+* Sense s-2553490-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 8ead445d6f6d4b165b9d2fefd66dd858441470984d2a7ad3967b0469753ff3ca
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2553490-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Fensterläden (mit einer Art Gitter)
+** Ukrainian glosses
+
+* Sense s-2553490-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 47e258a0dbe9bb231df7efe0e411d06c19a6ed1b449df3b60db2cb5405fb1d41
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2553490-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: жалюзи
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2553490-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2553490-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-25
+:END:
+- reading :: しとみ
+** Accent accent-rd-2553490-001-002
+:PROPERTIES:
+:TARGET_ID: rd-2553490-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 2
+:PATTERN: nakadaka
+:MORA_PATTERN: LHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-25
+:END:
+- reading :: しとみ

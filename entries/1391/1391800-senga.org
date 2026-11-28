@@ -1,0 +1,165 @@
+#+TITLE: 線画
+#+JMDICT_ID: 1391800
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: せんが
+#+ROMAJI: senga
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-25
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1391800-001
+:PROPERTIES:
+:TEXT: 線画
+:END:
+*** Priorities
+- news2
+- nf37
+** Reading rd-1391800-001
+:PROPERTIES:
+:TEXT: せんが
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf37
+
+* Sense s-1391800-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 756e66c25a78cc4dd7287dd9a69dc547495cf1fc81f76de666c9a721ac57aaba
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- line drawing
+** Ukrainian glosses
+*** uk-s-1391800-001-001
+:PROPERTIES:
+:END:
+- text :: лінійний малюнок; штриховий рисунок; лайнарт
+** Learner notes
+*** note-s-1391800-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений від 線 («лінія») та 画 («малюнок, зображення»). Позначає рисунок, виконаний самими лише лініями чи штрихами без розтушовування та кольорової заливки; широко вживається в ілюстрації, манґа та цифровому малюванні.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1391800-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: まず鉛筆で線画を描いた。
+- READING :: まずえんぴつでせんがをかいた。
+- UK :: Спочатку я намалював олівцем лінійний ескіз.
+- FOCUS :: 線画
+*** ex-1391800-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 色を塗る前に、線画の太さや強弱を整えておく。
+- READING :: いろをぬるまえに、せんがのふとさやきょうじゃくをととのえておく。
+- UK :: Перед тим як накладати колір, варто вирівняти товщину й виразність ліній на рисунку.
+- FOCUS :: 線画
+*** ex-1391800-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: このイラスト集では、シンプルな線画だけで人物の繊細な感情が見事に表現されている。
+- READING :: このいらすとしゅうでは、しんぷるなせんがだけでじんぶつのせんさいなかんじょうがみごとにひょうげんされている。
+- UK :: У цьому альбомі ілюстрацій тонкі почуття персонажів майстерно передано самими лише лаконічними лінійними рисунками.
+- FOCUS :: 線画
+
+* Sense s-1391800-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 5845dba3769a9652a3a3433b3b4fc868faa744b764471f396921232b106d33d1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1391800-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Strichzeichnung
+*** en-s-1391800-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Umrisszeichnung
+** Ukrainian glosses
+
+* Sense s-1391800-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 11953c315a3acde0ad0ac5c6b55ea331222fbe89fd9d00fdacee1fd0bca1f11f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1391800-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vonalas rajz
+** Ukrainian glosses
+
+* Sense s-1391800-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: b84ae3612e333f620a09930977eff139c3b5fe2f4bf3353a21e624fcb46a7e20
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1391800-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: штриховой рисунок; штриховая гравюра
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1391800-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1391800-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-25
+:END:
+- reading :: せんが

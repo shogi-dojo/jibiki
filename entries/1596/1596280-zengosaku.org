@@ -1,0 +1,175 @@
+#+TITLE: 善後策
+#+JMDICT_ID: 1596280
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ぜんごさく
+#+ROMAJI: zengosaku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1596280-001
+:PROPERTIES:
+:TEXT: 善後策
+:END:
+*** Priorities
+- news2
+- nf29
+** Written form wf-1596280-002
+:PROPERTIES:
+:TEXT: 前後策
+:END:
+*** Information
+- sK
+** Reading rd-1596280-001
+:PROPERTIES:
+:TEXT: ぜんごさく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf29
+
+* Sense s-1596280-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 995ff752697f1e1e56917f39ff6c31a1ad7eaab2cea28a85294dcb8c24f6cfa5
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- remedial measure
+- relief measure
+- corrective measure
+- countermeasure
+- remedy
+** Ukrainian glosses
+*** uk-s-1596280-001-001
+:PROPERTIES:
+:END:
+- text :: заходи для виправлення ситуації; антикризові заходи; вихід зі становища
+** Learner notes
+*** note-s-1596280-001-001
+:PROPERTIES:
+:END:
+- UK :: Книжний і діловий іменник, що буквально означає «план упорядкування справ після події». Позначає кроки для подолання наслідків інциденту, помилки чи кризи. Найчастіше трапляється у сталих висловах 善後策を講じる або 善後策を練る (вжити чи розробити заходи для виправлення становища).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1596280-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 会議で今後の善後策を話し合った。
+- READING :: かいぎでこんごのぜんごさくをはなしあった。
+- UK :: На нараді обговорили подальші заходи для виправлення ситуації.
+- FOCUS :: 善後策
+*** ex-1596280-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 事故の原因を調べたうえで、すぐに善後策を講じる必要がある。
+- READING :: じこのげんいんをしらべたうえで、すぐにぜんごさくをこうじるひつようがある。
+- UK :: З'ясувавши причину аварії, потрібно негайно вжити заходів для виправлення ситуації.
+- FOCUS :: 善後策
+*** ex-1596280-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 取引先からの苦情が相次いだため、担当部署が集まって善後策を練ることになった。
+- READING :: とりひきさきからのくじょうがあいついだため、たんとうぶしょがあつまってぜんごさくをねることになった。
+- UK :: Через низку скарг від партнерів відповідальні підрозділи зібралися разом, щоб напрацювати план виправлення становища.
+- FOCUS :: 善後策
+
+* Sense s-1596280-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 16e89da7d81309cabc9f0353e125a058ff54c52e06dceb64506c5f18c1bd95d8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1596280-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Gegenmaßnahme
+*** en-s-1596280-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: geeignete Maßnahme
+** Ukrainian glosses
+
+* Sense s-1596280-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: c79cc8c9c44d218b8e5a738ab22b07b7b15262e3c537e7525771366e8626ec56
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1596280-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ellenszer
+** Ukrainian glosses
+
+* Sense s-1596280-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 7d51c0461c3f2362cc1c10a2b423425f9732fd0a4b9d57a910dea33b60f5f9ee
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1596280-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: меры для исправления (улучшения) положения
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1596280-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1596280-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: ぜんごさく

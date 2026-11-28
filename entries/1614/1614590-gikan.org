@@ -1,0 +1,158 @@
+#+TITLE: 技官
+#+JMDICT_ID: 1614590
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ぎかん
+#+ROMAJI: gikan
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1614590-001
+:PROPERTIES:
+:TEXT: 技官
+:END:
+*** Priorities
+- news2
+- nf26
+** Reading rd-1614590-001
+:PROPERTIES:
+:TEXT: ぎかん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf26
+
+* Sense s-1614590-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: a453422feb677169011816c3541cfe87dc63ef5a586457f77cd1a2e845d208a4
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- technical official
+- technical officer
+** Ukrainian glosses
+*** uk-s-1614590-001-001
+:PROPERTIES:
+:END:
+- text :: державний службовець-інженер, технічний спеціаліст на держслужбі
+** Learner notes
+*** note-s-1614590-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, що поєднує 技 (техніка, майстерність) і 官 (посадовець). Позначає фахівця з інженерною, природничою чи медичною освітою, який працює на державній або військовій службі (наприклад, 防衛技官, 医務技官), на відміну від адміністративного службовця (事務官).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1614590-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 兄は気象庁の技官として働いている。
+- READING :: あにはきしょうちょうのぎかんとしてはたらいている。
+- UK :: Мій старший брат працює технічним спеціалістом у метеорологічному агентстві.
+- FOCUS :: 技官
+*** ex-1614590-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: その会議には行政の担当者だけでなく、専門知識を持つ技官も出席した。
+- READING :: そのかいぎにはぎょうせいのたんとうしゃだけでなく、せんもんちしきをもつぎかんもしゅっせきした。
+- UK :: На тій нараді були присутні не лише адміністративні працівники, а й профільні технічні фахівці державної служби.
+- FOCUS :: 技官
+*** ex-1614590-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: インフラ整備の現場では、民間企業と連携しながら技官が設計や安全検査を監督している。
+- READING :: いんふらせいびのげんばでは、みんかんきぎょうとれんけいしながらぎかんがせっけいやあんぜんけんさをかんとくしている。
+- UK :: На об'єктах розвитку інфраструктури державні інженери у співпраці з приватними компаніями контролюють проєктування та перевірки безпеки.
+- FOCUS :: 技官
+
+* Sense s-1614590-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 41af2827e59741f14fa6c6765e3ac77423bc7f640f4ca08692a2b6085f364f50
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1614590-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: functionaris met een technische opleiding
+** Ukrainian glosses
+
+* Sense s-1614590-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: aa3c1e936455f340c2bbf3686a5dbe3ddc87897d7e89c302015c23039ae50774
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1614590-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: technischer Beamter
+** Ukrainian glosses
+
+* Sense s-1614590-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 79b725290eb1fbdfcc5398cb74b3e5d8ae45dc5d9a5067fbe10ba30bd3eab8eb
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1614590-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: техник, инженер (на государственной службе)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1614590-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1614590-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: ぎかん

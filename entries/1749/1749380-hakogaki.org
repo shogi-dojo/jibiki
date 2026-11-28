@@ -1,0 +1,159 @@
+#+TITLE: 箱書き
+#+JMDICT_ID: 1749380
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: はこがき
+#+ROMAJI: hakogaki
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1749380-001
+:PROPERTIES:
+:TEXT: 箱書き
+:END:
+** Reading rd-1749380-001
+:PROPERTIES:
+:TEXT: はこがき
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1749380-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: d4e34ff296bdb7088a90e61e55adb53c77b66503ff63927848852fba129f838a
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- autograph or note of authentication written on a box containing an art work
+** Ukrainian glosses
+*** uk-s-1749380-001-001
+:PROPERTIES:
+:END:
+- text :: авторський або експертний напис на скриньці (для твору мистецтва)
+** Learner notes
+*** note-s-1749380-001-001
+:PROPERTIES:
+:END:
+- UK :: Традиційний мистецтвознавчий термін (іменник) на позначення власноручного напису митця, майстра чайної церемонії чи авторитетного знавця на дерев'яній скриньці (桐箱) із назвою твору, іменем та печаткою, що засвідчує автентичність предмета. Складається з 箱 (скринька, коробка) і 書き (напис).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1749380-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この茶碗の箱には作者の箱書きがあります。
+- READING :: このちゃわんのはこにはさくしゃのはこがきがあります。
+- UK :: На скриньці для цієї чайної чаші є напис самого автора.
+- FOCUS :: 箱書き
+*** ex-1749380-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 骨董品の世界では、名のある鑑定家による箱書きがあるかどうかが価値を左右する。
+- READING :: こっとうひんのせかいでは、なのあるかんていかによるはこがきがあるかどうかがかちをさゆうする。
+- UK :: У світі антикваріату наявність засвідчувального напису відомого експерта на скриньці суттєво впливає на вартість предмета.
+- FOCUS :: 箱書き
+*** ex-1749380-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 蔵の整理をしていたところ、江戸時代の著名な絵師の箱書きが記された掛け軸が見つかった。
+- READING :: くらのせいりをしていたところ、えどじだいのちょめいなえしのはこがきがしるされたかけじくがみつかった。
+- UK :: Під час прибирання в коморі знайшли сувій у футлярі з власноручним написом відомого художника доби Едо.
+- FOCUS :: 箱書き
+
+* Sense s-1749380-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 97bafd9f0d6f4a2dea024d798d8c26531fb9d8ea6fa5ebb366a3c3cf116bc04e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1749380-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Expertise
+*** en-s-1749380-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Echtheitszertifikat (auf der Schachtel eines Gegenstandes)
+** Ukrainian glosses
+
+* Sense s-1749380-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 0aa6fc0975f02d71c1d45cf8d2575c96ba353587ad0887b95dfef20aed63931e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1749380-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Zusammenfassung eines Theaterstückes
+** Ukrainian glosses
+
+* Sense s-1749380-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: e05e806ef5e12beecb5c2751187ebcdcd0e257a437ffec662a55f81dbdebbbfa
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1749380-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: автограф каллиграфа (надпись художника (и т. п.)) на ящике с его работами
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1749380-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1749380-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: はこがき

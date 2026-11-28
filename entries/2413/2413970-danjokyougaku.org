@@ -1,0 +1,135 @@
+#+TITLE: 男女共学
+#+JMDICT_ID: 2413970
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: だんじょきょうがく
+#+ROMAJI: danjokyougaku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2413970-001
+:PROPERTIES:
+:TEXT: 男女共学
+:END:
+** Reading rd-2413970-001
+:PROPERTIES:
+:TEXT: だんじょきょうがく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2413970-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 69729755408052ad902569c6274ab018c8fe13c8284399d523018dec6b2baef7
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- adj-no
+** English glosses
+- co-education
+- mixed education
+** Ukrainian glosses
+*** uk-s-2413970-001-001
+:PROPERTIES:
+:END:
+- text :: спільне навчання (хлопців і дівчат)
+** Learner notes
+*** note-s-2413970-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, що також виступає означенням із часткою の, позначаючи освітню систему, за якої юнаки та дівчата навчаються разом. Складається з 男女 (чоловіки та жінки) й 共学 (спільне навчання); протилежне поняття — 別学 (роздільне навчання).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2413970-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 私が通った高校は男女共学でした。
+- READING :: わたしがかよったこうこうはだんじょきょうがくでした。
+- UK :: Старша школа, до якої я ходив, була зі спільним навчанням.
+- FOCUS :: 男女共学
+*** ex-2413970-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 戦後の教育改革により、多くの中学校で男女共学が導入された。
+- READING :: せんごのきょういくかいかくにより、おおくのちゅうがっこうでだんじょきょうがくがどうにゅうされた。
+- UK :: Унаслідок повоєнної освітньої реформи в багатьох середніх школах запровадили спільне навчання.
+- FOCUS :: 男女共学
+*** ex-2413970-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: かつて女子校だったこの学校も、時代の変化に合わせて男女共学の体制へ移行した。
+- READING :: かつてじょしこうだったこのがっこうも、じだいのへんかにあわせてだんじょきょうがくのたいせいへいこうした。
+- UK :: Ця школа, яка колись була жіночою, також перейшла на систему спільного навчання відповідно до вимог часу.
+- FOCUS :: 男女共学
+
+* Sense s-2413970-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 68c2e1e26c0fc69eb11ee9d80194590fd4886159fb109bb14498bdb20cb05b8d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2413970-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Koedukation
+** Ukrainian glosses
+
+* Sense s-2413970-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 87320cab4a96011cac4ddb156cfd763e2516572593c49fef9e6f6e44d8fb4831
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2413970-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: совместное обучение
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2413970-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2413970-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 7
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLLLLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: だんじょきょうがく

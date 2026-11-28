@@ -1,0 +1,183 @@
+#+TITLE: 標石
+#+JMDICT_ID: 1797090
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ひょうせき
+#+ROMAJI: hyouseki
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-25
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1797090-001
+:PROPERTIES:
+:TEXT: 標石
+:END:
+** Reading rd-1797090-001
+:PROPERTIES:
+:TEXT: ひょうせき
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1797090-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: f9bd267957d668c654dc5eb1c6fb74fc9d228ad7d3af9809903c290d17ba7c1a
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- stone signpost
+- milepost
+- boundary stone
+** Ukrainian glosses
+*** uk-s-1797090-001-001
+:PROPERTIES:
+:END:
+- text :: придорожній камінь-вказівник, межовий камінь
+** Learner notes
+*** note-s-1797090-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, що позначає кам'яний стовп або знак уздовж дороги чи на межі земельної ділянки для позначення відстані, напрямку або кордону.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1797090-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 道端に古い標石が立っている。
+- READING :: みちばたにふるいひょうせきがたっている。
+- UK :: На узбіччі дороги стоїть старий придорожній камінь-вказівник.
+- FOCUS :: 標石
+*** ex-1797090-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 山頂の標石には、この地点の標高が刻まれていた。
+- READING :: さんちょうのひょうせきには、このちてんのひょうこうがきざまれていた。
+- UK :: На кам'яному геодезичному знаку на вершині гори була викарбувана висота цієї точки.
+- FOCUS :: 標石
+*** ex-1797090-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 土地の境界を確認するため、草むらに埋もれていた標石を掘り起こした。
+- READING :: とちのきょうかいをかくにんするため、くさむらにうもれていたひょうせきをほりおこした。
+- UK :: Щоб уточнити межі земельної ділянки, відкопали межовий камінь, який заріс у траві.
+- FOCUS :: 標石
+
+* Sense s-1797090-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 041dfe7d36202e1af8a366ebcd14f94e1a4ecdb7bfc14f583f077857bebdb722
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- stone marker (benchmark, triangulation pillar, etc.)
+** Ukrainian glosses
+*** uk-s-1797090-002-001
+:PROPERTIES:
+:END:
+- text :: геодезичний кам'яний знак, реперний стовп
+** Learner notes
+*** note-s-1797090-002-001
+:PROPERTIES:
+:END:
+- UK :: У геодезії та картографії позначає камінь тріангуляційного чи нівелірного пункту (наприклад, 三角点の標石), встановлений як точна опорна точка на місцевості.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1797090-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 99f8dfd03b685eccfb8205aaf438007008abdc2e496a1bf00e1603cf600afb0c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1797090-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: steinerner Wegweiser
+*** en-s-1797090-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Markierungsstein
+** Ukrainian glosses
+
+* Sense s-1797090-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: ad40cab861d9e9a1a8af88449bf490eda82bb9bd502f4bbeeb64f7ab884650fd
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1797090-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: дорожный указатель (камень)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1797090-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1797090-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-25
+:END:
+- reading :: ひょうせき
+** Accent accent-rd-1797090-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1797090-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-25
+:END:
+- reading :: ひょうせき

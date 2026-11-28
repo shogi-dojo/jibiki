@@ -1,0 +1,143 @@
+#+TITLE: 珍しがる
+#+JMDICT_ID: 1911930
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: めずらしがる
+#+ROMAJI: mezurashigaru
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1911930-001
+:PROPERTIES:
+:TEXT: 珍しがる
+:END:
+** Reading rd-1911930-001
+:PROPERTIES:
+:TEXT: めずらしがる
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1911930-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 711c04193b7ffeda384b14d61bc3c77cf45f26c879b7c8ee5036a4951f8b6720
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5r
+- vt
+** English glosses
+- to appear mystified (by)
+- to think (something) a curiosity
+** Ukrainian glosses
+*** uk-s-1911930-001-001
+:PROPERTIES:
+:END:
+- text :: дивуватися незвичному; виявляти цікавість до чогось рідкісного
+** Learner notes
+*** note-s-1911930-001-001
+:PROPERTIES:
+:END:
+- UK :: Перехідне дієслово п'ятиступеневої дієвідміни на -る; утворене від основи прикметника 珍しい (рідкісний, незвичайний) за допомогою суфікса -がる, який передає зовнішній прояв почуттів третьої особи. Описує щиру зацікавленість або подив від побаченої дивини.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1911930-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 観光客が日本の自動販売機を珍しがっている。
+- READING :: かんこうきゃくがにほんのじどうはんばいきをめずらしがっている。
+- UK :: Туристи з цікавістю розглядають японські торговельні автомати.
+- FOCUS :: 珍しがっている
+*** ex-1911930-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 初めて雪を見た南国の子どもたちは、真っ白な景色をとても珍しがった。
+- READING :: はじめてゆきをみたなんごくのこどもたちは、まっしろなけしきをとてもめずらしがった。
+- UK :: Діти з південних країв, уперше побачивши сніг, дуже дивувалися білосніжному краєвиду.
+- FOCUS :: 珍しがった
+*** ex-1911930-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 昔ながらの木製のおもちゃは、現代の子どもたちの目にはかえって新しく映るらしく、皆が珍しがって手に取った。
+- READING :: むかしながらのもくせいのおもちゃは、げんだいのこどもたちのめにはかえってあたらしくうつるらしく、みんながめずらしがっててにとった。
+- UK :: Старовинні дерев'яні іграшки, схоже, здаються сучасним дітям чимось новим, тож усі з цікавістю брали їх до рук.
+- FOCUS :: 珍しがって
+
+* Sense s-1911930-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: ba2e768efea7abe7f000054f0345b21b4e451ac47cba31efd978358ae6cd86b4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1911930-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: für selten halten
+*** en-s-1911930-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: für ungewöhnlich halten
+** Ukrainian glosses
+
+* Sense s-1911930-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 51d0b037222edcdeb3bc0aab5c1eeb30ba77aaa5f5b194597a6862253416effd
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1911930-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: смотреть с любопытством; находить (что-л.) необычным; удивляться, дивиться (чему-л.)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1911930-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1911930-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 5
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: めずらしがる

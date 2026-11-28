@@ -1,0 +1,150 @@
+#+TITLE: 上半期
+#+JMDICT_ID: 1354170
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かみはんき
+#+ROMAJI: kamihanki
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1354170-001
+:PROPERTIES:
+:TEXT: 上半期
+:END:
+*** Priorities
+- news1
+- nf09
+** Reading rd-1354170-001
+:PROPERTIES:
+:TEXT: かみはんき
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf09
+
+* Sense s-1354170-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 15de1cc71c2ef7413bc361d594bcd459ea931a4ca49569d24010f1209fd1e047
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Cross-references
+- 下半期
+** English glosses
+- first half of the year
+- first half of the fiscal year
+** Ukrainian glosses
+*** uk-s-1354170-001-001
+:PROPERTIES:
+:END:
+- text :: перше півріччя (календарного або фінансового року)
+** Learner notes
+*** note-s-1354170-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений із 上 (верхній, перший) і 半期 (півріччя); уживається також у читанні じょうはんき. Залежно від контексту означає перші шість місяців календарного (січень–червень) або японського фінансового року (квітень–вересень); антонім — 下半期 (друге півріччя).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1354170-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 今年の上半期はとても忙しかったです。
+- READING :: ことしのかみはんきはとてもいそがしかったです。
+- UK :: Перше півріччя цього року було дуже напруженим.
+- FOCUS :: 上半期
+*** ex-1354170-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 会社は先週、上半期の売上高を正式に発表しました。
+- READING :: かいしゃはせんしゅう、かみはんきのうりあげだかをせいしきにはっぴょうしました。
+- UK :: Минулого тижня компанія офіційно оголосила обсяг продажів за перше півріччя.
+- FOCUS :: 上半期
+*** ex-1354170-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 上半期の業績が予想を上回ったため、通期の見通しも上方修正されました。
+- READING :: かみはんきのぎょうせきがよそうをうわまわったため、つうきのみとおしもじょうほうしゅうせいされました。
+- UK :: Оскільки показники за перше півріччя перевищили очікування, річний прогноз також скоригували в бік підвищення.
+- FOCUS :: 上半期
+
+* Sense s-1354170-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: c3da3a3352943c4eb1a806a7b3bc6330e4c96f0e0e4e66d568ef3753d7bff78d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1354170-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: erstes Halbjahr
+*** en-s-1354170-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: erste Hälfte des Jahres
+** Ukrainian glosses
+
+* Sense s-1354170-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 99921eb925b18e38c2361044db2bfe0031461d2836445a73a8d3505b6f8ca18d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1354170-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: первое полугодие
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1354170-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1354170-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: かみはんき

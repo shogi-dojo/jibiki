@@ -1,0 +1,142 @@
+#+TITLE: 死に別れる
+#+JMDICT_ID: 1849050
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: しにわかれる
+#+ROMAJI: shiniwakareru
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1849050-001
+:PROPERTIES:
+:TEXT: 死に別れる
+:END:
+** Reading rd-1849050-001
+:PROPERTIES:
+:TEXT: しにわかれる
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1849050-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 1c0175821931f5b0c3f54a1ca46e1675def4930d07e2a67de3285ea447564af0
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v1
+- vi
+** English glosses
+- to be separated by death
+** Ukrainian glosses
+*** uk-s-1849050-001-001
+:PROPERTIES:
+:END:
+- text :: бути розлученим смертю; втратити близьку людину (внаслідок смерті)
+** Learner notes
+*** note-s-1849050-001-001
+:PROPERTIES:
+:END:
+- UK :: Ічіданне неперехідне дієслово (v1, vi), утворене поєднанням дієслів 死ぬ (померти) і 別れる (розлучитися). Керує додатком зазвичай із часткою と або に, описуючи болісну втрату батьків, чоловіка, дружини чи друга.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1849050-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 彼は子どものころに母親と死に別れた。
+- READING :: かれはこどものころにははおやとしにわかれた。
+- UK :: У дитинстві він утратив матір.
+- FOCUS :: 死に別れ
+*** ex-1849050-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 若くして夫に死に別れた祖母は、一人で家族を支え抜いた。
+- READING :: わかくしておっとにしにわかれたそぼは、ひとりでかぞくをささえぬいた。
+- UK :: Бабуся, яку смерть розлучила з чоловіком у молодому віці, сама витягнула на собі всю родину.
+- FOCUS :: 死に別れ
+*** ex-1849050-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 長年連れ添った伴侶と死に別れる悲しみは、時間が経っても容易には癒えない。
+- READING :: ながねんつれそったはんりょとしにわかれるかなしみは、じかんがたってもよういにはいえない。
+- UK :: Сум від того, що смерть розлучає тебе із супутником життя, з яким прожив багато років, не вщухає легко навіть із плином часу.
+- FOCUS :: 死に別れる
+
+* Sense s-1849050-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 64c8c4ffdde9a7c27240cbfab5b615ff796ead4e4266940d1f37c63d6f18c38a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1849050-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: durch den Tod getrennt werden
+*** en-s-1849050-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: jmdn. durch den Tod verlieren
+** Ukrainian glosses
+
+* Sense s-1849050-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 179805b1f537614cba457bddbe67187cccc9cc8c1563f813bafc0c569627fffd
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1849050-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: быть разлучённым смертью; лишиться (кого-л.)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1849050-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1849050-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 5
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: しにわかれる

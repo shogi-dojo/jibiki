@@ -1,0 +1,159 @@
+#+TITLE: 船名
+#+JMDICT_ID: 2530490
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: せんめい
+#+ROMAJI: senmei
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2530490-001
+:PROPERTIES:
+:TEXT: 船名
+:END:
+** Reading rd-2530490-001
+:PROPERTIES:
+:TEXT: せんめい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2530490-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 61bb7313103bfdf254876ad9413c3b0d42b079058099870283a05e6718b34896
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- ship's name
+** Ukrainian glosses
+*** uk-s-2530490-001-001
+:PROPERTIES:
+:END:
+- text :: назва судна; ім'я корабля
+** Learner notes
+*** note-s-2530490-001-001
+:PROPERTIES:
+:END:
+- UK :: Офіційно-діловий і морський іменник, складений з ієрогліфів 船 («судно, корабель») та 名 («назва, ім'я»). Вживається в реєстраційних документах, портових оголошеннях, описах подорожей і маркуванні на борту (船名を記す — написати назву судна).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2530490-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 船の横に白い文字で船名が書いてある。
+- READING :: ふねのよこにしろいもじでせんめいがかいてある。
+- UK :: На борту судна білими літерами написана його назва.
+- FOCUS :: 船名
+*** ex-2530490-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 乗船券を予約するときは、日時と船名をよく確認してください。
+- READING :: じょうせんけんをよやくするときは、にちじとせんめいをよくかくにんしてください。
+- UK :: Бронюючи квиток на судно, уважно перевіряйте дату, час і назву судна.
+- FOCUS :: 船名
+*** ex-2530490-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 歴史的な帆船が修復され、建造当時と同じ船名が再び付けられた。
+- READING :: れきしてきなはんせんがしゅうふくされ、けんぞうとうじとおなじせんめいがふたたびつけられた。
+- UK :: Історичний вітрильник відреставрували та повернули йому ту саму назву, яку він мав під час побудови.
+- FOCUS :: 船名
+
+* Sense s-2530490-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 7b4b16f00574df9325558164ac304e1e08bc32abd86e3dfd687fa098c13742f1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2530490-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: scheepsnaam
+*** en-s-2530490-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bootnaam
+** Ukrainian glosses
+
+* Sense s-2530490-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 167fd2d980fc72f5900fdc9bbaa2f2d739246de8e6feed2b6329b86aff94b82d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2530490-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Schiffsname
+** Ukrainian glosses
+
+* Sense s-2530490-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: bdf87c6b585406bc1ff929bc290f23931455f577c7c12890bb2d08cc2d540543
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2530490-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: название судна (теплохода (и т. п.))
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2530490-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2530490-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: せんめい

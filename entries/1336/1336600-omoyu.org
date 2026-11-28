@@ -1,0 +1,134 @@
+#+TITLE: 重湯
+#+JMDICT_ID: 1336600
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: おもゆ
+#+ROMAJI: omoyu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-25
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1336600-001
+:PROPERTIES:
+:TEXT: 重湯
+:END:
+** Reading rd-1336600-001
+:PROPERTIES:
+:TEXT: おもゆ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1336600-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 77281bbf3a940dba4f529065ee654b4031781f8c0862847b81920fb7c03395f7
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- thin rice gruel
+- rice water
+** Ukrainian glosses
+*** uk-s-1336600-001-001
+:PROPERTIES:
+:END:
+- text :: рисовий відвар; рідкий рисовий відвар
+** Learner notes
+*** note-s-1336600-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник на позначення легкого відвару, який збирають при варінні рису у великій кількості води (ще рідшого за おかゆ). Традиційно дають немовлятам як перший прикорм і хворим або ослабленим людям для щадного харчування.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1336600-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 赤ちゃんの離乳食に重湯を作る。
+- READING :: あかちゃんのりにゅうしょくにおもゆをつくる。
+- UK :: Готувати рисовий відвар для першого прикорму немовляти.
+- FOCUS :: 重湯
+*** ex-1336600-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 熱が下がったばかりなので、まず重湯から口にした。
+- READING :: ねつがさがったばかりなので、まずおもゆからくちにした。
+- UK :: Оскільки температура щойно спала, спершу поїв рідкого рисового відвару.
+- FOCUS :: 重湯
+*** ex-1336600-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 胃腸が弱っているときは、おかゆよりもさらに消化のよい重湯がすすめられる。
+- READING :: いちょうがよわっているときは、おかゆよりもさらにしょうかのよいおもゆがすすめられる。
+- UK :: Коли шлунок і кишківник ослаблені, радять рисовий відвар, який засвоюється ще легше, ніж рисова каша.
+- FOCUS :: 重湯
+
+* Sense s-1336600-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 858191a4ff3d3b5e5565d16ed3f22e20a553fd6ee462160fd7a68a1016cd8962
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1336600-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Reisschleim
+** Ukrainian glosses
+
+* Sense s-1336600-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: ce3d071b57a0fb75fb9b4066589c432e82bef9984f492e0bbb4f4202e8d48fd8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1336600-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: рисовый отвар
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1336600-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1336600-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-25
+:END:
+- reading :: おもゆ

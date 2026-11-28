@@ -1,0 +1,159 @@
+#+TITLE: 大学者
+#+JMDICT_ID: 2407900
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: だいがくしゃ
+#+ROMAJI: daigakusha
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2407900-001
+:PROPERTIES:
+:TEXT: 大学者
+:END:
+** Reading rd-2407900-001
+:PROPERTIES:
+:TEXT: だいがくしゃ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2407900-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 6126821397ac881ac67b29b6f6775b1180e9bf8129b0dc8a5d900d42d354cd19
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- great scholar
+- savant
+- polymath
+** Ukrainian glosses
+*** uk-s-2407900-001-001
+:PROPERTIES:
+:END:
+- text :: видатний учений; великий науковець; енциклопедист
+** Learner notes
+*** note-s-2407900-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений поєднанням префікса 大 (великий, видатний) та іменника 学者 (учений). Позначає авторитетного дослідника з винятковими знаннями або мислителя широкого профілю.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2407900-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 彼は歴史に名を残す大学者だ。
+- READING :: かれはれきしになをのこすだいがくしゃだ。
+- UK :: Він — видатний учений, який залишив своє ім'я в історії.
+- FOCUS :: 大学者
+*** ex-2407900-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: その大学者は、生涯をかけて古文書を解読し続けた。
+- READING :: そのだいがくしゃは、しょうがいをかけてこもんじょをかいどくしつづけた。
+- UK :: Той великий науковець усе своє життя невтомно розшифровував стародавні рукописи.
+- FOCUS :: 大学者
+*** ex-2407900-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: いくつもの分野に精通した大学者の講演を聴くため、全国から研究者が集まった。
+- READING :: いくつものぶんやにせいつうしただいがくしゃのこうえんをきくため、ぜんこくからけんきゅうしゃがあつまった。
+- UK :: Щоб послухати лекцію вченого-енциклопедиста, обізнаного в багатьох галузях, з усієї країни з'їхалися дослідники.
+- FOCUS :: 大学者
+
+* Sense s-2407900-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: b8063a249026fab5e088460a0a16fdc0fc2c0b864ad87c46591640bdc4d3ad18
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2407900-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: großer Gelehrter
+*** en-s-2407900-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: berühmter Wissenschaftler
+*** en-s-2407900-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Koryphäe
+*** en-s-2407900-002-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Universalgelehrter
+** Ukrainian glosses
+
+* Sense s-2407900-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 39f42cea3daa37220643009b3c020536f9774028f05f258da6584c247468eee7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2407900-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: крупный учёный
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2407900-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2407900-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: だいがくしゃ

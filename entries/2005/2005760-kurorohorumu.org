@@ -1,0 +1,180 @@
+#+TITLE: クロロホルム
+#+JMDICT_ID: 2005760
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: クロロホルム
+#+ROMAJI: kurorohorumu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-25
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-2005760-001
+:PROPERTIES:
+:TEXT: クロロホルム
+:NO_KANJI: false
+:END:
+** Reading rd-2005760-002
+:PROPERTIES:
+:TEXT: クロロフォルム
+:NO_KANJI: false
+:END:
+*** Information
+- rk
+
+* Sense s-2005760-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 960deb0309d690271807c6abcbd2fcb1fdcda9cf71383286354fa90ee34cfa86
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- pharm
+** English glosses
+- chloroform
+** Ukrainian glosses
+*** uk-s-2005760-001-001
+:PROPERTIES:
+:END:
+- text :: хлороформ
+** Learner notes
+*** note-s-2005760-001-001
+:PROPERTIES:
+:END:
+- UK :: Хімічний та фармацевтичний термін (від нім. Chloroform). Позначає летку безбарвну органічну рідину з характерним запахом, яку раніше застосовували як засіб для наркозу, а нині використовують переважно як розчинник у лабораторіях.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2005760-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 実験室でクロロホルムを扱う。
+- READING :: じっけんしつでくろろほるむをあつかう。
+- UK :: У лабораторії працюють із хлороформом.
+- FOCUS :: クロロホルム
+*** ex-2005760-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 揮発性の高いクロロホルムは、換気の良い場所で保管する必要がある。
+- READING :: きはつせいのたかいくろろほるむは、かんきのよいばしょでほかんするひつようがある。
+- UK :: Високолеткий хлороформ потрібно зберігати в добре провітрюваному приміщенні.
+- FOCUS :: クロロホルム
+*** ex-2005760-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: かつて手術の麻酔に使われたクロロホルムは、現在では主に化学実験の溶媒として利用されている。
+- READING :: かつてしゅじゅつのますいにつかわれたくろろほるむは、げんざいではおもにかがくじっけんのようばいとしてりようされている。
+- UK :: Хлороформ, який колись використовували для наркозу під час операцій, тепер здебільшого застосовують як розчинник у хімічних дослідах.
+- FOCUS :: クロロホルム
+
+* Sense s-2005760-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 0df8b55c29dcc01e76deb41198416132c9765ea126068f333e3ca65b3e4be43f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2005760-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Chloroform (Betäubungs- u. Lösungsmittel)
+** Ukrainian glosses
+
+* Sense s-2005760-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: df54e27462ef8949661c5af45e5aab5c5af8f36ca25446b22a03ecf2f5df7170
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2005760-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ((нем.) Chloroform) хлороформ
+** Ukrainian glosses
+
+* Sense s-2005760-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 77e21a61beef9121f9b6689535a48717e6a37ab187f85737be5122ca1c97fbf1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2005760-004-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: cloroformo
+** Ukrainian glosses
+
+* Sense s-2005760-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: dada14fb570114c5b25df4c1a2d87b4f3b7dd9b491e1d0a3e7d6fd04c316b216
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2005760-005-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kloroform
+*** en-s-2005760-005-002
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kloroformera
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2005760-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2005760-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 4
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-25
+:END:
+- reading :: クロロホルム

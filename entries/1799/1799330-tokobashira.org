@@ -1,0 +1,158 @@
+#+TITLE: 床柱
+#+JMDICT_ID: 1799330
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: とこばしら
+#+ROMAJI: tokobashira
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1799330-001
+:PROPERTIES:
+:TEXT: 床柱
+:END:
+** Reading rd-1799330-001
+:PROPERTIES:
+:TEXT: とこばしら
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1799330-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: a020bd30a6ff5d29647d2b3a863594e240b2f1eab5d7856980aaaaadcedf2aaf
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- alcove post
+** Ukrainian glosses
+*** uk-s-1799330-001-001
+:PROPERTIES:
+:END:
+- text :: декоративний стовп ніші токонома
+** Learner notes
+*** note-s-1799330-001-001
+:PROPERTIES:
+:END:
+- UK :: Архітектурний іменник, що позначає центральний декоративний стовп при вході до почесної ніші токонома (床の間) у традиційній японській кімнаті. Для нього зазвичай добирають цінну деревину зі своєрідною фактурою — кедр, японський кипарис, бамбук або нерівний природний стовбур.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1799330-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 和室の床柱には立派な木が使われている。
+- READING :: わしつのとこばしらにはりっぱなきがつかわれている。
+- UK :: Для стовпа ніші токонома в японській кімнаті використано розкішне дерево.
+- FOCUS :: 床柱
+*** ex-1799330-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 祖父の家の客間には、美しい木目の床柱が立っている。
+- READING :: そふのいえのきゃくまには、うつくしいもくめのとこばしらがたっている。
+- UK :: У вітальні дідусевого дому стоїть декоративний стовп токонома з гарною текстурою деревини.
+- FOCUS :: 床柱
+*** ex-1799330-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 数寄屋造りの茶室では、あえて皮を残した自然木を床柱に用いることで素朴な趣を演出する。
+- READING :: すきやづくりのちゃしつでは、あえてかわをのこしたしぜんぼくをとこばしらにもちいることでそぼくなおもむきをえんしゅつする。
+- UK :: У чайному будиночку в стилі сукія навмисне використовують для стовпа токонома необтесаний стовбур із корою, щоб створити атмосферу стриманої природної витонченості.
+- FOCUS :: 床柱
+
+* Sense s-1799330-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: ed540a3d1e0735baa92824c693e5abed0b7a8debc8df66b9e4d4b802bc2e7862
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1799330-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Pfosten der Tokonoma
+*** en-s-1799330-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Pfosten der Zimmerecknische
+** Ukrainian glosses
+
+* Sense s-1799330-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 67302e7eddd9a3cd2ab283a9bf85b57071be3422a1e505fec6525e129d498ed1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1799330-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: стойки токонома
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1799330-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1799330-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: とこばしら
+** Accent accent-rd-1799330-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1799330-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: とこばしら

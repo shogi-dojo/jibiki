@@ -1,0 +1,147 @@
+#+TITLE: 町奉行
+#+JMDICT_ID: 1776870
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: まちぶぎょう
+#+ROMAJI: machibugyou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-25
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1776870-001
+:PROPERTIES:
+:TEXT: 町奉行
+:END:
+*** Priorities
+- news2
+- nf38
+** Reading rd-1776870-001
+:PROPERTIES:
+:TEXT: まちぶぎょう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf38
+
+* Sense s-1776870-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: c168afdfaaa8acbf08ada3c7511024d5d4e3a0fc5d3b2339eb9ee365d0865719
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- (Edo-period) town magistrate
+** Ukrainian glosses
+*** uk-s-1776870-001-001
+:PROPERTIES:
+:END:
+- text :: міський намісник; міський суддя-управитель (в епоху Едо)
+** Learner notes
+*** note-s-1776870-001-001
+:PROPERTIES:
+:END:
+- UK :: Історичний термін доби Едо (江戸時代), що позначає посадовця шьоґунату або уділу, який відав адміністрацією, поліцією, судочинством і пожежною охороною в міських кварталах (зокрема, знамениті 町奉行 в Едо).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1776870-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 町奉行が町の事件を調べた。
+- READING :: まちぶぎょうがまちのじけんをしらべた。
+- UK :: Міський управитель розслідував подію в місті.
+- FOCUS :: 町奉行
+*** ex-1776870-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 江戸の町奉行は、裁判だけでなく消防や治安維持も担当していた。
+- READING :: えどのまちぶぎょうは、さいばんだけでなくしょうぼうやちあんいじもたんとうしていた。
+- UK :: Міські намісники в Едо відповідали не лише за судочинство, а й за пожежну безпеку та підтримання порядку.
+- FOCUS :: 町奉行
+*** ex-1776870-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 名裁判官として名高い人物が町奉行に任命されると、庶民の間から歓迎の声が上がった。
+- READING :: めいさいばんかんとしてなだかいじんぶつがまちぶぎょうににんめいされると、しょみんのあいだからかんげいのこえがあがった。
+- UK :: Коли на посаду міського судді-управителя призначили людину, уславлену справедливими вироками, серед простолюдинів пролунали схвальні відгуки.
+- FOCUS :: 町奉行
+
+* Sense s-1776870-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: ba3301d052a45ea7136ec76f584bf274d7210bc73a73285dfe646f37cfabab1f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1776870-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Stadtmagistrat
+*** en-s-1776870-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Stadtkommissar
+** Ukrainian glosses
+
+* Sense s-1776870-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 312340ffc37f43a72e75b5a8a5897230875caf0a27beb76029f4b0db8af7325f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1776870-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (ист.) городской префект
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1776870-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1776870-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-25
+:END:
+- reading :: まちぶぎょう

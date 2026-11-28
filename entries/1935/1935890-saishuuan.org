@@ -1,0 +1,133 @@
+#+TITLE: 最終案
+#+JMDICT_ID: 1935890
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: さいしゅうあん
+#+ROMAJI: saishuuan
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1935890-001
+:PROPERTIES:
+:TEXT: 最終案
+:END:
+** Reading rd-1935890-001
+:PROPERTIES:
+:TEXT: さいしゅうあん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1935890-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 05c58875444cf8924f6fa7ae142c342d7be38a9dfb0b2d4b171ec7825b998fae
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- final program (programme, plan)
+** Ukrainian glosses
+*** uk-s-1935890-001-001
+:PROPERTIES:
+:END:
+- text :: остаточний проєкт, фінальний варіант плану
+** Learner notes
+*** note-s-1935890-001-001
+:PROPERTIES:
+:END:
+- UK :: Складений іменник, утворений із 最終 (останній, кінцевий) та 案 (план, проєкт, пропозиція). Широко використовується в діловому, адміністративному та законодавчому мовленні на позначення документа чи рішення, затвердженого після обговорень і правок (наприклад, 最終案をまとめる — сформувати остаточний варіант).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1935890-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 会議で最終案が決まりました。
+- READING :: かいぎでさいしゅうあんがきまりました。
+- UK :: На нараді затвердили остаточний проєкт.
+- FOCUS :: 最終案
+*** ex-1935890-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 担当者は先週の議論を踏まえて、新しい企画の最終案を作成した。
+- READING :: たんとうしゃはせんしゅうのぎろんをふまえて、あたらしいきかくのさいしゅうあんをさくせいした。
+- UK :: З урахуванням минулотижневого обговорення відповідальний працівник підготував фінальний варіант нового проєкту.
+- FOCUS :: 最終案
+*** ex-1935890-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 各部署からの修正意見を取り入れたうえで、ようやく予算編成の最終案が提出された。
+- READING :: かくぶしょからのしゅうせいいけんをとりいれたうえで、ようやくよさんへんせいのさいしゅうあんがていしゅつされた。
+- UK :: Після врахування правок від усіх відділів нарешті було подано остаточний проєкт формування бюджету.
+- FOCUS :: 最終案
+
+* Sense s-1935890-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: f7a349ee887aabad0f7e2bcfba8c38b03922ebb8a7c197fe729a1aa2aef3f75c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1935890-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: letzter Plan
+** Ukrainian glosses
+
+* Sense s-1935890-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 9c26f46127d0a6fce45b03646a478354a0a79b5b92ed0ab54deaac5fe5cf790a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1935890-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: окончательный проект
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1935890-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1935890-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: さいしゅうあん

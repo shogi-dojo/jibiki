@@ -1,0 +1,148 @@
+#+TITLE: 宝冠
+#+JMDICT_ID: 1748450
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ほうかん
+#+ROMAJI: houkan
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1748450-001
+:PROPERTIES:
+:TEXT: 宝冠
+:END:
+*** Priorities
+- news2
+- nf38
+** Reading rd-1748450-001
+:PROPERTIES:
+:TEXT: ほうかん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf38
+
+* Sense s-1748450-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 8d429aa5598aa30285699fcc103fdd26f9880a13ffed7286d4ac78f7ee13a43c
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- diadem
+- jeweled crown
+** Ukrainian glosses
+*** uk-s-1748450-001-001
+:PROPERTIES:
+:END:
+- text :: діадема; дорогоцінна корона, вінець
+** Learner notes
+*** note-s-1748450-001-001
+:PROPERTIES:
+:END:
+- UK :: Книжний іменник, утворений від 宝 («скарб, коштовність») і 冠 («корона, вінець»). Означає парадний головний убір монархів, знаті чи буддійських бодгісаттв, оздоблений золотом і самоцвітами.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1748450-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 博物館で古い宝冠を見ました。
+- READING :: はくぶつかんでふるいほうかんをみました。
+- UK :: У музеї я бачив старовинну дорогоцінну корону.
+- FOCUS :: 宝冠
+*** ex-1748450-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 宝石がちりばめられた美しい宝冠が輝いている。
+- READING :: ほうせきがちりばめられたうつくしいほうかんがかがやいている。
+- UK :: Сяє прекрасна діадема, оздоблена самоцвітами.
+- FOCUS :: 宝冠
+*** ex-1748450-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: その仏像の頭上には、精巧な細工が施された金色の宝冠が載せられている。
+- READING :: そのぶつぞうのずじょうには、せいこうなさいくがほどこされたきんいろのほうかんがのせられている。
+- UK :: На голові цієї статуї Будди спочиває золота корона з витонченим оздобленням.
+- FOCUS :: 宝冠
+
+* Sense s-1748450-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 9de38735a1416cc183db87c5cc5d0ffb38a1525226ab88d92771cde0c8a8ed6c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1748450-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Krone
+*** en-s-1748450-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Diadem
+** Ukrainian glosses
+
+* Sense s-1748450-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 14ad1df0d5b3e650ab080e749e6e2dc560b126d611af1de19e36ec852422d3f9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1748450-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: [дрогоценная] корона, венец
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1748450-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1748450-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: ほうかん

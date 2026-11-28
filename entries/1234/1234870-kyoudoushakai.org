@@ -1,0 +1,152 @@
+#+TITLE: 共同社会
+#+JMDICT_ID: 1234870
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: きょうどうしゃかい
+#+ROMAJI: kyoudoushakai
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1234870-001
+:PROPERTIES:
+:TEXT: 共同社会
+:END:
+** Reading rd-1234870-001
+:PROPERTIES:
+:TEXT: きょうどうしゃかい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1234870-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 1133241111c39df3276031858ed189cffb91aafb0cd7faded607cdb860e7f8ae
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- communal society
+- community
+** Ukrainian glosses
+*** uk-s-1234870-001-001
+:PROPERTIES:
+:END:
+- text :: спільне суспільство; громада; община; спільнота
+** Learner notes
+*** note-s-1234870-001-001
+:PROPERTIES:
+:END:
+- UK :: Суспільно-науковий іменник, що позначає спільноту людей, об'єднаних спільним побутом, традиціями, землею або тісними соціальними зв'язками. У соціології часто використовується як японський переклад поняття «ґемайншафт» (Gemeinschaft) на противагу 利益社会 (товариству).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1234870-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 昔の村は小さな共同社会だった。
+- READING :: むかしのむらはちいさなきょうどうしゃかいだった。
+- UK :: Давнє село було невеликою спільнотою.
+- FOCUS :: 共同社会
+*** ex-1234870-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 祭りを通して、地域の共同社会のつながりが強まる。
+- READING :: まつりをとおして、ちいきのきょうどうしゃかいのつながりがつよまる。
+- UK :: Завдяки святам зміцнюються зв'язки в місцевій громаді.
+- FOCUS :: 共同社会
+*** ex-1234870-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 都市化が進むにつれて、血縁や地縁に基づく伝統的な共同社会は次第に姿を変えていった。
+- READING :: としかがすすむにつれて、けつえんやちえんにもとづくでんとうてきなきょうどうしゃかいはしだいにすがたをかえていった。
+- UK :: У міру урбанізації традиційні громади, засновані на родинних і територіальних зв'язках, поступово змінювали свій вигляд.
+- FOCUS :: 共同社会
+
+* Sense s-1234870-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 2d9aa37db1fafabd24fb63f46fe181372807882b255ffcf168737401eb42b746
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1234870-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Gemeinschaft (im Gegensatz zu Gesellschaft in der Soziologie von Ferdinand Tönnies)
+** Ukrainian glosses
+
+* Sense s-1234870-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 7b48576021f0b47a9d33289b20049e5ec76165209b55a968fcf39ebefb525cd8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1234870-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: közösség
+** Ukrainian glosses
+
+* Sense s-1234870-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 20e5b879721866a45f7d3a2c21204b11185c06da96490360f2ead2dcf45dde0f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1234870-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: община
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1234870-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1234870-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 7
+:DROP_AFTER: 5
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: きょうどうしゃかい

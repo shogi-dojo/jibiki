@@ -1,0 +1,176 @@
+#+TITLE: 褞袍
+#+JMDICT_ID: 1955720
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: どてら
+#+ROMAJI: dotera
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-25
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1955720-001
+:PROPERTIES:
+:TEXT: 褞袍
+:END:
+*** Information
+- rK
+** Written form wf-1955720-002
+:PROPERTIES:
+:TEXT: 縕袍
+:END:
+*** Information
+- rK
+** Reading rd-1955720-001
+:PROPERTIES:
+:TEXT: どてら
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+** Reading rd-1955720-002
+:PROPERTIES:
+:TEXT: ドテラ
+:NO_KANJI: true
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1955720-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 3d7fb70b8ab0684398414af5c0a0accc14a53632b355ba0cb4b9ae1c0826cfd1
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- uk
+** English glosses
+- padded kimono
+** Ukrainian glosses
+*** uk-s-1955720-001-001
+:PROPERTIES:
+:END:
+- text :: дотера (тепле стьобане домашнє кімоно на ваті)
+** Learner notes
+*** note-s-1955720-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, зазвичай записується каною (どてら або ドテラ). Широкий зимовий домашній одяг на кшталт довгого кімоно з ватним утеплювачем, який носять поверх звичайного одягу для тепла; у районі Кансай частіше називають 丹前.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1955720-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 寒いのでどてらを着る。
+- READING :: さむいのでどてらをきる。
+- UK :: Холодно, тож одягну теплу дотеру.
+- FOCUS :: どてら
+*** ex-1955720-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 温泉旅館の部屋には、浴衣と一緒にどてらが用意されていた。
+- READING :: おんせんりょかんのへやには、ゆかたといっしょにどてらがよういされていた。
+- UK :: У кімнаті готелю на гарячих джерелах разом із юкатою була підготовлена дотера.
+- FOCUS :: どてら
+*** ex-1955720-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 冬の夜、祖父は暖かいどてらを羽織ってこたつでみかんを食べるのが習慣だった。
+- READING :: ふゆのよる、そふはあたたかいどてらをはおってこたつでみかんをたべるのがしゅうかんだった。
+- UK :: Зимовими вечорами дідусь мав звичку накинути теплу дотеру і їсти мандарини, гріючись під котацу.
+- FOCUS :: どてら
+
+* Sense s-1955720-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: ceac4809795bec283b172ee0b1c3df4990d45a747c8831c4531143d60cb97532
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1955720-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: wattierter Herrenkimono (für den Hausgebrauch)
+** Ukrainian glosses
+
+* Sense s-1955720-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: f9197ee1d1415f3ba772ba4aff8f40550a1bb3ecf13f5ff20b86a61e2f860ea8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1955720-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: кимоно на вате
+** Ukrainian glosses
+
+* Sense s-1955720-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 635a837c7fb5e73ce65449efb3fe5d8181fbf7bb31424ecbf9a1e7de1a1c99ec
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1955720-004-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kimono de invierno
+*** en-s-1955720-004-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kimono acolchado
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1955720-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1955720-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-25
+:END:
+- reading :: どてら

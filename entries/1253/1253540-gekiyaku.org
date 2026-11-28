@@ -1,0 +1,166 @@
+#+TITLE: 劇薬
+#+JMDICT_ID: 1253540
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: げきやく
+#+ROMAJI: gekiyaku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1253540-001
+:PROPERTIES:
+:TEXT: 劇薬
+:END:
+*** Priorities
+- news2
+- nf36
+- spec2
+** Reading rd-1253540-001
+:PROPERTIES:
+:TEXT: げきやく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf36
+- spec2
+
+* Sense s-1253540-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 31fa5b74d4b1e68adc878f6755f3e6cef7eb295bfa46ba78b6208126dae5b310
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- powerful medicine
+- strong poison
+** Ukrainian glosses
+*** uk-s-1253540-001-001
+:PROPERTIES:
+:END:
+- text :: сильнодійний препарат; сильнодійна отрута
+** Learner notes
+*** note-s-1253540-001-001
+:PROPERTIES:
+:END:
+- UK :: Медико-фармацевтичний іменник (від 劇 — різкий, сильний та 薬 — ліки, речовина), що позначає препарат із надзвичайно потужною дією, який при неправильному дозуванні стає небезпечним. Переносно часто вживається щодо радикальних реформ чи рішучих заходів (наприклад, 経済を立て直す劇薬).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1253540-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この薬は劇薬なので厳重に保管されている。
+- READING :: このくすりはげきやくなのでげんじゅうにほかんされている。
+- UK :: Цей засіб є сильнодійним препаратом, тому його зберігають із суворими запобіжними заходами.
+- FOCUS :: 劇薬
+*** ex-1253540-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 医師は患者への負担を考慮し、すぐに劇薬を用いるのではなく穏やかな治療を選んだ。
+- READING :: いしはかんじゃへのふたんをこうりょし、すぐにげきやくをもちいるのではなくおだやかなちりょうをえらんだ。
+- UK :: Зважаючи на навантаження для пацієнта, лікар не став одразу застосовувати сильнодійний препарат, а обрав м'якше лікування.
+- FOCUS :: 劇薬
+*** ex-1253540-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 急激な金融引き締めはインフレを抑える劇薬となり得るが、同時に景気を冷え込ませる恐れもある。
+- READING :: きゅうげきなきんゆうひきしめはいんふれをおさえるげきやくとなりうるが、どうじにけいきをひえこませるおそれもある。
+- UK :: Різке посилення монетарної політики може стати радикальним засобом для стримування інфляції, але водночас загрожує охолодженням економіки.
+- FOCUS :: 劇薬
+
+* Sense s-1253540-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: b7921d7f87c5ab85e43078ec510b5acd210fefc47c16491ff9b6e465516fe224
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1253540-002-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: médicament puissant
+*** en-s-1253540-002-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: poison violent
+** Ukrainian glosses
+
+* Sense s-1253540-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: c1a4dc23777d8ead3eb9e33fd8efac1f9dbeba8fd9799086689fbff99bb8c7d5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1253540-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: starke Arznei
+*** en-s-1253540-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gefährliche Arznei
+*** en-s-1253540-003-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: schweres Gift (bei falscher Verwendung)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1253540-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1253540-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: げきやく

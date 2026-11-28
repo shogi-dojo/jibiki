@@ -1,0 +1,161 @@
+#+TITLE: 朝風呂
+#+JMDICT_ID: 1696060
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: あさぶろ
+#+ROMAJI: asaburo
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-25
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1696060-001
+:PROPERTIES:
+:TEXT: 朝風呂
+:END:
+** Reading rd-1696060-001
+:PROPERTIES:
+:TEXT: あさぶろ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1696060-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 9a1618fc8a5b4a8304985a5b46716515ae610cf545b425b369144c8bb1e90e76
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Cross-references
+- 朝湯
+** English glosses
+- morning bath
+** Ukrainian glosses
+*** uk-s-1696060-001-001
+:PROPERTIES:
+:END:
+- text :: ранкова ванна, ранкове купання
+** Learner notes
+*** note-s-1696060-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник (злиття 朝 «ранок» і 風呂 «ванна, лазня»; дзвінкий звук ぶ виникає внаслідок рендаку). У Японії зазвичай купаються ввечері, тож 朝風呂 сприймається як особлива приємність на курортах із гарячими джерелами (онсен) або у вихідні.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1696060-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 休日の朝風呂はとても気持ちがいい。
+- READING :: きゅうじつのあさぶろはとてもきもちがいい。
+- UK :: Ранкова ванна у вихідний день приносить велике задоволення.
+- FOCUS :: 朝風呂
+*** ex-1696060-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 旅館に泊まったときは、早起きして朝風呂に入るのが楽しみだ。
+- READING :: りょかんにとまったときは、はやおきしてあさぶろにはいるのがたのしみだ。
+- UK :: Коли зупиняюся в традиційному японському готелі, мені подобається прокинутися рано й піти в ранкову купіль.
+- FOCUS :: 朝風呂
+*** ex-1696060-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 冬の寒い朝に熱い朝風呂を浴びると、体の芯まで温まって一日の元気が湧いてくる。
+- READING :: ふゆのさむいあさにあついあさぶろをあびると、からだのしんまであたたまっていちにちのげんきがわいてくる。
+- UK :: Коли холодним зимовим ранком поніжишся в гарячій ванні, тіло прогрівається до самої серцевини й з'являються сили на весь день.
+- FOCUS :: 朝風呂
+
+* Sense s-1696060-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 7bffc558e6b14dd340fc3764c77dca20e13d55bc2e7e62b8334780d48202149c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1696060-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ochtendbad
+** Ukrainian glosses
+
+* Sense s-1696060-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: bf4557f5b13c6cafe9ebd01c6de96d86de25bfbeceafc453c0233e3b7e52abb7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1696060-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Morgenbad
+*** en-s-1696060-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: morgendliches Bad
+** Ukrainian glosses
+
+* Sense s-1696060-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: b1a2a2d402b6177c4fc2923eebbb9f6f80df579e852de949bf6c6f30b7411fc5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1696060-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: утренняя ванна
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1696060-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1696060-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-25
+:END:
+- reading :: あさぶろ

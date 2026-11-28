@@ -1,0 +1,149 @@
+#+TITLE: 手縫い
+#+JMDICT_ID: 1621430
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: てぬい
+#+ROMAJI: tenui
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1621430-001
+:PROPERTIES:
+:TEXT: 手縫い
+:END:
+** Written form wf-1621430-002
+:PROPERTIES:
+:TEXT: 手ぬい
+:END:
+*** Information
+- sK
+** Reading rd-1621430-001
+:PROPERTIES:
+:TEXT: てぬい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1621430-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: f3efc9116ee25934062331e676a977a5567f66bd5ebbf8bfc033f937a1892f14
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- adj-no
+- n
+** English glosses
+- hand-sewn
+- sewn by hand
+** Ukrainian glosses
+*** uk-s-1621430-001-001
+:PROPERTIES:
+:END:
+- text :: ручне шиття; зшитий вручну
+** Learner notes
+*** note-s-1621430-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник і номінативний модифікатор із の, утворений з 手 (рука) й основи дієслова 縫う (шити). Позначає шиття голкою без використання швейної машинки або виріб ручної роботи (наприклад, 手縫いの浴衣 — кімоно юката, зшите вручну); антонім — ミシン縫い (машинне шиття).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1621430-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 母は手縫いの袋を作ってくれました。
+- READING :: はははてぬいのふくろをつくってくれました。
+- UK :: Мама пошила для мене торбинку вручну.
+- FOCUS :: 手縫い
+*** ex-1621430-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 着物の仕上げには、機械ではなく丁寧な手縫いが欠かせません。
+- READING :: きもののしあげには、きかいではなくていねいなてぬいがかかせません。
+- UK :: Для завершальної обробки кімоно незамінне не машинне, а ретельне ручне шиття.
+- FOCUS :: 手縫い
+*** ex-1621430-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 革の財布は手縫いで作られているため、糸がほつれにくく長く使い続けることができます。
+- READING :: かわのさいふはてぬいでつくられているため、いとがほつれにくくながくつかいつづけることができます。
+- UK :: Оскільки шкіряний гаманець зшитий вручну, нитки не торочаться і він може служити багато років.
+- FOCUS :: 手縫い
+
+* Sense s-1621430-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 1d195526db4b2537aa2cb7551a8c3545dd062f887d09aaf12c9670c25243f8db
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1621430-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: handgenäht
+*** en-s-1621430-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Nähen mit der Hand
+** Ukrainian glosses
+
+* Sense s-1621430-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 0c535d760d1d9bc40cea6317687ec57dd975cd36a3687a8897f914e44ec03437
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1621430-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: : {～の} сшитый вручную
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1621430-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1621430-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: てぬい

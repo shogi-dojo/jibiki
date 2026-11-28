@@ -1,0 +1,183 @@
+#+TITLE: 下半期
+#+JMDICT_ID: 1576980
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: しもはんき
+#+ROMAJI: shimohanki
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-25
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1576980-001
+:PROPERTIES:
+:TEXT: 下半期
+:END:
+*** Priorities
+- news1
+- nf19
+** Reading rd-1576980-001
+:PROPERTIES:
+:TEXT: しもはんき
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf19
+** Reading rd-1576980-002
+:PROPERTIES:
+:TEXT: かはんき
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1576980-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 5320a8620641f9b841ecdab7a32dbfb1da09dc25f55d3c678b8294d47b43290e
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Cross-references
+- 上半期
+** English glosses
+- second half of the year
+- second half of the fiscal year
+** Ukrainian glosses
+*** uk-s-1576980-001-001
+:PROPERTIES:
+:END:
+- text :: друге півріччя; друга половина року (або фінансового року)
+** Learner notes
+*** note-s-1576980-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, антонім до 上半期 («перше півріччя»). Позначає другу половину календарного (липень–грудень) або фінансового року в Японії (жовтень–березень); крім основного читання しもはんき, у діловому мовленні також кажуть かはんき.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1576980-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 下半期の目標を立てた。
+- READING :: しもはんきのもくひょうをたてた。
+- UK :: Я поставив цілі на друге півріччя.
+- FOCUS :: 下半期
+*** ex-1576980-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 新製品の発売は今年の下半期に予定されている。
+- READING :: しんせいひんのはつばいはことしのしもはんきによていされている。
+- UK :: Випуск нового продукту заплановано на другу половину цього року.
+- FOCUS :: 下半期
+*** ex-1576980-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 上半期の売り上げが伸び悩んだため、下半期に向けて販売戦略を見直すことになった。
+- READING :: かみはんきのうりあげがのびなやんだため、しもはんきにむけてはんばいせんりゃくをみなおすことになった。
+- UK :: Оскільки продажі в першому півріччі зростали мляво, перед другим півріччям вирішили переглянути стратегію збуту.
+- FOCUS :: 下半期
+
+* Sense s-1576980-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: c57ae1d6bf1912f4459363c373aedf0a10f51819f360b99f8ea99880c55d82a5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1576980-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zweites Halbjahr
+*** en-s-1576980-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zweite Jahreshälfte
+** Ukrainian glosses
+
+* Sense s-1576980-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 4759b9f07c447f9ceaeb576a80d1c3c020f96dc8bdac93075f24bfd71486732b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1576980-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: вторая половина года
+** Ukrainian glosses
+
+* Sense s-1576980-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 3966632b0c5bc62c59078e57fc379bb69251bb9d18a5014ef471cb90e0a3ba89
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1576980-004-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: el último medio año
+*** en-s-1576980-004-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: segunda mitad del año
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1576980-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1576980-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-25
+:END:
+- reading :: しもはんき

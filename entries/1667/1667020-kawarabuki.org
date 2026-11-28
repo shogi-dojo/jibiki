@@ -1,0 +1,177 @@
+#+TITLE: 瓦葺き
+#+JMDICT_ID: 1667020
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かわらぶき
+#+ROMAJI: kawarabuki
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1667020-001
+:PROPERTIES:
+:TEXT: 瓦葺き
+:END:
+** Written form wf-1667020-002
+:PROPERTIES:
+:TEXT: 瓦葺
+:END:
+** Written form wf-1667020-003
+:PROPERTIES:
+:TEXT: 瓦ぶき
+:END:
+*** Information
+- sK
+** Reading rd-1667020-001
+:PROPERTIES:
+:TEXT: かわらぶき
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1667020-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: d176d9c24c1ec741f1105625dd91978db001137c62f9b3ea437d6ba4b279fa14
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- tile-roofing
+** Ukrainian glosses
+*** uk-s-1667020-001-001
+:PROPERTIES:
+:END:
+- text :: черепична покрівля; критий черепицею (дах, будинок)
+** Learner notes
+*** note-s-1667020-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений із 瓦 («черепиця») та 葺く («крити дах»). Позначає спосіб покриття даху глиняною чи керамічною черепицею, а з часткою の (瓦葺きの) — будівлю з черепичним дахом; у традиційній японській архітектурі це ознака міцних і заможних споруд.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1667020-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 古い瓦葺きの家が並んでいる。
+- READING :: ふるいかわらぶきのいえがならんでいる。
+- UK :: Уздовж вулиці стоять старі будинки під черепичним дахом.
+- FOCUS :: 瓦葺き
+*** ex-1667020-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: この地方は伝統的な瓦葺きの屋根が多い。
+- READING :: このちほうはでんとうてきなかわらぶきのやねがおおい。
+- UK :: У цьому краї багато дахів із традиційною черепичною покрівлею.
+- FOCUS :: 瓦葺き
+*** ex-1667020-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 城下町の面影を残す通りには、立派な瓦葺きの蔵や町家が今も大切に保存されている。
+- READING :: じょうかまちのおもかげをのこすとおりには、りっぱなかわらぶきのくらやまちやがいまもたいせつにほぞんされている。
+- UK :: На вулицях, що зберегли атмосферу призамкового містечка, й досі дбайливо оберігають добротні комори та міські будинки з черепичними дахами.
+- FOCUS :: 瓦葺き
+
+* Sense s-1667020-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: e4eb59174a619c838a4713ec5eca6896fb6275f0c7290895995fba9bae7b804f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1667020-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Dachdecken
+** Ukrainian glosses
+
+* Sense s-1667020-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 07301f7cc692ebb9adf1bf82e57473cb23fcaeba7c898e20123c64852b3fd489
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1667020-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: : {～の} крытый черепицей (о доме); черепичный (о крыше)
+** Ukrainian glosses
+
+* Sense s-1667020-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: f00c2dc4ec106d9d3108fc62a9e4f29f39d80ac77155a801a1be6781976c9ca3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1667020-004-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tejado cubieto de tejas
+*** en-s-1667020-004-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: colocación de tejas
+*** en-s-1667020-004-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: retejado
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1667020-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1667020-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: かわらぶき

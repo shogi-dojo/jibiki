@@ -1,0 +1,165 @@
+#+TITLE: まんじり
+#+JMDICT_ID: 2261140
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: まんじり
+#+ROMAJI: manjiri
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-2261140-001
+:PROPERTIES:
+:TEXT: まんじり
+:NO_KANJI: false
+:END:
+
+* Sense s-2261140-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 652b92265d2cf4c7f966ee045b815cf42c56c17edee1430e4bd4865ae1565c6a
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Sense information
+- usu. with negative verb
+*** Cross-references
+- まんじりともしない・1
+** English glosses
+- nap
+- doze
+- short sleep
+** Ukrainian glosses
+*** uk-s-2261140-001-001
+:PROPERTIES:
+:END:
+- text :: дрімота; короткий сон
+** Learner notes
+*** note-s-2261140-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, що в сучасній мові майже виключно вживається в заперечному сталому звороті まんじりともしない (не зімкнути очей, не заснути ні на мить).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2261140-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 心配でまんじりともできませんでした。
+- READING :: しんぱいでまんじりともできませんでした。
+- UK :: Через хвилювання я не зміг зімкнути очей.
+- FOCUS :: まんじり
+*** ex-2261140-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 試験の結果が気になって、昨夜はまんじりともせずに朝を迎えました。
+- READING :: しけんのけっかがきになって、さくやはまんじりともせずにあさをむかえました。
+- UK :: Хвилюючись через результати іспиту, я не заснув ні на хвилину й так зустрів ранок.
+- FOCUS :: まんじり
+*** ex-2261140-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 男は驚きのあまり、まんじりと目を見開いたまま相手の顔を見つめていました。
+- READING :: おとこはおどろきのあまり、まんじりとめをみひらいたままあいてのかおをみつめていました。
+- UK :: Чоловік від подиву невідривно, не кліпаючи, дивився широко розплющеними очима в обличчя співрозмовника.
+- FOCUS :: まんじり
+
+* Sense s-2261140-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 52e3bb9bc4bc0780598d88dc8ea9e4ebfe5d3c684ee4c04ad84ae87086d0434b
+:END:
+** JMdict metadata
+*** Parts of speech
+- adv-to
+** English glosses
+- staringly
+- fixedly
+** Ukrainian glosses
+*** uk-s-2261140-002-001
+:PROPERTIES:
+:END:
+- text :: пильно; невідривно; не кліпаючи
+** Learner notes
+*** note-s-2261140-002-001
+:PROPERTIES:
+:END:
+- UK :: Прислівник (уживається з часткою と), що описує пильний, нерухомий погляд без кліпання; трапляється переважно в художніх і літературних текстах.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-2261140-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 62a9c8216c48545991ad76cd99e65ccf9a9f78adf1b2ceff425a1289aedfa909
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2261140-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kurzer Schlaf
+*** en-s-2261140-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kurzes Wegdösen (meist jedoch mit der Verneinung gebraucht)
+** Ukrainian glosses
+
+* Sense s-2261140-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 22d2b9adf25e5671ab313d9188199c5b69086e8b96dccb4d8be0e2c2a5474267
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2261140-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (связ.:) まんじりともしない не сомкнуть глаз
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2261140-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2261140-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: まんじり

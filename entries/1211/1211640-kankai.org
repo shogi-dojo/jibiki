@@ -1,0 +1,180 @@
+#+TITLE: 官界
+#+JMDICT_ID: 1211640
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かんかい
+#+ROMAJI: kankai
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1211640-001
+:PROPERTIES:
+:TEXT: 官界
+:END:
+*** Priorities
+- news1
+- nf21
+** Written form wf-1211640-002
+:PROPERTIES:
+:TEXT: 官海
+:END:
+*** Information
+- rK
+** Reading rd-1211640-001
+:PROPERTIES:
+:TEXT: かんかい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf21
+
+* Sense s-1211640-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 5cd6f8f1eabdad7d14ebc6a47f8e3a00267658f113d8d7df5c3c0cbd3f1ba3b9
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- bureaucratic world
+- government circles
+** Ukrainian glosses
+*** uk-s-1211640-001-001
+:PROPERTIES:
+:END:
+- text :: урядові кола; бюрократичний світ; чиновництво
+** Learner notes
+*** note-s-1211640-001-001
+:PROPERTIES:
+:END:
+- UK :: Книжний і публіцистичний іменник на позначення світу державних службовців, міністерств і вищих адміністративних кіл (官 — уряд, посадовець; 界 — світ, сфера). Часто протиставляється 政界 (політичним колам) і 財界 (діловим колам).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1211640-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 彼は大学を卒業して官界に入った。
+- READING :: かれはだいがくをそつぎょうしてかんかいにはいった。
+- UK :: Після закінчення університету він пішов на державну службу.
+- FOCUS :: 官界
+*** ex-1211640-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 長年官界で要職を歴任した人物が、このたび民間企業の顧問に就任した。
+- READING :: ながねんかんかいでようしょくをれきにんしたじんぶつが、このたびみんかんきぎょうのこもんにしゅうにんした。
+- UK :: Особа, яка багато років обіймала відповідальні посади в урядових колах, нещодавно стала радником приватної компанії.
+- FOCUS :: 官界
+*** ex-1211640-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 政界と官界の癒着を断ち切るため、行政の透明性を高める改革が求められている。
+- READING :: せいかいとかんかいのゆちゃくをたちきるため、ぎょうせいのとうめいせいをたかめるかいかくがもとめられている。
+- UK :: Щоб розірвати зрощення політичних і чиновницьких кіл, необхідні реформи для підвищення прозорості державного управління.
+- FOCUS :: 官界
+
+* Sense s-1211640-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 2ab57f28d4721a8d12cf1842ad3fde5ec93e878e028ae2a7321d4d3a0371d100
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1211640-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Beamtenkreise
+*** en-s-1211640-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Beamtenschaft
+*** en-s-1211640-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Beamtenkreise
+** Ukrainian glosses
+
+* Sense s-1211640-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 0207b84e33ee39cf1d9cb9fa66b0fe0466340b333d4c60c5f27b5b72127f5663
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1211640-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: официальный мир, официальные круги; чиновнический мир, чиновничество
+** Ukrainian glosses
+
+* Sense s-1211640-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: ba93e390dd987cca1fc105a7441421b3cbe4514c0de5dd10e3680e0cf565dff7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1211640-004-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: burocracia
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1211640-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1211640-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: かんかい

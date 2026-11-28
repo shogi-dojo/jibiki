@@ -1,0 +1,137 @@
+#+TITLE: 紙箱
+#+JMDICT_ID: 2184640
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かみばこ
+#+ROMAJI: kamibako
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-25
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2184640-001
+:PROPERTIES:
+:TEXT: 紙箱
+:END:
+** Written form wf-2184640-002
+:PROPERTIES:
+:TEXT: 紙函
+:END:
+** Reading rd-2184640-001
+:PROPERTIES:
+:TEXT: かみばこ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2184640-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 0e05837b4c0b37e9254b2e7986959629f5b89cefdbe91065fc275b08a56766e3
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- paper box
+- paper carton
+** Ukrainian glosses
+*** uk-s-2184640-001-001
+:PROPERTIES:
+:END:
+- text :: паперова коробка, картонна коробочка
+** Learner notes
+*** note-s-2184640-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник (складене слово з 紙 «папір» і 箱 «коробка», де はこ набуває одзвінчення ば через рендаку). Позначає легку коробку зі щільного паперу або тонкого картону для пакування солодощів, подарунків чи дрібних речей.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2184640-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この小さな紙箱に写真を入れています。
+- READING :: このちいさなかみばこにしゃしんをいれています。
+- UK :: У цій маленькій картонній коробці я зберігаю фотографії.
+- FOCUS :: 紙箱
+*** ex-2184640-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 引っ越しの前に、机の上の文房具を紙箱にまとめた。
+- READING :: ひっこしのまえに、つくえのうえのぶんぼうぐをかみばこにまとめた。
+- UK :: Перед переїздом я склав канцелярію зі столу в паперову коробку.
+- FOCUS :: 紙箱
+*** ex-2184640-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 和菓子が潰れないように、丈夫な紙箱に一つずつ丁寧に詰められた。
+- READING :: わがしがつぶれないように、じょうぶなかみばこにひとつずつていねいにつめられた。
+- UK :: Щоб традиційні солодощі не пом'ялися, їх по одному обережно спакували в міцні картонні коробки.
+- FOCUS :: 紙箱
+
+* Sense s-2184640-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 7c7b94cb557a9f4cdaec66d42ec746e71eddd9422a0e7b186a6f57fb6f56e5e6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2184640-002-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: картонная коробка
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2184640-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2184640-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-25
+:END:
+- reading :: かみばこ
+** Accent accent-rd-2184640-001-002
+:PROPERTIES:
+:TARGET_ID: rd-2184640-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 2
+:PATTERN: nakadaka
+:MORA_PATTERN: LHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-25
+:END:
+- reading :: かみばこ

@@ -1,0 +1,147 @@
+#+TITLE: 眼底
+#+JMDICT_ID: 1804020
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: がんてい
+#+ROMAJI: gantei
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1804020-001
+:PROPERTIES:
+:TEXT: 眼底
+:END:
+*** Priorities
+- news2
+- nf44
+** Reading rd-1804020-001
+:PROPERTIES:
+:TEXT: がんてい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf44
+
+* Sense s-1804020-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: e188bca7b46d0a5713f527a7fc711146dbfd3547c8125f566dc31d476bc8f554
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- fundus of the eye
+** Ukrainian glosses
+*** uk-s-1804020-001-001
+:PROPERTIES:
+:END:
+- text :: очне дно
+** Learner notes
+*** note-s-1804020-001-001
+:PROPERTIES:
+:END:
+- UK :: Анатомічний та медичний термін, утворений з 眼 (око) та 底 (дно). Позначає внутрішню задню поверхню ока (сітківку, диск зорового нерва та судини); також уживається в образних висловах на кшталт 眼底に焼き付く (глибоко закарбуватися в пам'яті).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1804020-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 健康診断で眼底の検査を受けました。
+- READING :: けんこうしんだんでがんていのけんさをうけました。
+- UK :: Під час медогляду я пройшов обстеження очного дна.
+- FOCUS :: 眼底
+*** ex-1804020-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 医師は専用の機械を使って、患者の眼底を詳しく調べました。
+- READING :: いしはせんようのきかいをつかって、かんじゃのがんていをくわしくしらべました。
+- UK :: Лікар за допомогою спеціального приладу детально оглянув очне дно пацієнта.
+- FOCUS :: 眼底
+*** ex-1804020-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 高血圧や糖尿病による血管の変化は、眼底を観察することで早期に発見できる場合があります。
+- READING :: こうけつあつやとうにょうびょうによるけっかんのへんかは、がんていをかんさつすることでそうきにはっけんできるばあいがあります。
+- UK :: Зміни судин, спричинені гіпертонією або діабетом, іноді вдається виявити на ранній стадії завдяки обстеженню очного дна.
+- FOCUS :: 眼底
+
+* Sense s-1804020-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: c41651cfcb038ffd73dee5969ec7f91adf856abe52c8389d57b5c0a1eb54cbb9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1804020-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Augenhintergrund
+*** en-s-1804020-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Fundus oculi
+** Ukrainian glosses
+
+* Sense s-1804020-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: abc8a59e9272bea1b9f3d723d02f3ec68b8f287274c05b7e8c8eb50be4c3ffcd
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1804020-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: глазное дно
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1804020-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1804020-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: がんてい

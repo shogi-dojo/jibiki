@@ -1,0 +1,164 @@
+#+TITLE: 鹿毛
+#+JMDICT_ID: 2077830
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かげ
+#+ROMAJI: kage
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2077830-001
+:PROPERTIES:
+:TEXT: 鹿毛
+:END:
+** Reading rd-2077830-001
+:PROPERTIES:
+:TEXT: かげ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2077830-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 544609bd32a5fd5019a8ca7ae790305ab805c64dddb3a5cb7003b96a2d113bd2
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- fawn colour
+** Ukrainian glosses
+*** uk-s-2077830-001-001
+:PROPERTIES:
+:END:
+- text :: рудувато-коричневий колір; гніда масть
+** Learner notes
+*** note-s-2077830-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник на позначення теплого червонувато-коричневого відтінку, подібного до забарвлення літньої шерсті оленя, або відповідної масті коней (рудий корпус із чорною гривою та хвостом). Утворено з 鹿 (олень) та 毛 (шерсть).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2077830-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 牧場に美しい鹿毛の馬がいました。
+- READING :: ぼくじょうにうつくしいかげのうまがいました。
+- UK :: На пасовищі був гарний гнідий кінь.
+- FOCUS :: 鹿毛
+*** ex-2077830-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 朝日を浴びて、鹿毛の毛並みが艶やかに光っていた。
+- READING :: あさひをあびて、かげのけなみがつややかにひかっていた。
+- UK :: У променях ранкового сонця гніда шерсть виблискувала глянцем.
+- FOCUS :: 鹿毛
+*** ex-2077830-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 戦国の武将が愛した名馬の中には、見事な体格の鹿毛が多く記録されている。
+- READING :: せんごくのぶしょうがあいしためいばのなかには、みごとなたいかくのかげがおおくきろくされている。
+- UK :: Серед славетних скакунів, яких цінували полководці доби Воюючих держав, нерідко згадуються ставні гніді коні.
+- FOCUS :: 鹿毛
+
+* Sense s-2077830-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 99cfaa488303680cdfe1c91f75c5980800e7cbf6fd3b42e41d6795522981f832
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- fawn-colored horse
+** Ukrainian glosses
+*** uk-s-2077830-002-001
+:PROPERTIES:
+:END:
+- text :: гнідий кінь
+** Learner notes
+*** note-s-2077830-002-001
+:PROPERTIES:
+:END:
+- UK :: У кінництві та літературі позначає самого коня гнідої масті з коричневою шерстю й темними гривою, хвостом і нижньою частиною ніг.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-2077830-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 74ef6a8129aedb1a1efe0b5bd4620aa675bc6caaf583c101a8c088c2801dd2a3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2077830-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Rehbrauner
+*** en-s-2077830-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rehfarbenes Pferd
+** Ukrainian glosses
+
+* Sense s-2077830-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 8be4d51cdfd174b8d2e190f6eb9aab1c0c4b12eda1be87267951294c0915c0c3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2077830-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: гнедая лошадь
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2077830-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2077830-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 2
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: かげ

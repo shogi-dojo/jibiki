@@ -1,0 +1,171 @@
+#+TITLE: 寝汗
+#+JMDICT_ID: 1650290
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ねあせ
+#+ROMAJI: nease
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1650290-001
+:PROPERTIES:
+:TEXT: 寝汗
+:END:
+** Written form wf-1650290-002
+:PROPERTIES:
+:TEXT: 盗汗
+:END:
+** Reading rd-1650290-001
+:PROPERTIES:
+:TEXT: ねあせ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+** Reading rd-1650290-002
+:PROPERTIES:
+:TEXT: とうかん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- 盗汗
+
+* Sense s-1650290-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: ac1b9ab12943b578e131112c74d0c4dd675961bcd7cf7eab15164e971ed895b8
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- perspiration given off during sleep
+- sweating while sleeping
+- night sweats
+** Ukrainian glosses
+*** uk-s-1650290-001-001
+:PROPERTIES:
+:END:
+- text :: нічний піт; пітніння уві сні
+** Learner notes
+*** note-s-1650290-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, що позначає потовиділення під час сну. Зазвичай уживається у вислові 寝汗をかく («пітніти уві сні»); у медичному контексті також трапляється читання とうかん (盗汗).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1650290-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 夏はよく寝汗をかく。
+- READING :: なつはよくねあせをかく。
+- UK :: Улітку я часто пітнію уві сні.
+- FOCUS :: 寝汗
+*** ex-1650290-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 熱があったせいか、ゆうべはひどい寝汗をかいた。
+- READING :: ねつがあったせいか、ゆうべはひどいねあせをかいた。
+- UK :: Мабуть, через температуру я минулої ночі страшенно спітнів уві сні.
+- FOCUS :: 寝汗
+*** ex-1650290-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 最近毎晩のように寝汗をかくので、念のため病院で相談することにした。
+- READING :: さいきんまいばんのようにねあせをかくので、ねんのためびょういんでそうだんすることにした。
+- UK :: Останнім часом я пітнію уві сні ледь не щоночі, тож про всяк випадок вирішив проконсультуватися в лікарні.
+- FOCUS :: 寝汗
+
+* Sense s-1650290-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: a19405a5bcd40339a0831bdab9c5406018b36b8f4a4edae48cfa4cf85485d90d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1650290-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Nachtschweiß
+** Ukrainian glosses
+
+* Sense s-1650290-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 11fc5bda03e558b21ff3f13d7ca6f1142b78e98d2c0c4efe8eb6e86f90ea680b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1650290-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (кн. см.) ねあせ
+*** en-s-1650290-003-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ночной пот
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1650290-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1650290-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: ねあせ
+** Accent accent-rd-1650290-002-001
+:PROPERTIES:
+:TARGET_ID: rd-1650290-002
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: とうかん

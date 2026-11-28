@@ -1,0 +1,161 @@
+#+TITLE: 彦
+#+JMDICT_ID: 2264660
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ひこ
+#+ROMAJI: hiko
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2264660-001
+:PROPERTIES:
+:TEXT: 彦
+:END:
+** Reading rd-2264660-001
+:PROPERTIES:
+:TEXT: ひこ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2264660-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: a3282eff059f3676ca07cf26db349facb4945a47844ebf0ac6e54f9f8048bd86
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- n-suf
+*** Cross-references
+- 姫・2
+** English glosses
+- boy
+** Ukrainian glosses
+*** uk-s-2264660-001-001
+:PROPERTIES:
+:END:
+- text :: юнак; хлопець; чоловік (заст.); суфікс чоловічих імен
+** Learner notes
+*** note-s-2264660-001-001
+:PROPERTIES:
+:END:
+- UK :: Застарілий іменник і суфікс, парний до жіночого 姫 («діва, принцеса»). Самостійно трапляється переважно в міфологічних та поетичних текстах, а як словотвірний компонент — у традиційних чоловічих іменах і назвах, як-от 彦星 («зірка-пастух Альтаїр»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2264660-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 昔の物語では、勇気のある若者を彦と呼びました。
+- READING :: むかしのものがたりでは、ゆうきのあるわかものをひことよびました。
+- UK :: У давніх оповідях сміливого юнака називали «хіко».
+- FOCUS :: 彦
+*** ex-2264660-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 古い歌には、旅に出る彦を見送る場面が描かれている。
+- READING :: ふるいうたには、たびにでるひこをみおくるばめんがかかれている。
+- UK :: У старовинній пісні змальовано сцену прощання з юнаком, який вирушає в дорогу.
+- FOCUS :: 彦
+*** ex-2264660-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 日本神話に登場する多くの神々の名には、高貴な男性を表す彦という語が添えられている。
+- READING :: にほんしんわにとうじょうするおおくのかみがみのなには、こうきなだんせいをあらわすひこというごがそえられている。
+- UK :: До імен багатьох божеств у японській міфології додається слово «хіко», що позначає шляхетного чоловіка.
+- FOCUS :: 彦
+
+* Sense s-2264660-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 64120b12fffd68f6600ac2d595b327d0893c20267e90afbd1d972e06e635aa08
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2264660-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Junge
+*** en-s-2264660-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Mann
+** Ukrainian glosses
+
+* Sense s-2264660-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 469064ccf5046f16fbba971ef1e64358e073b4f53ad73ebf5b274ae25a3e777e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2264660-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (уст.) мальчик, молодой человек; мужчина; (ср.) ひめ
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2264660-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2264660-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 2
+:DROP_AFTER: 2
+:PATTERN: odaka
+:MORA_PATTERN: LH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: ひこ
+** Accent accent-rd-2264660-001-002
+:PROPERTIES:
+:TARGET_ID: rd-2264660-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 2
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: ひこ

@@ -1,0 +1,182 @@
+#+TITLE: 総指揮
+#+JMDICT_ID: 1708520
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: そうしき
+#+ROMAJI: soushiki
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-25
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1708520-001
+:PROPERTIES:
+:TEXT: 総指揮
+:END:
+*** Priorities
+- news2
+- nf31
+** Reading rd-1708520-001
+:PROPERTIES:
+:TEXT: そうしき
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf31
+
+* Sense s-1708520-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: f8c3b8df30b92968f439193f30cb5df24e3fe5f56b2f8af419a9c2a752537335
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- supreme command
+- direction over all
+** Ukrainian glosses
+*** uk-s-1708520-001-001
+:PROPERTIES:
+:END:
+- text :: загальне керівництво; верховне командування; головне управління
+** Learner notes
+*** note-s-1708520-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений із 総 (загальний, увесь) та 指揮 (командування, керівництво). Позначає верховне командування у військовій справі або загальне керівництво великим проєктом, зйомками, заходом чи операцією (часто у виразі 総指揮を執る — здійснювати загальне керівництво).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1708520-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 彼がイベントの総指揮をとりました。
+- READING :: かれがいべんとのそうしきをとりました。
+- UK :: Він узяв на себе загальне керівництво заходом.
+- FOCUS :: 総指揮
+*** ex-1708520-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 今回の映画では、ベテランの監督が制作の総指揮を担当する。
+- READING :: こんかいのえいがでは、べてらんのかんとくがせいさくのそうしきをたんとうする。
+- UK :: У цьому фільмі загальне керівництво виробництвом очолить досвідчений режисер.
+- FOCUS :: 総指揮
+*** ex-1708520-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 大規模な災害救助活動において、現場の本部長が部隊全体の総指揮を執った。
+- READING :: だいきぼなさいがいきゅうじょかつどうにおいて、げんばのほんぶちょうがぶたいぜんたいのそうしきをとった。
+- UK :: Під час масштабної рятувальної операції керівник штабу на місці здійснював верховне командування всіма підрозділами.
+- FOCUS :: 総指揮
+
+* Sense s-1708520-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 6e98f9f1c38682acb37fbcaf6b41bb58e9cd1ddba47ce563d519b1177b4433de
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1708520-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: opperbevel
+*** en-s-1708520-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: oppercommando
+*** en-s-1708520-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: algemene leiding
+** Ukrainian glosses
+
+* Sense s-1708520-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 01bce33df5b9f4a47e0208506a771dde80401dbdcf8879582b2388223c67c16b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1708520-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Oberleitung
+*** en-s-1708520-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Oberkommando
+** Ukrainian glosses
+
+* Sense s-1708520-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: d84ed5e8911b5b44bd8d90c6d0e302ea165c6343c6ad35e2ef76ec1821b800f5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1708520-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: верховное командование
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1708520-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1708520-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-25
+:END:
+- reading :: そうしき

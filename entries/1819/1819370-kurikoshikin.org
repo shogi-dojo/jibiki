@@ -1,0 +1,186 @@
+#+TITLE: 繰越金
+#+JMDICT_ID: 1819370
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: くりこしきん
+#+ROMAJI: kurikoshikin
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-25
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1819370-001
+:PROPERTIES:
+:TEXT: 繰越金
+:END:
+** Written form wf-1819370-002
+:PROPERTIES:
+:TEXT: 繰り越し金
+:END:
+** Written form wf-1819370-003
+:PROPERTIES:
+:TEXT: 繰越し金
+:END:
+*** Information
+- sK
+** Reading rd-1819370-001
+:PROPERTIES:
+:TEXT: くりこしきん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1819370-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 28c2eaac02e2686581262b942305e1b83ee4c6035efb0f888720cdcf4a34c56a
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- balance brought forward
+- balance carried forward
+** Ukrainian glosses
+*** uk-s-1819370-001-001
+:PROPERTIES:
+:END:
+- text :: перехідний залишок коштів, сальдо, перенесене на наступний період
+** Learner notes
+*** note-s-1819370-001-001
+:PROPERTIES:
+:END:
+- UK :: Бухгалтерський та бюджетний термін, утворений від основи дієслова 繰り越す (переносити на наступний строк) і 金 (гроші). Позначає невикористаний залишок бюджету чи рахунку, що переходить із попереднього фінансового періоду в новий.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1819370-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 前年度からの繰越金を確認する。
+- READING :: ぜんねんどからのくりこしきんをかくにんする。
+- UK :: Перевірити перехідний залишок коштів із попереднього фінансового року.
+- FOCUS :: 繰越金
+*** ex-1819370-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 町内会の会計報告で、今年の繰越金が黒字であることが発表された。
+- READING :: ちょうないかいのかいけいほうこくで、ことしのくりこしきんがくろじであることがはっぴょうされた。
+- UK :: У фінансовому звіті сусідської громади оголосили, що цьогорічний перехідний залишок має профіцит.
+- FOCUS :: 繰越金
+*** ex-1819370-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 余った予算を繰越金として翌年度の設備修繕費に充てることになった。
+- READING :: あまったよさんをくりこしきんとしてよくねんどのせつびしゅうぜんひにあてることになった。
+- UK :: Залишок бюджету вирішили перенести як перехідний залишок на витрати з ремонту обладнання наступного року.
+- FOCUS :: 繰越金
+
+* Sense s-1819370-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 875cff24cc25d5c29092f6b177ff5071f38ba5f69166a5102c7d7393811ddf7c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1819370-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Übertrag
+*** en-s-1819370-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Saldovortrag
+*** en-s-1819370-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Vortrag
+** Ukrainian glosses
+
+* Sense s-1819370-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 9f9af0f3d87c599476ec2b9a66fadc4a1e1c81fe223d46ad3db5538a47ad6e74
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1819370-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: egyenlegátvitel
+*** en-s-1819370-003-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: szaldóátvitel
+** Ukrainian glosses
+
+* Sense s-1819370-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 1e024ef002ce96f57c49073a17cdc2b8e8dd4c349d932ec90f746a765ccb4399
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1819370-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (бухг.) баланс (в начале какого-л. периода), кассовое сальдо; переходящие остатки по бюджету
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1819370-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1819370-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-25
+:END:
+- reading :: くりこしきん

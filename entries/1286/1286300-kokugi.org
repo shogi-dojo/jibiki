@@ -1,0 +1,165 @@
+#+TITLE: 国技
+#+JMDICT_ID: 1286300
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: こくぎ
+#+ROMAJI: kokugi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1286300-001
+:PROPERTIES:
+:TEXT: 国技
+:END:
+*** Priorities
+- news1
+- nf11
+** Reading rd-1286300-001
+:PROPERTIES:
+:TEXT: こくぎ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf11
+
+* Sense s-1286300-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: ff44df7de4f4f72178bd3644de2737e789ebea5aa9eaf7f3d05f5810286baf07
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- national sport
+** Ukrainian glosses
+*** uk-s-1286300-001-001
+:PROPERTIES:
+:END:
+- text :: національний вид спорту
+** Learner notes
+*** note-s-1286300-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник від 国 (країна) та 技 (майстерність, мистецтво), що означає традиційний вид спорту або бойового мистецтва, який символізує певну державу. У самій Японії без додаткових уточнень це слово найчастіше стосується боротьби сумо (相撲), звідки й назва арени 両国国技館.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1286300-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 相撲は日本の伝統的な国技として知られている。
+- READING :: すもうはにほんのでんとうてきなこくぎとしてしられている。
+- UK :: Сумо відоме як традиційний національний вид спорту Японії.
+- FOCUS :: 国技
+*** ex-1286300-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 国によって、人々の暮らしに根付いた国技はさまざまだ。
+- READING :: くにによって、ひとびとのくらしにねづいたこくぎはさまざまだ。
+- UK :: У різних країнах склалися різні національні види спорту, тісно вкорінені в повсякденне життя.
+- FOCUS :: 国技
+*** ex-1286300-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 彼は長年、日本の国技の魅力を海外へ伝える活動に取り組んできた。
+- READING :: かれはながねん、にほんのこくぎのみりょくをかいがいへつたえるかつどうにとりくんできた。
+- UK :: Він багато років працював над тим, щоб знайомити закордонну публіку з привабливістю японського національного спорту.
+- FOCUS :: 国技
+
+* Sense s-1286300-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 683b52b65837f24bf415bca7ef3a727a99f908c58668ba3a41a92429fcb8df30
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1286300-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Nationalsport (im Falle Japans Sumō)
+** Ukrainian glosses
+
+* Sense s-1286300-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: d773894aef51173e444cdc93b52d7bfca115196b2f97d250da5ce0706fccf058
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1286300-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) национальный вид спорта
+*** en-s-1286300-003-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) сумо (яп. борьба)
+** Ukrainian glosses
+
+* Sense s-1286300-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 08082e3b7f96e23508db8a8d825cc7c5af0fafcec1b43a6415be37597929e8eb
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1286300-004-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: deporte nacional (e.g. sumo)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1286300-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1286300-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: こくぎ

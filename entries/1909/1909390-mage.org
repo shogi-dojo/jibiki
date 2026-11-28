@@ -1,0 +1,174 @@
+#+TITLE: 曲げ
+#+JMDICT_ID: 1909390
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: まげ
+#+ROMAJI: mage
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-25
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1909390-001
+:PROPERTIES:
+:TEXT: 曲げ
+:END:
+*** Priorities
+- news2
+- nf47
+** Reading rd-1909390-001
+:PROPERTIES:
+:TEXT: まげ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf47
+
+* Sense s-1909390-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: e34edf22563b00def259564e3659edeabbf96a876103350c1f67708ff710cfe0
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- flexure
+- bending
+** Ukrainian glosses
+*** uk-s-1909390-001-001
+:PROPERTIES:
+:END:
+- text :: згинання, вигин, згин
+** Learner notes
+*** note-s-1909390-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений від основи дієслова 曲げる (згинати). У техніці та будівництві часто вказує на деформацію під навантаженням, наприклад у сполуках 曲げ強さ (міцність на згин) або 曲げモーメント (згинальний момент).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1909390-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この棒は曲げに強い。
+- READING :: このぼうはまげにつよい。
+- UK :: Цей стрижень стійкий до згинання.
+- FOCUS :: 曲げ
+*** ex-1909390-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 金属の板に曲げを加えて形を整える。
+- READING :: きんぞくのいたにまげをくわえてかたちをととのえる。
+- UK :: Металевій пластині надають потрібної форми шляхом згинання.
+- FOCUS :: 曲げ
+*** ex-1909390-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 新しい合金は、繰り返し曲げを受けてもひび割れにくい性質を持っている。
+- READING :: あたらしいごうきんは、くりかえしまげをうけてもひびわれにくいせいしつをもっている。
+- UK :: Новий сплав має властивість не розтріскуватися навіть після багаторазового згинання.
+- FOCUS :: 曲げ
+
+* Sense s-1909390-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: ae3a477ef0d022c05aa473640b19561674b5b14e312cdf2588230596c782ddde
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1909390-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Biegung
+*** en-s-1909390-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Beugung
+*** en-s-1909390-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Krümmung
+** Ukrainian glosses
+
+* Sense s-1909390-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 5df66b08b1d8c0e69faa2e9d2e0c2f7488b63b8ad0bf2516853e2aca159d1c06
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1909390-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hajlítás
+** Ukrainian glosses
+
+* Sense s-1909390-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 90d365b2d4b020f62875b98e09acc981ed5ba6ddcd884a0ecd0de4924f75fda6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1909390-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: сгибание, изгибание; гнутьё
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1909390-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1909390-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 2
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-25
+:END:
+- reading :: まげ

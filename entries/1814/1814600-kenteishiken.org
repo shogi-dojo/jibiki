@@ -1,0 +1,168 @@
+#+TITLE: 検定試験
+#+JMDICT_ID: 1814600
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: けんていしけん
+#+ROMAJI: kenteishiken
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1814600-001
+:PROPERTIES:
+:TEXT: 検定試験
+:END:
+** Reading rd-1814600-001
+:PROPERTIES:
+:TEXT: けんていしけん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1814600-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 8b818c0829882e82226c603650155cb5810d2de6b1dd5775ba9ae509446220eb
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- certification examination
+- licensing examination
+- licensure examination
+** Ukrainian glosses
+*** uk-s-1814600-001-001
+:PROPERTIES:
+:END:
+- text :: кваліфікаційний іспит; сертифікаційний екзамен; атестація
+** Learner notes
+*** note-s-1814600-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений поєднанням 検定 («перевірка, атестація») та 試験 («іспит»). Уживається в освіті та професійній сфері для позначення стандартизованих іспитів на підтвердження рівня знань чи фахової кваліфікації (наприклад, з ієрогліфіки або іноземної мови).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1814600-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 来月、日本語の検定試験を受けます。
+- READING :: らいげつ、にほんごのけんていしけんをうけます。
+- UK :: Наступного місяця я складатиму сертифікаційний іспит з японської мови.
+- FOCUS :: 検定試験
+*** ex-1814600-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 漢字の検定試験に合格するために、毎日練習問題を解いている。
+- READING :: かんじのけんていしけんにごうかくするために、まいにちれんしゅうもんだいをといている。
+- UK :: Щоб скласти кваліфікаційний іспит з ієрогліфів, я щодня розв'язую тренувальні завдання.
+- FOCUS :: 検定試験
+*** ex-1814600-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 業務に必要な資格を得るため、社員全員が秋の検定試験に向けて準備を進めている。
+- READING :: ぎょうむにひつようなしかくをえるため、しゃいんぜんいんがあきのけんていしけんにむけてじゅんびをすすめている。
+- UK :: Щоб здобути необхідну для роботи кваліфікацію, усі працівники готуються до осінньої атестації.
+- FOCUS :: 検定試験
+
+* Sense s-1814600-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 79bc7353e37397af9e650d22b5376c1da38ee9eaa1b0e7f2b807f2ff8ad619a5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1814600-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: amtliche Prüfung
+*** en-s-1814600-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Examen für eine staatliche Lizenz
+*** en-s-1814600-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Staatsexamen
+** Ukrainian glosses
+
+* Sense s-1814600-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: ba0fe1c3f96961e041fdff29c6f65411745b1737f7da54a0c4f4431649fa765b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1814600-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: экзамен на звание (кого-л.)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1814600-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1814600-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 7
+:DROP_AFTER: 6
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: けんていしけん
+** Accent accent-rd-1814600-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1814600-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 7
+:DROP_AFTER: 5
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: けんていしけん

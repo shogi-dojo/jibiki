@@ -1,0 +1,182 @@
+#+TITLE: 風土病
+#+JMDICT_ID: 1500030
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ふうどびょう
+#+ROMAJI: fuudobyou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1500030-001
+:PROPERTIES:
+:TEXT: 風土病
+:END:
+*** Priorities
+- news2
+- nf45
+** Reading rd-1500030-001
+:PROPERTIES:
+:TEXT: ふうどびょう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf45
+
+* Sense s-1500030-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 49f84cf1026c3bac44f4ebf58d76bf424323b4a549cdd11a35652af35fedde63
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- endemic disease
+- local disease
+** Ukrainian glosses
+*** uk-s-1500030-001-001
+:PROPERTIES:
+:END:
+- text :: ендемічне захворювання; місцева хвороба
+** Learner notes
+*** note-s-1500030-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, що позначає інфекційне або неінфекційне захворювання, властиве певній географічній місцевості через природні чи побутові умови (від 風土 — природні умови краю та 病 — хвороба). Часто вживається у поєднаннях на кшталт 風土病を根絶する (викорінити ендемічне захворювання) або その地域特有の風土病.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1500030-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: これはその島に昔からある風土病だ。
+- READING :: これはそのしまにむかしからあるふうどびょうだ。
+- UK :: Це давня місцева хвороба цього острова.
+- FOCUS :: 風土病
+*** ex-1500030-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 衛生環境の改善によって、かつての風土病はほとんど見られなくなった。
+- READING :: えいせいかんきょうのかいぜんによって、かつてのふうどびょうはほとんどみられなくなった。
+- UK :: Завдяки поліпшенню санітарних умов колишня ендемічна хвороба майже перестала траплятися.
+- FOCUS :: 風土病
+*** ex-1500030-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 調査団は熱帯地域の川沿いに広がる風土病の原因を特定するため、現地で水質検査を続けた。
+- READING :: ちょうさだんはねったいちいきのかわぞいにひろがるふうどびょうのげんいんをとくていするため、げんちですいしつけんさをつづけた。
+- UK :: Дослідницька група продовжувала перевірку якості води на місці, щоб встановити причину ендемічного захворювання, поширеного вздовж річок тропічного регіону.
+- FOCUS :: 風土病
+
+* Sense s-1500030-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 359b67f9c19efbb11f78d18c64884f95edd8bceff8d3b288cc97324db9de1207
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1500030-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Endemie
+*** en-s-1500030-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: endemische Krankheit
+*** en-s-1500030-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ortsübliche Krankheit
+** Ukrainian glosses
+
+* Sense s-1500030-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 33ba967ed983e5d4be63a01abe30136d13cf1e239ff2e0be0994fbed3ded96e6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1500030-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Enzootie
+*** en-s-1500030-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: enzootische Krankheit
+** Ukrainian glosses
+
+* Sense s-1500030-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 3fbab0025521271366fd49b71ffd431bd2acf944b8fc8517db2371b623d98c47
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1500030-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: эндемическая (местная) болезнь
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1500030-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1500030-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: ふうどびょう

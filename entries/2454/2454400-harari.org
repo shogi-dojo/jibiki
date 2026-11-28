@@ -1,0 +1,145 @@
+#+TITLE: はらり
+#+JMDICT_ID: 2454400
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: はらり
+#+ROMAJI: harari
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-2454400-001
+:PROPERTIES:
+:TEXT: はらり
+:NO_KANJI: false
+:END:
+
+* Sense s-2454400-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 6d4999e4541c9c51d4c1c1f32de4c2ab2d67fbd06b50bb6e651181ccc811068f
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- adv-to
+- adv
+*** Miscellaneous and register
+- on-mim
+** English glosses
+- gently (falling)
+** Ukrainian glosses
+*** uk-s-2454400-001-001
+:PROPERTIES:
+:END:
+- text :: легко, плавно (падати, облітати); тихо, крадькома (котитися, про сльозу)
+** Learner notes
+*** note-s-2454400-001-001
+:PROPERTIES:
+:END:
+- UK :: Звуконаслідувальний та образотворчий прислівник (зазвичай уживається з часткою と), що передає легке, невагоме падіння або облітання пелюсток, листя, волосся чи поодиноких сліз. Також може описувати, як сторінки чи завіса легко розгортаються або злітають від вітру.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2454400-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 花びらがはらりと落ちた。
+- READING :: はなびらがはらりとおちた。
+- UK :: Пелюстка плавно впала додолу.
+- FOCUS :: はらり
+*** ex-2454400-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 秋風が吹くたびに、色づいた葉が一枚ずつはらりと舞い降りる。
+- READING :: あきかぜがふくたびに、いろづいたはがいちまいずつはらりとまいおりる。
+- UK :: Щоразу, як віє осінній вітер, забарвлене листя по одному листочку легко кружляє до землі.
+- FOCUS :: はらり
+*** ex-2454400-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 手紙を読み終えた彼女の頬に、涙がひとすじはらりとこぼれた。
+- READING :: てがみをよみおえたかのじょのほおに、なみだがひとすじはらりとこぼれた。
+- UK :: Коли вона дочитала листа, по її щоці тихо скотилася сльоза.
+- FOCUS :: はらり
+
+* Sense s-2454400-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: ecd3f5b5087fb1ca982bcefc83b8b75cf3128efc71e91db8bedb33a3bad6ffd0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2454400-002-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) легко; порхая
+*** en-s-2454400-002-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) врассыпную; во все стороны
+*** en-s-2454400-002-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 3) скрипя, со скрипом
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2454400-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2454400-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 2
+:PATTERN: nakadaka
+:MORA_PATTERN: LHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: はらり
+** Accent accent-rd-2454400-001-002
+:PROPERTIES:
+:TARGET_ID: rd-2454400-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 3
+:PATTERN: odaka
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: はらり

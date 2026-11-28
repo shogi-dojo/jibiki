@@ -1,0 +1,171 @@
+#+TITLE: 食べ物屋
+#+JMDICT_ID: 1358350
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: たべものや
+#+ROMAJI: tabemonoya
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-25
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1358350-001
+:PROPERTIES:
+:TEXT: 食べ物屋
+:END:
+** Written form wf-1358350-002
+:PROPERTIES:
+:TEXT: たべもの屋
+:END:
+*** Information
+- sK
+** Written form wf-1358350-003
+:PROPERTIES:
+:TEXT: 食べもの屋
+:END:
+*** Information
+- sK
+** Reading rd-1358350-001
+:PROPERTIES:
+:TEXT: たべものや
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1358350-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 84271e93c6a478e9100eea90ea2c4e40a69eb7645ab34eadaa75740f0e6ede7f
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- eatery
+- restaurant
+** Ukrainian glosses
+*** uk-s-1358350-001-001
+:PROPERTIES:
+:END:
+- text :: харчівня; їдальня; невеликий ресторанчик; заклад громадського харчування
+** Learner notes
+*** note-s-1358350-001-001
+:PROPERTIES:
+:END:
+- UK :: Розмовний іменник, утворений із 食べ物 (їжа) та суфікса 屋 (крамниця, заклад). Позначає будь-який доступний заклад харчування — від затишної закусочної до невеликого ресторанчика чи вуличного кафе.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1358350-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 駅の近くに食べ物屋が多いです。
+- READING :: えきのちかくにたべものやがおおいです。
+- UK :: Поблизу станції багато невеликих закладів харчування.
+- FOCUS :: 食べ物屋
+*** ex-1358350-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: この商店街には、昔からある安くておいしい食べ物屋が並んでいる。
+- READING :: このしょうてんがいには、むかしからあるやすくておいしいたべものやがならんでいる。
+- UK :: На цій торговій вулиці вишикувалися давні недорогі й смачні ресторанчики.
+- FOCUS :: 食べ物屋
+*** ex-1358350-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 深夜まで開いている食べ物屋のおかげで、残業帰りでも温かい食事をとることができる。
+- READING :: しんやまであいているたべものやのおかげで、ざんぎょうがえりでもあたたかいしょくじをとることができる。
+- UK :: Завдяки закладам харчування, що працюють до пізньої ночі, навіть повертаючись із понаднормової роботи, можна поїсти гарячої страви.
+- FOCUS :: 食べ物屋
+
+* Sense s-1358350-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: a609ff23a9d3001467cf9db8c2ca8b4f335ebda3a31070f8c4f3f9993f1a098c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1358350-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Lebensmittelgeschäft
+*** en-s-1358350-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Gaststätte
+** Ukrainian glosses
+
+* Sense s-1358350-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 10a890a73fe293903cd9f30f9fdbbba7c6c533386bbd76e35fe0e576741cd7d0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1358350-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: столовая, дешёвый ресторанчик
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1358350-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1358350-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-25
+:END:
+- reading :: たべものや
+** Accent accent-rd-1358350-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1358350-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 4
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-25
+:END:
+- reading :: たべものや

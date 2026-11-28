@@ -1,0 +1,174 @@
+#+TITLE: 干拓地
+#+JMDICT_ID: 1757430
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かんたくち
+#+ROMAJI: kantakuchi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1757430-001
+:PROPERTIES:
+:TEXT: 干拓地
+:END:
+** Reading rd-1757430-001
+:PROPERTIES:
+:TEXT: かんたくち
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1757430-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: ec18e93dc03b1439aed87c6dcc62ca7796e94f48a61807795d940c5b47ba62b3
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- reclaimed land
+** Ukrainian glosses
+*** uk-s-1757430-001-001
+:PROPERTIES:
+:END:
+- text :: осушені землі; польдер; меліорована ділянка
+** Learner notes
+*** note-s-1757430-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений з 干拓 (осушення мілководних морських заток або озер за допомогою дамб) та суфікса 地 (земля, територія). Позначає сільськогосподарські чи житлові угіддя, створені на місці колишніх водойм.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1757430-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この辺りは広い干拓地です。
+- READING :: このあたりはひろいかんたくちです。
+- UK :: Ця місцевість — широкі осушені землі.
+- FOCUS :: 干拓地
+*** ex-1757430-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 湖の一部を囲って作られた干拓地で米が育てられています。
+- READING :: みずうみのいちぶをかこってつくられたかんたくちでこめがそだてられています。
+- UK :: На осушених землях, створених шляхом огородження частини озера, вирощують рис.
+- FOCUS :: 干拓地
+*** ex-1757430-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 海抜より低い干拓地では、大雨による浸水を防ぐための排水設備が欠かせません。
+- READING :: かいばつよりひくいかんたくちでは、おおあめによるしんすいをふせぐためのはいすいせつびがかかせません。
+- UK :: На польдерах, розташованих нижче рівня моря, дренажні споруди є необхідними для запобігання підтопленню під час злив.
+- FOCUS :: 干拓地
+
+* Sense s-1757430-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 4dcd6f7b9b1fa7d616d81d3e52b49284d25877d2f01d37ccc727570bae5a32a4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1757430-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Koog
+*** en-s-1757430-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kog
+*** en-s-1757430-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Polder
+*** en-s-1757430-002-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: durch Trockenlegung von Gewässern gewonnenes Land
+** Ukrainian glosses
+
+* Sense s-1757430-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: da5d956eb0f2e1a49ce3af43d31acd579fcbd545a4655b6166e3ce05d9b5da0e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1757430-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: земли, освоенные путём осушения, осушенные земли
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1757430-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1757430-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: かんたくち
+** Accent accent-rd-1757430-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1757430-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 4
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: かんたくち

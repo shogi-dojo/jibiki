@@ -1,0 +1,191 @@
+#+TITLE: 枸橘
+#+JMDICT_ID: 1955540
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: からたち
+#+ROMAJI: karatachi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-25
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1955540-001
+:PROPERTIES:
+:TEXT: 枸橘
+:END:
+** Written form wf-1955540-002
+:PROPERTIES:
+:TEXT: 枳殻
+:END:
+** Written form wf-1955540-003
+:PROPERTIES:
+:TEXT: 枳
+:END:
+** Reading rd-1955540-001
+:PROPERTIES:
+:TEXT: からたち
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+** Reading rd-1955540-002
+:PROPERTIES:
+:TEXT: きこく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- 枳殻
+** Reading rd-1955540-003
+:PROPERTIES:
+:TEXT: カラタチ
+:NO_KANJI: true
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1955540-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 4320c8bc985d2d31ba82ebb3ecae0569a011323578dba4ae6d57943c43e04b26
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- uk
+** English glosses
+- trifoliate orange (Citrus trifoliata)
+- hardy orange
+** Ukrainian glosses
+*** uk-s-1955540-001-001
+:PROPERTIES:
+:END:
+- text :: трифоліата, понцирус трилистий (колючий цитрусовий кущ)
+** Learner notes
+*** note-s-1955540-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник (зазвичай записується каною як からたち або катаканою カラタチ; ієрогліфічний запис 枸橘 уживається рідко). Позначає листопадний колючий кущ родини рутових із гіркими неїстівними плодами, який часто висаджують як живопліт або використовують як підщепу для цитрусових.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1955540-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 庭の境にからたちの生け垣がある。
+- READING :: にわのさかいにからたちのいけがきがある。
+- UK :: На межі саду росте живопліт із трифоліати.
+- FOCUS :: からたち
+*** ex-1955540-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 春になると、からたちの枝に白い花が咲く。
+- READING :: はるになると、からたちのえだにしろいはながさく。
+- UK :: Навесні на гілках трифоліати розквітають білі квіти.
+- FOCUS :: からたち
+*** ex-1955540-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: からたちには鋭いとげがあるため、昔から防犯を兼ねた屋敷の垣根として植えられてきた。
+- READING :: からたちにはするどいとげがあるため、むかしからぼうはんをかねたやしきのかきねとしてうえられてきた。
+- UK :: Оскільки трифоліата має гострі колючки, її здавна висаджували як огорожу довкола садиб для захисту від непроханих гостей.
+- FOCUS :: からたち
+
+* Sense s-1955540-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 3a5ebfc618d28d73d14f464dc211ba9f7c77d318625a41cc9d5860f2b4670f0a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1955540-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dreiblättrige Orange
+*** en-s-1955540-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Bitterzitrone
+*** en-s-1955540-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Poncirus trifoliata
+** Ukrainian glosses
+
+* Sense s-1955540-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 498847a7f25847102fab0649e5a00e83a1549f17e9849c1673a843e0a1372a1a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1955540-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: трёхлисточковый лимон, Poncirus trifoliat (Raf. (плоды несъедобны)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1955540-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1955540-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-25
+:END:
+- reading :: からたち
+** Accent accent-rd-1955540-002-001
+:PROPERTIES:
+:TARGET_ID: rd-1955540-002
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-25
+:END:
+- reading :: きこく

@@ -1,0 +1,175 @@
+#+TITLE: 贈答
+#+JMDICT_ID: 1403580
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ぞうとう
+#+ROMAJI: zoutou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1403580-001
+:PROPERTIES:
+:TEXT: 贈答
+:END:
+*** Priorities
+- news1
+- nf22
+** Reading rd-1403580-001
+:PROPERTIES:
+:TEXT: ぞうとう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf22
+
+* Sense s-1403580-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 9a7c1fce9cc0e8e9c0014626e6eb809e579411f00567f859a2a20c2b0312690d
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- exchange of presents
+** Ukrainian glosses
+*** uk-s-1403580-001-001
+:PROPERTIES:
+:END:
+- text :: обмін подарунками; дарування і віддяка
+** Learner notes
+*** note-s-1403580-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник і перехідне дієслово на -する (贈答する — обмінюватися подарунками), особливо поширений у контексті сезонних японських підношень お中元 та お歳暮. Поєднує ієрогліфи 贈 (дарувати) та 答 (відповідати); часто входить до складу сполуки 贈答品 (подарунковий набір, сувенір для обміну).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1403580-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 年末に贈答品を送りました。
+- READING :: ねんまつにぞうとうひんをおくりました。
+- UK :: Наприкінці року я надіслав подарунковий набір.
+- FOCUS :: 贈答
+*** ex-1403580-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: お祝いの品を親戚と贈答する習慣がある。
+- READING :: おいわいのしなをしんせきとぞうとうするしゅうかんがある。
+- UK :: Існує звичай обмінюватися святковими подарунками з родичами.
+- FOCUS :: 贈答
+*** ex-1403580-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 季節の挨拶として贈答を交わすことは、日本の大切な礼儀の一つだ。
+- READING :: きせつのあいさつとしてぞうとうをかわすことは、にほんのたいせつなれいぎのひとつだ。
+- UK :: Обмін подарунками на знак сезонного вітання — один із важливих проявів японського етикету.
+- FOCUS :: 贈答
+
+* Sense s-1403580-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 6c9fecb27a54947aec8eeb35f7875703afd9f6500818b026daef8de3364d7b8d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1403580-002-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: échanges de présents
+** Ukrainian glosses
+
+* Sense s-1403580-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 971d2cc7c7db8d0720f0470e0d05966d848ca82fb2d7d860cd771cd0828c89a4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1403580-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Geschenke austauschen
+*** en-s-1403580-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Austausch von Geschenken
+** Ukrainian glosses
+
+* Sense s-1403580-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 518619b4ce6d218b64d6cabd96ad6c79012acff4324bb33bffdf99452fb2dd4f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1403580-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: обмен подарками
+*** en-s-1403580-004-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} обмениваться подарками
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1403580-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1403580-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: ぞうとう

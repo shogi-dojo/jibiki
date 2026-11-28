@@ -1,0 +1,174 @@
+#+TITLE: 待ちぼうけ
+#+JMDICT_ID: 1410530
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: まちぼうけ
+#+ROMAJI: machibouke
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1410530-001
+:PROPERTIES:
+:TEXT: 待ちぼうけ
+:END:
+*** Priorities
+- news2
+- nf45
+** Written form wf-1410530-002
+:PROPERTIES:
+:TEXT: 待ち惚け
+:END:
+** Written form wf-1410530-003
+:PROPERTIES:
+:TEXT: 待ちぼけ
+:END:
+** Reading rd-1410530-001
+:PROPERTIES:
+:TEXT: まちぼうけ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- 待ちぼうけ
+- 待ち惚け
+*** Priorities
+- news2
+- nf45
+** Reading rd-1410530-002
+:PROPERTIES:
+:TEXT: まちぼけ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- 待ち惚け
+- 待ちぼけ
+
+* Sense s-1410530-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: dd320c6c5f18f8e3cd182ddbd07942582f1ad0ddee90f9903b8c603495c489be
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- waiting in vain
+** Ukrainian glosses
+*** uk-s-1410530-001-001
+:PROPERTIES:
+:END:
+- text :: марне чекання, даремне очікування (того, хто не прийшов)
+** Learner notes
+*** note-s-1410530-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений від 待ち («очікування») та 惚ける («завмерти, розгубитися»). Позначає прикру ситуацію, коли хтось довго й марно чекає на людину чи подію; часто вживається у зворотах 待ちぼうけを食う («даремно прочекати») та 待ちぼうけを食わせる («змусити когось марно чекати»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1410530-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 駅の前で一時間も待ちぼうけを食った。
+- READING :: えきのまえでいちじかんもまちぼうけをくった。
+- UK :: Я цілу годину даремно прочекав перед вокзалом.
+- FOCUS :: 待ちぼうけ
+*** ex-1410530-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 彼女が時間を間違えたせいで、彼は寒い中で待ちぼうけになってしまった。
+- READING :: かのじょがじかんをまちがえたせいで、かれはさむいなかでまちぼうけになってしまった。
+- UK :: Через те що вона переплутала час, йому довелося марно чекати на холоді.
+- FOCUS :: 待ちぼうけ
+*** ex-1410530-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 約束の時間に遅れるときは早めに連絡しないと、相手を待ちぼうけにしてしまうことになる。
+- READING :: やくそくのじかんにおくれるときははやめにれんらくしないと、あいてをまちぼうけにしてしまうことになる。
+- UK :: Якщо запізнюєшся на зустріч, треба попередити заздалегідь, інакше змусиш людину даремно чекати.
+- FOCUS :: 待ちぼうけ
+
+* Sense s-1410530-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 5b4504d06128a8c848c6b6d8b6763b17cee5831cf4fb5dad6d5e42812babeb17
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1410530-002-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: attendre en vain
+** Ukrainian glosses
+
+* Sense s-1410530-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 7eca7320034379d897423bf5bbffa1c589bce1fc4bcaa9a302ca32a4c8c45736
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1410530-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vergebliches Warten
+** Ukrainian glosses
+
+* Sense s-1410530-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: df230b8d4c92120bd35f2833c8205a0d1f4e40bae952b390bd9e5376c0c16a6c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1410530-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (связ.:)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1410530-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1410530-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: まちぼうけ

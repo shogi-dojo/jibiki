@@ -1,0 +1,140 @@
+#+TITLE: 逃散
+#+JMDICT_ID: 1808450
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ちょうさん
+#+ROMAJI: chousan
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1808450-001
+:PROPERTIES:
+:TEXT: 逃散
+:END:
+** Reading rd-1808450-001
+:PROPERTIES:
+:TEXT: ちょうさん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+** Reading rd-1808450-002
+:PROPERTIES:
+:TEXT: とうさん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1808450-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: cf08df8beaa03a707ff1e9f601b7b8fa6327415b51af9ef7ec473412095661ed
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- fleeing in all directions
+- (in Japanese history, a reference to) farmers who abandoned their fields and fled to the cities or other districts to evade onerous taxes
+** Ukrainian glosses
+*** uk-s-1808450-001-001
+:PROPERTIES:
+:END:
+- text :: масова втеча; утеча селян (в історії Японії)
+** Learner notes
+*** note-s-1808450-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений з 逃 (тікати) та 散 (розсіюватися). Окрім загального значення втечі врозтіч, в історії Японії позначає форму протесту селян, які покидали наділи й тікали до міст або інших володінь через непосильні податки; також можливе читання とうさん.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1808450-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 昔の農民は重い税から逃れるために逃散した。
+- READING :: むかしののうみんはおもいぜいからのがれるためにちょうさんした。
+- UK :: У давнину селяни масово тікали, щоб урятуватися від важких податків.
+- FOCUS :: 逃散
+*** ex-1808450-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 年貢の取り立てが厳しくなり、村ごと逃散する動きが広がった。
+- READING :: ねんぐのとりたてがきびしくなり、むらごとちょうさんするうごきがひろがった。
+- UK :: Коли стягнення податкового рису стало надто суворим, поширилися втечі цілими селами.
+- FOCUS :: 逃散
+*** ex-1808450-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 中世から近世にかけて、逃散は領主の苛政に対する農民の重要な抵抗手段の一つであった。
+- READING :: ちゅうせいからきんせいにかけて、ちょうさんはりょうしゅのかせいにたいするのうみんのじゅうようなていこうしゅだんのひとつであった。
+- UK :: Від середньовіччя до раннього нового часу масова втеча була одним із важливих засобів опору селян проти жорстокого правління феодалів.
+- FOCUS :: 逃散
+
+* Sense s-1808450-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: dc747ca56a669515b7064921677c82a848bd3cc2fef32077991ddcbcd7f1d70c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1808450-002-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (ист.) переход крестьян от одного помещика к другому (в XVII  XVIII вв.)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1808450-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1808450-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: ちょうさん
+** Accent accent-rd-1808450-002-001
+:PROPERTIES:
+:TARGET_ID: rd-1808450-002
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: とうさん

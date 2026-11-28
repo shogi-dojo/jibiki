@@ -1,0 +1,169 @@
+#+TITLE: 吉相
+#+JMDICT_ID: 1727430
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: きっそう
+#+ROMAJI: kissou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1727430-001
+:PROPERTIES:
+:TEXT: 吉相
+:END:
+** Reading rd-1727430-001
+:PROPERTIES:
+:TEXT: きっそう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1727430-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 23322c7bab2f5d70800eca313cdb53313f971fd700307c7f7c6fc5f98b7c071c
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- auspicious appearance
+- good or lucky omen
+** Ukrainian glosses
+*** uk-s-1727430-001-001
+:PROPERTIES:
+:END:
+- text :: щасливе знамення; прикмета удачі, сприятливі риси
+** Learner notes
+*** note-s-1727430-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник. Утворене поєднанням 吉 (щасливий, сприятливий) та 相 (вигляд, прикмета); у фізіогноміці, хіромантії та вченні про сприятливе розташування житла (家相) позначає ознаки майбутньої удачі.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1727430-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この手相は吉相だそうです。
+- READING :: このてそうはきっそうだそうです。
+- UK :: Кажуть, що ця лінія на долоні — щасливий знак.
+- FOCUS :: 吉相
+*** ex-1727430-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 占い師は彼の顔立ちを見て、珍しい吉相だと告げた。
+- READING :: うらないしはかれのかおだちをみて、めずらしいきっそうだとつげた。
+- UK :: Ворожбит, поглянувши на риси його обличчя, сказав, що це рідкісна щаслива ознака.
+- FOCUS :: 吉相
+*** ex-1727430-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 日当たりと風通しのよい南向きの玄関は、伝統的な家相の考え方でも吉相とされている。
+- READING :: ひあたりとかぜとおしのよいみなみむきのげんかんは、でんとうてきなかそうのかんがえかたでもきっそうとされている。
+- UK :: Добре освітлений і провітрюваний вхід, звернений на південь, навіть у традиційному вченні про планування оселі вважається сприятливою ознакою.
+- FOCUS :: 吉相
+
+* Sense s-1727430-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 0f285870448ac66baf4b307df4967a7500801d6afe87e89b2938c16a78730229
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1727430-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: glückverheißende Physiognomie
+** Ukrainian glosses
+
+* Sense s-1727430-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 74184c8bb12c83665a86970e105729a9dc8b79fce6f69fdcaa4e53e2c545cb31
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1727430-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gutes Omen
+** Ukrainian glosses
+
+* Sense s-1727430-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 3aae52f2f10405faf31795390fe4a31f9ba56fcace62ae0e273e76cb43a31fed
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1727430-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (кн.) хорошее предзнаменование
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1727430-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1727430-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: きっそう
+** Accent accent-rd-1727430-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1727430-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: きっそう

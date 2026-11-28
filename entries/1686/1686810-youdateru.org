@@ -1,0 +1,167 @@
+#+TITLE: 用立てる
+#+JMDICT_ID: 1686810
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ようだてる
+#+ROMAJI: youdateru
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1686810-001
+:PROPERTIES:
+:TEXT: 用立てる
+:END:
+*** Priorities
+- news2
+- nf43
+** Reading rd-1686810-001
+:PROPERTIES:
+:TEXT: ようだてる
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf43
+
+* Sense s-1686810-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 30c27e273899c8913777d350c001e5b020cff7532dffd8fdacc1904786fdbd88
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v1
+- vt
+** English glosses
+- to make use of
+- to lend money
+** Ukrainian glosses
+*** uk-s-1686810-001-001
+:PROPERTIES:
+:END:
+- text :: позичати (гроші), надавати позику; знаходити й надавати в користування (кошти, речі)
+** Learner notes
+*** note-s-1686810-001-001
+:PROPERTIES:
+:END:
+- UK :: Перехідне дієслово другої дієвідміни (ічідан / 一段活用). Походить від сполучення 用を立てる (задовольнити потребу). У сучасній мові найчастіше означає тимчасово позичити або дістати для когось гроші, потрібні для певної справи; у конструкції 用立ててもらう означає «отримати позику від когось».
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1686810-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 少しお金を用立てることができますか。
+- READING :: すこしおかねをようだてることができますか。
+- UK :: Чи не могли б ви позичити трохи грошей?
+- FOCUS :: 用立てる
+*** ex-1686810-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 急にお金が必要になり、兄に十万円を用立ててもらった。
+- READING :: きゅうにおかねがひつようになり、あににじゅうまんえんをようだててもらった。
+- UK :: Мені терміново знадобилися гроші, тож старший брат позичив сто тисяч єн.
+- FOCUS :: 用立てて
+*** ex-1686810-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 事業を立ち上げるにあたり、銀行や知人から資金を用立てて何とか危機を乗り越えた。
+- READING :: じぎょうをたちあげるにあたり、ぎんこうやちじんからしきんをようだててなんとかききをのりこえた。
+- UK :: Під час започаткування справи вдалося дістати кошти в банку та знайомих і якось подолати скруту.
+- FOCUS :: 用立てて
+
+* Sense s-1686810-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 0b26b3e623e5ad9e8934fb8ae96b6840bb28985c0f45bd8354a7b2f2b6d6a768
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1686810-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: benutzen
+** Ukrainian glosses
+
+* Sense s-1686810-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: d0769d5fd5483012030f7fb97fd8093067fe727ac3e1705af6ad986ecb7f3b6e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1686810-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zur Verfügung stellen
+*** en-s-1686810-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: leihen
+** Ukrainian glosses
+
+* Sense s-1686810-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: d2c11fffd3ad945d799d0cd97a1caab2ff39040a91ee8055c9d5f5e41b4d612d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1686810-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: давать взаймы, ссужать; предоставлять в распоряжение (деньги)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1686810-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1686810-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 4
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: ようだてる

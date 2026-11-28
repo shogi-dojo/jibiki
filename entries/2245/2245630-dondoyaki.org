@@ -1,0 +1,139 @@
+#+TITLE: どんど焼き
+#+JMDICT_ID: 2245630
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: どんどやき
+#+ROMAJI: dondoyaki
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2245630-001
+:PROPERTIES:
+:TEXT: どんど焼き
+:END:
+** Written form wf-2245630-002
+:PROPERTIES:
+:TEXT: どんど焼
+:END:
+** Reading rd-2245630-001
+:PROPERTIES:
+:TEXT: どんどやき
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2245630-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: cc5b550741165dc3f21eb897778097fa34fbb66461f394a8b9ddecca3069ba4e
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Cross-references
+- どんど
+** English glosses
+- burning of New Year's gate decorations (usu. on the 15th day of the New Year)
+** Ukrainian glosses
+*** uk-s-2245630-001-001
+:PROPERTIES:
+:END:
+- text :: дондо-які (традиційне січневе спалення новорічних прикрас)
+** Learner notes
+*** note-s-2245630-001-001
+:PROPERTIES:
+:END:
+- UK :: Етнографічний іменник на позначення народного японського обряду очищення вогнем, який зазвичай проводять близько п'ятнадцятого січня (Кошьоґацу): на відкритому майданчику спалюють соснові прикраси кадомацу, талісмани та новорічну каліграфію. Залежно від регіону також має назву 左義長 (саґічьо).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2245630-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 一月の半ばに河原でどんど焼きが行われた。
+- READING :: いちがつのなかばにかわらでどんどやきがおこなわれた。
+- UK :: У середині січня на річковому березі відбулося традиційне спалення новорічних прикрас дондо-які.
+- FOCUS :: どんど焼き
+*** ex-2245630-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 家族でお正月のしめ縄を持って、近所の神社のどんど焼きに出かけた。
+- READING :: かぞくでおしょうがつのしめなわをもって、きんじょのじんじゃのどんどやきにでかけた。
+- UK :: Уся родина взяла новорічні солом'яні обереги шіменава й вирушила на обряд дондо-які до місцевого святилища.
+- FOCUS :: どんど焼き
+*** ex-2245630-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: どんど焼きの火で焼いた餅を食べると、その一年は無病息災で過ごせると伝えられている。
+- READING :: どんどやきのひでやいたもちをたべると、そのいちねんはむびょうそくさいですごせるとつたえられている。
+- UK :: За повір'ям, якщо з'їсти рисовий пиріжок мочі, підсмажений на вогнищі дондо-які, цілий рік мине без хвороб і лиха.
+- FOCUS :: どんど焼き
+
+* Sense s-2245630-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: c375abe0c8e725e5f7e213f3cf672559cf2b3ee67f09d64e550e7459117159ec
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2245630-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Fest anlässlich des Verbrennens des Neujahrsschmuckes am 15. Januar
+** Ukrainian glosses
+
+* Sense s-2245630-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: b25681920404932d957138e480a2f5111428804c8f6d7da3df919096133c0060
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2245630-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (см.) さぎちょう
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2245630-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2245630-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: どんどやき

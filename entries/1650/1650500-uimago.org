@@ -1,0 +1,197 @@
+#+TITLE: 初孫
+#+JMDICT_ID: 1650500
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ういまご
+#+ROMAJI: uimago
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-25
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1650500-001
+:PROPERTIES:
+:TEXT: 初孫
+:END:
+*** Priorities
+- news2
+- nf39
+** Reading rd-1650500-001
+:PROPERTIES:
+:TEXT: ういまご
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf39
+** Reading rd-1650500-002
+:PROPERTIES:
+:TEXT: はつまご
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1650500-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: e51567e051468bd2f1c4975b2b682c10c134913b6e5b9bdc720374b52428e1b8
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- first grandchild
+** Ukrainian glosses
+*** uk-s-1650500-001-001
+:PROPERTIES:
+:END:
+- text :: перший онук; перша онучка; первісток серед онуків
+** Learner notes
+*** note-s-1650500-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, що позначає першого онука або онучку в родині, утворений із 初 (перший) та 孫 (онук). Має два варіанти читання — ういまご та はつまご; найчастіше трапляється в родинному спілкуванні з нагоди народження дитини.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1650500-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 先月、初孫が生まれました。
+- READING :: せんげつ、ういまごがうまれました。
+- UK :: Минулого місяця в нас народився перший онук.
+- FOCUS :: 初孫
+*** ex-1650500-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 両親は初孫の顔を見るのを毎日楽しみにしている。
+- READING :: りょうしんはういまごのかおをみるのをまいにちたのしみにしている。
+- UK :: Батьки щодня з нетерпінням чекають на зустріч зі своїм першим онуком.
+- FOCUS :: 初孫
+*** ex-1650500-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 初孫の誕生を祝って、祖父は立派な五月人形を贈ることにした。
+- READING :: ういまごのたんじょうをいわって、そふはりっぱなごがつにんぎょうをおくることにした。
+- UK :: Щоб відсвяткувати народження першого онука, дідусь вирішив подарувати гарну травневу ляльку.
+- FOCUS :: 初孫
+
+* Sense s-1650500-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: a78c321bc413cf566da529c62f5b29b35c9b08e92e6bd6d574f46156e193ae2a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1650500-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: eerste kleinkind
+** Ukrainian glosses
+
+* Sense s-1650500-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 27c030bcafa0a7eca12327f93d61a744d357651787cd8f218efea49868e2cde3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1650500-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: erster Enkel
+*** en-s-1650500-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: erstes Enkelkind
+** Ukrainian glosses
+
+* Sense s-1650500-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: dd6ad02e42308cb072f9f3de352757595c6e49e4ad4593b5fbcf125c27d7a5c5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1650500-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: первый внук, первая внучка
+*** en-s-1650500-004-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: первый внук
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1650500-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1650500-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-25
+:END:
+- reading :: ういまご
+** Accent accent-rd-1650500-002-001
+:PROPERTIES:
+:TARGET_ID: rd-1650500-002
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-25
+:END:
+- reading :: はつまご

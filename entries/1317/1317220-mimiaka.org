@@ -1,0 +1,214 @@
+#+TITLE: 耳垢
+#+JMDICT_ID: 1317220
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: みみあか
+#+ROMAJI: mimiaka
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1317220-001
+:PROPERTIES:
+:TEXT: 耳垢
+:END:
+** Written form wf-1317220-002
+:PROPERTIES:
+:TEXT: 耳あか
+:END:
+** Reading rd-1317220-001
+:PROPERTIES:
+:TEXT: みみあか
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+** Reading rd-1317220-002
+:PROPERTIES:
+:TEXT: じこう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- 耳垢
+
+* Sense s-1317220-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 0ef9601a6d69c77cda7bec819f3cdc7ca19a58d7119449cd259cc98d69e0a53d
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- adj-no
+** English glosses
+- earwax
+- cerumen
+** Ukrainian glosses
+*** uk-s-1317220-001-001
+:PROPERTIES:
+:END:
+- text :: вушна сірка
+** Learner notes
+*** note-s-1317220-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник побутового вжитку, утворений із 耳 («вухо») та 垢 («бруд, наліт»). У медичному чи офіційному стилі також вживають сіно-японське читання じこう; часте словосполучення — 耳垢を取る («видаляти вушну сірку»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1317220-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 綿棒で耳垢をそっと取りました。
+- READING :: めんぼうでみみあかをそっととりました。
+- UK :: Я обережно прибрав вушну сірку ватною паличкою.
+- FOCUS :: 耳垢
+*** ex-1317220-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 子どもは耳垢がたまりやすいので、時々様子を見てあげましょう。
+- READING :: こどもはみみあかがたまりやすいので、ときどきようすをみてあげましょう。
+- UK :: У дітей легко накопичується вушна сірка, тому варто час від часу перевіряти вушка.
+- FOCUS :: 耳垢
+*** ex-1317220-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 無理に耳垢を奥まで押し込むと外耳道を傷つける恐れがあるため、注意が必要だ。
+- READING :: むりにみみあかをおくまでおしこむとがいじどうをきずつけるおそれがあるため、ちゅういがひつようだ。
+- UK :: Якщо силоміць проштовхувати вушну сірку вглиб, можна пошкодити зовнішній слуховий прохід, тому слід бути обережним.
+- FOCUS :: 耳垢
+
+* Sense s-1317220-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: ff72f47600f0e7e64a4b12444c40df57f5dc9e9088b7f6030d45e72a83304aaf
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1317220-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Ohrenschmalz
+*** en-s-1317220-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Zerumen
+*** en-s-1317220-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Cerumen
+** Ukrainian glosses
+
+* Sense s-1317220-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: eb7e6fe1b8a7352542e3b11cffef6352a1858658c4158a8f8da40706c23b268d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1317220-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fülzsír
+** Ukrainian glosses
+
+* Sense s-1317220-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 577ee74b7f9023c43b461243d1ed4d472a1489f6e56aadaac254a6721efe1107
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1317220-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ушная сера
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1317220-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1317220-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: みみあか
+** Accent accent-rd-1317220-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1317220-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 4
+:PATTERN: odaka
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: みみあか
+** Accent accent-rd-1317220-002-001
+:PROPERTIES:
+:TARGET_ID: rd-1317220-002
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: じこう

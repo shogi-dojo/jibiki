@@ -1,0 +1,123 @@
+#+TITLE: 群生地
+#+JMDICT_ID: 2544520
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ぐんせいち
+#+ROMAJI: gunseichi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2544520-001
+:PROPERTIES:
+:TEXT: 群生地
+:END:
+** Written form wf-2544520-002
+:PROPERTIES:
+:TEXT: 群棲地
+:END:
+*** Information
+- rK
+** Reading rd-2544520-001
+:PROPERTIES:
+:TEXT: ぐんせいち
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2544520-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: b196b1943d4791e5adf18fadf6d3ceec0fc5b4bd7b75bc8cb6aaf568829712d8
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- rookery
+- breeding grounds
+- nesting place
+** Ukrainian glosses
+*** uk-s-2544520-001-001
+:PROPERTIES:
+:END:
+- text :: місце масового гніздування (лежбище); ділянка скупченого проживання чи зростання
+** Learner notes
+*** note-s-2544520-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, біологічний та екологічний термін. Позначає природне середовище, де зосереджено багато особин певного виду тварин або птахів у період розмноження (варіант 群棲地), а також густі природні зарості певних дикорослих рослин.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2544520-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この島は海鳥の群生地として知られている。
+- READING :: このしまはうみどりのぐんせいちとしてしられている。
+- UK :: Цей острів відомий як місце масового гніздування морських птахів.
+- FOCUS :: 群生地
+*** ex-2544520-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 春になると、湿原に広がる水芭蕉の群生地を多くの観光客が訪れる。
+- READING :: はるになると、しつげんにひろがるみずばしょうのぐんせいちをおおくのかんこうきゃくがおとずれる。
+- UK :: Навесні багато туристів приїздить подивитися на природні зарості лізіхітона, що розкинулися на болотах.
+- FOCUS :: 群生地
+*** ex-2544520-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 貴重な野生動物の群生地を守るため、繁殖期には立ち入りを制限する措置が取られている。
+- READING :: きちょうなやせいどうぶつのぐんせいちをまもるため、はんしょくきにはたちいりをせいげんするそちがとられている。
+- UK :: Щоб зберегти природне середовище скупчення рідкісних диких тварин, у період розмноження доступ туди обмежують.
+- FOCUS :: 群生地
+
+* Sense s-2544520-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 4769eb81a8e7a4cc52e3e565e34d242a698e3d6bd8c3ac0fbcc282ca4ed507c2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2544520-002-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: лежбище, гнездовище
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2544520-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2544520-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: ぐんせいち

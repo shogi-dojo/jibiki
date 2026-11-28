@@ -1,0 +1,163 @@
+#+TITLE: 陣頭
+#+JMDICT_ID: 1635120
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: じんとう
+#+ROMAJI: jintou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-25
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1635120-001
+:PROPERTIES:
+:TEXT: 陣頭
+:END:
+*** Priorities
+- news1
+- nf18
+** Reading rd-1635120-001
+:PROPERTIES:
+:TEXT: じんとう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf18
+
+* Sense s-1635120-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 01ad96842198806a53af90da397e863b81e59855fa1ee2e88703059646305abd
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- head of an army
+** Ukrainian glosses
+*** uk-s-1635120-001-001
+:PROPERTIES:
+:END:
+- text :: чільне місце, передній край; чолі (війська, справи)
+** Learner notes
+*** note-s-1635120-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник (від 陣 «табір, бойовий порядок» і 頭 «голова, початок»). Первісно позначав чоло війська перед битвою; у сучасній мові найчастіше вживається у звороті 陣頭に立つ («очолити, стати на чолі») або в складному слові 陣頭指揮 («особисте керівництво на місці подій»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1635120-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 将軍が自ら陣頭に立った。
+- READING :: しょうぐんがみずからじんとうにたった。
+- UK :: Полководець особисто став на чолі війська.
+- FOCUS :: 陣頭
+*** ex-1635120-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 危機的な状況を打開するため、社長が陣頭に立って改革を進めた。
+- READING :: ききてきなじょうきょうをだかいするため、しゃちょうがじんとうにたってかいかくをすすめた。
+- UK :: Щоб подолати кризову ситуацію, директор особисто очолив проведення реформ.
+- FOCUS :: 陣頭
+*** ex-1635120-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 現場の士気を高めるには、責任者が机の上で指示を出すだけでなく、陣頭に立って行動することが求められる。
+- READING :: げんばのしきをたかめるには、せきにんしゃがつくえのうえでしじをだすだけでなく、じんとうにたってこうどうすることがもとめられる。
+- UK :: Щоб підняти бойовий дух на місцях, керівник має не просто віддавати накази з кабінету, а й сам іти попереду.
+- FOCUS :: 陣頭
+
+* Sense s-1635120-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 895bd1424b05051b7e3477680b651cefeda7a7c8cdb5b4ee011a2bfeedef22f7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1635120-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vorderste Front
+*** en-s-1635120-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Spitze eines Heeres
+** Ukrainian glosses
+
+* Sense s-1635120-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 5df7d975891e89d5986bdf31e829665bccf4ed86a75cfda8249c2e02e87400d8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1635120-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) головная часть (армии, колонны)
+*** en-s-1635120-003-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～に} во главе, впереди
+*** en-s-1635120-003-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) (перен.) глава, руководитель
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1635120-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1635120-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-25
+:END:
+- reading :: じんとう

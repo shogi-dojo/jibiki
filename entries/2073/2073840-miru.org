@@ -1,0 +1,91 @@
+#+TITLE: ミル
+#+JMDICT_ID: 2073840
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ミル
+#+ROMAJI: miru
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-2073840-001
+:PROPERTIES:
+:TEXT: ミル
+:NO_KANJI: false
+:END:
+
+* Sense s-2073840-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: ea48b51340969ee3e2911af685d886ab60922433f6e19f0d2cb15cd2de76308c
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- mil (one thousandth of an inch)
+** Ukrainian glosses
+*** uk-s-2073840-001-001
+:PROPERTIES:
+:END:
+- text :: міл (одиниця довжини, тисячна частка дюйма)
+** Learner notes
+*** note-s-2073840-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, запозичений з англійської мови (mil), що позначає позасистемну одиницю довжини, яка дорівнює одній тисячній дюйма (приблизно нуль цілих двадцять п'ять тисячних міліметра). Уживається в електроніці, машинобудуванні та під час вимірювання товщини плівок або покриттів.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2073840-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この薄いフィルムの厚さは五ミルほどだ。
+- READING :: このうすいふぃるむのあつさはごみるほどだ。
+- UK :: Товщина цієї тонкої плівки становить близько п'яти мілів.
+- FOCUS :: ミル
+*** ex-2073840-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: アメリカ製の部品の図面では、寸法がミル単位で記されていることがある。
+- READING :: あめりかせいのぶひんのずめんでは、すんぽうがみるたんいでしるされていることがある。
+- UK :: На кресленнях деталей американського виробництва розміри іноді вказують у мілах.
+- FOCUS :: ミル
+*** ex-2073840-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 基板の配線幅を設計する際、ミリメートルとミルの換算を間違えないよう注意が必要だ。
+- READING :: きばんのはいせんはばをせっけいするさい、みりめーとるとみるのかんざんをまちがえないようちゅういがひつようだ。
+- UK :: Під час проєктування ширини доріжок друкованої плати треба бути уважним, щоб не помилитися з переведенням міліметрів у міли.
+- FOCUS :: ミル
+
+* Pronunciation
+** Accent accent-rd-2073840-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2073840-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 2
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: ミル

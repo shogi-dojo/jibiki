@@ -1,0 +1,174 @@
+#+TITLE: 保険医
+#+JMDICT_ID: 1513450
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ほけんい
+#+ROMAJI: hokeni
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1513450-001
+:PROPERTIES:
+:TEXT: 保険医
+:END:
+** Reading rd-1513450-001
+:PROPERTIES:
+:TEXT: ほけんい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1513450-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 5a3c48eb21bb90e7d04011b65791f86751d9ab3880a48dc9ba50953cd26afd2f
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- doctor who accepts patients covered by health insurance
+** Ukrainian glosses
+*** uk-s-1513450-001-001
+:PROPERTIES:
+:END:
+- text :: лікар, що приймає за медичним страхуванням
+** Learner notes
+*** note-s-1513450-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник. У японській системі охорони здоров'я позначає лікаря, зареєстрованого для надання медичної допомоги за державним чи соціальним страхуванням (健康保険).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1513450-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この病院には保険医がいます。
+- READING :: このびょういんにはほけんいがいます。
+- UK :: У цій лікарні є лікар, який приймає за страхуванням.
+- FOCUS :: 保険医
+*** ex-1513450-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 生命保険に加入する前に、保険医による診察を受けた。
+- READING :: せいめいほけんにかにゅうするまえに、ほけんいによるしんさつをうけた。
+- UK :: Перед оформленням страхування життя я пройшов огляд у лікаря страхової компанії.
+- FOCUS :: 保険医
+*** ex-1513450-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 地域医療を支えるため、多くの診療所が保険医としての登録を行っている。
+- READING :: ちいきいりょうをささえるため、おおくのしんりょうじょがほけんいとしてのとうろくをおこなっている。
+- UK :: Щоб підтримувати місцеву медицину, багато клінік оформлюють реєстрацію як заклади з лікарями страхової практики.
+- FOCUS :: 保険医
+
+* Sense s-1513450-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: acea6f8ef20e7e0e3d767c95acfd8b74b986518b68367da832d1019d798cce45
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- doctor commissioned to examine an applicant for life insurance
+** Ukrainian glosses
+*** uk-s-1513450-002-001
+:PROPERTIES:
+:END:
+- text :: лікар-експерт страхової компанії
+** Learner notes
+*** note-s-1513450-002-001
+:PROPERTIES:
+:END:
+- UK :: Іменник. Стосується лікаря, якому страхова компанія доручає медичний огляд клієнта перед укладенням договору страхування життя.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1513450-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 3f148c995536da8b8877759756270feb315597f8ecf0b3f9c43ee9ba27e12ba9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1513450-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kassenarzt
+** Ukrainian glosses
+
+* Sense s-1513450-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 728a479b42674e3a281519209e037980e3a4e69d0db16f038d4757194d2d027c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1513450-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: страховой врач
+** Ukrainian glosses
+
+* Sense s-1513450-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 5dc9c677ff0747ddbc2cd379f1a44fa3ffc9570cf5f967a260fd7e6f0d24efab
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1513450-005-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: médico del seguro
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1513450-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1513450-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 2
+:PATTERN: nakadaka
+:MORA_PATTERN: LHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: ほけんい

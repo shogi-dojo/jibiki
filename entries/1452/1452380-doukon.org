@@ -1,0 +1,148 @@
+#+TITLE: 同根
+#+JMDICT_ID: 1452380
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: どうこん
+#+ROMAJI: doukon
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1452380-001
+:PROPERTIES:
+:TEXT: 同根
+:END:
+*** Priorities
+- news2
+- nf38
+** Reading rd-1452380-001
+:PROPERTIES:
+:TEXT: どうこん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf38
+
+* Sense s-1452380-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 918dcea121e7818025bb20d1dc52efcd9656878ad9b42c458b2bf57a53b22811
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- same root
+- same origin
+** Ukrainian glosses
+*** uk-s-1452380-001-001
+:PROPERTIES:
+:END:
+- text :: спільний корінь; єдине походження; спільне джерело
+** Learner notes
+*** note-s-1452380-001-001
+:PROPERTIES:
+:END:
+- UK :: Книжний іменник, утворений від 同 (однаковий) і 根 (корінь). Описує явища, слова, ідеї чи проблеми, що випливають з однієї першопричини або мають спільне походження (часто вживається у зворотах 同根である або 同根から生じる).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1452380-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 二つの言葉は同じ語源を持つ同根の表現だ。
+- READING :: ふたつのことばはおなじごげんをもつどうこんのひょうげんだ。
+- UK :: Ці два слова — вислови спільного кореня, що мають одну етимологію.
+- FOCUS :: 同根
+*** ex-1452380-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 一見別々に見える社会問題も、突き詰めれば同根であることが多い。
+- READING :: いっけんべつべつにみえるしゃかいもんだいも、つきつめればどうこんであることがおおい。
+- UK :: Соціальні проблеми, що на перший погляд здаються різними, при глибшому розгляді часто мають спільне коріння.
+- FOCUS :: 同根
+*** ex-1452380-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: この二つの伝統芸能は、室町時代の同じ祭礼から発展した同根の文化とされている。
+- READING :: このふたつのでんとうげいのうは、むろまちじだいのおなじさいれいからはってんしたどうこんのぶんかとされている。
+- UK :: Вважається, що ці два традиційні мистецтва мають спільне походження, бо розвинулися з одного обряду періоду Муромачі.
+- FOCUS :: 同根
+
+* Sense s-1452380-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: ff87b8727e89180676d28b78625ec7c684dfdc12a5f9dfd3d082d4db0abcd24b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1452380-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dieselben Wurzeln
+*** en-s-1452380-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: derselbe Ursprung
+** Ukrainian glosses
+
+* Sense s-1452380-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: f7fc02c78cc978f62c83e90e929e887e518767af7dc2abff8a40aeeef6289724
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1452380-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: : {～である} иметь общий корень (одинаковое происхождение); проистекать из одного и того же источника, происходить по той же причине
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1452380-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1452380-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: どうこん

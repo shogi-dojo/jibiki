@@ -1,0 +1,108 @@
+#+TITLE: 朝露
+#+JMDICT_ID: 2849660
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ちょうろ
+#+ROMAJI: chouro
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-25
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2849660-001
+:PROPERTIES:
+:TEXT: 朝露
+:END:
+** Written form wf-2849660-002
+:PROPERTIES:
+:TEXT: 朝ロ
+:END:
+** Reading rd-2849660-001
+:PROPERTIES:
+:TEXT: ちょうろ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- 朝露
+** Reading rd-2849660-002
+:PROPERTIES:
+:TEXT: ちょうロ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- 朝ロ
+
+* Sense s-2849660-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: af47bea814bf137a9052612874c89e964d11e81d615c9464a71b86b412be8923
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- North Korea and Russia
+** Ukrainian glosses
+*** uk-s-2849660-001-001
+:PROPERTIES:
+:END:
+- text :: Північна Корея та Росія; КНДР і Росія
+** Learner notes
+*** note-s-2849660-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, політико-географічне скорочення, утворене з перших знаків назв обох держав (北朝鮮 і 露西亜; також трапляється запис 朝ロ). Уживається в новинах та міжнародній аналітиці для позначення двосторонніх відносин, переговорів чи угод.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2849660-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 新聞で朝露のニュースを読んだ。
+- READING :: しんぶんでちょうろのにゅーすをよんだ。
+- UK :: Я прочитав у газеті новини про Північну Корею та Росію.
+- FOCUS :: 朝露
+*** ex-2849660-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 今週、朝露の外相会談が開かれる予定だ。
+- READING :: こんしゅう、ちょうろのがいしょうかいだんがひらかれるよていだ。
+- UK :: Цього тижня запланована зустріч міністрів закордонних справ КНДР і Росії.
+- FOCUS :: 朝露
+*** ex-2849660-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 国際社会は朝露間の経済協力や安全保障上の動きを注視している。
+- READING :: こくさいしゃかいはちょうろかんのけいざいきょうりょくやあんぜんほしょうじょうのうごきをちゅうししている。
+- UK :: Міжнародна спільнота уважно стежить за економічною співпрацею та безпековими кроками між Північною Кореєю та Росією.
+- FOCUS :: 朝露
+
+* Pronunciation
+** Accent accent-rd-2849660-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2849660-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-25
+:END:
+- reading :: ちょうろ

@@ -1,0 +1,168 @@
+#+TITLE: 電気冷蔵庫
+#+JMDICT_ID: 1943490
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: でんきれいぞうこ
+#+ROMAJI: denkireizouko
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1943490-001
+:PROPERTIES:
+:TEXT: 電気冷蔵庫
+:END:
+** Reading rd-1943490-001
+:PROPERTIES:
+:TEXT: でんきれいぞうこ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1943490-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: a95fb197376ebe7c3b463ba07643f297064da9b8fc840693be6928e18aba3fd3
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- electric refrigerator
+- fridge
+** Ukrainian glosses
+*** uk-s-1943490-001-001
+:PROPERTIES:
+:END:
+- text :: електричний холодильник; холодильник
+** Learner notes
+*** note-s-1943490-001-001
+:PROPERTIES:
+:END:
+- UK :: Повна офіційна й технічна назва побутового холодильника (на відміну від давніх льодовень 氷冷蔵庫, що охолоджувалися брилами льоду). У повсякденному мовленні зазвичай скорочується до 冷蔵庫, тоді як 電気冷蔵庫 трапляється в документації, історії побутової техніки та рекламі.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1943490-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 台所に大きい電気冷蔵庫がある。
+- READING :: だいどころにおおきいでんきれいぞうこがある。
+- UK :: На кухні стоїть великий електричний холодильник.
+- FOCUS :: 電気冷蔵庫
+*** ex-1943490-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 日本では高度経済成長期に電気冷蔵庫が一般家庭へ一気に広まった。
+- READING :: にほんではこうどけいざいせいちょうきにでんきれいぞうこがいっぱんかていへいっきにひろまった。
+- UK :: У Японії електричні холодильники стрімко поширилися в пересічних родинах у період швидкого економічного зростання.
+- FOCUS :: 電気冷蔵庫
+*** ex-1943490-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 省エネ性能の高い最新の電気冷蔵庫に買い替えたところ、毎月の電気代が目に見えて安くなった。
+- READING :: しょうえねせいのうのたかいさいしんのでんきれいぞうこにかいかえたところ、まいつきのでんきだいがめにみえてやすくなった。
+- UK :: Коли ми замінили старий холодильник на сучасний електричний з високою енергоефективністю, щомісячні рахунки за електрику відчутно зменшилися.
+- FOCUS :: 電気冷蔵庫
+
+* Sense s-1943490-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 1e1d3f2029a280f628502e4392a1b2d64a9022b9401e9d45b6e7b1f848f8000b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1943490-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Elektro-Kühlschrank
+** Ukrainian glosses
+
+* Sense s-1943490-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: fce627c7869f1ff5f0845729822c81ced480342dec309e88f8679d0b465fefc9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1943490-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: frizsider
+*** en-s-1943490-003-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hűtőszekrény
+*** en-s-1943490-003-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: jégszekrény
+** Ukrainian glosses
+
+* Sense s-1943490-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 59c6ec7d8e49aa99734ef4f9b3106aa022c7a89327b6e21897da7b5feb60e4fc
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1943490-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: холодильник (домашний)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1943490-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1943490-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 8
+:DROP_AFTER: 6
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: でんきれいぞうこ

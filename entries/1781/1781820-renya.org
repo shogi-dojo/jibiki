@@ -1,0 +1,157 @@
+#+TITLE: 連夜
+#+JMDICT_ID: 1781820
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: れんや
+#+ROMAJI: renya
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1781820-001
+:PROPERTIES:
+:TEXT: 連夜
+:END:
+*** Priorities
+- news2
+- nf26
+** Reading rd-1781820-001
+:PROPERTIES:
+:TEXT: れんや
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf26
+
+* Sense s-1781820-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 3f83f7c21b7fb1d05074d988288f35d2c9a29df529700e70bfbc76a0998fd339
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- adv
+** English glosses
+- every evening
+- night after night
+** Ukrainian glosses
+*** uk-s-1781820-001-001
+:PROPERTIES:
+:END:
+- text :: щовечора; щоночі; ніч за ніччю
+** Learner notes
+*** note-s-1781820-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник і прислівник часу, що підкреслює безперервне повторення дії кілька вечорів або ночей поспіль. Складається з 連 («поспіль, підряд») та 夜 («ніч, вечір»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1781820-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 連夜、雨が降り続いた。
+- READING :: れんや、あめがふりつづいた。
+- UK :: Ніч за ніччю йшов дощ.
+- FOCUS :: 連夜
+*** ex-1781820-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 夏の祭りでは、連夜にぎやかな音楽が町に響いていた。
+- READING :: なつのまつりでは、れんやにぎやかなおんがくがまちにひびいていた。
+- UK :: Під час літнього свята в місті щовечора лунала жвава музика.
+- FOCUS :: 連夜
+*** ex-1781820-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 締め切りが近づくにつれ、社員たちは連夜遅くまで残業して資料を仕上げた。
+- READING :: しめきりがちかづくにつれ、しゃいんたちはれんやおそくまでざんぎょうしてしりょうをしあげた。
+- UK :: З наближенням кінцевого терміну працівники вечір за вечором затримувалися на понаднормовій роботі, щоб завершити матеріали.
+- FOCUS :: 連夜
+
+* Sense s-1781820-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 331051d7770aacb7536692765ad4415692333cb63785c9ef362713e42c370df2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1781820-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: jede Nacht
+*** en-s-1781820-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Nacht für Nacht
+** Ukrainian glosses
+
+* Sense s-1781820-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: c38aef299dae904243433830aa6bb3b161c6dc7f150c27d823f71c51a4f27717
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1781820-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: каждую ночь
+*** en-s-1781820-003-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～の} еженощный
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1781820-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1781820-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: れんや

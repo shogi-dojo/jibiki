@@ -1,0 +1,156 @@
+#+TITLE: 端境期
+#+JMDICT_ID: 1704830
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: はざかいき
+#+ROMAJI: hazakaiki
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1704830-001
+:PROPERTIES:
+:TEXT: 端境期
+:END:
+*** Priorities
+- news2
+- nf37
+** Reading rd-1704830-001
+:PROPERTIES:
+:TEXT: はざかいき
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf37
+
+* Sense s-1704830-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: e73e4e517a17894595945f131153e2fbe5315f6e5e1aacdbfc5c14ff61c5b7c7
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- between-crops season
+- off-crops season
+** Ukrainian glosses
+*** uk-s-1704830-001-001
+:PROPERTIES:
+:END:
+- text :: міжсезоння між урожаями; перехідний період (між старим і новим урожаєм або випуском товарів)
+** Learner notes
+*** note-s-1704830-001-001
+:PROPERTIES:
+:END:
+- UK :: Економічний і сільськогосподарський іменник (端 «край» + 境 «межа» + 期 «період»). Означає проміжок часу перед збором нового врожаю (наприклад, рису, овочів), коли старі запаси вичерпуються; переносно вживається також щодо зміни сезонів або поколінь продукції.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1704830-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 今は米の端境期にあたる。
+- READING :: いまはこめのはざかいきにあたる。
+- UK :: Зараз саме міжсезоння між старим і новим урожаєм рису.
+- FOCUS :: 端境期
+*** ex-1704830-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 秋から冬にかけては、野菜の端境期で価格が上がりやすい。
+- READING :: あきからふゆにかけては、やさいのはざかいきでかかくがあがりやすい。
+- UK :: На межі осені й зими через міжсезоння врожаю овочі зазвичай дорожчають.
+- FOCUS :: 端境期
+*** ex-1704830-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 新製品への切り替えに伴う端境期を乗り切るため、在庫管理を徹底した。
+- READING :: しんせいひんへのきりかえにともなうはざかいきをのりきるため、ざいこかんりをてっていした。
+- UK :: Щоб без втрат пройти перехідний період перед виходом нової продукції, компанія посилила контроль за запасами.
+- FOCUS :: 端境期
+
+* Sense s-1704830-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 5b8572f27fb793dc8048e1c166ec7ba11f4a293fc4b72ec4ca633586a7d20ff2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1704830-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: erntefreie Zeit
+*** en-s-1704830-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: keine Erntesaison
+** Ukrainian glosses
+
+* Sense s-1704830-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 231a4092dc7d30a3da03560f1276fe2db9cc8fe2039e08faed79d0e1b5cce5c3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1704830-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) период поступления (на рынки) риса нового урожая (сентябрьоктябрь)
+*** en-s-1704830-003-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) период поступления (на рынки) шёлка-сырца нового сбора (майиюнь)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1704830-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1704830-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: はざかいき

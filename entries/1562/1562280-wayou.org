@@ -1,0 +1,175 @@
+#+TITLE: 和洋
+#+JMDICT_ID: 1562280
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: わよう
+#+ROMAJI: wayou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1562280-001
+:PROPERTIES:
+:TEXT: 和洋
+:END:
+*** Priorities
+- news2
+- nf32
+** Reading rd-1562280-001
+:PROPERTIES:
+:TEXT: わよう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf32
+
+* Sense s-1562280-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 94206504a3ebaa79f03dac5786a3538ef92dc368d48d30b4884772a5846c42cf
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- Japan and the West
+- Japanese style and Western style
+** Ukrainian glosses
+*** uk-s-1562280-001-001
+:PROPERTIES:
+:END:
+- text :: японський і західний стилі; Японія та Захід
+** Learner notes
+*** note-s-1562280-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, що поєднує скорочення 和 («традиційно японський») і 洋 («західний, європейський»). Найчастіше трапляється у складних словах і назвах на кшталт 和洋折衷 («поєднання японського та західного стилів») чи 和洋食 («японські й європейські страви»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1562280-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この旅館の料理は和洋から選べる。
+- READING :: このりょかんのりょうりはわようからえらべる。
+- UK :: У цьому традиційному готелі можна обрати між японською та західною кухнею.
+- FOCUS :: 和洋
+*** ex-1562280-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: このホテルの朝食は、和洋のメニューが豊富にそろっている。
+- READING :: このほてるのちょうしょくは、わようのめにゅーがほうふにそろっている。
+- UK :: На сніданок у цьому готелі пропонують багатий вибір японських і європейських страв.
+- FOCUS :: 和洋
+*** ex-1562280-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 明治時代に建てられたその洋館は、和洋の建築様式を見事に調和させた珍しい建物だ。
+- READING :: めいじじだいにたてられたそのようかんは、わようのけんちくようしきをみごとにちょうわさせためずらしいたてものだ。
+- UK :: Той особняк, зведений в епоху Мейджі, є рідкісною будівлею, що майстерно поєднує японський і західний архітектурні стилі.
+- FOCUS :: 和洋
+
+* Sense s-1562280-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 0027369d4c009396c08f1a83e79a0902d944e8e3b00314260779339d4de10c71
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1562280-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Japan und Europa
+** Ukrainian glosses
+
+* Sense s-1562280-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 8023784f78e99ebfb56d23f3a9b408d9836eebafe476eab652e062d4e868f1f2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1562280-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: japanisch und europäisch
+** Ukrainian glosses
+
+* Sense s-1562280-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 85facae5ad5118f9e77e84fbb6a4bcd5400cfa20f96eb900f62f19e36eb6bb21
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1562280-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: : {～[の]} японский и европейский (заграничный)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1562280-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1562280-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: わよう
+** Accent accent-rd-1562280-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1562280-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: わよう

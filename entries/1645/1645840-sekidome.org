@@ -1,0 +1,153 @@
+#+TITLE: 咳止め
+#+JMDICT_ID: 1645840
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: せきどめ
+#+ROMAJI: sekidome
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-25
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1645840-001
+:PROPERTIES:
+:TEXT: 咳止め
+:END:
+** Written form wf-1645840-002
+:PROPERTIES:
+:TEXT: せき止め
+:END:
+** Written form wf-1645840-003
+:PROPERTIES:
+:TEXT: 咳止
+:END:
+*** Information
+- sK
+** Reading rd-1645840-001
+:PROPERTIES:
+:TEXT: せきどめ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1645840-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: be8bdff5c82bf2230d390b9a219ce6baad7f344f93fdea8e8e841c492ac2413f
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- cough medicine
+- cough syrup
+- cough lozenge
+** Ukrainian glosses
+*** uk-s-1645840-001-001
+:PROPERTIES:
+:END:
+- text :: засіб від кашлю; протикашльові ліки
+** Learner notes
+*** note-s-1645840-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений зі слів 咳 («кашель») та 止め («зупинка, стримування», від 止める). Позначає ліки для пригнічення або полегшення кашлю (таблетки, сироп чи пастилки); на письмі трапляється також змішаний запис せき止め.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1645840-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 薬局で咳止めを買った。
+- READING :: やっきょくでせきどめをかった。
+- UK :: Я купив в аптеці ліки від кашлю.
+- FOCUS :: 咳止め
+*** ex-1645840-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 夜になって喉が痛み出したので、寝る前に咳止めを飲んだ。
+- READING :: よるになってのどがいたみだしたので、ねるまえにせきどめをのんだ。
+- UK :: Увечері почало боліти горло, тож перед сном я прийняв засіб від кашлю.
+- FOCUS :: 咳止め
+*** ex-1645840-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 市販の咳止めを数日飲んでも症状が改善しない場合は、早めに病院を受診したほうがいい。
+- READING :: しはんのせきどめをすうじつのんでもしょうじょうがかいぜんしないばあいは、はやめにびょういんをじゅしんしたほうがいい。
+- UK :: Якщо симптоми не минають навіть після кількох днів приймання безрецептурних ліків від кашлю, варто якнайшвидше звернутися до лікаря.
+- FOCUS :: 咳止め
+
+* Sense s-1645840-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 0edd9161968d7bd3f32eaaed52b89a8ace2e8e45b23c4f792ae308625e76c81f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1645840-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Hustenmedizin
+*** en-s-1645840-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Hustenpastille
+** Ukrainian glosses
+
+* Sense s-1645840-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 08d1c86ece1d70736a68c98eaf051a820363087da1461f1e2c2d65f23cb42625
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1645840-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: средство (лекарство) от кашля
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1645840-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1645840-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-25
+:END:
+- reading :: せきどめ

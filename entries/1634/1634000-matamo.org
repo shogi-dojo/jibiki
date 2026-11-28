@@ -1,0 +1,177 @@
+#+TITLE: 又も
+#+JMDICT_ID: 1634000
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: またも
+#+ROMAJI: matamo
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-25
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1634000-001
+:PROPERTIES:
+:TEXT: 又も
+:END:
+** Reading rd-1634000-001
+:PROPERTIES:
+:TEXT: またも
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1634000-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: d9729d3186f539ce1f9748b0d3fa1d594ef56f919e4e08692b6e9b29cccb79a5
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- adv
+*** Miscellaneous and register
+- uk
+** English glosses
+- (once) again
+** Ukrainian glosses
+*** uk-s-1634000-001-001
+:PROPERTIES:
+:END:
+- text :: знову; і знову; укотре; ще раз
+** Learner notes
+*** note-s-1634000-001-001
+:PROPERTIES:
+:END:
+- UK :: Прислівник, що зазвичай пишеться каною (またも), хоч трапляється й запис ієрогліфом 又も. Виражає повторення події — часто небажаної, прикрої або такої, що викликає подив чи досаду («і знову ж таки»). Поширений також підсилений варіант またもや.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1634000-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: またも雨が降ってきた。
+- READING :: またもあめがふってきた。
+- UK :: Знову пішов дощ.
+- FOCUS :: またも
+*** ex-1634000-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 大事な試合でまたも同じミスをしてしまった。
+- READING :: だいじなしあいでまたもおなじみすをしてしまった。
+- UK :: У важливому матчі я вкотре припустився тієї самої помилки.
+- FOCUS :: またも
+*** ex-1634000-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 順調に進んでいた計画は、資金不足という壁に阻まれてまたも延期を余儀なくされた。
+- READING :: じゅんちょうにすすんでいたけいかくは、しきんぶそくというかべにはばまれてまたもえんきをよぎなくされた。
+- UK :: План, що досі просувався успішно, наразився на перешкоду у вигляді браку фінансування й укотре був змушений зазнати відтермінування.
+- FOCUS :: またも
+
+* Sense s-1634000-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: f5fc973068037b315282318801bc1e777e5457a63f2f52e6ac77c83dcb2df90c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1634000-002-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: egyébként
+*** en-s-1634000-002-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ezenkívül
+*** en-s-1634000-002-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: újfent
+*** en-s-1634000-002-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: újra
+** Ukrainian glosses
+
+* Sense s-1634000-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 187208a5e0446d2d6c1461db8b57fe91c3d866522aa7680c0eba814b33518392
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1634000-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (см.) またまた
+** Ukrainian glosses
+
+* Sense s-1634000-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: bd37faaff1716163d6bb71d76fbc08404fe9c83fb2548100021d200e1dbcab36
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1634000-004-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (una vez) otra vez
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1634000-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1634000-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 2
+:PATTERN: nakadaka
+:MORA_PATTERN: LHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-25
+:END:
+- reading :: またも

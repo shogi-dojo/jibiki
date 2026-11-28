@@ -1,0 +1,149 @@
+#+TITLE: 二重唱
+#+JMDICT_ID: 1462180
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: にじゅうしょう
+#+ROMAJI: nijuushou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1462180-001
+:PROPERTIES:
+:TEXT: 二重唱
+:END:
+** Reading rd-1462180-001
+:PROPERTIES:
+:TEXT: にじゅうしょう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1462180-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 84e5325b4cce468ac6fbe1cc4504d5efac56aad73ff0a791f54dd51fe7fdaf87
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- vocal duet
+** Ukrainian glosses
+*** uk-s-1462180-001-001
+:PROPERTIES:
+:END:
+- text :: вокальний дует
+** Learner notes
+*** note-s-1462180-001-001
+:PROPERTIES:
+:END:
+- UK :: Музичний іменник (二 «два» + 重 «шар, поєднання» + 唱 «спів»), що означає твір або виконання для двох голосів. На відміну від 二重奏 (інструментального дуету), стосується виключно вокальної музики.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1462180-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 姉と二人で二重唱を歌う。
+- READING :: あねとふたりでにじゅうしょうをうたう。
+- UK :: Співати вокальний дует удвох зі старшою сестрою.
+- FOCUS :: 二重唱
+*** ex-1462180-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: コンサートの最後に美しい二重唱が披露された。
+- READING :: こんさーとのさいごにうつくしいにじゅうしょうがひろうされた。
+- UK :: Наприкінці концерту пролунав чудовий вокальний дует.
+- FOCUS :: 二重唱
+*** ex-1462180-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 二人の息がぴったり合った二重唱に、会場から大きな拍手が送られた。
+- READING :: ふたりのいきがぴったりあったにじゅうしょうに、かいじょうからおおきなはくしゅがおくられた。
+- UK :: Зала нагородила гучними оплесками вокальний дует, у якому обидва виконавці співали в повному унісоні.
+- FOCUS :: 二重唱
+
+* Sense s-1462180-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 3bda23876eb6e8174163b988923bd8c16f8c6bbccf76d938cf03ab086122dbb7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1462180-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Duett
+*** en-s-1462180-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Vokalduett
+*** en-s-1462180-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Vokalduo
+** Ukrainian glosses
+
+* Sense s-1462180-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 9dc96a385a9fafef32116f2ee5eab8bd98714544529303110086f3c13e8c8617
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1462180-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: [вокальный] дуэт
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1462180-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1462180-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 2
+:PATTERN: nakadaka
+:MORA_PATTERN: LHLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: にじゅうしょう

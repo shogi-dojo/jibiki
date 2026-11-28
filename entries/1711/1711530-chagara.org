@@ -1,0 +1,141 @@
+#+TITLE: 茶殻
+#+JMDICT_ID: 1711530
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ちゃがら
+#+ROMAJI: chagara
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1711530-001
+:PROPERTIES:
+:TEXT: 茶殻
+:END:
+** Reading rd-1711530-001
+:PROPERTIES:
+:TEXT: ちゃがら
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1711530-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 91624028877e68fdc13db660485e04e722fcab7578b8e6422f4129fd9ea64415
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- used tea leaves
+** Ukrainian glosses
+*** uk-s-1711530-001-001
+:PROPERTIES:
+:END:
+- text :: заварка (використана); спіле чайне листя; гуща від чаю
+** Learner notes
+*** note-s-1711530-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, складене слово з 茶 (чай) та 殻 (залишки, оболонка). Позначає відпрацьоване чайне листя, що лишається в заварнику чи ситечку після заварювання; у побуті його нерідко використовують для поглинання запахів або як добриво.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1711530-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 急須から茶殻を捨てる。
+- READING :: きゅうすからちゃがらをすてる。
+- UK :: Викинути використану заварку з чайника.
+- FOCUS :: 茶殻
+*** ex-1711530-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 乾かした茶殻は冷蔵庫の消臭剤として再利用できる。
+- READING :: かわかしたちゃがらはれいぞうこのしょうしゅうざいとしてさいりようできる。
+- UK :: Висушене використане чайне листя можна повторно застосовувати як поглинач запахів у холодильнику.
+- FOCUS :: 茶殻
+*** ex-1711530-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 畳を掃く前に湿った茶殻を少し撒いておくと、ほこりが舞い上がりにくくなる。
+- READING :: たたみをはくまえにしめったちゃがらをすこしまいておくと、ほこりがまいあがりにくくなる。
+- UK :: Якщо перед підмітанням татамі розсипати трохи вологої чайної гущі, пил менше підійматиметься в повітря.
+- FOCUS :: 茶殻
+
+* Sense s-1711530-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: b2c27cffae83e2ad18f2cd1eb19d7104d45225d9cb3e4c79299c635fac2be9d3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1711530-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gebruikte theeblaadjes
+** Ukrainian glosses
+
+* Sense s-1711530-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 73be65a79679a3f83a826f5053317f6caa5bf3243e21ba395e8ec3c558fb920e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1711530-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Teereste
+*** en-s-1711530-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Teesatz
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1711530-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1711530-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: ちゃがら

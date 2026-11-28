@@ -1,0 +1,116 @@
+#+TITLE: 管理貿易
+#+JMDICT_ID: 1979880
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かんりぼうえき
+#+ROMAJI: kanriboueki
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1979880-001
+:PROPERTIES:
+:TEXT: 管理貿易
+:END:
+** Reading rd-1979880-001
+:PROPERTIES:
+:TEXT: かんりぼうえき
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1979880-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 13537bee5983bf6a6fe634da5eb2cc5f2551dcfebaa5c36918f4c3d2dd097388
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- controlled trade
+- government-managed trade
+** Ukrainian glosses
+*** uk-s-1979880-001-001
+:PROPERTIES:
+:END:
+- text :: керована торгівля; державно регульована зовнішня торгівля
+** Learner notes
+*** note-s-1979880-001-001
+:PROPERTIES:
+:END:
+- UK :: Економічний термін, утворений із 管理 (управління, контроль) та 貿易 (зовнішня торгівля). Означає торговельний режим, за якого держава встановлює квоти, ліцензії, тарифи або двосторонні обмеження на обсяг імпорту й експорту (на противагу 自由貿易 — вільній торгівлі).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1979880-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: その国は長い間、管理貿易を行っていました。
+- READING :: そのくにはながいあいだ、かんりぼうえきをおこなっていました。
+- UK :: Та країна протягом тривалого часу провадила державно регульовану торгівлю.
+- FOCUS :: 管理貿易
+*** ex-1979880-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 自由貿易と管理貿易のどちらを重視するかで、専門家の意見が分かれています。
+- READING :: じゆうぼうえきとかんりぼうえきのどちらをじゅうしするかで、せんもんかのいけんがわかれています。
+- UK :: Думки фахівців розділилися щодо того, чому надавати перевагу — вільній чи регульованій торгівлі.
+- FOCUS :: 管理貿易
+*** ex-1979880-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 特定の品目に輸入枠を設ける管理貿易は、国内産業を守る一方で価格上昇を招くことがあります。
+- READING :: とくていのひんもくにゆにゅうわくをもうけるかんりぼうえきは、こくないさんぎょうをまもるいっぽうでかかくじょうしょうをまねくことがあります。
+- UK :: Керована торгівля з установленням квот на імпорт певних товарів захищає вітчизняну промисловість, проте може спричинити зростання цін.
+- FOCUS :: 管理貿易
+
+* Sense s-1979880-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: a4ff7c3dfbfdc54601402cbc1486df7c2606e38e2d0040c5f091b49d0a22137a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1979880-002-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: торговля под государственным контролем
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1979880-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1979880-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 7
+:DROP_AFTER: 4
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: かんりぼうえき

@@ -1,0 +1,179 @@
+#+TITLE: 水雲
+#+JMDICT_ID: 2117410
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: もずく
+#+ROMAJI: mozuku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-25
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2117410-001
+:PROPERTIES:
+:TEXT: 水雲
+:END:
+** Written form wf-2117410-002
+:PROPERTIES:
+:TEXT: 藻付
+:END:
+** Written form wf-2117410-003
+:PROPERTIES:
+:TEXT: 海蘊
+:END:
+** Written form wf-2117410-004
+:PROPERTIES:
+:TEXT: 海雲
+:END:
+** Reading rd-2117410-001
+:PROPERTIES:
+:TEXT: もずく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+** Reading rd-2117410-002
+:PROPERTIES:
+:TEXT: モズク
+:NO_KANJI: true
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2117410-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 177f82014c7bd2999327ff2c53faa52a8e098ffffe9c7014d0be1ea0b1148d76
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- uk
+** English glosses
+- mozuku (Cladosiphon okamuranus and Sphaerotrichia divaricata, types of edible seaweed)
+** Ukrainian glosses
+*** uk-s-2117410-001-001
+:PROPERTIES:
+:END:
+- text :: модзуку (їстівна бура водорість)
+** Learner notes
+*** note-s-2117410-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник на позначення слизьких ниткоподібних бурих водоростей (переважно видів Cladosiphon okamuranus з Окінави та Sphaerotrichia divaricata), багатих на фукоїдан. Попри наявність кандзі 水雲 чи 海蘊, у письмі зазвичай передається каною; популярна закуска у вигляді салату з оцтом (もずく酢).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2117410-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 夕食にもずくの酢の物を食べた。
+- READING :: ゆうしょくにもずくのすのものをたべた。
+- UK :: На вечерю я їв салат із водоростей модзуку з оцтом.
+- FOCUS :: もずく
+*** ex-2117410-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 沖縄産の太いもずくは食感がよく、みそ汁に入れてもおいしい。
+- READING :: おきなわさんのふといもずくはしょっかんがよく、みそしるにいれてもおいしい。
+- UK :: Товсті окінавські водорості модзуку мають приємну текстуру і смакують навіть у супі місо.
+- FOCUS :: もずく
+*** ex-2117410-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: ぬめりのある成分を多く含むもずくは、健康によい海藻として日々の食卓に取り入れられている。
+- READING :: ぬめりのあるせいぶんをおおくふくむもずくは、けんこうによいかいそうとしてひびのしょくたくにとりいれられている。
+- UK :: Водорості модзуку, багаті на корисні слизові речовини, часто включають до щоденного раціону як цінний морський продукт.
+- FOCUS :: もずく
+
+* Sense s-2117410-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: c827c8647e4bbc037bd0baaca34b648d710912067cca0521ecb8d9b0b80c34d7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2117410-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Mozuku (Seegras aus der Fam. der Spermatochnaceae; mit Essig gewürzt als Delikatesse betrachtet)
+*** en-s-2117410-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Nemacystus decipiens
+** Ukrainian glosses
+
+* Sense s-2117410-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 72b20277fb5ba93381a3cc528b87999bab916ebff038287941345f446d07873d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2117410-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: бурая водоросль Cladosiphon decipiens (Sur.)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2117410-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2117410-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-25
+:END:
+- reading :: もずく
+** Accent accent-rd-2117410-001-002
+:PROPERTIES:
+:TARGET_ID: rd-2117410-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-25
+:END:
+- reading :: もずく

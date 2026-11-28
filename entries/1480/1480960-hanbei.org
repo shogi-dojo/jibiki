@@ -1,0 +1,186 @@
+#+TITLE: 反米
+#+JMDICT_ID: 1480960
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: はんべい
+#+ROMAJI: hanbei
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1480960-001
+:PROPERTIES:
+:TEXT: 反米
+:END:
+*** Priorities
+- news1
+- nf14
+** Reading rd-1480960-001
+:PROPERTIES:
+:TEXT: はんべい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf14
+
+* Sense s-1480960-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: fe6ce34fe6c761cf0e4885933556e7e9d4b73d169fea19b8bfa2db1e07eea115
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- adj-no
+- n
+*** Antonyms
+- 親米
+** English glosses
+- anti-American
+** Ukrainian glosses
+*** uk-s-1480960-001-001
+:PROPERTIES:
+:END:
+- text :: антиамериканський; антиамериканізм
+** Learner notes
+*** note-s-1480960-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, який із часткою の виступає означенням («антиамериканський»), а також уживається самостійно на позначення антиамериканських настроїв. Утворено з префікса 反 («проти») і скорочення 米 («США», від 米国).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1480960-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 反米のデモが続いている。
+- READING :: はんべいのでもがつづいている。
+- UK :: Антиамериканські демонстрації тривають.
+- FOCUS :: 反米
+*** ex-1480960-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: その地域では反米感情が根強く残っている。
+- READING :: そのちいきでははんべいかんじょうがねづよくのこっている。
+- UK :: У тому регіоні досі глибоко вкорінені антиамериканські настрої.
+- FOCUS :: 反米
+*** ex-1480960-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 当時の政権は反米的な政策を打ち出したため、国際社会との対立が深まった。
+- READING :: とうじのせいけんははんべいてきなせいさくをうちだしたため、こくさいしゃかいとのたいりつがふかまった。
+- UK :: Оскільки тодішня влада проголосила антиамериканську політику, протистояння з міжнародною спільнотою поглибилося.
+- FOCUS :: 反米
+
+* Sense s-1480960-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: f384207687edae2ea9ed468a5ac125d0bfee40db01b030d562d5881cd20f7b82
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1480960-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～の} anti-Amerikaans
+*** en-s-1480960-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: anti-VS
+** Ukrainian glosses
+
+* Sense s-1480960-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 57108c01c675f230c13052532c561b62f351de1671b422d0a9daaa3ee09c6ed5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1480960-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Antiamerikanismus
+** Ukrainian glosses
+
+* Sense s-1480960-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: b56848ad1511a59b6cc266596dff7c1b18a40573702612cf7f3fa4aca8be7022
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1480960-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: : {～[の]} антиамериканский
+** Ukrainian glosses
+
+* Sense s-1480960-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: d5dafb0eda1a43f38e031e91fa0b194aa69e508e061533a56475b5c2c8f33338
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1480960-005-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: antiestadounidense
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1480960-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1480960-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: はんべい

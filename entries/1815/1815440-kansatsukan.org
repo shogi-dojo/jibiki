@@ -1,0 +1,193 @@
+#+TITLE: 監察官
+#+JMDICT_ID: 1815440
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かんさつかん
+#+ROMAJI: kansatsukan
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1815440-001
+:PROPERTIES:
+:TEXT: 監察官
+:END:
+*** Priorities
+- news2
+- nf33
+** Reading rd-1815440-001
+:PROPERTIES:
+:TEXT: かんさつかん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf33
+
+* Sense s-1815440-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: cced0645142178209b86b20ff19148f35fd0b213957243f0aa8610c8ba6bb9e1
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- inspector
+- supervisor
+** Ukrainian glosses
+*** uk-s-1815440-001-001
+:PROPERTIES:
+:END:
+- text :: інспектор; ревізор; наглядач (службовий)
+** Learner notes
+*** note-s-1815440-001-001
+:PROPERTIES:
+:END:
+- UK :: Офіційний іменник, утворений із 監察 (інспекція, службовий нагляд) та 官 (урядовець, посадова особа). Позначає посадовця, який контролює дотримання дисципліни та законності всередині державних відомств, поліції чи збройних сил (наприклад, 警察監察官 — поліційний інспектор внутрішнього контролю).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1815440-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 監察官が職場の規則を確認しました。
+- READING :: かんさつかんがしょくばのきそくをかくにんしました。
+- UK :: Інспектор перевірив дотримання правил на робочому місці.
+- FOCUS :: 監察官
+*** ex-1815440-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 不祥事の報告を受けて、本部から監察官が派遣されました。
+- READING :: ふしょうじのほうこくをうけて、ほんぶからかんさつかんがはけんされました。
+- UK :: Отримавши повідомлення про службове порушення, із головного управління направили інспектора.
+- FOCUS :: 監察官
+*** ex-1815440-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 独立した立場にある監察官が調査を行ったことで、組織の問題点が明らかになりました。
+- READING :: どくりつしたたちばにあるかんさつかんがちょうさをおこなったことで、そしきのもんだいてんがあきらかになりました。
+- UK :: Завдяки тому, що розслідування провів незалежний інспектор, виявилися системні проблеми організації.
+- FOCUS :: 監察官
+
+* Sense s-1815440-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: eac2e1b4b38c754d9ad596ed43ba21df6f86cb32fba4e54b30f1a489e3a8681c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1815440-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Inspektor
+** Ukrainian glosses
+
+* Sense s-1815440-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 201f922083f50a4405a730aa13aa89b708a13067dca3fb27085e6376104aac6e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1815440-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: témavezető
+** Ukrainian glosses
+
+* Sense s-1815440-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 50f04b06352e6e69e1dc04b55fb3b18597feef23a29cc0e9ebe1896fc2bacde7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1815440-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: полицейский инспектор
+** Ukrainian glosses
+
+* Sense s-1815440-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: e323c63a83b6bd48a6d58384c105d2935aedcdeca08f9d6aa864a6404ba634c5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1815440-005-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kontrollant
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1815440-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1815440-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: かんさつかん
+** Accent accent-rd-1815440-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1815440-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 4
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: かんさつかん

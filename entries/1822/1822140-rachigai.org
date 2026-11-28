@@ -1,0 +1,164 @@
+#+TITLE: 埒外
+#+JMDICT_ID: 1822140
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: らちがい
+#+ROMAJI: rachigai
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1822140-001
+:PROPERTIES:
+:TEXT: 埒外
+:END:
+** Written form wf-1822140-002
+:PROPERTIES:
+:TEXT: らち外
+:END:
+*** Information
+- sK
+** Written form wf-1822140-003
+:PROPERTIES:
+:TEXT: 埓外
+:END:
+*** Information
+- sK
+** Reading rd-1822140-001
+:PROPERTIES:
+:TEXT: らちがい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1822140-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: f9007304bb3008e1f39ad726d33d4a6c04aba7a73c57304ecfa8b934a1fc39b3
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- out of bounds
+- beyond the pale
+** Ukrainian glosses
+*** uk-s-1822140-001-001
+:PROPERTIES:
+:END:
+- text :: вихід за межі; поза межами дозволеного
+** Learner notes
+*** note-s-1822140-001-001
+:PROPERTIES:
+:END:
+- UK :: Книжний іменник, де 埒 позначає огорожу чи кордон, а 外 — зовнішній бік. Вживається переважно у висловах 埒外に出る (виходити за встановлені межі) або 埒外に置く (залишати поза увагою чи рамками обговорення).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1822140-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: その話は今の計画の埒外です。
+- READING :: そのはなしはいまのけいかくのらちがいです。
+- UK :: Це питання виходить за межі теперішнього плану.
+- FOCUS :: 埒外
+*** ex-1822140-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 個人の好みは法律の埒外に置かれるべきだ。
+- READING :: こじんのこのみはほうりつのらちがいにおかれるべきだ。
+- UK :: Особисті вподобання мають залишатися поза межами дії закону.
+- FOCUS :: 埒外
+*** ex-1822140-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 今回の議論では、実現可能性の低い提案はあらかじめ検討の埒外とされた。
+- READING :: こんかいのぎろんでは、じつげんかのうせいのひくいていあんはあらかじめけんとうのらちがいとされた。
+- UK :: Під час цього обговорення малореалістичні пропозиції заздалегідь винесли за рамки розгляду.
+- FOCUS :: 埒外
+
+* Sense s-1822140-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 25c33a856d6f200bbba9224a519a008c1521ecdc5d5b4727833be889aa55b1ee
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1822140-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Bereich außerhalb eines bestimmten Gebiets
+** Ukrainian glosses
+
+* Sense s-1822140-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 34793bd8604fb0cd640320ff4d31ba433d55bf5485b18ee88fe6e376b7aaeadf
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1822140-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: megengedett területen kívül
+** Ukrainian glosses
+
+* Sense s-1822140-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 864883f23d4666a6284291215f4c70cb3dfde5da8bc7b47de6707b82e3ed0856
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1822140-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (связ.:) 埒外に出る выходить за [положенные] пределы
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1822140-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1822140-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 2
+:PATTERN: nakadaka
+:MORA_PATTERN: LHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: らちがい

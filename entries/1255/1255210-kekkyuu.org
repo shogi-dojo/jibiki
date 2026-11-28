@@ -1,0 +1,167 @@
+#+TITLE: 血球
+#+JMDICT_ID: 1255210
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: けっきゅう
+#+ROMAJI: kekkyuu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1255210-001
+:PROPERTIES:
+:TEXT: 血球
+:END:
+** Reading rd-1255210-001
+:PROPERTIES:
+:TEXT: けっきゅう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1255210-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 7c2a3f64993a5fd538006b4a6f718d5ea3b5ca8cb8649232f079765891c6b54c
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- blood cell
+** Ukrainian glosses
+*** uk-s-1255210-001-001
+:PROPERTIES:
+:END:
+- text :: клітина крові; кров'яне тільце
+** Learner notes
+*** note-s-1255210-001-001
+:PROPERTIES:
+:END:
+- UK :: Біологічний і медичний термін, утворений із 血 (кров) та 球 (куля, тільце). Об'єднує формені елементи крові: еритроцити (赤血球), лейкоцити (白血球) та тромбоцити (血小板).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1255210-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 顕微鏡で血球の形を観察した。
+- READING :: けんびきょうでけっきゅうのかたちをかんさつした。
+- UK :: Я спостерігав форму клітин крові під мікроскопом.
+- FOCUS :: 血球
+*** ex-1255210-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 血液検査では、血球の数や割合を詳しく調べることができる。
+- READING :: けつえきけんさでは、けっきゅうのかずやわりあいをくわしくしらべることができる。
+- UK :: Під час аналізу крові можна детально перевірити кількість і співвідношення кров'яних тілець.
+- FOCUS :: 血球
+*** ex-1255210-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 骨髄は酸素を運ぶ赤血球や免疫を担う白血球など、多様な血球を作り出す重要な組織である。
+- READING :: こつずいはさんそをはこぶせっけっきゅうやめんえきをになうはっけっきゅうなど、たようなけっきゅうをつくりだすじゅうようなそしきである。
+- UK :: Кістковий мозок є важливою тканиною, яка утворює різні клітини крові, зокрема еритроцити, що переносять кисень, і лейкоцити, що відповідають за імунітет.
+- FOCUS :: 血球
+
+* Sense s-1255210-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: f98d41505bdbcbef2ed87122e784acf390a11df5d7f7cb758576ff587edc76d4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1255210-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {anat.} bloedlichaampje
+*** en-s-1255210-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bloedcel
+*** en-s-1255210-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bloedbolletje
+** Ukrainian glosses
+
+* Sense s-1255210-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: b0ee8ebbb22ef93fd5c4c72bf9ccce40b108fd29b395224974ddf8906b9dcd37
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1255210-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Blutkörperchen
+** Ukrainian glosses
+
+* Sense s-1255210-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: aeda4e6bfa8aac2d8f36284b6b6acb170854416d8169995869bc80dccbcd9397
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1255210-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: кровяные шарики, кровяные тельца
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1255210-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1255210-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: けっきゅう

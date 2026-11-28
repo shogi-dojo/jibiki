@@ -1,0 +1,157 @@
+#+TITLE: 何のその
+#+JMDICT_ID: 2756640
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: なんのその
+#+ROMAJI: nannosono
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2756640-001
+:PROPERTIES:
+:TEXT: 何のその
+:END:
+** Written form wf-2756640-002
+:PROPERTIES:
+:TEXT: 何の其の
+:END:
+** Reading rd-2756640-001
+:PROPERTIES:
+:TEXT: なんのその
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2756640-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: a188e5ab1dafebba93e878d3b78fdb5ecb1f1f2304be9be00577edb22c1a61b3
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- exp
+*** Miscellaneous and register
+- uk
+** English glosses
+- nothing special
+- no big deal
+- doesn't matter
+** Ukrainian glosses
+*** uk-s-2756640-001-001
+:PROPERTIES:
+:END:
+- text :: дарма; байдуже; не перешкода; дрібниці
+** Learner notes
+*** note-s-2756640-001-001
+:PROPERTIES:
+:END:
+- UK :: Експресивний вислів, що зазвичай пишеться каною なんのその (також трапляється написання 何のその). Уживається наприкінці звороту після іменника або частки くらい чи も, щоб підкреслити, що людина сміливо долає перешкоду, втому чи критику й не зважає на них.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2756640-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 子どもたちは寒さもなんのその、元気に遊んでいます。
+- READING :: こどもたちはさむさもなんのその、げんきにあそんでいます。
+- UK :: Дітям і холод дарма — вони жваво граються.
+- FOCUS :: なんのその
+*** ex-2756640-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 厳しい練習の疲れなどなんのその、選手は笑顔を見せた。
+- READING :: きびしいれんしゅうのつかれなどなんのその、せんしゅはえがおをみせた。
+- UK :: Попри втому від виснажливих тренувань, спортсмен усміхався, мовби нічого й не було.
+- FOCUS :: なんのその
+*** ex-2756640-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 周囲からの厳しい批判もなんのその、彼女は自分の信念を貫いて研究を続けた。
+- READING :: しゅういからのきびしいひはんもなんのその、かのじょはじぶんのしんねんをつらぬいてけんきゅうをつづけた。
+- UK :: Не зважаючи на гостру критику з боку оточення, вона залишалася вірною своїм переконанням і продовжувала дослідження.
+- FOCUS :: なんのその
+
+* Sense s-2756640-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 5cbd2eabd6eb69212e08517ac490eea28376fe78b17c965af93157b8d24a821e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2756640-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: einem nichts ausmachen
+*** en-s-2756640-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: einem keine Sorgen machen
+*** en-s-2756640-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: einem egal sein
+** Ukrainian glosses
+
+* Sense s-2756640-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: d17665bc6e61c6a74c1141aad61f2eae01b6c49db3158cd989aeff837b89482a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2756640-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: что из того, что…
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2756640-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2756640-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: なんのその

@@ -1,0 +1,157 @@
+#+TITLE: 第四紀
+#+JMDICT_ID: 2205780
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: だいよんき
+#+ROMAJI: daiyonki
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2205780-001
+:PROPERTIES:
+:TEXT: 第四紀
+:END:
+** Reading rd-2205780-001
+:PROPERTIES:
+:TEXT: だいよんき
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+** Reading rd-2205780-002
+:PROPERTIES:
+:TEXT: だいしき
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2205780-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 1a01e1b880925d6cf46719533b33f3bbd63a7333dc4b927aa23d0fe2552e755a
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- Quaternary period
+** Ukrainian glosses
+*** uk-s-2205780-001-001
+:PROPERTIES:
+:END:
+- text :: четвертинний період
+** Learner notes
+*** note-s-2205780-001-001
+:PROPERTIES:
+:END:
+- UK :: Геологічний термін, що позначає останній період кайнозойської ери, який триває й досі та охоплює льодовикові епохи й становлення сучасної людини. Утворено з 第 (порядковий префікс), 四 (чотири) та 紀 (геологічний період); крім основного читання だいよんき трапляється також だいしき.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2205780-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 第四紀は一番新しい地質時代です。
+- READING :: だいよんきはいちばんあたらしいちしつじだいです。
+- UK :: Четвертинний період — найновіша геологічна епоха.
+- FOCUS :: 第四紀
+*** ex-2205780-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 博物館で第四紀の動物に関する展示を見た。
+- READING :: はくぶつかんでだいよんきのどうぶつにかんするてんじをみた。
+- UK :: У музеї я оглянув експозицію про тварин четвертинного періоду.
+- FOCUS :: 第四紀
+*** ex-2205780-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 第四紀における気候変動は、人類の移動や生態系の形成に大きな影響を与えた。
+- READING :: だいよんきにおけるきこうへんどうは、じんるいのいどうやせいたいけいのけいせいにおおきなえいきょうをあたえた。
+- UK :: Зміни клімату в четвертинному періоді справили значний вплив на розселення людства та формування екосистем.
+- FOCUS :: 第四紀
+
+* Sense s-2205780-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: f7157b5dc1147adf043001c59b27cacb2650eafb24fdcaf264efd8b5b681b928
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2205780-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Quartär (jüngstes geologisches System)
+** Ukrainian glosses
+
+* Sense s-2205780-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: cd370ce40ae3a13ce7154295a6fb3d22e933cf1228a4084e936b1fd799069845
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2205780-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (геол.) четвертичный период
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2205780-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2205780-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: だいよんき
+** Accent accent-rd-2205780-002-001
+:PROPERTIES:
+:TARGET_ID: rd-2205780-002
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: だいしき

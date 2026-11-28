@@ -1,0 +1,177 @@
+#+TITLE: 秒針
+#+JMDICT_ID: 1490440
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: びょうしん
+#+ROMAJI: byoushin
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1490440-001
+:PROPERTIES:
+:TEXT: 秒針
+:END:
+** Reading rd-1490440-001
+:PROPERTIES:
+:TEXT: びょうしん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1490440-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 7b2ff4e95328d655d28488404c9a621062c139610c3158db46afcb59f4a73e90
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- second hand (of clock)
+** Ukrainian glosses
+*** uk-s-1490440-001-001
+:PROPERTIES:
+:END:
+- text :: секундна стрілка
+** Learner notes
+*** note-s-1490440-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений із 秒 (секунда) та 針 (стрілка, голка). Уживається поруч із 短針 (годинна стрілка) і 長針 (хвилинна стрілка) для опису циферблата механічного чи кварцового годинника.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1490440-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この時計は秒針の音が静かです。
+- READING :: このとけいはびょうしんのおとがしずかです。
+- UK :: У цього годинника секундна стрілка цокає тихо.
+- FOCUS :: 秒針
+*** ex-1490440-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 試験の終了時刻が近づき、みんなが秒針の動きを見つめました。
+- READING :: しけんのしゅうりょうじこくがちかづき、みんながびょうしんのうごきをみつめました。
+- UK :: Наближався час завершення іспиту, і всі пильно дивилися на рух секундної стрілки.
+- FOCUS :: 秒針
+*** ex-1490440-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 電池が切れかかると、腕時計の秒針が二秒ごとにまとめて動くことがあります。
+- READING :: でんちがきれかかると、うでどけいのびょうしんがにびょうごとにまとめてうごくことがあります。
+- UK :: Коли батарейка майже сідає, секундна стрілка наручного годинника іноді починає стрибати через кожні дві секунди.
+- FOCUS :: 秒針
+
+* Sense s-1490440-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: a15006c329ae919315bd13c42a283b15a556a3af8cf4ce56c2fc946f6914691c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1490440-002-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aiguille des secondes
+*** en-s-1490440-002-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: trotteuse
+** Ukrainian glosses
+
+* Sense s-1490440-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 59aee6dcc24f318a6a855eec0114dde9cb679f70f391962dcbc9a4d1606efe72
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1490440-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Sekundenzeiger
+** Ukrainian glosses
+
+* Sense s-1490440-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 422725dd31030aeaf7fb9c156af67d1c4e9091c441bb368c9f84ad761baaa229
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1490440-004-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: másodpercmutató
+** Ukrainian glosses
+
+* Sense s-1490440-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 4c987773777c585f1fc2357e5299bf49aaae14a52b037782b84dc07d345c6232
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1490440-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: секундная стрелка
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1490440-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1490440-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: びょうしん

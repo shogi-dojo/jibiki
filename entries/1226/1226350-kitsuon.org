@@ -1,0 +1,155 @@
+#+TITLE: 吃音
+#+JMDICT_ID: 1226350
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: きつおん
+#+ROMAJI: kitsuon
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1226350-001
+:PROPERTIES:
+:TEXT: 吃音
+:END:
+** Written form wf-1226350-002
+:PROPERTIES:
+:TEXT: きつ音
+:END:
+** Reading rd-1226350-001
+:PROPERTIES:
+:TEXT: きつおん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1226350-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: bd5fc19cb8545b3522ec8e411d174258ff48f1c387336687cc368c0677f5ed62
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- stammering
+- stuttering
+- dysphemia
+** Ukrainian glosses
+*** uk-s-1226350-001-001
+:PROPERTIES:
+:END:
+- text :: заїкання; затинання
+** Learner notes
+*** note-s-1226350-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник (名詞), медичний і логопедичний термін, утворений із 吃 (затинатися) та 音 (звук). У сучасній мові є нейтральним і коректним позначенням цього мовленнєвого порушення (замість колись поширеного розмовного слова どもり, якого нині уникають); часто вживається у поєднанні 吃音症.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1226350-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 弟は子どものころから吃音がある。
+- READING :: おとうとはこどものころからきつおんがある。
+- UK :: У молодшого брата з дитинства є заїкання.
+- FOCUS :: 吃音
+*** ex-1226350-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 焦らずにゆっくり話すことで、吃音の症状が和らぐ場合もある。
+- READING :: あせらずにゆっくりはなすことで、きつおんのしょうじょうがやわらぐばあいもある。
+- UK :: Якщо говорити спокійно й не квапитися, прояви заїкання іноді пом'якшуються.
+- FOCUS :: 吃音
+*** ex-1226350-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 学校や職場での正しい理解が広がれば、吃音を持つ人も安心して発言できるようになる。
+- READING :: がっこうやしょくばでのただしいりかいがひろがれば、きつおんをもつひともあんしんしてはつげんできるようになる。
+- UK :: Коли в школах і на робочих місцях пошириться належне розуміння, люди із заїканням зможуть висловлюватися спокійніше та впевненіше.
+- FOCUS :: 吃音
+
+* Sense s-1226350-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 3b11594dabf560fdff93463c4d4a53aed3c1958f4ebff0c5808b4464102f9de8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1226350-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Stammeln
+*** en-s-1226350-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Stottern
+*** en-s-1226350-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Dysphemie
+** Ukrainian glosses
+
+* Sense s-1226350-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: efe2ba26870dc943643c9df7b4a1f8967a4ad1969302814264e99dfaff456c48
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1226350-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: заикание
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1226350-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1226350-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: きつおん

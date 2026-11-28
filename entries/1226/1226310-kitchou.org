@@ -1,0 +1,183 @@
+#+TITLE: 吉兆
+#+JMDICT_ID: 1226310
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: きっちょう
+#+ROMAJI: kitchou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1226310-001
+:PROPERTIES:
+:TEXT: 吉兆
+:END:
+*** Priorities
+- news2
+- nf25
+- spec2
+** Written form wf-1226310-002
+:PROPERTIES:
+:TEXT: 吉徴
+:END:
+*** Information
+- sK
+** Reading rd-1226310-001
+:PROPERTIES:
+:TEXT: きっちょう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf25
+- spec2
+
+* Sense s-1226310-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: df1d26891e24a9ba8a620e751f3e49ee0e841b5c130c3d65bb6d120977ff6821
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- adj-no
+** English glosses
+- lucky omen
+- good omen
+** Ukrainian glosses
+*** uk-s-1226310-001-001
+:PROPERTIES:
+:END:
+- text :: добре передвістя, щаслива прикмета, добрий знак
+** Learner notes
+*** note-s-1226310-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, також вживається як іменний означник із の (吉兆の). Книжне слово, утворене з 吉 (щасливий) і 兆 (знак, прикмета); уживається в контексті природних явищ або символічних подій, що віщують успіх (напр. 吉兆を示す).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1226310-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 朝焼けは晴れの吉兆です。
+- READING :: あさやけははれのきっちょうです。
+- UK :: Ранкова зоря — добрий знак погожого дня.
+- FOCUS :: 吉兆
+*** ex-1226310-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 元日に鶴を見かけたのは、今年が良い年になる吉兆かもしれない。
+- READING :: がんじつにつるをみかけたのは、ことしがよいとしになるきっちょうかもしれない。
+- UK :: Побачити журавля на Новий рік — можливо, це добра прикмета того, що рік буде вдалим.
+- FOCUS :: 吉兆
+*** ex-1226310-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 乾いた大地に降り始めた恵みの雨を、農民たちは豊作の吉兆として大いに喜んだ。
+- READING :: かわいただいちにふりはじめためぐみのあめを、のうみんたちはほうさくのきっちょうとしておおいによろこんだ。
+- UK :: Благодатний дощ, що почав накрапати на суху землю, селяни з радістю сприйняли як добру ознаку щедрого врожаю.
+- FOCUS :: 吉兆
+
+* Sense s-1226310-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 2c7effe1be7df16ec6109b91e99a01843806c3b3508f38e6fc2ef7618eb9ae63
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1226310-002-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bon présage
+** Ukrainian glosses
+
+* Sense s-1226310-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: d77850c55caa0ee6fc04b1bdab8ce3c5282dbefe801ba5ed82e0d1ada2867983
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1226310-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: glückverheißendes Vorzeichen
+*** en-s-1226310-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gutes Omen
+*** en-s-1226310-003-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gute Vorbedeutung
+** Ukrainian glosses
+
+* Sense s-1226310-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 57034bc5776e392986e26149155cb4834742eed0cb461437af42a4eb7d327ec6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1226310-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: доброе предзнаменование; счастливый признак
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1226310-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1226310-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: きっちょう

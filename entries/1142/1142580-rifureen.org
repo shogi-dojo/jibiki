@@ -1,0 +1,175 @@
+#+TITLE: リフレーン
+#+JMDICT_ID: 1142580
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: リフレーン
+#+ROMAJI: rifureen
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-1142580-001
+:PROPERTIES:
+:TEXT: リフレーン
+:NO_KANJI: false
+:END:
+** Reading rd-1142580-002
+:PROPERTIES:
+:TEXT: リフレイン
+:NO_KANJI: false
+:END:
+
+* Sense s-1142580-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 84cfe10373bf71ff464bda7c118728e65450de9cd5c58e03b3643272532fa559
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- refrain
+** Ukrainian glosses
+*** uk-s-1142580-001-001
+:PROPERTIES:
+:END:
+- text :: рефрен; приспів
+** Learner notes
+*** note-s-1142580-001-001
+:PROPERTIES:
+:END:
+- UK :: Запозичення з англійської мови (refrain) у значенні повторюваного рядка або строфи у вірші чи пісні, а також музичної теми, що періодично повертається. Інколи вживається варіант написання リフレイン.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1142580-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この歌のリフレーンはとても覚えやすいです。
+- READING :: このうたのりふれーんはとてもおぼえやすいです。
+- UK :: Приспів цієї пісні дуже легко запам'ятати.
+- FOCUS :: リフレーン
+*** ex-1142580-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 観客が曲のリフレーンに合わせて手拍子を始めた。
+- READING :: かんきゃくがきょくのりふれーんにあわせててびょうしをはじめた。
+- UK :: Глядачі почали плескати в долоні в такт приспіву пісні.
+- FOCUS :: リフレーン
+*** ex-1142580-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: その詩では同じフレーズが何度もリフレーンとして繰り返され、深い余韻を残す。
+- READING :: そのしではおなじふれーずがなんどもりふれーんとしてくりかえされ、ふかいよいんをのこす。
+- UK :: У цьому вірші та сама фраза неодноразово повторюється як рефрен, залишаючи глибокий післясмак.
+- FOCUS :: リフレーン
+
+* Sense s-1142580-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: bd29660e548f588407828161b75453c373f8928dd9a5be3b61bb16430288b2fa
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1142580-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kehrreim
+*** en-s-1142580-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Refrain
+** Ukrainian glosses
+
+* Sense s-1142580-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: db53929cd3da17beeacf47ae363ee2f61057e5dfd07c028106d30b6b358b2109
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1142580-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: refrén
+** Ukrainian glosses
+
+* Sense s-1142580-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: cc5f2b05e737025641d28671537876fecb109f47f311713f7937db71204d1064
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1142580-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ((англ.) refrain) рефрен, припев
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1142580-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1142580-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: リフレーン
+** Accent accent-rd-1142580-002-001
+:PROPERTIES:
+:TARGET_ID: rd-1142580-002
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: リフレイン

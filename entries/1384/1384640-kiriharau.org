@@ -1,0 +1,179 @@
+#+TITLE: 切り払う
+#+JMDICT_ID: 1384640
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: きりはらう
+#+ROMAJI: kiriharau
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-25
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1384640-001
+:PROPERTIES:
+:TEXT: 切り払う
+:END:
+** Written form wf-1384640-002
+:PROPERTIES:
+:TEXT: 斬り払う
+:END:
+** Written form wf-1384640-003
+:PROPERTIES:
+:TEXT: 切払う
+:END:
+** Reading rd-1384640-001
+:PROPERTIES:
+:TEXT: きりはらう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1384640-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: be577a6ddd3862793dd549d493e09ff9e54ffff95042a576041e87d14e952fe0
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5u
+- vt
+** English glosses
+- to clear away
+- to clear land
+- to prune
+- to lop off
+** Ukrainian glosses
+*** uk-s-1384640-001-001
+:PROPERTIES:
+:END:
+- text :: вирубувати; обрубувати; розчищати від заростей
+** Learner notes
+*** note-s-1384640-001-001
+:PROPERTIES:
+:END:
+- UK :: Перехідне дієслово першої групи (五段), утворене поєднанням 切る («різати, рубати») та 払う («змітати, прибирати геть»). Означає зрізання чи вирубування зайвих гілок, кущів або бур'янів, щоб розчистити простір, а в літературі з формою 斬り払う — також відсікання ударом меча.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1384640-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 庭の伸びた枝を切り払う。
+- READING :: にわののびたえだをきりはらう。
+- UK :: Обрізати гілки, що розрослися в саду.
+- FOCUS :: 切り払う
+*** ex-1384640-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 山道の邪魔になる草木を鎌で切り払った。
+- READING :: やまみちのじゃまになるくさきをかまできりはらった。
+- UK :: Ми вирубали серпом кущі й траву, що заважали на гірській стежці.
+- FOCUS :: 切り払った
+*** ex-1384640-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 見通しを良くするため、空き地に生い茂った雑草や低い木を朝から切り払っている。
+- READING :: みとおしをよくするため、あきちにおいしげったざっそうやひくいきをあさからきりはらっている。
+- UK :: Щоб покращити огляд, ми з ранку розчищаємо пустир від густих бур'янів і невисоких дерев.
+- FOCUS :: 切り払っている
+
+* Sense s-1384640-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: ed7bf7cc0479269c1902f5bcddba673818ccb48234a2dadb1699bb577056c976
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1384640-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: wegschneiden
+*** en-s-1384640-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: abschneiden
+*** en-s-1384640-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ausputzen
+** Ukrainian glosses
+
+* Sense s-1384640-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: f26d58c3996c8290b4ca7dbdde5013dd52f4b86a8b9e41fde5d6e236d223df6c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1384640-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: megmetsz
+** Ukrainian glosses
+
+* Sense s-1384640-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 9d1389f1726b727463404507e868153c72ca40ba7d208b0d9527428f9e7deb24
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1384640-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: вырубать, вырезать; срезать; очищать (от чего-л.)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1384640-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1384640-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 4
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-25
+:END:
+- reading :: きりはらう

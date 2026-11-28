@@ -1,0 +1,142 @@
+#+TITLE: 外光
+#+JMDICT_ID: 2100320
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: がいこう
+#+ROMAJI: gaikou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2100320-001
+:PROPERTIES:
+:TEXT: 外光
+:END:
+** Reading rd-2100320-001
+:PROPERTIES:
+:TEXT: がいこう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2100320-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: b7a5b07180989353b54627cc5ecea8f35fd84f9ce83a5342218573c29b7a2ce4
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- light from outside
+- natural light
+** Ukrainian glosses
+*** uk-s-2100320-001-001
+:PROPERTIES:
+:END:
+- text :: зовнішнє світло; природне денне світло
+** Learner notes
+*** note-s-2100320-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник (名詞), що поєднує 外 (зовнішній) і 光 (світло). Позначає сонячне чи денне світло, яке потрапляє ззовні до приміщення, або ж природне освітлення на відкритому повітрі, зокрема в живописі та фотографії.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2100320-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: カーテンを開けて部屋に外光を取り入れた。
+- READING :: かーてんをあけてへやにがいこうをとりいれた。
+- UK :: Я відсунув штори й впустив у кімнату денне світло.
+- FOCUS :: 外光
+*** ex-2100320-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: この美術館の展示室は、外光を遮って作品を保護している。
+- READING :: このびじゅつかんのてんじしつは、がいこうをさえぎってさくひんをほごしている。
+- UK :: У виставковій залі цього художнього музею блокують зовнішнє світло, щоб захистити твори мистецтва.
+- FOCUS :: 外光
+*** ex-2100320-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: その画家はアトリエを飛び出し、移り変わる外光のもとで風景を描くことに力を注いだ。
+- READING :: そのがかはあとりえをとびだし、うつりかわるがいこうのもとでふうけいをえがくことにちからをそそいだ。
+- UK :: Той художник залишив майстерню й зосередився на написанні пейзажів під мінливим природним освітленням.
+- FOCUS :: 外光
+
+* Sense s-2100320-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 926920ca58782e4b5c7271267b29c9dadc52371b07059bc02dccd1f065095322
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2100320-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Außenstrahlung
+** Ukrainian glosses
+
+* Sense s-2100320-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: bdbcc0ce6f57bac98afc89270846f1c517a9b288ff0f00cb07597f08e715041d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2100320-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) (иск.) пленэр
+*** en-s-2100320-003-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) (см.) がいこうせん【外光線】
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2100320-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2100320-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: がいこう

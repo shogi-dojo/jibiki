@@ -1,0 +1,239 @@
+#+TITLE: メス
+#+JMDICT_ID: 1133180
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: メス
+#+ROMAJI: mesu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-1133180-001
+:PROPERTIES:
+:TEXT: メス
+:NO_KANJI: false
+:END:
+*** Priorities
+- gai1
+
+* Sense s-1133180-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 51708a89c5d4ad44ba1c28fd7750474bec9a3391d4ef8cf80e151d13090f4628
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Language sources
+**** Language source ls-s-1133180-001-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: full
+:WASEI: false
+:END:
+- text :: mes
+** English glosses
+- scalpel
+- surgical knife
+** Ukrainian glosses
+*** uk-s-1133180-001-001
+:PROPERTIES:
+:END:
+- text :: скальпель; хірургічний ніж
+** Learner notes
+*** note-s-1133180-001-001
+:PROPERTIES:
+:END:
+- UK :: Запозичений медичний іменник від нідерландського mes («ніж»), що з'явився в японській мові в добу 蘭学 (ранґаку). Окрім буквального значення хірургічного інструмента, широко вживається в переносному звороті メスを入れる («робити розтин» або «рішуче братися за реформування чи розв'язання задавненої проблеми»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1133180-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 医師が手術でメスを使う。
+- READING :: いしがしゅじゅつでめすをつかう。
+- UK :: Лікар користується скальпелем під час операції.
+- FOCUS :: メス
+*** ex-1133180-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 新しい院長は病院の古い制度にメスを入れた。
+- READING :: あたらしいいんちょうはびょういんのふるいせいどにめすをいれた。
+- UK :: Новий головний лікар рішуче взявся за реформування застарілих порядків у лікарні.
+- FOCUS :: メス
+*** ex-1133180-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 江戸時代にオランダ医学から伝わったメスという言葉は、今も医療の現場で使われている。
+- READING :: えどじだいにおらんだいがくからつたわっためすということばは、いまもいりょうのげんばでつかわれている。
+- UK :: Слово «месу», яке потрапило до Японії в епоху Едо з нідерландської медицини, й досі вживається в медичній практиці.
+- FOCUS :: メス
+
+* Sense s-1133180-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 0fcc8b475918220b37725175b9ecd339794360da7ccf3d2c75e87bb13b327bd8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1133180-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {anat.
+*** en-s-1133180-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: geneesk.} scalpel
+*** en-s-1133180-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ontleedmes
+*** en-s-1133180-002-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: operatiemes
+** Ukrainian glosses
+
+* Sense s-1133180-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 3d871e45e7ee25e402f0108e544a1bb584208db005cb1a6cfd690ec97f49e78c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1133180-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Metz
+** Ukrainian glosses
+
+* Sense s-1133180-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 0932662e9cb81d6ba3494a3352b0e2bff7a8e56ca79dd393c4db9bc511485915
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1133180-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Skalpell
+*** en-s-1133180-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: chirurgisches Messer
+** Ukrainian glosses
+
+* Sense s-1133180-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: a975f4ddd18ce5c6d2d64058c26661fcbc34b17dfaf2efb3fc12382ab6cec81c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1133180-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tiefer Einschnitt
+*** en-s-1133180-005-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: energisches Durchgreifen
+*** en-s-1133180-005-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Metz (Stadt in Frankreich)
+** Ukrainian glosses
+
+* Sense s-1133180-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 60c9f8e6414a5f60af4acb1838b89a5fc39cf09fb7e2cf9dda08c3bcb5eb3b00
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1133180-006-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: szike
+** Ukrainian glosses
+
+* Sense s-1133180-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: dfeebeac487c69b5c22200bc7c526eb131f14665534092ed1b1c958bc9bb428c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1133180-007-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ((нем.) Messer) скальпель
+** Ukrainian glosses

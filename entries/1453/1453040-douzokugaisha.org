@@ -1,0 +1,142 @@
+#+TITLE: 同族会社
+#+JMDICT_ID: 1453040
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: どうぞくがいしゃ
+#+ROMAJI: douzokugaisha
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1453040-001
+:PROPERTIES:
+:TEXT: 同族会社
+:END:
+** Reading rd-1453040-001
+:PROPERTIES:
+:TEXT: どうぞくがいしゃ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+** Reading rd-1453040-002
+:PROPERTIES:
+:TEXT: どうぞくかいしゃ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1453040-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 3b589bae3430651d363e56318dbb3a9907df693e5c0677f552c124d9da71c581
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- family corporation
+- family company
+- affiliated concern
+** Ukrainian glosses
+*** uk-s-1453040-001-001
+:PROPERTIES:
+:END:
+- text :: сімейна компанія; родинне підприємство
+** Learner notes
+*** note-s-1453040-001-001
+:PROPERTIES:
+:END:
+- UK :: Економічний і юридичний іменник на позначення фірми або корпорації, контрольний пакет акцій та керівні посади в якій належать представникам однієї родини чи спорідненого клану (у японському податковому праві має чітке визначення за часткою власності обмеженого кола акціонерів).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1453040-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 叔父が経営する会社は小さな同族会社だ。
+- READING :: おじがけいえいするかいしゃはちいさなどうぞくがいしゃだ。
+- UK :: Компанія, якою керує мій дядько, — невелике сімейне підприємство.
+- FOCUS :: 同族会社
+*** ex-1453040-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 同族会社は意思決定が速い一方で、後継者問題が起きやすいとも言われる。
+- READING :: どうぞくがいしゃはいしけっていがはやいいっぽうで、こうけいしゃもんだいがおきやすいともいわれる。
+- UK :: Кажуть, що в родинних компаніях рішення ухвалюють швидко, проте водночас нерідко виникають проблеми з наступництвом.
+- FOCUS :: 同族会社
+*** ex-1453040-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 創業以来の同族会社から脱却するため、同社は外部から専門の経営者を招いて改革を進めた。
+- READING :: そうぎょういらいのどうぞくがいしゃからだっきゃくするため、どうしゃはがいぶからせんもんのけいえいしゃをまねいてかいかくをすすめた。
+- UK :: Щоб відійти від моделі родинного підприємства, що трималася з часу заснування, компанія запросила фахового керівника ззовні й провела реформи.
+- FOCUS :: 同族会社
+
+* Sense s-1453040-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 3d7072c25c77d3b1ea056b400368addfdcf9cdb5e475a35f11c5c300c22e8cd6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1453040-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Familienunternehmen
+** Ukrainian glosses
+
+* Sense s-1453040-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 20b0520e7a3145572e6b660373d97f4d762276a3b87b00a92be3a6665d04f760
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1453040-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: компания, большая часть акций (капитала), который принадлежит родственникам
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1453040-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1453040-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 7
+:DROP_AFTER: 5
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: どうぞくがいしゃ

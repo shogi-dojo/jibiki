@@ -1,0 +1,203 @@
+#+TITLE: 版木
+#+JMDICT_ID: 1626140
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: はんぎ
+#+ROMAJI: hangi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1626140-001
+:PROPERTIES:
+:TEXT: 版木
+:END:
+*** Priorities
+- news2
+- nf34
+** Written form wf-1626140-002
+:PROPERTIES:
+:TEXT: 板木
+:END:
+** Reading rd-1626140-001
+:PROPERTIES:
+:TEXT: はんぎ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf34
+
+* Sense s-1626140-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 14ea7e7c1a6ea1a5053eaa1e3fa733c85b228a46bb53f0bb4ed907f0ab15d7af
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- woodblock
+- (printing) block
+** Ukrainian glosses
+*** uk-s-1626140-001-001
+:PROPERTIES:
+:END:
+- text :: друкарська дошка; ксилографічне кліше
+** Learner notes
+*** note-s-1626140-001-001
+:PROPERTIES:
+:END:
+- UK :: Поліграфічний і мистецтвознавчий іменник, що позначає дерев'яну дошку з вирізьбленим дзеркальним зображенням або текстом для ручного друку книг і гравюр 浮世絵. Для основи зазвичай використовували тверду деревину вишні-сакури; у текстах також трапляється варіант написання 板木.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1626140-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 職人が版木を彫っている。
+- READING :: しょくにんがはんぎをほっている。
+- UK :: Майстер різьбить друкарську дошку.
+- FOCUS :: 版木
+*** ex-1626140-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 江戸時代に作られた貴重な版木が、この資料館に保存されている。
+- READING :: えどじだいにつくられたきちょうなはんぎが、このしりょうかんにほぞんされている。
+- UK :: У цьому музеї зберігаються цінні друкарські дошки, виготовлені в період Едо.
+- FOCUS :: 版木
+*** ex-1626140-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 文字や絵を左右逆に彫った版木に墨を塗り、和紙を重ねて丁寧に摺り上げる。
+- READING :: もじやえをさゆうぎゃくにほったはんぎにすみをぬり、わしをかさねてていねいにすりあげる。
+- UK :: На дерев'яну дошку, де літери й малюнки вирізьблені дзеркально, наносять туш, накладають японський папір ваші й обережно роблять відбиток.
+- FOCUS :: 版木
+
+* Sense s-1626140-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 1fcad2a2336f0a7fd8c0bde840aaf7d4495afbd8505714f27d7fb6e07b4ac5f0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1626140-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Druckstock
+*** en-s-1626140-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Holzschnitt
+** Ukrainian glosses
+
+* Sense s-1626140-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 844f855806388d6091c3e0363d296110e48efa17ceea06f34daa3b1761ff7a29
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1626140-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: blokáció
+*** en-s-1626140-003-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: féktuskó
+*** en-s-1626140-003-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fametszet
+** Ukrainian glosses
+
+* Sense s-1626140-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 71954073fcc54b60efc05a146d07710fce63da7146e2039ba782bc639c1e6924
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1626140-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (полигр.) деревянная печатная форма; ксилографическое клише
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1626140-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1626140-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: はんぎ
+** Accent accent-rd-1626140-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1626140-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 3
+:PATTERN: odaka
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: はんぎ

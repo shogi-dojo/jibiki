@@ -1,0 +1,196 @@
+#+TITLE: 葉柄
+#+JMDICT_ID: 1662190
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ようへい
+#+ROMAJI: youhei
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1662190-001
+:PROPERTIES:
+:TEXT: 葉柄
+:END:
+** Reading rd-1662190-001
+:PROPERTIES:
+:TEXT: ようへい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1662190-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: a7ce12f61ce1da4f88013033af1050bfa6ce2c947e655cdd933d16f5dd0e59c1
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- bot
+** English glosses
+- leaf stalk
+- petiole
+** Ukrainian glosses
+*** uk-s-1662190-001-001
+:PROPERTIES:
+:END:
+- text :: черешок (листка)
+** Learner notes
+*** note-s-1662190-001-001
+:PROPERTIES:
+:END:
+- UK :: Ботанічний термін на позначення звуженої стеблоподібної частини листка, яка з'єднує листкову пластинку зі стеблом або гілкою. Утворено з 葉 (листок) та 柄 (ручка, держак).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1662190-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この植物は葉柄が長い。
+- READING :: このしょくぶつはようへいがながい。
+- UK :: У цієї рослини довгий черешок листка.
+- FOCUS :: 葉柄
+*** ex-1662190-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 葉柄の部分を折らないように気をつけてください。
+- READING :: ようへいのぶぶんをおらないようにきをつけてください。
+- UK :: Будьте обережні, щоб не зламати черешок листка.
+- FOCUS :: 葉柄
+*** ex-1662190-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: セロリは太くみずみずしい葉柄を食用にする代表的な野菜だ。
+- READING :: せろりはふとくみずみずしいようへいをしょくようにするだいひょうてきなやさいだ。
+- UK :: Селера — типовий овоч, у якого в їжу вживають товсті соковиті черешки.
+- FOCUS :: 葉柄
+
+* Sense s-1662190-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 6ce90f2356823e8127262685a02d4f8a1d1fc4ea120a60afce2c5c7a4cfadb7d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1662190-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {plantk.} bladsteel
+*** en-s-1662190-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bladstengel
+*** en-s-1662190-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: petiolus
+** Ukrainian glosses
+
+* Sense s-1662190-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 74c8c79097101618af9179232895af2db68b33b2d5f50b0830237534d9d7a097
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1662190-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Blattstiel
+*** en-s-1662190-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Petiolus
+** Ukrainian glosses
+
+* Sense s-1662190-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 053f183142c729ed398e8b17c0688d05e82fbfad688600da440318a371c42414
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1662190-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: черенок листа
+** Ukrainian glosses
+
+* Sense s-1662190-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: fda8d7ba60a0701c5ab53dcf3122ae4bc32783959277c465c8c3347b5e411603
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1662190-005-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pecíolo
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1662190-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1662190-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: ようへい

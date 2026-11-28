@@ -1,0 +1,155 @@
+#+TITLE: 震え声
+#+JMDICT_ID: 1834440
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ふるえごえ
+#+ROMAJI: furuegoe
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1834440-001
+:PROPERTIES:
+:TEXT: 震え声
+:END:
+** Written form wf-1834440-002
+:PROPERTIES:
+:TEXT: ふるえ声
+:END:
+** Reading rd-1834440-001
+:PROPERTIES:
+:TEXT: ふるえごえ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1834440-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 2a86c06df08cce2592aca91dbb712a4f6e7ec02dcac2bb64a2da4104bae7b0cf
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- trembling voice
+- quavering voice
+** Ukrainian glosses
+*** uk-s-1834440-001-001
+:PROPERTIES:
+:END:
+- text :: тремтячий голос; тремтливий голос
+** Learner notes
+*** note-s-1834440-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, що описує голос, який тремтить або зривається від страху, хвилювання, холоду чи сильних емоцій. Складається з 震え (тремтіння) та 声 (голос) із послідовним одзвінченням початкового приголосного (рендаку).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1834440-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 彼は緊張して震え声で挨拶しました。
+- READING :: かれはきんちょうしてふるえごえであいさつしました。
+- UK :: Він хвилювався і привітався тремтячим голосом.
+- FOCUS :: 震え声
+*** ex-1834440-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 暗い道で物音を聞き、子どもは震え声で母親の名を呼んだ。
+- READING :: くらいみちでものおとをきき、こどもはふるえごえでははおやのなをよんだ。
+- UK :: Почувши шурхіт на темній дорозі, дитина тремтливим голосом покликала маму.
+- FOCUS :: 震え声
+*** ex-1834440-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 初めて大勢の前に立った発表者は、震え声を抑えながらも最後まで原稿を読み切った。
+- READING :: はじめておおぜいのまえにたったはっぴょうしゃは、ふるえごえをおさえながらもさいごまでげんこうをよみきった。
+- UK :: Доповідач, який уперше виступав перед великою аудиторією, хоч і стримував тремтіння в голосі, дочитав текст до кінця.
+- FOCUS :: 震え声
+
+* Sense s-1834440-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 2d096c823ab9ccb84aa83e802d67fbf9a80cafc816346cce1ed7cc57752fa37c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1834440-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zittrige Stimme
+** Ukrainian glosses
+
+* Sense s-1834440-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 63dbe455f62405ce40c51d5a94e8a6500a0609ced03faef7fa74779a16241f95
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1834440-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: дрожащий голос
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1834440-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1834440-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 4
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: ふるえごえ
+** Accent accent-rd-1834440-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1834440-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: ふるえごえ

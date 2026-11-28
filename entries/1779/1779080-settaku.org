@@ -1,0 +1,144 @@
+#+TITLE: 拙宅
+#+JMDICT_ID: 1779080
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: せったく
+#+ROMAJI: settaku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1779080-001
+:PROPERTIES:
+:TEXT: 拙宅
+:END:
+** Reading rd-1779080-001
+:PROPERTIES:
+:TEXT: せったく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1779080-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 62eddd37a1f7f6e722cf8b47772632bd3e5a6075341680696671eda7f7ee1c84
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- hum
+** English glosses
+- one's home
+- one's humble abode
+** Ukrainian glosses
+*** uk-s-1779080-001-001
+:PROPERTIES:
+:END:
+- text :: мій дім, наша скромна оселя
+** Learner notes
+*** note-s-1779080-001-001
+:PROPERTIES:
+:END:
+- UK :: Скромно-ввічливий (謙譲語) іменник, що буквально означає «невмілий / скромний дім» (拙 + 宅). Вживається в офіційному чи чемному мовленні та листуванні, коли мовець згадує власне житло, запрошуючи гостей або вказуючи адресу.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1779080-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: ぜひ一度、拙宅へお越しください。
+- READING :: ぜひいちど、せったくへおこしください。
+- UK :: Будь ласка, неодмінно завітайте якось до нашої оселі.
+- FOCUS :: 拙宅
+*** ex-1779080-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: お近くにお越しの際は、どうぞ拙宅にお立ち寄りください。
+- READING :: おちかくにおこしのさいは、どうぞせったくにおたちよりください。
+- UK :: Коли будете поблизу, прошу, заходьте до нас у гості.
+- FOCUS :: 拙宅
+*** ex-1779080-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 先日、遠方から恩師をお迎えし、拙宅にてささやかな食事会を開いた。
+- READING :: せんじつ、えんぽうからおんしをおむかえし、せったくにてささやかなしょくじかいをひらいた。
+- UK :: Днями ми прийняли у своїй скромній оселі колишнього вчителя, який приїхав здалеку, і влаштували невелику вечерю.
+- FOCUS :: 拙宅
+
+* Sense s-1779080-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 54d119c58c5afe5626ca537852d05e33896c9271b13e3025ed51760ccb910f5a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1779080-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: meine Wohnung
+*** en-s-1779080-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mein Heim (besch.-höfl.)
+** Ukrainian glosses
+
+* Sense s-1779080-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: ccd2070fba935983240cecc2c1e981dcfaf9816faba32380efc22e7d0db6a914
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1779080-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (кн.) мой [убогий] дом, моё [скромное] жилище
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1779080-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1779080-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: せったく

@@ -1,0 +1,153 @@
+#+TITLE: 駆け下る
+#+JMDICT_ID: 1864940
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かけくだる
+#+ROMAJI: kakekudaru
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1864940-001
+:PROPERTIES:
+:TEXT: 駆け下る
+:END:
+** Written form wf-1864940-002
+:PROPERTIES:
+:TEXT: 駆下る
+:END:
+** Reading rd-1864940-001
+:PROPERTIES:
+:TEXT: かけくだる
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1864940-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 5f9ceb9a3089b432210d0997bc05259ce6b8c6ca74f54f4c6cc2c8bc4e33b948
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5r
+** English glosses
+- to run down
+** Ukrainian glosses
+*** uk-s-1864940-001-001
+:PROPERTIES:
+:END:
+- text :: збігати вниз; бігти схилом (сходами) донизу
+** Learner notes
+*** note-s-1864940-001-001
+:PROPERTIES:
+:END:
+- UK :: Перехідне або неперехідне дієслово п'ятиступеневої дієвідміни (五段), утворене поєднанням 駆ける (мчати, бігти) та 下る (спускатися). Вживається з часткою を для позначення схилу або сходів, якими збігають (坂を駆け下る).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1864940-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 子どもが階段を駆け下る。
+- READING :: こどもがかいだんをかけくだる。
+- UK :: Дитина збігає сходами вниз.
+- FOCUS :: 駆け下る
+*** ex-1864940-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 駅まで急いで坂を駆け下った。
+- READING :: えきまでいそいでさかをかけくだった。
+- UK :: Я поспіхом збіг схилом до станції.
+- FOCUS :: 駆け下った
+*** ex-1864940-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 犬がうれしそうに丘を駆け下ってきた。
+- READING :: いぬがうれしそうにおかをかけくだってきた。
+- UK :: Собака радісно збіг із пагорба донизу.
+- FOCUS :: 駆け下って
+
+* Sense s-1864940-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 7e5568c6eaf25887fc748f1b74df551546f405424ce73feb9e3a6dc1c2b03263
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1864940-002-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: elgázol
+*** en-s-1864940-002-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: leszalad
+*** en-s-1864940-002-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: utolér
+** Ukrainian glosses
+
+* Sense s-1864940-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 60212bdd86287baa8329e9dae73d9eadf4869aaedb9a15d03cb95f1039cee4f2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1864940-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: сбегать [вниз]
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1864940-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1864940-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 4
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: かけくだる

@@ -1,0 +1,139 @@
+#+TITLE: 宝刀
+#+JMDICT_ID: 1748420
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ほうとう
+#+ROMAJI: houtou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1748420-001
+:PROPERTIES:
+:TEXT: 宝刀
+:END:
+*** Priorities
+- news2
+- nf25
+** Reading rd-1748420-001
+:PROPERTIES:
+:TEXT: ほうとう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf25
+
+* Sense s-1748420-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 0de7436b9e4eb7df5e08c645240a5d62809bc72d62efe818ce8e4e91d4fc2129
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- treasured sword
+** Ukrainian glosses
+*** uk-s-1748420-001-001
+:PROPERTIES:
+:END:
+- text :: дорогоцінний меч; фамільний клинок
+** Learner notes
+*** note-s-1748420-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, що позначає цінний або старовинний меч, який бережуть як реліквію. Поєднує 宝 (скарб) та 刀 (меч); у переносному вжитку знаний вислів 伝家の宝刀を抜く («оголити фамільний меч», тобто пустити в хід останній, вирішальний козир).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1748420-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 博物館に古い宝刀が展示されている。
+- READING :: はくぶつかんにふるいほうとうがてんじされている。
+- UK :: У музеї виставлено стародавній дорогоцінний меч.
+- FOCUS :: 宝刀
+*** ex-1748420-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: その家には代々伝わる宝刀がある。
+- READING :: そのいえにはだいだいつたわるほうとうがある。
+- UK :: У тій родині є дорогоцінний меч, що передається з покоління в покоління.
+- FOCUS :: 宝刀
+*** ex-1748420-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 交渉が行き詰まり、彼はついに伝家の宝刀を抜く決断をした。
+- READING :: こうしょうがいきづまり、かれはついにでんかのほうとうをぬくけつだんをした。
+- UK :: Коли переговори зайшли в глухий кут, він нарешті вирішив пустити в хід свій головний козир.
+- FOCUS :: 宝刀
+
+* Sense s-1748420-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 41419b77d6ff46be82fb78f942bff1ac6075ec8b2b3a7864d4af1bac054a1279
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1748420-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kostbares Schwert (als Schatz einer Familie od. eines Tempels)
+** Ukrainian glosses
+
+* Sense s-1748420-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 21db349ef6d8f4ef6e732b6f66cba9f3cda2b1a4064ad31cb32db432e2c398ed
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1748420-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: драгоценный [старинный] меч
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1748420-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1748420-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-27
+:END:
+- reading :: ほうとう
