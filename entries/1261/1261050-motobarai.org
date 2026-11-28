@@ -1,0 +1,120 @@
+#+TITLE: 元払い
+#+JMDICT_ID: 1261050
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: もとばらい
+#+ROMAJI: motobarai
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1261050-001
+:PROPERTIES:
+:TEXT: 元払い
+:END:
+** Written form wf-1261050-002
+:PROPERTIES:
+:TEXT: 元払
+:END:
+*** Information
+- io
+** Reading rd-1261050-001
+:PROPERTIES:
+:TEXT: もとばらい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1261050-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: d24a537f4315257f0d9f0789391e80d475a957c1b2276de49b4d3fb6650d4724
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- prepayment (of postage, shipping, etc.)
+** Ukrainian glosses
+*** uk-s-1261050-001-001
+:PROPERTIES:
+:END:
+- text :: передоплата доставки (відправником); оплата при відправленні
+** Learner notes
+*** note-s-1261050-001-001
+:PROPERTIES:
+:END:
+- UK :: Поштово-логістичний термін: вартість пересилання сплачує відправник заздалегідь. Антонім — 着払い («оплата при отриманні» одержувачем).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1261050-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 送料は元払いです。
+- READING :: そうりょうはもとばらいです。
+- UK :: Доставка оплачується відправником.
+- FOCUS :: 元払い
+*** ex-1261050-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 荷物を送るときは、元払いにするか着払いにするか選べる。
+- READING :: にもつをおくるときは、もとばらいにするかちゃくばらいにするかえらべる。
+- UK :: Коли надсилаєш посилку, можна обрати оплату при відправленні або при отриманні.
+- FOCUS :: 元払い
+*** ex-1261050-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 返品の際は、不良品でない限りお客様側の元払いで返送していただく必要があります。
+- READING :: へんぴんのさいは、ふりょうひんでないかぎりおきゃくさまがわのもとばらいでへんそうしていただくひつようがあります。
+- UK :: У разі повернення товару, якщо він не бракований, клієнт має сплатити пересилання при відправленні.
+- FOCUS :: 元払い
+
+* Sense s-1261050-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 5e5887b136eb683c2eed8b1be732aef322beef9f682cb053df3608c95a236e83
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1261050-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Bezahlung im Voraus
+** Ukrainian glosses
+
+* Sense s-1261050-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 66089e6f1d1979b3715fad2d3d3c78ed5125d27328daf1df9b5e31efd3cca15c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1261050-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: уплата вперёд (авансом)
+** Ukrainian glosses
