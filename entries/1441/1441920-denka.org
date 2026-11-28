@@ -1,0 +1,176 @@
+#+TITLE: 伝家
+#+JMDICT_ID: 1441920
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: でんか
+#+ROMAJI: denka
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1441920-001
+:PROPERTIES:
+:TEXT: 伝家
+:END:
+*** Priorities
+- news2
+- nf26
+** Reading rd-1441920-001
+:PROPERTIES:
+:TEXT: でんか
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf26
+
+* Sense s-1441920-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 28cad3f4dd4d0d61430696b20ee4b7fcdac82ab4f05243bc7bbb7354cee64f6b
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- heirloom
+- trump card
+- last resort
+- family tradition
+** Ukrainian glosses
+*** uk-s-1441920-001-001
+:PROPERTIES:
+:END:
+- text :: родинна реліквія; козир; останній засіб
+** Learner notes
+*** note-s-1441920-001-001
+:PROPERTIES:
+:END:
+- UK :: Зазвичай уживається в поєднанні з の, зокрема у сталому виразі 伝家の宝刀 (родинний меч; переносно — вирішальний аргумент або останній козир).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1441920-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: これが伝家の宝刀だ。
+- READING :: これがでんかのほうとうだ。
+- UK :: Ось наш головний козир.
+- FOCUS :: 伝家
+*** ex-1441920-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: いよいよ伝家の宝刀を抜くときが来たようだ。
+- READING :: いよいよでんかのほうとうをぬくときがきたようだ。
+- UK :: Схоже, нарешті настав час пустити в хід останній козир.
+- FOCUS :: 伝家
+*** ex-1441920-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 代々受け継がれてきた伝家の茶碗を、特別な客をもてなす席で初めて使った。
+- READING :: だいだいうけつがれてきたでんかのちゃわんを、とくべつなきゃくをもてなすせきではじめてつかった。
+- UK :: Родинну чашу, що передавалася з покоління в покоління, уперше використали на прийомі для особливого гостя.
+- FOCUS :: 伝家
+
+* Sense s-1441920-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 0d62e3e1cfe226de45617a397eee7b4e9ea8ef259b1f268498dddca92c46bb44
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1441920-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Vererbung in der Familie
+*** en-s-1441920-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Familienerbstück
+** Ukrainian glosses
+
+* Sense s-1441920-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 42f0e72384f4484aa218aed315f120dc64f6bd9f28687412abc7415f9be8fdb1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1441920-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: családi bútor
+*** en-s-1441920-003-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: családi ékszer
+** Ukrainian glosses
+
+* Sense s-1441920-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 2006ff593e413a86fbb42895ccf9629f3718e347923f6209b5d3ffc8b4c6e450
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1441920-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: : {～の} (связ.) наследственный, фамильный
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1441920-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1441920-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: でんか

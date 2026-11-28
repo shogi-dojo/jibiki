@@ -1,0 +1,181 @@
+#+TITLE: 尽き果てる
+#+JMDICT_ID: 1370080
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: つきはてる
+#+ROMAJI: tsukihateru
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1370080-001
+:PROPERTIES:
+:TEXT: 尽き果てる
+:END:
+** Written form wf-1370080-002
+:PROPERTIES:
+:TEXT: 尽きはてる
+:END:
+** Reading rd-1370080-001
+:PROPERTIES:
+:TEXT: つきはてる
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1370080-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 058cab7de2a765afa2817df9abf0f549580e5d08d2b2dc0446179724bd0d97e1
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v1
+- vi
+** English glosses
+- to be exhausted
+** Ukrainian glosses
+*** uk-s-1370080-001-001
+:PROPERTIES:
+:END:
+- text :: вичерпатися до дна; цілковито виснажитися
+** Learner notes
+*** note-s-1370080-001-001
+:PROPERTIES:
+:END:
+- UK :: Підсилений варіант дієслова 尽きる (закінчуватися), підкреслює повне вичерпання сил, терпіння або ресурсів. Має виразно літературне забарвлення.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1370080-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 気力が尽き果てた。
+- READING :: きりょくがつきはてた。
+- UK :: Усі душевні сили вичерпалися.
+- FOCUS :: 尽き果てた
+*** ex-1370080-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 長い旅の末に、とうとう水も食料も尽き果てた。
+- READING :: ながいたびのすえに、とうとうみずもしょくりょうもつきはてた。
+- UK :: Наприкінці довгої мандрівки врешті-решт вичерпалися і вода, і харчі.
+- FOCUS :: 尽き果てた
+*** ex-1370080-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 何年も続く不作によって人々の蓄えが尽き果て、村全体が深刻な困窮に陥った。
+- READING :: なんねんもつづくふさくによってひとびとのたくわえがつきはて、むらぜんたいがしんこくなこんきゅうにおちいった。
+- UK :: Через багаторічний неврожай запаси людей цілковито вичерпалися, і все село опинилося в глибокій скруті.
+- FOCUS :: 尽き果て
+
+* Sense s-1370080-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 5dc848f673bc88c463d7d9db3e810dfa8e6dc969040c812e926fbfa2127bdcac
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1370080-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: erschöpft sein
+*** en-s-1370080-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aufgebraucht sein
+** Ukrainian glosses
+
+* Sense s-1370080-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 1de7cc13b57c7a536919e1146f3911844186a2a7ba48271495c5383b8409d415
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1370080-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: elapad
+** Ukrainian glosses
+
+* Sense s-1370080-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: d01bca7d9eb836cc95fb64ff66846cdafbca36938191e74d69b60f56d4a1e28a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1370080-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: быть исчерпанным до конца
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1370080-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1370080-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 4
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: つきはてる
+** Accent accent-rd-1370080-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1370080-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: つきはてる

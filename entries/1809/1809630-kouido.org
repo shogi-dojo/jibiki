@@ -1,0 +1,139 @@
+#+TITLE: 高緯度
+#+JMDICT_ID: 1809630
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: こういど
+#+ROMAJI: kouido
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1809630-001
+:PROPERTIES:
+:TEXT: 高緯度
+:END:
+*** Priorities
+- news2
+- nf47
+** Reading rd-1809630-001
+:PROPERTIES:
+:TEXT: こういど
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf47
+
+* Sense s-1809630-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: dfd37950963fe6f109569ed408cd701fd2606ebfcbf672b0aef8e9c1e6b32149
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- high latitudes
+** Ukrainian glosses
+*** uk-s-1809630-001-001
+:PROPERTIES:
+:END:
+- text :: високі широти
+** Learner notes
+*** note-s-1809630-001-001
+:PROPERTIES:
+:END:
+- UK :: Географічний термін на позначення областей поблизу полюсів Землі. Часто входить до складених слів, як-от «регіони високих широт» чи «високоширотний клімат».
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1809630-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 高緯度では冬が長い。
+- READING :: こういどではふゆがながい。
+- UK :: У високих широтах зима довга.
+- FOCUS :: 高緯度
+*** ex-1809630-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 高緯度の地域では、夏でも気温があまり上がらない。
+- READING :: こういどのちいきでは、なつでもきおんがあまりあがらない。
+- UK :: У регіонах високих широт температура не надто підвищується навіть улітку.
+- FOCUS :: 高緯度
+*** ex-1809630-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 地球温暖化の影響は、低緯度よりも高緯度の地域において特に顕著に現れると言われている。
+- READING :: ちきゅうおんだんかのえいきょうは、ていいどよりもこういどのちいきにおいてとくにけんちょにあらわれるといわれている。
+- UK :: Кажуть, що вплив глобального потепління особливо помітний саме в регіонах високих широт, а не в низьких.
+- FOCUS :: 高緯度
+
+* Sense s-1809630-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 2cf0559e7a814f2f2bd68ff19626959cf88048ddeac17bb672d1ce3d87083f96
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1809630-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hoher Breitengrad
+** Ukrainian glosses
+
+* Sense s-1809630-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 6ca84dd0e248099e243d4b5b52ec23d58f889b6d14514a0c956546b1baaae8f1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1809630-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (геогр.) высокая широта
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1809630-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1809630-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: こういど

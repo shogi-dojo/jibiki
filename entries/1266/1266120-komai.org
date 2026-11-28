@@ -1,0 +1,174 @@
+#+TITLE: 古米
+#+JMDICT_ID: 1266120
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: こまい
+#+ROMAJI: komai
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1266120-001
+:PROPERTIES:
+:TEXT: 古米
+:END:
+*** Priorities
+- news2
+- nf34
+** Reading rd-1266120-001
+:PROPERTIES:
+:TEXT: こまい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf34
+** Reading rd-1266120-002
+:PROPERTIES:
+:TEXT: ふるごめ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1266120-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 4581348c0897a4c2c7738f44af669879d66cb2414276ce7e045946df46b9c18b
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Cross-references
+- 新米・1
+** English glosses
+- old rice
+- rice remaining from the previous year's harvest
+** Ukrainian glosses
+*** uk-s-1266120-001-001
+:PROPERTIES:
+:END:
+- text :: торішній рис; рис минулого врожаю
+** Learner notes
+*** note-s-1266120-001-001
+:PROPERTIES:
+:END:
+- UK :: Протиставляється свіжому рису нового врожаю (新米). Має менше вологи, тому під час варіння потребує трохи більше води; добре підходить для смажених страв із рису.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1266120-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 古米を安く買った。
+- READING :: こまいをやすくかった。
+- UK :: Купив торішній рис задешево.
+- FOCUS :: 古米
+*** ex-1266120-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 古米を炊くときは、水を少し多めに入れるといい。
+- READING :: こまいをたくときは、みずをすこしおおめにいれるといい。
+- UK :: Коли варите торішній рис, варто додати трохи більше води.
+- FOCUS :: 古米
+*** ex-1266120-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 新米の季節になっても、倉庫にはまだ昨年の古米がたくさん残っている。
+- READING :: しんまいのきせつになっても、そうこにはまださくねんのこまいがたくさんのこっている。
+- UK :: Хоч уже настав сезон свіжого врожаю, на складі досі залишається багато торішнього рису.
+- FOCUS :: 古米
+
+* Sense s-1266120-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: b7edb977c923a8e36b6b6aae34d7306bda595fe30ef3e16699d25cb8bc61a9ab
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1266120-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: alter Reis
+*** en-s-1266120-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Reis vom letzten Jahr
+** Ukrainian glosses
+
+* Sense s-1266120-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 2f7f52dcecccfb03e8865e76117e48af7efe51ae33265f0bb31e0abf1a2ff093
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1266120-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: старый рис, рис прежнего урожая
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1266120-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1266120-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: こまい
+** Accent accent-rd-1266120-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1266120-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: こまい

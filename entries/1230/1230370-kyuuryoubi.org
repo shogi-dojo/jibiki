@@ -1,0 +1,180 @@
+#+TITLE: 給料日
+#+JMDICT_ID: 1230370
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: きゅうりょうび
+#+ROMAJI: kyuuryoubi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1230370-001
+:PROPERTIES:
+:TEXT: 給料日
+:END:
+*** Priorities
+- spec2
+** Reading rd-1230370-001
+:PROPERTIES:
+:TEXT: きゅうりょうび
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- spec2
+
+* Sense s-1230370-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 358cd47884c9c65a0890de9a2f523d9b83f6c696d6940d1a1973a7c04faeda9d
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- payday
+- pay day
+** Ukrainian glosses
+*** uk-s-1230370-001-001
+:PROPERTIES:
+:END:
+- text :: день зарплати; день виплати
+** Learner notes
+*** note-s-1230370-001-001
+:PROPERTIES:
+:END:
+- UK :: Повсякденне слово для дня, коли працівники отримують заробітну плату; часто поєднується з дієсловами 待つ (чекати) або 迎える (зустрічати).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1230370-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 今日は給料日だ。
+- READING :: きょうはきゅうりょうびだ。
+- UK :: Сьогодні день зарплати.
+- FOCUS :: 給料日
+*** ex-1230370-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 給料日なので、帰りにちょっと高いケーキを買った。
+- READING :: きゅうりょうびなので、かえりにちょっとたかいけーきをかった。
+- UK :: Оскільки сьогодні день зарплати, дорогою додому я купив трохи дорожче тістечко.
+- FOCUS :: 給料日
+*** ex-1230370-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 今月は出費が多かったせいで財布が寂しく、次の給料日が待ち遠しくてたまらない。
+- READING :: こんげつはしゅっぴがおおかったせいでさいふがさびしく、つぎのきゅうりょうびがまちどおしくてたまらない。
+- UK :: Цього місяця було чимало витрат, тож у гаманці майже порожньо, і я з нетерпінням чекаю наступного дня зарплати.
+- FOCUS :: 給料日
+
+* Sense s-1230370-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: a2eb1387eff157850f57ee51936056e52e67c38e8aa97b425a1b7521254762d4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1230370-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: betaaldag
+*** en-s-1230370-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {veroud.} traktementsdag
+** Ukrainian glosses
+
+* Sense s-1230370-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 321a081b5923fe5366cb109f6a1ae81b67c59617d73e1dfbf371a593a881dcaa
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1230370-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Zahltag
+*** en-s-1230370-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Lohntag
+*** en-s-1230370-003-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Gehaltstag
+** Ukrainian glosses
+
+* Sense s-1230370-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: ecbee83158b81bf154fece078166163e3af33714163ed523be898e4502b011de
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1230370-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: день выдачи жалованья, день получки, платёжный день
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1230370-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1230370-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: きゅうりょうび

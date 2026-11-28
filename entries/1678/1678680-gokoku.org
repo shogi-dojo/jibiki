@@ -1,0 +1,204 @@
+#+TITLE: 後刻
+#+JMDICT_ID: 1678680
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ごこく
+#+ROMAJI: gokoku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1678680-001
+:PROPERTIES:
+:TEXT: 後刻
+:END:
+** Reading rd-1678680-001
+:PROPERTIES:
+:TEXT: ごこく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1678680-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 5e576535ed3cf162ecec0fba4beff920614ce87722f5e9787901d3f8fa45099b
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- adv
+** English glosses
+- later on
+- afterwards
+** Ukrainian glosses
+*** uk-s-1678680-001-001
+:PROPERTIES:
+:END:
+- text :: пізніше; згодом; трохи згодом
+** Learner notes
+*** note-s-1678680-001-001
+:PROPERTIES:
+:END:
+- UK :: Книжне й офіційне слово для ділового листування, оголошень або ввічливих запевнень повернутися до розмови через деякий час. У побуті замість нього кажуть あとで.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1678680-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 後刻、ご連絡します。
+- READING :: ごこく、ごれんらくします。
+- UK :: Зв'яжуся з вами пізніше.
+- FOCUS :: 後刻
+*** ex-1678680-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 詳細については後刻あらためてお知らせいたします。
+- READING :: しょうさいについてはごこくあらためておしらせいたします。
+- UK :: Про подробиці повідомимо окремо трохи згодом.
+- FOCUS :: 後刻
+*** ex-1678680-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: ただいま担当者が席を外しておりますので、後刻こちらから折り返しお電話いたします。
+- READING :: ただいまたんとうしゃがせきをはずしておりますので、ごこくこちらからおりかえしおでんわいたします。
+- UK :: Відповідального працівника зараз немає на місці, тому ми зателефонуємо вам у відповідь пізніше.
+- FOCUS :: 後刻
+
+* Sense s-1678680-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: ce1649f7be41cc9d88c3d7f8df8c4ebd9dfbebce64e3012f8c7c475457fd16bc
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1678680-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nachher
+*** en-s-1678680-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: später
+** Ukrainian glosses
+
+* Sense s-1678680-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 9d8e0777d0dcf1ed29dc31678cacf54e50ec5d9fb6b833da8fbb805c863f0159
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1678680-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: azután
+** Ukrainian glosses
+
+* Sense s-1678680-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 60d274e86ef5b776bcc27aec1b5e8189649a4f8e03ca25cfec9c21ed3536f0a6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1678680-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (кн.) позднее, попозже, потом
+** Ukrainian glosses
+
+* Sense s-1678680-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: ab349ed983cd1fe8216bc6560456bf24dd453605b1e0d0ffd87f6af0d9a17e23
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1678680-005-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: después de eso
+*** en-s-1678680-005-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: luego
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1678680-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1678680-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: ごこく
+** Accent accent-rd-1678680-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1678680-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: ごこく

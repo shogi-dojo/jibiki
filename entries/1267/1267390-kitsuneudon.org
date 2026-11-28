@@ -1,0 +1,159 @@
+#+TITLE: 狐うどん
+#+JMDICT_ID: 1267390
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: きつねうどん
+#+ROMAJI: kitsuneudon
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1267390-001
+:PROPERTIES:
+:TEXT: 狐うどん
+:END:
+*** Information
+- rK
+** Written form wf-1267390-002
+:PROPERTIES:
+:TEXT: 狐饂飩
+:END:
+*** Information
+- rK
+** Reading rd-1267390-001
+:PROPERTIES:
+:TEXT: きつねうどん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+** Reading rd-1267390-002
+:PROPERTIES:
+:TEXT: けつねうどん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+** Reading rd-1267390-003
+:PROPERTIES:
+:TEXT: キツネうどん
+:NO_KANJI: true
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1267390-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 72f40003b2476bbf89fc1b9f847a5de58da137240d34ecb4a8ff1b0cb1001a70
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- food
+*** Miscellaneous and register
+- uk
+** English glosses
+- udon with deep-fried tofu
+** Ukrainian glosses
+*** uk-s-1267390-001-001
+:PROPERTIES:
+:END:
+- text :: кіцуне-удон; локшина удон зі смаженим тофу
+** Learner notes
+*** note-s-1267390-001-001
+:PROPERTIES:
+:END:
+- UK :: Традиційна японська страва з товстої пшеничної локшини в бульйоні та солодкуватого смаженого тофу абурааґе; зазвичай пишеться каною (きつねうどん).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1267390-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 昼にきつねうどんを食べた。
+- READING :: ひるにきつねうどんをたべた。
+- UK :: Удень я поїв кіцуне-удон.
+- FOCUS :: きつねうどん
+*** ex-1267390-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 寒い日は、温かいきつねうどんが無性に食べたくなる。
+- READING :: さむいひは、あたたかいきつねうどんがむしょうにたべたくなる。
+- UK :: У холодний день страшенно хочеться гарячого кіцуне-удону.
+- FOCUS :: きつねうどん
+*** ex-1267390-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 出汁がしっかり染み込んだ甘いお揚げが乗ったきつねうどんは、何度食べても飽きない味だ。
+- READING :: だしがしっかりしみこんだあまいおあげがのったきつねうどんは、なんどたべてもあきないあじだ。
+- UK :: Кіцуне-удон із солодкуватим смаженим тофу, добре просоченим бульйоном, має смак, який не набридає, скільки б його не їли.
+- FOCUS :: きつねうどん
+
+* Sense s-1267390-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 3fb35baf729d9c7a0efcc740ce5f76f0195614004bcccb7845cf9d1fa7719ae6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1267390-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kitsune・udon (Udon mit frittiertem Tōfu)
+** Ukrainian glosses
+
+* Sense s-1267390-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 868dac3dd40f2eb1817e2b2dac5eb3627a126524f4793a37a833e6dc90ece544
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1267390-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: кицунэудон (лапша с жареным тофу и луком)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1267390-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1267390-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 4
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: きつねうどん

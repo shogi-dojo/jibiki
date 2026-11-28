@@ -1,0 +1,186 @@
+#+TITLE: 遅配
+#+JMDICT_ID: 1422100
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ちはい
+#+ROMAJI: chihai
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1422100-001
+:PROPERTIES:
+:TEXT: 遅配
+:END:
+*** Priorities
+- news2
+- nf37
+- spec2
+** Reading rd-1422100-001
+:PROPERTIES:
+:TEXT: ちはい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf37
+- spec2
+
+* Sense s-1422100-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: cf82ffb3cb98eeac53a1e22470054bd7170bb55ed8b711ee072480f2872b1fde
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+- vi
+** English glosses
+- delay (in payment, delivery, rationing, etc.)
+** Ukrainian glosses
+*** uk-s-1422100-001-001
+:PROPERTIES:
+:END:
+- text :: затримка виплати; затримка доставки
+** Learner notes
+*** note-s-1422100-001-001
+:PROPERTIES:
+:END:
+- UK :: Офіційне слово, що позначає запізнення регулярної видачі зарплати, пошти чи постачання. Сьогодні найчастіше трапляється в контексті «給料の遅配» (несвоєчасна виплата зарплатні).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1422100-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 給料が遅配している。
+- READING :: きゅうりょうがちはいしている。
+- UK :: Зарплатню затримують.
+- FOCUS :: 遅配
+*** ex-1422100-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 大雪の影響で、今朝は新聞の遅配が相次いだ。
+- READING :: おおゆきのえいきょうで、けさはしんぶんのちはいがあいついだ。
+- UK :: Через сильний снігопад сьогодні вранці масово затрималася доставка газет.
+- FOCUS :: 遅配
+*** ex-1422100-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 会社の資金繰りが悪化した結果、従業員へのボーナスだけでなく毎月の給与まで遅配する事態に陥った。
+- READING :: かいしゃのしきんぐりがあっかしたけっか、じゅうぎょういんへのぼーなすだけでなくまいつきのきゅうよまでちはいするじたいにおちいった。
+- UK :: Через погіршення фінансового становища компанії дійшло до того, що працівникам почали затримувати не лише премії, а й щомісячну зарплатню.
+- FOCUS :: 遅配
+
+* Sense s-1422100-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 9f13b7fd90866f24a2571766380bd396352f8a4c54335b2d49527db34bc0a13e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1422100-002-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: retard
+** Ukrainian glosses
+
+* Sense s-1422100-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 574d041176093395d4f371416bbf6351d3e4d2ef1bfa565b67454904065063b7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1422100-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: spät verteilen
+*** en-s-1422100-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: den Auslieferungstermin verpassen
+*** en-s-1422100-003-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Verzögerung (bei der Auslieferung)
+*** en-s-1422100-003-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Verspätung (bei der Verteilung)
+** Ukrainian glosses
+
+* Sense s-1422100-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: ab5978d4d8a9ce9237087ebeb8ddde09bf3a46744e8f11721614c93986426723
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1422100-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: задержка выдачи [по карточкам]; перебои в снабжении
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1422100-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1422100-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: ちはい

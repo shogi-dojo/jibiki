@@ -1,0 +1,147 @@
+#+TITLE: 張り手
+#+JMDICT_ID: 2022630
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: はりて
+#+ROMAJI: harite
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2022630-001
+:PROPERTIES:
+:TEXT: 張り手
+:END:
+** Written form wf-2022630-002
+:PROPERTIES:
+:TEXT: 張手
+:END:
+** Reading rd-2022630-001
+:PROPERTIES:
+:TEXT: はりて
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2022630-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 2e8c2a502cf037f90cd36deb185f38486b4ccf14dd6f63035c1db29225babc36
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- sumo
+** English glosses
+- slapping the opponent with the open hand
+** Ukrainian glosses
+*** uk-s-2022630-001-001
+:PROPERTIES:
+:END:
+- text :: удар відкритою долонею
+** Learner notes
+*** note-s-2022630-001-001
+:PROPERTIES:
+:END:
+- UK :: Прийом у боротьбі сумо, коли борець б'є суперника відкритою долонею по щоці чи грудях. Може вживатися й у ширшому значенні для опису сильного ляпаса.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2022630-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 力士が激しい張り手を出した。
+- READING :: りきしがはげしいはりてをだした。
+- UK :: Сумоїст завдав різкого удару відкритою долонею.
+- FOCUS :: 張り手
+*** ex-2022630-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 試合が始まるとすぐ、彼は張り手で相手をひるませた。
+- READING :: しあいがはじまるとすぐ、かれははりてであいてをひるませた。
+- UK :: Щойно почався поєдинок, він приголомшив суперника ударом відкритою долонею.
+- FOCUS :: 張り手
+*** ex-2022630-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 連続の張り手を受けてバランスを崩した力士は、そのまま土俵の外へ押し出された。
+- READING :: れんぞくのはりてをうけてばらんすをくずしたりきしは、そのままどひょうのそとへおしだされた。
+- UK :: Отримавши серію ударів відкритою долонею, борець утратив рівновагу, і його одразу виштовхнули за межі дохьо.
+- FOCUS :: 張り手
+
+* Sense s-2022630-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: aa38e34bf826c5a9e3ce77648be403c1b59ec8eb365afe9172436e3545a27839
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2022630-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Schlag mit der flachen Hand (nach dem Gesicht des Gegners)
+** Ukrainian glosses
+
+* Sense s-2022630-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: ff4b5377e57f69014b7a7da05190f18a47c6352756aa8f0099d4a1f3852a2f7a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2022630-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: старательный работник, работяга
+*** en-s-2022630-003-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: удар ладонью по щеке (приём в борьбе сумо)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2022630-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2022630-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: はりて

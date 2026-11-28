@@ -1,0 +1,155 @@
+#+TITLE: 胸鰭
+#+JMDICT_ID: 2193440
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: むなびれ
+#+ROMAJI: munabire
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2193440-001
+:PROPERTIES:
+:TEXT: 胸鰭
+:END:
+** Written form wf-2193440-002
+:PROPERTIES:
+:TEXT: 胸びれ
+:END:
+** Reading rd-2193440-001
+:PROPERTIES:
+:TEXT: むなびれ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2193440-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: ec877d1fbe7014debaef23dcdad611d2616a11e14835839949f4dacd676dc8ad
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- pectoral fin
+** Ukrainian glosses
+*** uk-s-2193440-001-001
+:PROPERTIES:
+:END:
+- text :: грудний плавець
+** Learner notes
+*** note-s-2193440-001-001
+:PROPERTIES:
+:END:
+- UK :: Анатомічний термін для парних органів руху риб і водних ссавців, розташованих одразу за зябрами. Читається むなびれ через чергування голосної та озвончення.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2193440-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: サメの胸鰭は大きい。
+- READING :: さめのむなびれはおおきい。
+- UK :: В акули великі грудні плавці.
+- FOCUS :: 胸鰭
+*** ex-2193440-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 水槽の魚が胸鰭をゆっくり動かしながら泳いでいる。
+- READING :: すいそうのさかながむなびれをゆっくりうごかしながらおよいでいる。
+- UK :: Риба в акваріумі пливе, повільно ворушачи грудними плавцями.
+- FOCUS :: 胸鰭
+*** ex-2193440-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 多くの魚類は左右の胸鰭を使って巧みにバランスを取り、水中で方向転換を行う。
+- READING :: おおくのぎょるいはさゆうのむなびれをつかってたくみにばらんすをとり、すいちゅうでほうこうてんかんをおこなう。
+- UK :: Більшість риб вправно тримають рівновагу за допомогою лівого й правого грудних плавців і змінюють напрямок у воді.
+- FOCUS :: 胸鰭
+
+* Sense s-2193440-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 518129165948f90a5463108f463d8874f4028b481649e8c3b2772f7f0cef2e55
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2193440-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Brustflosse
+** Ukrainian glosses
+
+* Sense s-2193440-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: a550c4cf26fa50407c49305f22ae0e481b33155a8cc269983d011a26e1829682
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2193440-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: грудные плавники (рыбы)
+** Ukrainian glosses
+
+* Sense s-2193440-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 71d78d3ecaa3dcd8d02129b0c185effc9d203b6c599386d42840ba2d816dbf34
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2193440-004-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aleta pectoral
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2193440-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2193440-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: むなびれ

@@ -1,0 +1,161 @@
+#+TITLE: 鍛造
+#+JMDICT_ID: 1654390
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: たんぞう
+#+ROMAJI: tanzou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1654390-001
+:PROPERTIES:
+:TEXT: 鍛造
+:END:
+** Reading rd-1654390-001
+:PROPERTIES:
+:TEXT: たんぞう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1654390-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 0ee8e8b438b21eaf69fbe3028e18d8c9984793d6d11cad5dd6eaa6f654621281
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- forging
+** Ukrainian glosses
+*** uk-s-1654390-001-001
+:PROPERTIES:
+:END:
+- text :: кування; ковка металу
+** Learner notes
+*** note-s-1654390-001-001
+:PROPERTIES:
+:END:
+- UK :: Промисловий і ковальський спосіб обробки розігрітого матеріалу ударами молота чи пресом для підвищення міцності. Протиставляється литтю — «чюдзо» (鋳造).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1654390-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 鉄を鍛造する。
+- READING :: てつをたんぞうする。
+- UK :: Кувати залізо.
+- FOCUS :: 鍛造
+*** ex-1654390-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: この包丁は職人が一本ずつ鍛造して仕上げたものだ。
+- READING :: このほうちょうはしょくにんがいっぽんずつたんぞうしてしあげたものだ。
+- UK :: Цей кухонний ніж майстер викував і довів до ладу власноруч.
+- FOCUS :: 鍛造
+*** ex-1654390-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 自動車の重要な部品には、高い強度と耐久性を確保するために精密な鍛造技術が用いられている。
+- READING :: じどうしゃのじゅうようなぶひんには、たかいきょうどとたいきゅうせいをかくほするためにせいみつなたんぞうぎじゅつがもちいられている。
+- UK :: Для виготовлення важливих автомобільних деталей застосовують точну технологію кування, що забезпечує високу міцність і довговічність.
+- FOCUS :: 鍛造
+
+* Sense s-1654390-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: f2f304b63a8f2e6af296751553fb18ed7d08d8e310b4d5e17e64c3f6d49dea10
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1654390-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: schmieden
+*** en-s-1654390-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Schmieden
+** Ukrainian glosses
+
+* Sense s-1654390-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: acd106b42bfc9627b1ea36d69d28c22f03f9ebfdd5c78f4275366987d1d54cbf
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1654390-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kovácsolás
+** Ukrainian glosses
+
+* Sense s-1654390-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: ce1ef0ee52fd6b7a68aec0cd3782c9363959b15f01471d21fc828d490dd1335e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1654390-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ковать, выковывать
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1654390-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1654390-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: たんぞう

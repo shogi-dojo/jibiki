@@ -1,0 +1,193 @@
+#+TITLE: 借り換える
+#+JMDICT_ID: 1323630
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かりかえる
+#+ROMAJI: karikaeru
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1323630-001
+:PROPERTIES:
+:TEXT: 借り換える
+:END:
+** Reading rd-1323630-001
+:PROPERTIES:
+:TEXT: かりかえる
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1323630-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: a478eb60695de6f7db326ee3db1f638c46b661774998ef54ab1d195cac166991
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v1
+- vt
+** English glosses
+- to convert (a loan)
+** Ukrainian glosses
+*** uk-s-1323630-001-001
+:PROPERTIES:
+:END:
+- text :: рефінансувати позику; переоформити кредит
+** Learner notes
+*** note-s-1323630-001-001
+:PROPERTIES:
+:END:
+- UK :: Фінансовий термін про заміну чинного кредиту новою позикою на вигідніших умовах, найчастіше під нижчий відсоток.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1323630-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 銀行の融資を借り換えるつもりだ。
+- READING :: ぎんこうのゆうしをかりかえるつもりだ。
+- UK :: Я планую рефінансувати банківську позику.
+- FOCUS :: 借り換える
+*** ex-1323630-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 金利が下がったので、別の銀行で借り換えた。
+- READING :: きんりがさがったので、べつのぎんこうでかりかえた。
+- UK :: Оскільки відсоткові ставки знизилися, я переоформив позику в іншому банку.
+- FOCUS :: 借り換えた
+*** ex-1323630-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 返済期間や手数料も含めて比較すれば、今借り換えるべきかどうかが見えてくる。
+- READING :: へんさいきかんやてすうりょうもふくめてひかくすれば、いまかりかえるべきかどうかがみえてくる。
+- UK :: Якщо порівняти умови разом зі строком погашення та комісією, стане зрозуміло, чи варто зараз рефінансувати кредит.
+- FOCUS :: 借り換える
+
+* Sense s-1323630-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 44cece6e3454169ae8f1935fbf0692d9af10d66f97cb848c542e099595c66f71
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1323630-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: eine Schuld erneuern
+*** en-s-1323630-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: konvertieren
+*** en-s-1323630-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: umschulden
+** Ukrainian glosses
+
+* Sense s-1323630-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 9015f73651773e60b61e9b84d0e6a0c0bf3af46c0c1b5a92aadb39bedab35ab9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1323630-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: átvált
+*** en-s-1323630-003-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: konvertál
+** Ukrainian glosses
+
+* Sense s-1323630-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: c8407ad55f206bfdf6e6186311064c7dc3cf6f30ab721e2584e4435a88d3107c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1323630-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: конвертировать (заём); производить девальвацию (денег)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1323630-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1323630-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: かりかえる
+** Accent accent-rd-1323630-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1323630-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 4
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: かりかえる

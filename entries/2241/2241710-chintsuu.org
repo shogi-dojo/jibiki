@@ -1,0 +1,154 @@
+#+TITLE: 鎮痛
+#+JMDICT_ID: 2241710
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ちんつう
+#+ROMAJI: chintsuu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2241710-001
+:PROPERTIES:
+:TEXT: 鎮痛
+:END:
+** Reading rd-2241710-001
+:PROPERTIES:
+:TEXT: ちんつう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2241710-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 61062c7ea96f7c3b73741850b85244e9d0c0b21e4f78e11b02f9be6a1d5d5921
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- adj-no
+- vs
+- vt
+- vi
+** English glosses
+- pain relief
+- killing pain
+** Ukrainian glosses
+*** uk-s-2241710-001-001
+:PROPERTIES:
+:END:
+- text :: знеболення; втамування болю
+** Learner notes
+*** note-s-2241710-001-001
+:PROPERTIES:
+:END:
+- UK :: Книжний і медичний термін, найчастіше вживається як означення з の або в складених словах на кшталт 鎮痛剤 (знеболювальний засіб).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2241710-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 鎮痛に効く薬を飲む。
+- READING :: ちんつうにきくくすりをのむ。
+- UK :: Прийняти ліки для знеболення.
+- FOCUS :: 鎮痛
+*** ex-2241710-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 医者から鎮痛の薬を処方してもらった。
+- READING :: いしゃからちんつうのくすりをしょほうしてもらった。
+- UK :: Лікар виписав мені знеболювальний препарат.
+- FOCUS :: 鎮痛
+*** ex-2241710-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 手術のあとの痛みを抑えるために、鎮痛の効果が高い治療法が選ばれた。
+- READING :: しゅじゅつのあとのいたみをおさえるために、ちんつうのこうかがたかいちりょうほうがえらばれた。
+- UK :: Щоб угамувати біль після операції, обрали метод лікування з високим знеболювальним ефектом.
+- FOCUS :: 鎮痛
+
+* Sense s-2241710-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: d3f11253af1a5ae42b74e970aaa5f498496e1c834071fcae31290712835e1713
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2241710-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Schmerzstillung
+*** en-s-2241710-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Schmerzlinderung
+** Ukrainian glosses
+
+* Sense s-2241710-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 8a383a9f7c598b6ed306729e14aceae97244f8de7d69f20b307bcefaf7370ff7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2241710-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (кн.) облегчение боли
+*** en-s-2241710-003-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～の} болеутоляющий
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2241710-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2241710-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: ちんつう

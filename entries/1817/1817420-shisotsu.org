@@ -1,0 +1,167 @@
+#+TITLE: 士卒
+#+JMDICT_ID: 1817420
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: しそつ
+#+ROMAJI: shisotsu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1817420-001
+:PROPERTIES:
+:TEXT: 士卒
+:END:
+** Reading rd-1817420-001
+:PROPERTIES:
+:TEXT: しそつ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1817420-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 4bd32e61cb91c89cdc91fa16cbb8c39b7e4087c15f91928fadbadf18d1ad8c68
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- officers and soldiers
+- soldiers
+** Ukrainian glosses
+*** uk-s-1817420-001-001
+:PROPERTIES:
+:END:
+- text :: воїни; офіцери та солдати; особовий склад
+** Learner notes
+*** note-s-1817420-001-001
+:PROPERTIES:
+:END:
+- UK :: Книжне й дещо застаріле слово, що вживається переважно в історичних описах давніх воєн, зокрема в китайських та японських хроніках.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1817420-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 将軍が士卒を励ます。
+- READING :: しょうぐんがしそつをはげます。
+- UK :: Полководець підбадьорює воїнів.
+- FOCUS :: 士卒
+*** ex-1817420-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 厳しい冬の間、隊長は士卒と寝食を共にした。
+- READING :: きびしいふゆのあいだ、たいちょうはしそつとしんしょくをともにした。
+- UK :: Протягом суворої зими командир ділив із солдатами й нічліг, і їжу.
+- FOCUS :: 士卒
+*** ex-1817420-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 戦意を失いかけていた士卒の士気を高めるため、指揮官は先頭に立って自ら剣を振るった。
+- READING :: せんいをうしないかけていたしそつのしきをたかめるため、しきかんはせんとうにたってみずからけんをふるった。
+- UK :: Щоб підняти бойовий дух воїнів, які вже втрачали запал, командувач став попереду й сам підняв меч.
+- FOCUS :: 士卒
+
+* Sense s-1817420-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 8703a8897ef7a93f4de9c3fee542fb0acce16c04dad5adbaf05e1dd69cb5284a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1817420-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Samurai und Soldaten niederen Ranges
+*** en-s-1817420-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Soldaten
+*** en-s-1817420-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bewaffnete Truppen
+** Ukrainian glosses
+
+* Sense s-1817420-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 604fd877ed6d9e577d3858211a450f0c7a07543f52139191614dca330ae6b534
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1817420-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: офицеры, унтер-офицеры и солдаты; личный состав (части)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1817420-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1817420-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: しそつ
+** Accent accent-rd-1817420-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1817420-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 2
+:PATTERN: nakadaka
+:MORA_PATTERN: LHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: しそつ

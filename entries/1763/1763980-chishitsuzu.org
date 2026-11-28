@@ -1,0 +1,133 @@
+#+TITLE: 地質図
+#+JMDICT_ID: 1763980
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ちしつず
+#+ROMAJI: chishitsuzu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1763980-001
+:PROPERTIES:
+:TEXT: 地質図
+:END:
+** Reading rd-1763980-001
+:PROPERTIES:
+:TEXT: ちしつず
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1763980-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 23a55cc0605696a0b5eeb57b9f3c0fe424f91e71028d966999ce31feef100d44
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- geological map
+** Ukrainian glosses
+*** uk-s-1763980-001-001
+:PROPERTIES:
+:END:
+- text :: геологічна карта
+** Learner notes
+*** note-s-1763980-001-001
+:PROPERTIES:
+:END:
+- UK :: Спеціальна мапа, на якій кольорами й умовними позначеннями показано склад, вік і залягання гірських порід на певній території.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1763980-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 地質図を調べる。
+- READING :: ちしつずをしらべる。
+- UK :: Вивчати геологічну карту.
+- FOCUS :: 地質図
+*** ex-1763980-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: トンネルを掘る前に、現場周辺の詳しい地質図を確認した。
+- READING :: とんねるをほるまえに、げんばしゅうへんのくわしいちしつずをかくにんした。
+- UK :: Перед прокладанням тунелю перевірили детальну геологічну карту околиць.
+- FOCUS :: 地質図
+*** ex-1763980-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 地盤の安全性を評価するため、研究チームは最新の調査データをもとに新しい地質図を作成した。
+- READING :: じばんのあんぜんせいをひょうかするため、けんきゅうちーむはさいしんのちょうさでーたをもとにあたらしいちしつずをさくせいした。
+- UK :: Щоб оцінити безпечність ґрунтів, команда дослідників створила нову геологічну карту на основі найсвіжіших польових даних.
+- FOCUS :: 地質図
+
+* Sense s-1763980-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 626d4d63e4e1dd24d2a1cd2dd4a7512bf554acfd70c621c2a5771eff2e38596d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1763980-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: geologische Karte
+** Ukrainian glosses
+
+* Sense s-1763980-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 8a06a122bb2ea77a832c6ee572bcd7a104a5c6c295ccc391a7c830b13fc2f914
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1763980-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: геологическая карта
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1763980-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1763980-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: ちしつず

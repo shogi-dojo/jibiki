@@ -1,0 +1,185 @@
+#+TITLE: 真贋
+#+JMDICT_ID: 1363500
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: しんがん
+#+ROMAJI: shingan
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1363500-001
+:PROPERTIES:
+:TEXT: 真贋
+:END:
+*** Priorities
+- news2
+- nf39
+** Reading rd-1363500-001
+:PROPERTIES:
+:TEXT: しんがん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf39
+
+* Sense s-1363500-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: e720171aec887b988f3c4c68cc4f946268170db83d32144da26da926ba46bc0e
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- genuineness or spuriousness
+- authenticity
+- the genuine and the spurious
+** Ukrainian glosses
+*** uk-s-1363500-001-001
+:PROPERTIES:
+:END:
+- text :: справжність або підробка; автентичність
+** Learner notes
+*** note-s-1363500-001-001
+:PROPERTIES:
+:END:
+- UK :: Книжне слово, що часто трапляється у мистецтвознавстві й торгівлі антикваріатом; типові сполучення — 真贋を見極める та 真贋を鑑定する.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1363500-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 絵画の真贋を確かめる。
+- READING :: かいがのしんがんをたしかめる。
+- UK :: Перевірити справжність картини.
+- FOCUS :: 真贋
+*** ex-1363500-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 熟練の鑑定士でも、この作品の真贋を見分けるのは難しい。
+- READING :: じゅくれんのかんていしでも、このさくひんのしんがんをみわけるのはむずかしい。
+- UK :: Навіть досвідченому експертові складно відрізнити справжність цього твору від підробки.
+- FOCUS :: 真贋
+*** ex-1363500-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 美術館に寄贈された古文書について、専門家が最新の技術を使って真贋を調べている。
+- READING :: びじゅつかんにきぞうされたこもんじょについて、せんもんかがさいしんのぎじゅつをつかってしんがんをしらべている。
+- UK :: Фахівці за допомогою новітніх технологій перевіряють автентичність стародавнього документа, подарованого музеєві.
+- FOCUS :: 真贋
+
+* Sense s-1363500-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 69ec7a48c9da35737e1b07d41839cfa23a85ec5997c47200664b97a775c2e25d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1363500-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Original und Fälschung
+*** en-s-1363500-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Original oder Fälschung
+** Ukrainian glosses
+
+* Sense s-1363500-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 4f8f0a9bdbb67124a64186b1d823bb043cef9d404d77f203258d1ed298ae07f9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1363500-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Authentizität
+** Ukrainian glosses
+
+* Sense s-1363500-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 17405a29899a76b3c33986bbd37aee47a8c2bae84eafc2c24a10d948e5405e09
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1363500-004-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hitelesség
+** Ukrainian glosses
+
+* Sense s-1363500-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 29856bdcd6da41e1ee8e123b2f6e7ab63b22a0dc36f4d535a851605d89f5d3c2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1363500-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (кн.) подлинность [или подделка], настоящее или фальшивое
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1363500-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1363500-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: しんがん

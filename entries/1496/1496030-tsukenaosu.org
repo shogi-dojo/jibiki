@@ -1,0 +1,177 @@
+#+TITLE: 付け直す
+#+JMDICT_ID: 1496030
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: つけなおす
+#+ROMAJI: tsukenaosu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1496030-001
+:PROPERTIES:
+:TEXT: 付け直す
+:END:
+** Written form wf-1496030-002
+:PROPERTIES:
+:TEXT: つけ直す
+:END:
+*** Information
+- sK
+** Written form wf-1496030-003
+:PROPERTIES:
+:TEXT: 付けなおす
+:END:
+*** Information
+- sK
+** Written form wf-1496030-004
+:PROPERTIES:
+:TEXT: 付直す
+:END:
+*** Information
+- sK
+** Reading rd-1496030-001
+:PROPERTIES:
+:TEXT: つけなおす
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1496030-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: c8084c9b3b8e0812ba48f664f9455203dc61d8c4df3e5ca98745171c9d47ff6e
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5s
+- vt
+** English glosses
+- to reattach
+** Ukrainian glosses
+*** uk-s-1496030-001-001
+:PROPERTIES:
+:END:
+- text :: прикріпити заново; пришити знову; переклеїти
+** Learner notes
+*** note-s-1496030-001-001
+:PROPERTIES:
+:END:
+- UK :: Поєднання 付ける (прикріплювати) та 直す (переробляти) означає повторне закріплення чогось, що відірвалося або було приєднане криво.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1496030-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: ボタンを付け直す。
+- READING :: ぼたんをつけなおす。
+- UK :: Пришити ґудзик заново.
+- FOCUS :: 付け直す
+*** ex-1496030-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 取れかかった名札をカバンに付け直した。
+- READING :: とれかかったなふだをかばんにつけなおした。
+- UK :: Я знову прикріпив до сумки бирку з ім'ям, яка мало не відірвалася.
+- FOCUS :: 付け直した
+*** ex-1496030-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 壁に貼った写真が斜めになっていたので、一度はがしてから丁寧に付け直した。
+- READING :: かべにはったしゃしんがななめになっていたので、いちどはがしてからていねいにつけなおした。
+- UK :: Фотографія на стіні була приклеєна криво, тож я спершу її відклеїв, а потім акуратно приклеїв заново.
+- FOCUS :: 付け直した
+
+* Sense s-1496030-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 3ae295f0dc2bd9c8d34b3cbbb93429b9b9fa8b218d0b0e00e9ea6b2b56420719
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1496030-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: erneut anbringen
+*** en-s-1496030-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: erneut anheften
+** Ukrainian glosses
+
+* Sense s-1496030-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 95d2ea599e896680c2cedb093fc220f6df93f3b9ca7845030085038cbe0dc919
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1496030-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: прикреплять (присоединять) заново
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1496030-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1496030-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: つけなおす
+** Accent accent-rd-1496030-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1496030-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 4
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: つけなおす

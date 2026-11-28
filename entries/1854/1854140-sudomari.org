@@ -1,0 +1,144 @@
+#+TITLE: 素泊まり
+#+JMDICT_ID: 1854140
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: すどまり
+#+ROMAJI: sudomari
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1854140-001
+:PROPERTIES:
+:TEXT: 素泊まり
+:END:
+** Written form wf-1854140-002
+:PROPERTIES:
+:TEXT: 素泊り
+:END:
+** Written form wf-1854140-003
+:PROPERTIES:
+:TEXT: 素泊
+:END:
+*** Information
+- sK
+** Reading rd-1854140-001
+:PROPERTIES:
+:TEXT: すどまり
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1854140-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 47f7f0c314b4e4ef8fe189f17d347c8b257854a012205030eaff7f437bca595d
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- staying overnight without meals (at a hotel, etc.)
+- bed without board
+** Ukrainian glosses
+*** uk-s-1854140-001-001
+:PROPERTIES:
+:END:
+- text :: ночівля без харчування
+** Learner notes
+*** note-s-1854140-001-001
+:PROPERTIES:
+:END:
+- UK :: Готельний термін для бронювання лише кімнати без сніданку та вечері; у традиційних японських рьоканах зазвичай дешевший за пакет із харчуванням.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1854140-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 素泊まりで予約する。
+- READING :: すどまりでよやくする。
+- UK :: Забронювати ночівлю без харчування.
+- FOCUS :: 素泊まり
+*** ex-1854140-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 夜遅くに到着するので、今夜は素泊まりのプランを選んだ。
+- READING :: よるおそくにとうちゃくするので、こんやはすどまりのぷらんをえらんだ。
+- UK :: Оскільки приїжджаю пізно ввечері, на сьогодні обрав тариф без харчування.
+- FOCUS :: 素泊まり
+*** ex-1854140-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 地元の居酒屋で夕食を楽しみたかったため、温泉旅館ではあえて素泊まりにすることにした。
+- READING :: じもとのいざかやでゆうしょくをたのしみたかったため、おんせんりょかんではあえてすどまりにすることにした。
+- UK :: Оскільки хотілося повечеряти в місцевій ідзакаї, у термальному готелі ми навмисно обрали проживання без харчування.
+- FOCUS :: 素泊まり
+
+* Sense s-1854140-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 83199974de26c32cde234b747f971fe2a1558e865a66c88595d04e5d92cd711e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1854140-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Übernachtung (ohne Verpflegung)
+** Ukrainian glosses
+
+* Sense s-1854140-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 49f1ed5e5ad3f481465237a0c01927bf5d451a704da68f101e00396ac7bc4439
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1854140-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: остановка только на ночёвку без пользования столом
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1854140-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1854140-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 2
+:PATTERN: nakadaka
+:MORA_PATTERN: LHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: すどまり

@@ -1,0 +1,139 @@
+#+TITLE: 均等割り
+#+JMDICT_ID: 1669750
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: きんとうわり
+#+ROMAJI: kintouwari
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1669750-001
+:PROPERTIES:
+:TEXT: 均等割り
+:END:
+** Written form wf-1669750-002
+:PROPERTIES:
+:TEXT: 均等割
+:END:
+** Reading rd-1669750-001
+:PROPERTIES:
+:TEXT: きんとうわり
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1669750-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 18f8698a6b3f12272f90606e7a9e9332cfc7181431c2517ac16aae1623708b44
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- per capita basis
+- per capita rate
+- equal apportionment
+** Ukrainian glosses
+*** uk-s-1669750-001-001
+:PROPERTIES:
+:END:
+- text :: рівномірний розподіл; податок на душу; порівну
+** Learner notes
+*** note-s-1669750-001-001
+:PROPERTIES:
+:END:
+- UK :: Термін оподаткування й економіки для фіксованої суми, однакової для всіх; у побуті також означає поділ рахунку чи витрат порівну.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1669750-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 費用は均等割りで払おう。
+- READING :: ひようはきんとうわりではらおう。
+- UK :: Сплатімо витрати порівну.
+- FOCUS :: 均等割り
+*** ex-1669750-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 住民税には所得に関係なく課される均等割りがある。
+- READING :: じゅうみんぜいにはしょとくにかんけいなくかされるきんとうわりがある。
+- UK :: У муніципальному податку є фіксована частка на особу, що стягується незалежно від доходу.
+- FOCUS :: 均等割り
+*** ex-1669750-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 合宿の参加費は一人ひとりの利用時間にかかわらず、全員の均等割りで計算することになった。
+- READING :: がっしゅくのさんかひはひとりひとりのりようじかんにかかわらず、ぜんいんのきんとうわりでけいさんすることになった。
+- UK :: Внесок за участь у зборах вирішили розрахувати порівну для всіх, незалежно від того, скільки часу кожен там пробув.
+- FOCUS :: 均等割り
+
+* Sense s-1669750-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 082bf182b013b0c39e8f5e4acd62c4c486efc6ec324b7b7c09b9d3378f7cac0b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1669750-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Pro-Kopf-Basis
+** Ukrainian glosses
+
+* Sense s-1669750-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 60f91f196008fa59767dcce428f3758a20dadc38d11ee87c608d61f102b2df07
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1669750-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: распределение поровну, равная развёрстка
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1669750-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1669750-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: きんとうわり

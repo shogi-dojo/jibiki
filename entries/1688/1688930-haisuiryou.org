@@ -1,0 +1,188 @@
+#+TITLE: 排水量
+#+JMDICT_ID: 1688930
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: はいすいりょう
+#+ROMAJI: haisuiryou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1688930-001
+:PROPERTIES:
+:TEXT: 排水量
+:END:
+*** Priorities
+- news2
+- nf40
+** Reading rd-1688930-001
+:PROPERTIES:
+:TEXT: はいすいりょう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf40
+
+* Sense s-1688930-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 1c640803e577f02a3be9c21e2e9580254983f85a89c17d33222dbe626b505643
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- displacement (e.g. of a ship)
+** Ukrainian glosses
+*** uk-s-1688930-001-001
+:PROPERTIES:
+:END:
+- text :: водотоннажність
+** Learner notes
+*** note-s-1688930-001-001
+:PROPERTIES:
+:END:
+- UK :: Морський термін, що означає масу води, витісненої корпусом судна (відповідає його власній вазі). Типові сполуки — 満載排水量, 基準排水量.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1688930-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 船の排水量を測る。
+- READING :: ふねのはいすいりょうをはかる。
+- UK :: Виміряти водотоннажність судна.
+- FOCUS :: 排水量
+*** ex-1688930-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: この新しい貨物船は排水量がとても大きい。
+- READING :: このあたらしいかもつせんははいすいりょうがとてもおおきい。
+- UK :: Це нове вантажне судно має дуже велику водотоннажність.
+- FOCUS :: 排水量
+*** ex-1688930-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 港の安全を守るため、排水量の大きな大型船舶は専門の案内人の誘導で入港する。
+- READING :: みなとのあんぜんをまもるため、はいすいりょうのおおきなおおがたせんぱくはせんもんのあんないにんのゆうどうでにゅうこうする。
+- UK :: Задля безпеки в порту великі судна з великою водотоннажністю заходять у гавань у супроводі лоцмана.
+- FOCUS :: 排水量
+
+* Sense s-1688930-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 0fcb2e23bcffd32a892079d7dfef5be92075b566bab05a1c01b4485b57ddaf60
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- volume of wastewater
+** Ukrainian glosses
+*** uk-s-1688930-002-001
+:PROPERTIES:
+:END:
+- text :: об'єм стічних вод; об'єм відведеної води
+** Learner notes
+*** note-s-1688930-002-001
+:PROPERTIES:
+:END:
+- UK :: Технічний та екологічний показник кількості води, яку скидає підприємство, очисна споруда або насосна станція за певний час.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1688930-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 4a8f7fe02539cf21e740c9a965dd2fff01270570f7f2fe7100a1e10c145d1b54
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1688930-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Wasserverdrängung (eines Schiffes)
+** Ukrainian glosses
+
+* Sense s-1688930-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 16f3f04f4dc5cb556980217688cc88b3b3790103af66bec55b9e817f343d1045
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1688930-004-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rendellenes elhelyezkedés
+*** en-s-1688930-004-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vízkiszorítás
+** Ukrainian glosses
+
+* Sense s-1688930-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 612b665f07634c87569681a756426f77f03806ad8e2d697e86df94dd3d43bbb3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1688930-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: водоизмещение
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1688930-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1688930-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: はいすいりょう

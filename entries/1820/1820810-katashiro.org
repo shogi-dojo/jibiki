@@ -1,0 +1,175 @@
+#+TITLE: 形代
+#+JMDICT_ID: 1820810
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かたしろ
+#+ROMAJI: katashiro
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1820810-001
+:PROPERTIES:
+:TEXT: 形代
+:END:
+** Reading rd-1820810-001
+:PROPERTIES:
+:TEXT: かたしろ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1820810-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 31165b4b6cdd16bbdd8b279546774ac325ff8fee0b830d5be23d72c10b4f5869
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- paper, cloth, wood, etc. representation of a sacred object
+** Ukrainian glosses
+*** uk-s-1820810-001-001
+:PROPERTIES:
+:END:
+- text :: символічна фігурка божества
+** Learner notes
+*** note-s-1820810-001-001
+:PROPERTIES:
+:END:
+- UK :: Ритуальний предмет із паперу, дерева чи тканини, що слугує тимчасовим вмістилищем духу або заступником людини в обрядах.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1820810-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 47b58fa903b04193ac085aa152e88dc7badfb32d79387212016ebcebacf56506
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- Shinto
+** English glosses
+- paper doll used in purification rites
+** Ukrainian glosses
+*** uk-s-1820810-002-001
+:PROPERTIES:
+:END:
+- text :: ритуальна паперова лялька каташіро
+** Learner notes
+*** note-s-1820810-002-001
+:PROPERTIES:
+:END:
+- UK :: У шінтоїзмі — вирізана з паперу фігурка людини, якій передають нечистоту й пускають за водою під час обряду очищення.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1820810-002-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 神社で形代をもらった。
+- READING :: じんじゃでかたしろをもらった。
+- UK :: У святилищі я взяв ритуальну паперову ляльку.
+- FOCUS :: 形代
+*** ex-1820810-002-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 形代に名前を書いて、自分の体を軽く撫でてから息を吹きかけた。
+- READING :: かたしろになまえをかいて、じぶんのからだをかるくなでてからいきをふきかけた。
+- UK :: Я написав ім'я на паперовій фігурці, легко провів нею по тілу й дмухнув на неї.
+- FOCUS :: 形代
+*** ex-1820810-002-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 半年のけがれを祓う儀式では、参拝者が一人ずつ形代を納め、無病息災を祈願する光景が見られる。
+- READING :: はんとしのけがれをはらうぎしきでは、さんぱいしゃがひとりずつかたしろをおさめ、むびょうそくさいをきがんするこうけいがみられる。
+- UK :: Під час обряду очищення від піврічної нечистоти можна побачити, як кожен відвідувач складає паперову ляльку каташіро й молиться про здоров'я.
+- FOCUS :: 形代
+
+* Sense s-1820810-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: b09801fc9db184c7a84ee7f7a4962ee018ac6173d36c03100ed3570962445532
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1820810-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Papierpuppe, die bei Reinigungszeremonien verwendet wird
+** Ukrainian glosses
+
+* Sense s-1820810-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 3994840837f2e8c942acbd6357715a438c0ec4659a9b9c0287ba04e5f3a73efa
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1820810-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (синт.) катасиро (бумажная фигурка в обряде очищения)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1820810-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1820810-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: かたしろ
+** Accent accent-rd-1820810-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1820810-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 2
+:PATTERN: nakadaka
+:MORA_PATTERN: LHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: かたしろ

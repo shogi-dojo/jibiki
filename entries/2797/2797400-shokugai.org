@@ -1,0 +1,150 @@
+#+TITLE: 食害
+#+JMDICT_ID: 2797400
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: しょくがい
+#+ROMAJI: shokugai
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2797400-001
+:PROPERTIES:
+:TEXT: 食害
+:END:
+** Written form wf-2797400-002
+:PROPERTIES:
+:TEXT: 蝕害
+:END:
+*** Information
+- rK
+** Reading rd-2797400-001
+:PROPERTIES:
+:TEXT: しょくがい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2797400-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: b2ec10742e5dd4e85328f76ffb4e8a99aa113f0d49b50326a54700b636b68ada
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- damage to crops by vermin (esp. insects)
+- pest damage
+** Ukrainian glosses
+*** uk-s-2797400-001-001
+:PROPERTIES:
+:END:
+- text :: пошкодження врожаю шкідниками
+** Learner notes
+*** note-s-2797400-001-001
+:PROPERTIES:
+:END:
+- UK :: Сільськогосподарський термін про поїдання рослин комахами, птахами чи дикими тваринами. Часто поєднується з дієсловами 受ける або 防ぐ.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2797400-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 畑が虫の食害を受けた。
+- READING :: はたけがむしのしょくがいをうけた。
+- UK :: Город постраждав від шкідників.
+- FOCUS :: 食害
+*** ex-2797400-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 野菜の葉が食害にあわないよう、網を張った。
+- READING :: やさいのはがしょくがいにあわないよう、あみをはった。
+- UK :: Щоб листя овочів не поїли шкідники, я натягнув сітку.
+- FOCUS :: 食害
+*** ex-2797400-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 近年では鹿や猪による農作物の食害が深刻になり、対策が急がれている。
+- READING :: きんねんではしかやいのししによるのうさくもつのしょくがいがしんこくになり、たいさくがいそがれている。
+- UK :: Останніми роками дедалі гострішою стає проблема пошкодження врожаю оленями та кабанами, тому терміново шукають способів захисту.
+- FOCUS :: 食害
+
+* Sense s-2797400-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: fd3f80a5844e20ea24e1081638cf4fdaee9457b2176fd6b22bc10d890347c0ed
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2797400-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Insektenfraß
+*** en-s-2797400-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Tierfraß (Schaden an Pflanzen durch pflanzenfressende Tiere)
+** Ukrainian glosses
+
+* Sense s-2797400-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: be00decb7b3f5349f8e620d55789967874273298b13aec276de085987c6ee5a7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2797400-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (с.-х.) вред от насекомых-вредителей
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2797400-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2797400-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: しょくがい

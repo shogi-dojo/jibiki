@@ -1,0 +1,185 @@
+#+TITLE: 建白書
+#+JMDICT_ID: 1714220
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: けんぱくしょ
+#+ROMAJI: kenpakusho
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1714220-001
+:PROPERTIES:
+:TEXT: 建白書
+:END:
+** Reading rd-1714220-001
+:PROPERTIES:
+:TEXT: けんぱくしょ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1714220-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 71f46d244f6cf1bde8351a3748a9508fe5c84949432841e946cd21e95cb5ca12
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- petition
+- memorial
+** Ukrainian glosses
+*** uk-s-1714220-001-001
+:PROPERTIES:
+:END:
+- text :: доповідна записка; петиція (до уряду)
+** Learner notes
+*** note-s-1714220-001-001
+:PROPERTIES:
+:END:
+- UK :: Історичний і книжний термін для офіційного письмового звернення до влади чи правителя з пропозиціями або вимогами реформ.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1714220-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 政府に建白書を提出する。
+- READING :: せいふにけんぱくしょをていしゅつする。
+- UK :: Подати петицію до уряду.
+- FOCUS :: 建白書
+*** ex-1714220-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 歴史の授業で、明治時代の建白書について学んだ。
+- READING :: れきしのじゅぎょうで、めいじじだいのけんぱくしょについてまなんだ。
+- UK :: На уроці історії ми вивчали петиції доби Мейджі.
+- FOCUS :: 建白書
+*** ex-1714220-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 国民の不満が高まるなか、改革を求める有志たちが連名で議会に建白書を差し出した。
+- READING :: こくみんのふまんがたかまるなか、かいかくをもとめるゆうしたちがれんめいでぎかいにけんぱくしょをさしだした。
+- UK :: На тлі зростання суспільного невдоволення ініціативна група, що вимагала реформ, подала до парламенту колективну петицію.
+- FOCUS :: 建白書
+
+* Sense s-1714220-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 2775df6e092d35f899d39e2d87d51b524e93b7ec757e79fe141fb94e8893f3f7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1714220-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Petition
+*** en-s-1714220-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Bittschrift
+*** en-s-1714220-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Memorandum
+** Ukrainian glosses
+
+* Sense s-1714220-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: db1c29c026e9d0d7bdc56d7ca783ae69be5a41d3739ee983ff3d2f1dcb1f7e72
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1714220-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: докладная записка
+** Ukrainian glosses
+
+* Sense s-1714220-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 530b44b1ca33bf3551a90f008a025b6c5207bd72ad7cd58d4280dddd8fc5a47f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1714220-004-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: inlaga
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1714220-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1714220-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: けんぱくしょ
+** Accent accent-rd-1714220-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1714220-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 5
+:PATTERN: odaka
+:MORA_PATTERN: LHHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: けんぱくしょ

@@ -1,0 +1,117 @@
+#+TITLE: 原資料
+#+JMDICT_ID: 2353410
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: げんしりょう
+#+ROMAJI: genshiryou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2353410-001
+:PROPERTIES:
+:TEXT: 原資料
+:END:
+** Reading rd-2353410-001
+:PROPERTIES:
+:TEXT: げんしりょう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2353410-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 477d22f77c886619a598ffecbcfc8e3eed9e45981e074d00db7b97757363d3cb
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- comp
+** English glosses
+- original source
+** Ukrainian glosses
+*** uk-s-2353410-001-001
+:PROPERTIES:
+:END:
+- text :: першоджерело; вихідні матеріали; первинна документація
+** Learner notes
+*** note-s-2353410-001-001
+:PROPERTIES:
+:END:
+- UK :: Позначає автентичний документ або базові дані, що слугують основою для дослідження, аналізу чи обробки. Уживається в науці, архівній справі та ІТ.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2353410-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 原資料を確認した。
+- READING :: げんしりょうをかくにんした。
+- UK :: Я перевірив першоджерело.
+- FOCUS :: 原資料
+*** ex-2353410-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: この論文の原資料は図書館に保管されている。
+- READING :: このろんぶんのげんしりょうはとしょかんにほかんされている。
+- UK :: Першоджерела цієї статті зберігаються в бібліотеці.
+- FOCUS :: 原資料
+*** ex-2353410-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 歴史的な事実を正確に把握するためには、引用された文章だけでなく原資料にも目を通すべきだ。
+- READING :: れきしてきなじじつをせいかくにはあくするためには、いんようされたぶんしょうだけでなくげんしりょうにもめをとおすべきだ。
+- UK :: Щоб точно зрозуміти історичні факти, варто переглянути не лише цитовані тексти, а й першоджерела.
+- FOCUS :: 原資料
+
+* Sense s-2353410-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 4eeabd54dc4ee003dd2c1ac8363b9d0299b3457de1c2bc66bcfa96ba39c7d75c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2353410-002-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: первоисточник
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2353410-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2353410-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: げんしりょう

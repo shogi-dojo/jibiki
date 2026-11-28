@@ -1,0 +1,200 @@
+#+TITLE: 定足数
+#+JMDICT_ID: 1435720
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ていそくすう
+#+ROMAJI: teisokusuu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1435720-001
+:PROPERTIES:
+:TEXT: 定足数
+:END:
+*** Priorities
+- news2
+- nf40
+** Reading rd-1435720-001
+:PROPERTIES:
+:TEXT: ていそくすう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf40
+
+* Sense s-1435720-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 21a9a3f6ef82aca7cb7d0f832eb2f76e679d825aff91267931658eb51578d7ea
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- quorum
+** Ukrainian glosses
+*** uk-s-1435720-001-001
+:PROPERTIES:
+:END:
+- text :: кворум
+** Learner notes
+*** note-s-1435720-001-001
+:PROPERTIES:
+:END:
+- UK :: Офіційний термін, що вживається на засіданнях парламенту, рад чи зборів; типовий зворот — 定足数を満たす (набрати кворум).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1435720-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 会議は定足数に達した。
+- READING :: かいぎはていそくすうにたっした。
+- UK :: Засідання набрало кворуму.
+- FOCUS :: 定足数
+*** ex-1435720-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 欠席者が多くて定足数を満たせなかった。
+- READING :: けっせきしゃがおおくてていそくすうをみたせなかった。
+- UK :: Через велику кількість відсутніх не вдалося зібрати кворум.
+- FOCUS :: 定足数
+*** ex-1435720-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 議案の採決を行うためには、出席議員が定足数を上回っていなければならない。
+- READING :: ぎあんのさいけつをおこなうためには、しゅっせきぎいんがていそくすうをうわまわっていなければならない。
+- UK :: Для проведення голосування щодо законопроєкту кількість присутніх депутатів має перевищувати кворум.
+- FOCUS :: 定足数
+
+* Sense s-1435720-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 4028bc85dc87b37a5775ad1bcab5e5880acff80a7150f924aa51414ab09fda4d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1435720-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: quorum
+*** en-s-1435720-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vereist aantal (aanwezige) leden
+** Ukrainian glosses
+
+* Sense s-1435720-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: e925f4702ec5bbcaf3d798576dabac13c562f2657bbfc14e5f5699383cbf4ab1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1435720-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Quorum
+** Ukrainian glosses
+
+* Sense s-1435720-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 6114cb75cb217fc5d62bfb648a6386048943e2634fd9fa53b38798204e893d5d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1435720-004-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: határozatképesség
+** Ukrainian glosses
+
+* Sense s-1435720-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 0c37c743741abd1bbdfd581b9ef71cfa95277c51d743ab793c6d046d8e9875d7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1435720-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: кворум
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1435720-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1435720-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 4
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: ていそくすう
+** Accent accent-rd-1435720-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1435720-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: ていそくすう

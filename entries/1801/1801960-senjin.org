@@ -1,0 +1,187 @@
+#+TITLE: 戦陣
+#+JMDICT_ID: 1801960
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: せんじん
+#+ROMAJI: senjin
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1801960-001
+:PROPERTIES:
+:TEXT: 戦陣
+:END:
+** Reading rd-1801960-001
+:PROPERTIES:
+:TEXT: せんじん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1801960-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 520df9f832c8bc03afc12f20fc2daf6a6d5a1c0169dc5c24ac163e490a558939
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- battle array
+- battle formation
+- battlefield
+** Ukrainian glosses
+*** uk-s-1801960-001-001
+:PROPERTIES:
+:END:
+- text :: бойові порядки; військовий табір; поле бою
+** Learner notes
+*** note-s-1801960-001-001
+:PROPERTIES:
+:END:
+- UK :: Книжне й історичне слово, що стосується передусім давніх війн і воєнних походів; часто в сталій сполуці 戦陣に臨む (вступити в бій).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1801960-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 戦陣に臨む。
+- READING :: せんじんにのぞむ。
+- UK :: Вступити на поле бою.
+- FOCUS :: 戦陣
+*** ex-1801960-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 武将は出陣を前に、整然と並んだ戦陣を見渡した。
+- READING :: ぶしょうはしゅつじんをまえに、せいぜんとならんだせんじんをみわたした。
+- UK :: Перед початком походу полководець оглянув струнко вишикувані бойові порядки.
+- FOCUS :: 戦陣
+*** ex-1801960-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 幾度となく厳しい戦陣をくぐり抜けてきた老将の言葉には、若者たちを鼓舞する重みがあった。
+- READING :: いくどとなくきびしいせんじんをくぐりぬけてきたろうしょうのことばには、わかものたちをこぶするおもみがあった。
+- UK :: У словах старого воєначальника, який не раз пройшов крізь суворі поля битв, відчувалася вага, що надихала молодь.
+- FOCUS :: 戦陣
+
+* Sense s-1801960-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: d15c580eccbc3e191ae03312dc8a50f0da006e79a52df93ddd332efe40c4c12d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1801960-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Schlachtfeld
+*** en-s-1801960-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kriegsschauplatz
+** Ukrainian glosses
+
+* Sense s-1801960-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 86af44729f4c71a07fd119aef4d0c76b44a0cc540c68c8a73be660ef0c141dc5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1801960-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Schlachtordnung
+** Ukrainian glosses
+
+* Sense s-1801960-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: a0ea86fe0811548efa02971eb2287926ebd1f02e23e7b08ad69f51d580bfd4f9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1801960-004-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: csatatér
+** Ukrainian glosses
+
+* Sense s-1801960-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: fb9892dbca5e7fbf51eba0dc5173397f8a510dc54538c1a340953e2bffc45114
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1801960-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) военный лагерь
+*** en-s-1801960-005-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) поле боя
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1801960-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1801960-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: せんじん

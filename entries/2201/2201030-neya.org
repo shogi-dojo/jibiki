@@ -1,0 +1,205 @@
+#+TITLE: 閨
+#+JMDICT_ID: 2201030
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ねや
+#+ROMAJI: neya
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2201030-001
+:PROPERTIES:
+:TEXT: 閨
+:END:
+** Written form wf-2201030-002
+:PROPERTIES:
+:TEXT: 寝屋
+:END:
+** Reading rd-2201030-001
+:PROPERTIES:
+:TEXT: ねや
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2201030-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: fe3673027b5d0e69d0a70022d531d710d84ce7e1514933bd4f1fc9b38e4114d3
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- bedroom (esp. one used by a married couple)
+- sleeping quarters
+** Ukrainian glosses
+*** uk-s-2201030-001-001
+:PROPERTIES:
+:END:
+- text :: опочивальня; подружня спальня
+** Learner notes
+*** note-s-2201030-001-001
+:PROPERTIES:
+:END:
+- UK :: Застаріле й літературне слово, що трапляється в класичних текстах, поезії вака та історичній прозі. Сучасний нейтральний відповідник — 寝室.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2201030-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 静かな閨に入る。
+- READING :: しずかなねやにはいる。
+- UK :: Зайти до тихої опочивальні.
+- FOCUS :: 閨
+*** ex-2201030-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 古い物語の中で、主人公は一人で閨にこもっていた。
+- READING :: ふるいものがたりのなかで、しゅじんこうはひとりでねやにこもっていた。
+- UK :: У давній повісті головна героїня усамітнилася в опочивальні.
+- FOCUS :: 閨
+*** ex-2201030-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 冬の夜風が吹き込むのを防ぐため、夫婦の閨には厚手の帳が掛けられていた。
+- READING :: ふゆのよかぜがふきこむのをふせぐため、ふうふのねやにはあつでのとばりがかけられていた。
+- UK :: Щоб узимку не задував нічний вітер, у подружній опочивальні вішали щільні завіси.
+- FOCUS :: 閨
+
+* Sense s-2201030-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: d7e47b9ed64248c18ed930e004241507dd68cbd8a16db331077242759874ce14
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- inner room
+- room at the back of the house
+** Ukrainian glosses
+*** uk-s-2201030-002-001
+:PROPERTIES:
+:END:
+- text :: внутрішні покої; віддалена кімната в глибині дому
+** Learner notes
+*** note-s-2201030-002-001
+:PROPERTIES:
+:END:
+- UK :: Архаїчне значення для житлових кімнат у глибині традиційної оселі, прихованих від сторонніх очей.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-2201030-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 5cd685dcb35729c04d15996856cb676747d6e03c1b11d7cde03788fd97b94a6f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2201030-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Schlafzimmer
+** Ukrainian glosses
+
+* Sense s-2201030-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: c554454021653a1edcc798681cb4cd0cbefcbcfd8faec4870eb4ece199c4adda
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2201030-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (уст.) спальня
+** Ukrainian glosses
+
+* Sense s-2201030-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 8681ab1019a4c9d41514bebe0b6d4bedfde10573cec8ba804cc719007c692703
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2201030-005-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: alcoba
+*** en-s-2201030-005-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dormitorio
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2201030-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2201030-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 2
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: ねや
+** Accent accent-rd-2201030-001-002
+:PROPERTIES:
+:TARGET_ID: rd-2201030-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 2
+:DROP_AFTER: 2
+:PATTERN: odaka
+:MORA_PATTERN: LH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: ねや

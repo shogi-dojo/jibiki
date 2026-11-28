@@ -1,0 +1,191 @@
+#+TITLE: 請託
+#+JMDICT_ID: 1751620
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: せいたく
+#+ROMAJI: seitaku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1751620-001
+:PROPERTIES:
+:TEXT: 請託
+:END:
+*** Priorities
+- news1
+- nf12
+** Reading rd-1751620-001
+:PROPERTIES:
+:TEXT: せいたく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf12
+
+* Sense s-1751620-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 31ef1f8ee34f941290aebba33be5e20d25defa5bbe5d7ad5265e65652273b49f
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- solicitation
+** Ukrainian glosses
+*** uk-s-1751620-001-001
+:PROPERTIES:
+:END:
+- text :: неправомірне прохання; клопотання; лобіювання
+** Learner notes
+*** note-s-1751620-001-001
+:PROPERTIES:
+:END:
+- UK :: Офіційно-юридичний термін; часто позначає таємне або незаконне звернення до посадовця чи судді з проханням про послугу (受託収賄 тощо).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1751620-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 審査員に請託する。
+- READING :: しんさいんにせいたくする。
+- UK :: Звертатися з приватним проханням до члена журі.
+- FOCUS :: 請託
+*** ex-1751620-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 彼は有力者からの請託を受けて便宜を図った疑いで取り調べを受けた。
+- READING :: かれはゆうりょくしゃからのせいたくをうけてべんぎをはかったうたがいでとりしらべをうけた。
+- UK :: Його допитали за підозрою в тому, що він надав неправомірне сприяння на прохання впливової особи.
+- FOCUS :: 請託
+*** ex-1751620-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 裁判の公正さを保つため、外部からのいかなる請託にも応じてはならないと厳しく定められている。
+- READING :: さいばんのこうせいさをたもつため、がいぶからのいかなるせいたくにもおうじてはならないときびしくさだめられている。
+- UK :: Щоб зберегти неупередженість суду, суворо заборонено реагувати на будь-які сторонні клопотання чи тиск.
+- FOCUS :: 請託
+
+* Sense s-1751620-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: f27533e9a61ff87346085041e1dc743916ca145e0938d08dd4f16d8232c1fc3d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1751620-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: jmdn. bitten
+*** en-s-1751620-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: seine Einfluss für einen geltend zu machen
+*** en-s-1751620-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Ansuchen
+*** en-s-1751620-002-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Bitte
+*** en-s-1751620-002-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Drängen
+** Ukrainian glosses
+
+* Sense s-1751620-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 7ed6ac8889374e318df4d1c19d238f5e6b01faded54a264a09b76d9d2d8c01b7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1751620-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: упрашивание, мольба
+** Ukrainian glosses
+
+* Sense s-1751620-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 46c50ea09d225916e20f42c806e19949ea8a7ba851fd3dbbf770d69d12b77325
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1751620-004-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: solicitación
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1751620-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1751620-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: せいたく

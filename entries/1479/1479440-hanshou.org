@@ -1,0 +1,169 @@
+#+TITLE: 半鐘
+#+JMDICT_ID: 1479440
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: はんしょう
+#+ROMAJI: hanshou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1479440-001
+:PROPERTIES:
+:TEXT: 半鐘
+:END:
+** Reading rd-1479440-001
+:PROPERTIES:
+:TEXT: はんしょう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1479440-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 92dd9e98c5628effd390e0ab3a2814c570c7a298f5f9d809d0950e839ad181ed
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- fire alarm
+- fire bell
+** Ukrainian glosses
+*** uk-s-1479440-001-001
+:PROPERTIES:
+:END:
+- text :: пожежний дзвін; набатний дзвін
+** Learner notes
+*** note-s-1479440-001-001
+:PROPERTIES:
+:END:
+- UK :: Невеликий дзвін на пожежній каланчі або в селі, у який били під час пожежі чи повені. Нині майже вийшов із вжитку, трапляється в історичних текстах і сталих висловах.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1479440-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 遠くで半鐘が鳴った。
+- READING :: とおくではんしょうがなった。
+- UK :: Удалечині залунав пожежний дзвін.
+- FOCUS :: 半鐘
+*** ex-1479440-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 火事の知らせを受けて、誰かが半鐘を鳴らし始めた。
+- READING :: かじのしらせをうけて、だれかがはんしょうをならしはじめた。
+- UK :: Діставши звістку про пожежу, хтось почав бити в набатний дзвін.
+- FOCUS :: 半鐘
+*** ex-1479440-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 昔は村で火事や水害が起きると、見張り台から半鐘を打ち鳴らして住民に危険を知らせた。
+- READING :: むかしはむらでかじやすいがいがおきると、みはりだいからはんしょうをうちならしてじゅうみんにきけんをしらせた。
+- UK :: Колись, коли в селі ставалася пожежа чи повінь, із вежі спостереження били в набатний дзвін, сповіщаючи мешканців про небезпеку.
+- FOCUS :: 半鐘
+
+* Sense s-1479440-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 88e76d3fbfbfe99bea9a1fc43cfacf043e19b2b0507bbcf30a7c325b12f0eb12
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1479440-002-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: alarme d'incendie
+** Ukrainian glosses
+
+* Sense s-1479440-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 56b19a5394d3396f556ba9aa43e9868f4b68d2cc2da543d8269a4248d22f8d57
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1479440-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Feuerglocke
+** Ukrainian glosses
+
+* Sense s-1479440-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: d49382dfcda2fcf139593b16b9046a3cbe88f62ad5ed6de32c91f951976b2381
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1479440-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: набат, набатный (пожарный) колокол
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1479440-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1479440-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: はんしょう
+** Accent accent-rd-1479440-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1479440-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: はんしょう

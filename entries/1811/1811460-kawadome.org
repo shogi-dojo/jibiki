@@ -1,0 +1,159 @@
+#+TITLE: 川止め
+#+JMDICT_ID: 1811460
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かわどめ
+#+ROMAJI: kawadome
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1811460-001
+:PROPERTIES:
+:TEXT: 川止め
+:END:
+** Reading rd-1811460-001
+:PROPERTIES:
+:TEXT: かわどめ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1811460-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: a51271b18bcafe68ffe5c6960edf82b8676544e9709f4333b5755f38352a8b6a
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+** English glosses
+- suspension of ferry service
+** Ukrainian glosses
+*** uk-s-1811460-001-001
+:PROPERTIES:
+:END:
+- text :: припинення переправи через річку
+** Learner notes
+*** note-s-1811460-001-001
+:PROPERTIES:
+:END:
+- UK :: Історичний термін для заборони перетинати річку вбрід чи на поромі під час повені через відсутність мостів.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1811460-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 大雨で川止めになった。
+- READING :: おおあめでかわどめになった。
+- UK :: Через зливу переправу через річку закрили.
+- FOCUS :: 川止め
+*** ex-1811460-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 旅の途中で川止めに遭い、宿場町で数日待つことになった。
+- READING :: たびのとちゅうでかわどめにあい、しゅくばまちですうじつまつことになった。
+- UK :: Посеред подорожі через розлив річки закрили переправу, тож довелося кілька днів чекати в поштовому містечку.
+- FOCUS :: 川止め
+*** ex-1811460-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: かつては長雨が続くとすぐに川止めが行われ、多くの旅人が川岸の宿で足止めされたという。
+- READING :: かつてはながあめがつづくとすぐにかわどめがおこなわれ、おおくのたびびとがかわぎしのやどであしどめされたという。
+- UK :: Кажуть, у давнину за тривалих дощів переправу миттєво припиняли, і багатьом подорожнім доводилося затримуватися на заїздах біля берега.
+- FOCUS :: 川止め
+
+* Sense s-1811460-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: b608b0c7307c90d61ef15ff27196323f4a7bccd27376549b6b94be4323b57429
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1811460-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Einstellung des Fährverkehrs
+*** en-s-1811460-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Verbot, einen Fluss zu überqueren (wegen Hochwassers; in der Edo-Zeit)
+** Ukrainian glosses
+
+* Sense s-1811460-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 580b44a3b2f44491dba72f108734be28ef70df9bd2469bf42e8bc71ea071835a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1811460-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: закрытие реки (прекращение перевоза через реку в случае разлива); (ср.) かわあき
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1811460-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1811460-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: かわどめ
+** Accent accent-rd-1811460-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1811460-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 4
+:PATTERN: odaka
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: かわどめ

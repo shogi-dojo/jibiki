@@ -1,0 +1,173 @@
+#+TITLE: 熱線
+#+JMDICT_ID: 1467920
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ねっせん
+#+ROMAJI: nessen
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1467920-001
+:PROPERTIES:
+:TEXT: 熱線
+:END:
+*** Priorities
+- news2
+- nf42
+** Reading rd-1467920-001
+:PROPERTIES:
+:TEXT: ねっせん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf42
+
+* Sense s-1467920-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 41b00594e6015828bd30c8b45a9eea4deae495cf3386c6d5a016df1feb028021
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- heated wire
+** Ukrainian glosses
+*** uk-s-1467920-001-001
+:PROPERTIES:
+:END:
+- text :: дріт із нагрівом; нитка розжарення
+** Learner notes
+*** note-s-1467920-001-001
+:PROPERTIES:
+:END:
+- UK :: Тонкий металевий провідник, що нагрівається під дією електричного струму (напр., у приладах для різання пінопласту чи запаювання).
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1467920-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: d0552faceefdf3ffbb781675013e516be0965b5424d0c741f8c168f24a9c24f3
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Cross-references
+- 赤外線
+** English glosses
+- infrared rays
+- heat rays
+** Ukrainian glosses
+*** uk-s-1467920-002-001
+:PROPERTIES:
+:END:
+- text :: теплові промені; інфрачервоне випромінювання
+** Learner notes
+*** note-s-1467920-002-001
+:PROPERTIES:
+:END:
+- UK :: Невидимі промені, що переносять тепло, зокрема від сонця чи вогню. Часто вживається в наукових, будівельних і фантастичних текстах.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1467920-002-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 太陽の熱線を感じる。
+- READING :: たいようのねっせんをかんじる。
+- UK :: Відчувати сонячні теплові промені.
+- FOCUS :: 熱線
+*** ex-1467920-002-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: このガラスは窓から入る熱線を和らげてくれる。
+- READING :: このがらすはまどからはいるねっせんをやわらげてくれる。
+- UK :: Це скло послаблює теплові промені, що проникають крізь вікно.
+- FOCUS :: 熱線
+*** ex-1467920-002-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 夏の強い日差しによる熱線を遮るために、ベランダに大きな日よけを取り付けた。
+- READING :: なつのつよいひざしによるねっせんをさえぎるために、べらんだにおおきなひよけをとりつけた。
+- UK :: Щоб затулити оселю від теплових променів палючого літнього сонця, ми встановили на балконі великий навіс.
+- FOCUS :: 熱線
+
+* Sense s-1467920-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 0ade981e21251820d3d728e2b025661f0b0134a7dd637af798a84cf11733ec44
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1467920-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Wärmestrahlung
+*** en-s-1467920-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Infrarot
+** Ukrainian glosses
+
+* Sense s-1467920-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: f64f30c3ce0328659e05d461ebe12a35b1434ee140c1f908115c56da99306a39
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1467920-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: тепловые лучи
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1467920-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1467920-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: ねっせん

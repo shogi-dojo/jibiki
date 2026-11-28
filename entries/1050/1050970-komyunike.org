@@ -1,0 +1,168 @@
+#+TITLE: コミュニケ
+#+JMDICT_ID: 1050970
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: コミュニケ
+#+ROMAJI: komyunike
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-1050970-001
+:PROPERTIES:
+:TEXT: コミュニケ
+:NO_KANJI: false
+:END:
+*** Priorities
+- gai1
+** Reading rd-1050970-002
+:PROPERTIES:
+:TEXT: コミュニケー
+:NO_KANJI: false
+:END:
+
+* Sense s-1050970-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: d8b87ac6b66ca3d024f03da40c53d3e58540f6c75239de011f7778ea448ee1d7
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Language sources
+**** Language source ls-s-1050970-001-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: full
+:WASEI: false
+:END:
+- text ::
+** English glosses
+- communiqué
+** Ukrainian glosses
+*** uk-s-1050970-001-001
+:PROPERTIES:
+:END:
+- text :: комюніке; офіційне повідомлення
+** Learner notes
+*** note-s-1050970-001-001
+:PROPERTIES:
+:END:
+- UK :: Дипломатичний документ або заява для преси про підсумки переговорів, самітів чи міжнародних зустрічей. Уживається в політиці й медіа; трапляється також форма コンミュニケ.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1050970-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 共同コミュニケを発表した。
+- READING :: きょうどうこみゅにけをはっぴょうした。
+- UK :: Оприлюднили спільне комюніке.
+- FOCUS :: コミュニケ
+*** ex-1050970-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 二日間の首脳会談のあと、長いコミュニケが出された。
+- READING :: ふつかかんのしゅのうかいだんのあと、ながいこみゅにけがだされた。
+- UK :: Після дводенного саміту оприлюднили розлоге комюніке.
+- FOCUS :: コミュニケ
+*** ex-1050970-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 参加各国は長時間の協議を重ねた末、経済協力に関する最終コミュニケを採択した。
+- READING :: さんかかっこくはちょうじかんのきょうぎをかさねたすえ、けいざいきょうりょくにかんするさいしゅうこみゅにけをさいたくした。
+- UK :: Після тривалих перемовин країни-учасниці ухвалили підсумкове комюніке щодо економічної співпраці.
+- FOCUS :: コミュニケ
+
+* Sense s-1050970-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: c43766da68bbba83240917d42417b2c11642d2d86268a77ae0fad04f1457c09e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1050970-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kommuniqué
+*** en-s-1050970-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Communiqué
+** Ukrainian glosses
+
+* Sense s-1050970-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 65fe7c605b5a9c26b1bbea7251b44d45d9ab88a6984b84aafee7efbe452b7bd5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1050970-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (см.) コンミュニケ
+** Ukrainian glosses
+
+* Sense s-1050970-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 9dbf3c64400d29465883eea1e522582fcec69b39be991fe12817ebd7098eedb4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1050970-004-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: comunicado
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1050970-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1050970-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 2
+:PATTERN: nakadaka
+:MORA_PATTERN: LHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: コミュニケ

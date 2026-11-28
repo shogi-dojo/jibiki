@@ -1,0 +1,149 @@
+#+TITLE: 国民軍
+#+JMDICT_ID: 1746230
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: こくみんぐん
+#+ROMAJI: kokumingun
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1746230-001
+:PROPERTIES:
+:TEXT: 国民軍
+:END:
+** Reading rd-1746230-001
+:PROPERTIES:
+:TEXT: こくみんぐん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1746230-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: a32ee45e24578e554b4e0055a0f322e2287d06cb91c724a3f675d4ff7b9d0b85
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- national army
+** Ukrainian glosses
+*** uk-s-1746230-001-001
+:PROPERTIES:
+:END:
+- text :: народна армія; національне ополчення; національна армія
+** Learner notes
+*** note-s-1746230-001-001
+:PROPERTIES:
+:END:
+- UK :: Суспільно-політичний та історичний термін для війська, сформованого з громадян країни для її оборони. В історичних текстах також стосується китайського Гоміньдану.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1746230-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 国民軍が組織された。
+- READING :: こくみんぐんがそしきされた。
+- UK :: Було сформовано народну армію.
+- FOCUS :: 国民軍
+*** ex-1746230-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 映画の中で、若者たちが国民軍に加わる場面が印象的だった。
+- READING :: えいがのなかで、わかものたちがこくみんぐんにくわわるばめんがいんしょうてきだった。
+- UK :: У фільмі особливо вразила сцена, де молодь долучається до національної армії.
+- FOCUS :: 国民軍
+*** ex-1746230-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 国の独立を守るために結成された国民軍には、さまざまな地域の市民が志願して参加した。
+- READING :: くにのどくりつをまもるためにけっせいされたこくみんぐんには、さまざまなちいきのしみんがしがんしてさんかした。
+- UK :: До народної армії, створеної для захисту незалежності країни, добровольцями вступили громадяни з різних регіонів.
+- FOCUS :: 国民軍
+
+* Sense s-1746230-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: ba57650a6aea29316e10b1a9a215b74ec0554977aaca84003100b270c1402dca
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1746230-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Volksarmee
+*** en-s-1746230-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Nationalgarde
+** Ukrainian glosses
+
+* Sense s-1746230-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 86f1daec333d5e89c079f32a40ecb745e986372bb1dc028bf2cb5d1fdce3542f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1746230-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) народная армия (милиция); народное ополчение
+*** en-s-1746230-003-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) гоминьдановские войска
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1746230-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1746230-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: こくみんぐん

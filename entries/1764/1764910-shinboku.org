@@ -1,0 +1,236 @@
+#+TITLE: 神木
+#+JMDICT_ID: 1764910
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: しんぼく
+#+ROMAJI: shinboku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1764910-001
+:PROPERTIES:
+:TEXT: 神木
+:END:
+*** Priorities
+- news2
+- nf45
+** Reading rd-1764910-001
+:PROPERTIES:
+:TEXT: しんぼく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf45
+** Reading rd-1764910-002
+:PROPERTIES:
+:TEXT: かんき
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Information
+- ok
+** Reading rd-1764910-003
+:PROPERTIES:
+:TEXT: かむき
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Information
+- ok
+** Reading rd-1764910-004
+:PROPERTIES:
+:TEXT: かみき
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Information
+- ok
+
+* Sense s-1764910-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: b037cd5eb8c5f0a3064388dcb1007b4fd783913b5adac105406945ffe2418a9e
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- sacred tree
+** Ukrainian glosses
+*** uk-s-1764910-001-001
+:PROPERTIES:
+:END:
+- text :: священне дерево
+** Learner notes
+*** note-s-1764910-001-001
+:PROPERTIES:
+:END:
+- UK :: Синтоїстський термін для дерева при святилищі, зазвичай обв'язаного мотузкою шіменава; шанується як обитель божества камі.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1764910-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 古い神木を見上げる。
+- READING :: ふるいしんぼくをみあげる。
+- UK :: Дивитися вгору на давнє священне дерево.
+- FOCUS :: 神木
+*** ex-1764910-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 神社の境内に大きな神木が立っている。
+- READING :: じんじゃのけいだいにおおきなしんぼくがたっている。
+- UK :: На території святилища росте велике священне дерево.
+- FOCUS :: 神木
+*** ex-1764910-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 落雷で倒れた神木を保護するため、地元の人々が協力して修復作業を行った。
+- READING :: らくらいでたおれたしんぼくをほごするため、じもとのひとびとがきょうりょくしてしゅうふくさぎょうをおこなった。
+- UK :: Щоб захистити священне дерево, повалене блискавкою, місцеві мешканці спільно провели відновлювальні роботи.
+- FOCUS :: 神木
+
+* Sense s-1764910-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 389a3210db62285e7d9b4ae7735033cf7d924638e6d86cd374d92a59aeda151d
+:END:
+** Applies to forms
+*** Written forms
+- *
+*** Readings
+- しんぼく
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- support pillars of the traditional fire festival bonfires
+** Ukrainian glosses
+*** uk-s-1764910-002-001
+:PROPERTIES:
+:END:
+- text :: опорні стовпи ритуального багаття
+** Learner notes
+*** note-s-1764910-002-001
+:PROPERTIES:
+:END:
+- UK :: Позначає дерев'яні опори великих вогнищ на традиційних японських святах вогню, наприклад під час обряду Даймонджі.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1764910-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: b441776e4364952046d0cc7b83900e59cc2bed1dfbdc9c0ab0690b2b5ff5c6f2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1764910-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kamiki
+*** en-s-1764910-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: heiliger Baum
+** Ukrainian glosses
+
+* Sense s-1764910-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: f8363ebfce5a265832a61dede56dd817bb2205dbf313018672b52ceb9c7b9144
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1764910-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (синт.) священное дерево
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1764910-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1764910-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: しんぼく
+** Accent accent-rd-1764910-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1764910-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: しんぼく
+** Accent accent-rd-1764910-004-001
+:PROPERTIES:
+:TARGET_ID: rd-1764910-004
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 2
+:PATTERN: nakadaka
+:MORA_PATTERN: LHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-28
+:END:
+- reading :: かみき
